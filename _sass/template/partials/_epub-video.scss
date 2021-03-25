@@ -1,0 +1,89 @@
+$epub-video: true !default;
+@if $epub-video {
+
+    // Video
+    // Works specifically with our video includes
+
+    .video {
+        font-family: $font-text-secondary;
+        margin: 0 0 1em 0;
+        position: relative; // positions child element play button correctly
+        img {
+            width: 100%;
+        }
+        .video-link {}
+        .video-description {
+            margin-top: $line-height-default;
+            text-align: left;
+        }
+        .video-wrapper {
+            position: relative;
+            a {
+                // Show URL on e-ink devices
+                @include show-url();
+            }
+            // Add play button before iframe loads
+            &:before {
+                content: "\25b6";
+                position: relative;
+                // position: absolute; // not supported in epub yet
+                font-size: $font-size-default * 3;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                -webkit-transform: translate(-50%, -50%);
+                color: white;
+                opacity: 0.5;
+            }
+            // Create placeholder with 16:9 aspect ratio
+            // when there is no image to display
+            &.video-no-image {
+                width: 100%;
+                padding-bottom: 56.25%;
+                background-color: $color-mid;
+                border-radius: $box-border-radius;
+            }
+            // JS will add an iframe here; when it does:
+            &.contains-iframe {
+            float: none;
+            clear: both;
+            width: 100%;
+            // Give the iframe an intrinsic ratio on all screens
+            // Credit to https://alistapart.com/article/creating-intrinsic-ratios-for-video
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 25px;
+            height: 0;
+                iframe {
+                    // position: absolute; // not supported in epub yet
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+        // Don't indent a paragraph after a video.
+        & + p {
+            text-indent: 0;
+        }
+
+        .video-options {
+            color: $color-text-secondary;
+            font-size: 0.8em;
+            margin: ($line-height-default / 2) $paragraph-indent 0 $paragraph-indent;
+            position: relative;
+
+            .video-options-label {
+                font-weight: bold;
+            }
+
+            .video-options-content {
+
+                > :last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}

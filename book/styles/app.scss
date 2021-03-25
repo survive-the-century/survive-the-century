@@ -1,0 +1,53 @@
+---
+# App styles
+---
+
+// What is this?
+// -------------
+// This file assembles the design and typography for this book.
+// It inherits the variables set in the project's _sass folder.
+// You can override those variables by using them here,
+// without the `!default` that sets the default value in _sass.
+// 
+// How to use it
+// -------------
+// For book-specific styles (i.e. not project defaults):
+// 1. Copy variables you want to override from _sass/app.scss,
+//    and remove `!default` to override the project default.
+// 2. Add book-specific font imports below.
+// 3. Add your own custom CSS or Sass at the bottom.
+
+
+// -------------
+// Set variables
+// -------------
+
+// Edition suffix: identifies this edition in certain classes (e.g. in _epub-fitting.scss).
+$edition-suffix: null;
+
+
+// ------------
+// Import fonts
+// ------------
+
+// Add @font-face rules for fonts you specify here.
+// Add the actual font files to `../fonts` or `../../assets/fonts`.
+// Use #{$path-to-root-directory} to allow overriding per translation. E.g.:
+// `src: url(#{$path-to-root-directory}/assets/fonts/CrimsonPro-Regular.ttf);`
+// For snippets, try https://github.com/arthurattwell/font-faces
+
+
+// -------------
+// Master theme
+// -------------
+
+// Import default project styles
+@import 'template/app';
+
+
+// -------------
+// Custom styles
+// -------------
+
+// Add any custom Sass or CSS here.
+

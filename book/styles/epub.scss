@@ -1,0 +1,52 @@
+---
+# EPUB styles
+---
+
+// What is this?
+// -------------
+// This file assembles the design and typography for this book.
+// It inherits the variables set in the project's _sass folder.
+// You can override those variables by using them here,
+// without the `!default` that sets the default value in _sass.
+// 
+// How to use it
+// -------------
+// For book-specific styles (i.e. not project defaults):
+// 1. Copy variables you want to override from _sass/epub.scss,
+//    and remove `!default` to override the project default.
+// 2. Add book-specific font imports below.
+// 3. Add your own custom CSS or Sass at the bottom.
+
+
+// -------------
+// Set variables
+// -------------
+
+// Edition suffix: identifies this edition in certain classes (e.g. in _epub-fitting.scss).
+$edition-suffix: null;
+
+
+// ------------
+// Import fonts
+// ------------
+
+// If you're embedding epub fonts, add @font-face rules
+// for fonts you specify here.
+// Add the actual font files to `_epub/fonts`.
+// For snippets, try https://github.com/arthurattwell/font-faces
+
+
+// -------------
+// Master theme
+// -------------
+
+// Import master styles
+@import 'template/epub';
+
+
+// -------------
+// Custom styles
+// -------------
+
+// Add any custom Sass or CSS here.
+

@@ -1,0 +1,31 @@
+// Footnotes, endnotes and sidenotes
+// Note: Conventionally, HTML .footnotes are in a book context endnotes.
+
+$epub-notes: true !default;
+@if $epub-notes {
+
+    // Footnotes section
+    .footnotes {
+        border-top: $rule-thickness solid $color-light;
+        margin: ($line-height-default * 2) 0 0 0;
+        padding-top: $line-height-default;
+        p {
+            text-indent: 0;
+        }
+        ol {
+            // Prevent footnote markers disappearing
+            // into the left edge of the viewport.
+            margin-left: $paragraph-indent * 2;
+        }
+    }
+
+    // Single sidenote
+    .sidenote {
+        @include sidenote();
+    }
+
+    // No media queries for epub, since they're not widely supported.
+
+    // .bottom {} // Only used for print output, ignored for screen.
+
+}

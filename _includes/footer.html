@@ -1,0 +1,9 @@
+    <div id="footer">
+        <div class="footer-content">
+
+            <p>
+                {{ project-credit | strip | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+            </p>
+
+        </div><!--.footer-content-->
+    </div><!--#footer-->

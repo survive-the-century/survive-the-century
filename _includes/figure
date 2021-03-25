@@ -1,0 +1,138 @@
+{% capture this-figure %}
+{% comment %}
+To do: create HTML5 <figure> option here based on site.output
+{% endcomment %}
+
+{% include metadata %}
+
+{% comment %}
+Get the list of images, whether included as `image` or `images`
+and remove spaces that might be around commas.
+Put the comma-separated images into an array.
+Then get the total number of images in the array.
+{% endcomment %}
+{% capture image-list %}{{ include.image | remove: " " }}{% if include.image and include.images %},{% endif %}{{ include.images | remove: " " }}{% endcapture %}
+
+{% assign figure-images = image-list | split: "," %}
+{% assign number-of-images = figure-images | size %}
+
+{% comment %}
+Then create our figure, using multiple images if necessary.
+We have to do funky remove: '<p>' | remove: '</p>' | strip_newlines
+because https://github.com/jekyll/jekyll/issues/2248.
+{% endcomment %}
+
+<div class="figure{% if include.class %} {{ include.class }}{% endif %}"{% if include.reference %} id="{{ include.reference | slugify }}"{% endif %}>
+
+<div class="figure-body">
+
+{% if include.image or include.images %}
+<div class="figure-images contains-{{ number-of-images }}">
+
+    {% for image in figure-images %}
+
+        {% comment %} Get the file extension and the filename without it,
+        in a way that allows for full stops in filenames. {% endcomment %}
+        {% assign image-name-array = image | split: "." %}
+        {% assign image-file-extension = image-name-array | last %}
+        {% capture image-extension-with-full-stop %}.{{ image-file-extension }}{% endcapture %}
+        {% assign image-without-file-extension = image | replace: image-extension-with-full-stop, "" %}
+
+        {% if include.link %}<a href="{{ include.link }}">{% elsif site.output == "web" %}<a href="{{ images }}/{{ image }}">{% endif %}
+
+            {% if site.output == "web" %}
+
+                <noscript>
+                    <img src="{{ images }}/{{ image }}"
+
+                        {% unless image-file-extension == 'svg' %}
+                            srcset="{{ images }}/{{ image-without-file-extension }}-320.{{ image-file-extension }} 320w,
+                                    {{ images }}/{{ image-without-file-extension }}-640.{{ image-file-extension }} 640w,
+                                    {{ images }}/{{ image-without-file-extension }}-1024.{{ image-file-extension }} 1024w,
+                                    {{ images }}/{{ image-without-file-extension }}.{{ image-file-extension }} 1280w"
+                            sizes="(min-width: 600px) 1300px, 100vw"
+                        {% endunless %}
+
+                        alt="{% if include.title %}{{ include.title | markdownify | strip_html }}: {% endif %}{% if include.alt-text %}{{ include.alt-text | markdownify | strip_html }}{% else %}{{ include.caption | markdownify | strip_html }}{% endif %}"
+                        {% if include.image-height != nil %} class="height-{{ include.image-height }}"{% endif %}
+                    />
+                </noscript>
+
+                <img data-src="{{ images }}/{{ image }}"
+
+                    {% unless image-file-extension == 'svg' %}
+                        data-srcset="{{ images }}/{{ image-without-file-extension }}-320.{{ image-file-extension }} 320w,
+                                    {{ images }}/{{ image-without-file-extension }}-640.{{ image-file-extension }} 640w,
+                                    {{ images }}/{{ image-without-file-extension }}-1024.{{ image-file-extension }} 1024w,
+                                    {{ images }}/{{ image-without-file-extension }}.{{ image-file-extension }} 1280w"
+                        sizes="(min-width: 600px) 1300px, 100vw"
+                    {% endunless %}
+
+                    alt="{% if include.title %}{{ include.title | markdownify | strip_html }}: {% endif %}{% if include.alt-text %}{{ include.alt-text | markdownify | strip_html }}{% else %}{{ include.caption | markdownify | strip_html }}{% endif %}"
+                    class="{% if image contains '.svg' %}inject-svg{% endif %}{% if include.image-height != nil %} height-{{ include.image-height }}{% endif %}"
+                />
+
+            {% else %}
+
+                <img src="{{ images }}/{{ image }}"
+                    alt="{% capture figure-image-alt-text %}{% if include.title %}{{ include.title }}: {% endif %}{% if include.alt-text %}{{ include.alt-text }}{% else %}{{ include.caption }}{% endif %}{% endcapture %}{{ figure-image-alt-text | replace: "&nbsp;", " " | replace: "&shy;", "" | markdownify | strip_html }}"
+                    class="{% if image contains '.svg' %}inject-svg{% endif %}{% if include.image-height != nil %} height-{{ include.image-height }}{% endif %}" />
+
+            {% endif %}
+
+        {% if include.link or site.output == "web" %}</a>{% endif %}
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if include.html and include.html != "" %}
+<div class="figure-html">
+{{ include.html }}
+</div>
+{% endif %}
+
+{% if include.markdown and include.markdown != "" %}
+<div class="figure-md">
+{{ include.markdown | markdownify }}
+</div>
+{% endif %}
+
+{% if include.title and include.title != "" %}
+<p class="title">
+{{ include.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+</p>
+{% endif %}
+
+{% if include.slide-caption and include.slide-caption != "" %}
+<p class="slide-caption">
+{{ include.slide-caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+</p>
+{% endif %}
+
+{% if include.slide-caption == nil %}
+
+    {% if include.reference or include.caption and include.caption != "" %}
+    <p class="caption">
+    {% if include.reference %}<span class="figure-reference">{{ include.reference }} </span>{% endif %}
+    {{ include.caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+    </p>
+
+{% endif %}
+
+{% endif %}
+
+</div><!--.figure-body-->
+
+{% if include.source and include.source != "" %}
+
+<div class="figure-source">
+<p class="source">
+{{ include.source | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+</p>
+</div><!--.figure-source-->
+
+{% endif %}
+
+</div>
+{% endcapture %}
+{{ this-figure }}

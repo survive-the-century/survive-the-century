@@ -1,0 +1,17 @@
+{% comment %}
+The search form.
+Include this file in HTML with {% include search %}.
+Searches all books in the project.
+{% endcomment %}
+
+{% comment %}If metadata has already been included (e.g. in nav.html),
+don't include it again to avoid unnecessary looping.{% endcomment %}
+{% unless metadata-loaded == true  %}
+	{% include metadata %}
+{% endunless %}
+
+<form class="search" action="{{ path-to-root-directory }}search.html" method="get">
+  <input type="text" id="search-box{{ include.id-suffix }}" class="search-box" name="query" placeholder="{{ locale.search.placeholder }}">
+  <label for="search-box"></label>
+  <input id="search-language" type="hidden" name="lang" value="{{ language }}">
+</form>

@@ -1,0 +1,4 @@
+# Set site.output == "web"
+output: "web"
+# Set site.image-set == "images/web"
+image-set: "images/web"

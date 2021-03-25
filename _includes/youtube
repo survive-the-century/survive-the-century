@@ -1,0 +1,12 @@
+{% include video
+    host="youtube"
+    id=include.id
+    image=include.image
+    link=include.link
+    language=include.language
+    subtitles=include.subtitles
+    start=include.start
+    description=include.description
+    options=include.options
+    class=include.class
+%}

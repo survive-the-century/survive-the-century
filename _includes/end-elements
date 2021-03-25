@@ -1,0 +1,6 @@
+{% comment %}
+After this comment block, include any links and scripts
+that you want just before the </body> tag in your HTML.
+Use Liquid logic tags to include only in certain outputs, e.g.
+`if site.output == "web"` for web-only scripts.
+{% endcomment %}

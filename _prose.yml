@@ -1,0 +1,109 @@
+# Prose.io configuration for the EBW Electric Book Workflow.
+# Users with GitHub contributor access can edit your book with http://prose.io. 
+# These settings control what they see.
+# See https://github.com/prose/prose/wiki/Prose-Configuration for more info.
+# (We don't use prose.io live previews with siteurl.
+# They are slower than the default preview and unreliable in multi-site repos.)
+prose:
+  ignore:
+    # Root files
+    - _config.yml
+    - .bundle
+    - .gitattributes
+    - .gitignore
+    - .htaccess
+    - .jekyll-metadata
+    - .sass-cache
+    - CHANGELOG.md
+    - CNAME
+    - eslint.json
+    - fonts
+    - Gemfile
+    - Gemfile.lock
+    - gulpfile.js
+    - LICENSE
+    - package-lock.json
+    - package.json
+    - _prose.yml
+    - run-linux.sh
+    - run-mac.command
+    - run-windows.bat
+    - search.md
+
+    # Root folders
+    - _app
+    - _configs
+    - _docs
+    - _epub
+    - _html
+    - _includes
+    - _layouts
+    - _output
+    - _sass
+    - _site
+    - _tools
+    - assets/js
+    - assets/fonts
+    - assets/images
+    - node_modules
+
+    # Book folders and files
+    - /*/.gitignore
+    - /*/fonts
+    - /*/images
+    - /*/index.md
+    - /*/package.opf
+    - /*/search.md
+    - /*/toc.ncx
+
+    # Book subfolders and files
+    - /*/*/.gitignore
+    - /*/*/0-0-cover.md
+    - /*/*/file-list
+
+    # Translation folders and files
+    - /*/*/.gitignore
+    - /*/*/fonts
+    - /*/*/images
+    - /*/*/index.md
+    - /*/*/package.opf
+    - /*/*/search.md
+    - /*/*/toc.ncx
+
+    # Translation subfolders and files
+    - /*/*/*/.gitignore
+    - /*/*/*/0-0-cover.md
+    - /*/*/*/file-list
+
+  media: "media"
+  metadata:
+    "":
+      - name: "title"
+        field:
+          element: "text"
+          label: "Chapter title"
+      - name: "style"
+        field:
+          element: "select"
+          label: "Page style"
+          options:
+            - name: "Chapter"
+              value: "chapter"
+            - name: "Collection home page"
+              value: "index"
+            - name: "Cover"
+              value: "cover"
+            - name: "Half-title page"
+              value: "halftitle-page"
+            - name: "Title page"
+              value: "title-page"
+            - name: "Copyright page"
+              value: "copyright-page"
+            - name: "Contents page"
+              value: "contents-page"
+            - name: "Dedication page"
+              value: "dedication-page"
+            - name: "Epigraph page"
+              value: "epigraph-page"
+            - name: "Other frontmatter"
+              value: "frontmatter"

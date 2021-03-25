@@ -1,0 +1,21 @@
+$epub-previous-publications-page: true !default;
+@if $epub-previous-publications-page {
+
+    // Previous-publications page ('Also by the author')
+
+    .previous-publications-page {
+        margin: $start-depth auto 0 auto;
+        * {
+            text-align: center; // because many epub readers try to justify text by default
+        }
+        p {
+            text-indent: 0;
+            margin-bottom: $line-height-default / 2;
+            hyphens: none;
+        }
+        h2, h3, h4, h5, h6 {
+            font-size: $font-size-default;
+        }
+    }
+
+}

@@ -1,0 +1,117 @@
+#########
+# PROJECT
+#########
+
+# Replace the values here with your project` information.
+project:
+  # The name of the organisation or entity that owns this project
+  organisation: "Sam Beckbessinger"
+  # A live web address for the organisation
+  url: "https://survivethecentury.net"
+  # The default contact email address
+  email: "support@electricbookworks.com"
+  # The name of the project of books in this folder.
+  name: "Survive the Century"
+  # A one-liner about this project. Useful for Open Graph metadata.
+  description: "A cli-fi game of choice and consequence."
+  # The logo of the organisation, saved web-ready in /assets
+  logo: "publisher-logo.jpg"
+  # An image in /assets/images/web that stands for the project
+  image: "cover.jpg"
+  # Credit line, by default in the footer, overidden in locales.yml
+  credit: "Built with the [Electric Book](https://ebw.co/template)"
+  # Primary language code for this project as a whole
+  language: "en"
+  # App bundle ID unique across all app stores
+  app-id: com.example.myapp
+  # Version. You must change this with each app update
+  version: "1.0.0"
+
+
+########
+# TITLES
+########
+
+## Metadata follows [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core#DCMI_Metadata_Terms)
+## Custom fields added to standard DC terms: subtitle, publisher URL
+## When listing files, exlude file extensions, and surround them in quotes
+## especially if they contain only numbers.
+
+works:
+  - directory: "book"
+    title: "Survive the Century"
+    subtitle: ""
+    creator: "Sam Beckbessinger" # E.g. the author
+    contributor: "" # E.g. other contributors
+    subject: "Fiction" # E.g. BISAC terms (https://bisg.org/page/BISACEdition) or BIC (https://ns.editeur.org/bic_categories)
+    description: "A cli-fi game of choice and consequence." # E.g. the blurb
+    publisher: "Sam Beckbessinger" # E.g. the publisher, imprint or brand name
+    publisher-url: ""
+    date: "2021-05-06" # YYYY-MM-DD e.g. publication date
+    modified: "2021-05-06" # YYYY-MM-DD e.g. date of last revision
+    type: "Novel" # e.g. Novel, Poetry, Memoir
+    identifier: "" # e.g. ISBN or UUID
+    source: "" # e.g. parent ISBN or ISTC
+    language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+    relation: "" # e.g. other edition ISBN
+    coverage: "" # e.g. geographic place or chronological time span
+    rights: "All rights reserved. No part of this book may be reproduced or transmitted in any form or by any electronic or mechanical means, including photocopying and recording, or any other information storage or retrieval system, without written permission from the publisher." # e.g. a copyright statement
+    image: "cover.jpg"
+    products: # Metadata for each product for this title (only use values that override parent metadata)
+      web:
+        date: "2021-05-06" # YYYY-MM-DD e.g. publication date or last revision
+        format: "Digital online" # e.g. Paperback, Digital download, Digital online
+        identifier: "" # e.g. ISBN or UUID
+        image: "cover.jpg"
+        files:
+          - "index"
+          - "0-1-titlepage"
+          - "0-2-copyright"
+          - "0-3-contents"
+          - "01": "Chapter One"
+          - "02": "Chapter Two"
+        nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - label: "Frontmatter"
+            children:
+              - label: "Cover"
+                file: "index"
+              - label: "Title page"
+                file: "0-1-titlepage"
+              - label: "Copyright"
+                file: "0-2-copyright"
+          - label: "Contents"
+            file: "0-3-contents"
+          - label: "Chapter One"
+            file: "01"
+            id: "1-hello-world"
+          - label: "Chapter Two"
+            file: "02"
+            id: "2-goodbye-world"
+            children:
+              - label: "Subsection"
+                file: "02"
+                id: "example-id"
+        start-page: "0-3-contents" # At which file should users start reading?
+        contents-page: "0-3-contents" # Your contents-page file, if you have one.
+      print-pdf:
+        date: "2021-05-06" # YYYY-MM-DD e.g. publication or creation date
+        format: "Print" # e.g. Paperback, Digital download, Digital online
+        identifier: "" # e.g. ISBN or UUID
+        image: "cover.jpg"
+        files:
+          - "0-1-titlepage"
+          - "0-2-copyright"
+          - "0-3-contents"
+          - "01"
+          - "02"
+        toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - label: "Chapter 1"
+            file: "01"
+            id: "1-hello-world"
+          - label: "Chapter 2"
+            file: "02"
+            id: "2-goodbye-world"
+            children:
+              - label: "Subsection"
+                file: "02"
+                id: "example-id"

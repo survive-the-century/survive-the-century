@@ -1,0 +1,53 @@
+{% include metadata %}
+
+{% comment %}Assign the default image filename to image{% endcomment %}
+{% assign image = "cover.jpg" %}
+
+{% comment %}Let the user specify a different image file{% endcomment %}
+{% if include.image %}
+    {% capture image %}{{ include.image }}{% endcapture %}
+{% endif %}
+
+{% comment %} Get the alt for the cover {% endcomment %}
+{% assign cover-alt = title %}
+{% if include.alt %}
+	{% assign cover-alt = include.alt %}
+{% elsif cover-alt == "" %}
+	{% assign cover-alt = project-name %}
+{% endif %}
+
+{% comment %} Get the link {% endcomment %}
+{% if include.link %}
+	{% capture cover-link %}{{ include.link }}{% endcapture %}
+{% elsif site.output == "web" %}
+	{% capture cover-link %}{{ web-start-page }}{% unless web-start-page contains ".html" %}.html{% endunless %}{% endcapture %}
+{% elsif site.output== "app" %}
+	{% capture cover-link %}{{ app-start-page }}{% unless app-start-page contains ".html" %}.html{% endunless %}{% endcapture %}
+{% endif %}
+
+{% comment %}
+Adjust HTML based on output format.
+* For web, link the cover to the start page.
+* For other outputs use just the image.
+{% endcomment %}
+
+{% if site.output == "web" or site.output == "app" %}
+
+<div class="cover">
+	<a href="{{ cover-link }}">
+		{% include image file=image class="cover" alt=cover-alt %}
+	</a>
+</div>
+
+{% else %}
+
+{% if site.output == "screen-pdf" %}
+{% comment %}Add the cover to the PDF bookmarks without displaying it{% endcomment %}
+<h1 style="position: absolute; z-index: -1">{{ locale.pdf.cover }}</h1>
+{% endif %}
+
+<div class="cover">
+	<img src="{{ images }}/{{ image }}" alt="{{ cover-alt }}" class="cover">
+</div>
+
+{% endif %}
