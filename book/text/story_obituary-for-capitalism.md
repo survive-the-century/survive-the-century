@@ -1,20 +1,18 @@
 ---
-title: 
-style: 
+title: "Obituary for Capitalism"
+style: story
 conflict: 
-decade: 
+decade: 2070
 economy: 
-temperature: 
+temperature: 1.5
 ---
 
-## Obituary for Capitalism
+# Obituaries
 
-
-### Obituaries
-
-#### Capitalism: 1760–2068
+## Capitalism: 1760–2068
 
 By Maria Turtschaninoff
+{:.author}
 
 Unnoticed by most, Capitalism has passed away at the ripe old age of 308 years. Its death throes during the last decades were violent and harvested many casualties, but in the end Capitalism went with a whimper, not a bang.
 
@@ -30,4 +28,4 @@ Capitalism did not take gracefully to being rejected. In the last decades, many 
 
 As happens with many who live long lives, Capitalism had, in the end, outlived most of its friends. The last of them left for Mars in 2062.
 
-[[Back to the front page->Welcome to 2070 (Ecotopia)]]
+[Onwards into the 2070s!](chapter_birth-rates-plunge.html){:.next-decade-link}

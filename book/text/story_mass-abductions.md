@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Mass abductions"
+style: story
 conflict: 
-decade: 
+decade: 2050
 economy: 
-temperature: 
+temperature: 2.25
 ---
 
-## Mass abductions
-
-
-### Mass-abductions hobble India’s guest talent programme
+# Mass-abductions hobble India’s guest talent programme
 
 By Rajat Chaudhuri
+{:.author}
 
 DELHI: Close to a hundred job-seekers from newly flooded areas of neighbouring Bangladesh heading for Delhi were led away at gunpoint on Saturday night by armed intruders who boarded a train in the strife-torn borderland of Uttar Pradesh and Bihar states of northern India. According to Heartland Radio, a local station of the leftist Subah (morning) militia which controls areas south of the Ganges, this is the third mass kidnapping in as many months.
 
@@ -28,4 +26,4 @@ A central team has been rushed to the area.
 
 *This article wasn’t written or edited by human editors.*
 
-[[Back to the front page->Welcome to 2050 (Climate Wars)]]
+[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html){:.next-decade-link}

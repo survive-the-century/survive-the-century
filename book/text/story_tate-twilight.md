@@ -1,16 +1,13 @@
 ---
-title: 
-style: 
+title: "Tate Twilight"
+style: story
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 3.7
 ---
 
-## Tate Twilight
-
-
-### The Tate Twilight
+# The Tate Twilight
 
 By Rajat Chaudhuri
 
@@ -34,4 +31,4 @@ One minor quibble: It seemed the core VR platform running the walkthroughs of th
 
 Tip: Carry a torch, there will be power cuts.
 
-[[Back to the front page->Welcome to 2090 (Climate Wars)]]
+[You made it to the end of the century!](ending_2100-climate-wars.html){:.new-decade-link}

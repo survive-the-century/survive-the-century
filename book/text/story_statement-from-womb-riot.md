@@ -1,16 +1,13 @@
 ---
-title: 
-style: 
+title: "Statement from Womb Riot"
+style: story
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Statement from Womb Riot
-
-
-### STATEMENT FROM WOMB RIOT DEMANDING RADICAL ECO-POLITICAL REFORMS NOW
+# Statement from Womb Riot demanding radical eco-political reforms now
 
 We are Womb Riot, a group of eighteen women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.
 
@@ -44,4 +41,4 @@ We are Womb Riot. We demand change.
 
 *Thanks to our reporter Lauren Beukes for bringing this to our attention.*
 
-[[Back to the front page->Welcome to 2090 (Billionaire Saviours)]]
+[You made it to the end of the century!](ending_2100-billionaire-saviours.html){:.new-decade-link}

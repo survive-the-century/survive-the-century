@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "GIPSS"
+style: story
 conflict: 
-decade: 
+decade: 2080
 economy: 
-temperature: 
+temperature: 1.25
 ---
 
-## GIPSS
-
-
-### Report from the Global Indigenous Peoples’ Stewardship Summit
+# Report from the Global Indigenous Peoples’ Stewardship Summit
 
 By Maria Turtschaninoff
+{:.author}
 
 “When we began the Global Indigenous Peoples’ Stewardship (GIPS) programme, many non-indigenous people thought this meant that everyone had to live in tents or huts in the wilderness,” elder Ásllat-Mihku Ilmara Mika Petra, or Petra Laiti as she is also known, says with a wry smile. “Now look at the world: the floating botanical cities of Korea, the underwater city of Oceania in Japan, and Green New York.”
 
@@ -48,4 +46,4 @@ The GIPS has, during this summit, taken the radical decision that its primary go
 
 I take one last look at Mount Rásttigáisá, the holy mountain which has been teaching and guiding the Sámi people for centuries. And when camp is broken after midsummer, there will not be a single trace of the summit in a month or so, Laiti assures me. “First there will be dead circles where the tents and teepees and yurts and lavvus have stood. But by the end of summer, the grass will once more be green.”
 
-[[Back to the front page->Welcome to 2080 (Ecotopia)]]
+[Just one more decade to go.](chapter_the-end-of-nation-states.html){:.new-decade-link}

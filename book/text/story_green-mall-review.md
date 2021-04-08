@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Green Mall review"
+style: story
 conflict: 
-decade: 
+decade: 2050
 economy: 
-temperature: 
+temperature: 1.7
 ---
 
-## Green Mall review
-
-
-### Review of a “green mall” by a grumpy Gen X shopaholic
+# Review of a “green mall” by a grumpy Gen X shopaholic
 
 By Maria Turtschaninoff
+{:.author}
 
 I went to this mall with my grandchild, who assured me it was “dope”. I don’t like it when the youth of today assume the sayings of my generation. Get off my lawn, kids! Speaking of lawns, there were way too many of them at this mall. A mall should be inside a huge concrete building, and lawns should be well clipped and outside my house. Not on top of roofs! On top of that, these lawns had probably never seen a mower and were full of wildflowers and butterflies and bugs and things. NOT sanitary. I think I even saw a goat grazing? In a city? Jeez.
 
@@ -30,4 +28,4 @@ Sincerely,
 
 A Gen X shopaholic.
 
-[[Back to the front page->Welcome to 2050 (Ecotopia)]]
+[Let’s see what the 2050s will bring](chapter_who-looks-after-the-wild.html){:.next-decade-link}

@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Leaked transcript"
+style: story
 conflict: 
-decade: 
+decade: 2070
 economy: 
-temperature: 
+temperature: 3
 ---
 
-## Leaked transcript
-
-
-### US-sponsored non-state actors seeding oceans with banned geo-engineering tech?
+# US-sponsored non-state actors seeding oceans with banned geo-engineering tech?
 
 By Rajat Chaudhuri
+{:.author}
 
 *(Leaked transcript of video call between US Leader-for-Life and African president of the Free States)*
 
@@ -64,4 +62,4 @@ Trump: I will tweet that out, professor. Meanwhile enjoy the sun while you have 
 
 *(Drone attack alert can be heard in the background.)*
 
-[[Back to the homepage->Welcome to 2070 (Climate Wars)]]
+[Onwards into the 2070s…](chapter_post-war-devastation.html){:.next-decade-link}

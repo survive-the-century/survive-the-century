@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Vaccine Queen"
+style: story
 conflict: 
-decade: 
+decade: 2030
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Vaccine Queen
-
-
-### Vaccine Queen opens the first of 100 tech universities across West Africa
+# Vaccine Queen opens the first of 100 tech universities across West Africa
 
 By Lauren Beukes
+{:.author}
 
 **Press release:**
 
@@ -30,4 +28,4 @@ The OkC universities are free to attend and Okereke-Clifford’s brand new Reall
 
 OkC01 campus opens in the defunct and neglected Accra Central Library, redesigned and expanded by British starchitect Thomas Heatherwick. “This is another way the private sector is able to step up where government fails,” Okereke-Clifford says, adding that the library lives on in virtual reality, and all the books have been digitized. Her company will be distributing ReallyReal(TM) headsets to all Accra residents to ensure they continue to have free access to all the books.
 
-[[Back to front page->Welcome to 2030 (Billionaire Saviours)]]
+[What will this new decade bring?](chapter_grassroots-inequality-rebellion.html){:.new-decade-link}

@@ -1,16 +1,13 @@
 ---
-title: 
+title: "Matrimony"
 style: 
 conflict: 
-decade: 
+decade: 2030
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Matrimony
-
-
-### Matrimonial advertisement: Indian NRI seeks suitable match
+# Matrimonial advertisement: Indian NRI seeks suitable match
 
 Hi, this is Chandan. Indian, non-resident Indian (NRI), clean-shaven, male of 27 years with a PhD in sports medicine, seeking a suitable alliance with Indian Hindu cisgender non-veg woman – caste no bar. I hold a stable job with decent pay and climate-insured accommodation in a Chinese MNC-run gambling city 50 kilometres from Johannesburg, South Africa. My employment conditions offer reasonably excellent labour rights with handsome perks including discount-price access to Chinese super-vaccine, Coronacraft, which guarantees protection against all future mutations of novel coronaviruses. I am looking for a strong-willed and like-minded partner of milk-white complexion, with no siblings.
 
@@ -24,4 +21,4 @@ Looking for a spouse, from a good educational background, who doesn’t harbour 
 
 Please connect via IM with your body weight and enrolment number.
 
-[[Back to the front page->Welcome to 2030 (Climate Wars)]]
+[What will this new decade bring?](chapter_grassroots-climate-rebellion.html){:.new-decade-link}

@@ -1,18 +1,16 @@
 ---
-title: 
+title: "Meat raid"
 style: 
 conflict: 
-decade: 
+decade: 2030
 economy: 
-temperature: 
+temperature: 1.4
 ---
 
-## Meat raid
-
-
-### California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants
+# California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants
 
 By Maria Turtschaninoff
+{:.author}
 
 The state-wide Californian raid of illegal meat restaurants, commonly known as “meat-ups”, as well as importers of animal flesh for human consumption has raised criticism in the US as well as abroad.
 
@@ -24,4 +22,4 @@ During the last era of prohibition, in the 1930s, the illegal speakeasies are sa
 
 “But we are not so much after the restaurants, or ‘meat-easies’,” said Governor Christina Schwarzenegger. “The bigger issue is the illegal import of beef and pork from other states.”
 
-[[Back to front page->Welcome to 2030 (Ecotopia)]]
+[What will this new decade bring?](chapter_easier-climate-conference.html){:.next-decade-link}

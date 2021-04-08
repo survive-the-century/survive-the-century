@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Snow day"
+style: story
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 1
 ---
 
-## Snow day
-
-
-### Finnish children celebrate first snow day in 50 years
+# Finnish children celebrate first snow day in 50 years
 
 By Maria Turtschaninoff
+{:.author}
 
 Children in the southern part of the territory formerly known as Finland had the day off from school yesterday, as there was snow for the first time in 50 years.
 
@@ -22,4 +20,4 @@ Snow disappeared from Finland entirely in the late 2040s. It made its return to 
 
 “I have been teaching the children the history of their country. We have drawn skis, talked about what snow meant for brightening the dark winter months, how the animals used to change into white winter coats. They have studied the drastic increase in pests on crops and in forests alike as the snow and cold disappeared. We have watched old movies with snow and visited pre-warm Finland virtually. But nothing beats feeling the flakes fall on your face and catching them on your tongue. I am so happy I got to experience this myself.” He grows misty-eyed as he looks out the window of the log cabin where the school is held, at the children playing outside, building snow forts and throwing snowballs. “One of my favourite comics growing up was *Calvin and Hobbes*. I always wanted to build a snow fort and go sledding. I wasn’t sure I would ever see the day when that was possible, right in my home town. And now these children will grow up with snow as part of their everyday winters, once again.” He glances out the window again. “I’m sorry, can we wrap this up? There’s a snowball fight going on, and I sure would like to join.”
 
-[[[[Back to the front page->Welcome to 2090 (Ecotopia)]]
+[You made it to the end of the century!](ending_2100-ecotopia.html){:.new-decade-link}

@@ -1,20 +1,18 @@
 ---
-title: 
-style: 
+title: "Trouble in Paradys"
+style: story
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Trouble in Paradys
-
-
-### Trouble in Paradys: Virtual worlds, real targets
+# Trouble in Paradys: Virtual worlds, real targets
 
 *After a series of high-profile burglaries in an exclusive paradise zone, VR critics wonder: How real is too real?*
 
 By Lauren Beukes
+{:.author}
 
 Paradys is two things: a real-world paradise zone for the rich and famous who are not quite rich and famous enough to get to Mars, and the most popular virtual world where your avatar can rub shoulders with a who’s who of 21st century celebrities from Beyonce and Jay Z for the nostalgiaphiles to breakout VR influencers like Star\*Star and M@keMi. ParadysVR is known for its attention to detail, exactly replicating the beachside mansions and vineyard villas and penthouse apartments of its real-world tenants that you’ve seen on your entertainment network of choice, promising to catapult you into the most ReallyReal(TM) Rich & Famous experience possible.
 
@@ -28,4 +26,4 @@ ReallyReal (TM) spokesperson, Colin Ray, says, “It’s regrettable that a few 
 
 Investigations are ongoing and police say although the gang may have used VR to scout out the locations, they believe there was someone on the inside who let them into the real-world Paradys and helped facilitate the burglaries. Paradys residents with any information are urged to come forward.
 
-[[Back to the front page->Welcome to 2090 (Billionaire Saviours)]]
+[You made it to the end of the century!](ending_2100-billionaire-saviours.html){:.new-decade-link}

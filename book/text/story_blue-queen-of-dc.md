@@ -1,18 +1,16 @@
 ---
-title: 
-style: 
+title: "Blue Queen of DC"
+style: story
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 3.7
 ---
 
-## Blue Queen of DC
-
-
-### The Blue Queen of DC: A review
+# The Blue Queen of DC: A review
 
 By Rajat Chaudhuri
+{:.author}
 
 *Food reporter*
 
@@ -30,4 +28,4 @@ Vegetarians can try their luck with a variety of stews (wots) prepared with red 
 
 The Volcanists believe a series of eruptions will cool the planet, buying enough time for the forces of justice and reason to prevail. Our taste buds teased and bellies full, as the human-operated lift dropped us back into the swollen Potomac, we could only hope they know what they’re talking about.
 
-[[Back to the front page->Welcome to 2090 (Climate Wars)]]
+[You made it to the end of the century!](ending_2100-climate-wars.html){:.new-decade-link}
