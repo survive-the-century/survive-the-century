@@ -1,0 +1,24 @@
+---
+title: 
+style: 
+conflict: 
+decade: 
+economy: 
+temperature: 
+---
+
+## Climate domes
+
+
+Improvements in the space mirror fleet and other adaptation technologies help, but a lot of the outside world is still a hostile, frightening place. Most urban people retreat inside climate-controlled domes, or build cities underground.
+
+The idea of “nature” or “wild space” becomes a distant memory.
+
+Some crazy fringe religious groups hate the domes and the decadent lifestyles that take place in there. And some of these groups have bioweapons.
+
+**Should we quash these terrorist groups?**
+{:.choice-question}
+
+(link-reveal-goto: “Yes”, “Quash terrorists”)[(set: $democracy to “no”)]
+
+(link-reveal-goto: “No”, “Quash terrorists”)[(set: $democracy to “yes”)]
