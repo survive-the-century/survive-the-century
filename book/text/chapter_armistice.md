@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Armistice"
+style: chapter
+conflict: 2
 decade: 
 economy: 
-temperature: 
+temperature: 2
 ---
 
-## Armistice
-
 Peace is declared.
+{:.leader-sentence}
 
 After a decade of fighting, society is exhausted. We’re ready to do whatever we need to do to ensure that war never breaks out again.
 
@@ -21,6 +20,5 @@ The UN launches a number of geo-engineering projects, including a fleet of satel
 
 Society has invested billions into their militaries. We decide to retrain and repurpose them for huge new projects to restore the environment and act as an international disaster response team.
 
-[[Over the next few years, things start to look much better for humanity.->Welcome to 2070 (Designer Planet)]]
-
-(set: $temp to 2) (set: $conflict to “🙂”)
+- [Over the next few years, things start to look much better for humanity.](part-page_2070.html){js-next-dest="newspaper_welcome-to-2070-designer-planet.html"}
+{:.choice-options}

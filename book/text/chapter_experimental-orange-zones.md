@@ -1,17 +1,17 @@
 ---
-title: 
-style: 
+title: "Experimental orange zones"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.9
+var-experimental-zones: 1
 ---
 
-## Experimental orange zones
+Alternative forms of society start to emerge in the hinterlands.
+{:.leader-sentence}
 
+They’re tough landscapes, but these become incubators for alternative economies and value systems.
 
-Alternative forms of society start to emerge in the hinterlands. They’re tough landscapes, but these become incubators for alternative economies and value systems.
-
-[[You made it to 2050.->Welcome to 2050 (Billionaire Saviours)]]
-
-(set: $experimentalzones to 1) (set: $temp to 1.9)
+- [You made it to 2050.](part-page_2050.html){js-next-dest="newspaper_welcome-to-2050-billionaire-saviours.html"}
+{:.choice-options}

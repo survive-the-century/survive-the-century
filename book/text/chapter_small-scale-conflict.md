@@ -1,17 +1,18 @@
 ---
-title: 
-style: 
+title: "Small-scale conflict"
+style: chapter
 conflict: 
 decade: 
 economy: 
 temperature: 
 ---
 
-## Small-scale conflict
+Phew. 
+{:.leader-sentence}
 
-
-Phew. There are a lot of small-scale conflicts and civil wars over resources.
+There are a lot of small-scale conflicts and civil wars over resources.
 
 Luckily, they never escalate into global or nuclear war.
 
-[[Okay, at least most of us are alive.->Welcome to 2090 (Slow Fade conflict)]]
+- [Okay, at least most of us are alive.](part-page_2090.html){js-next-dest="newspaper_welcome-to-2090-slow-fade-conflict.html"}
+{:.choice-options}

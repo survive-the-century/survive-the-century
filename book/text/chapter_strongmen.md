@@ -1,16 +1,14 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Strongmen"
+style: chapter
+conflict: 4
 decade: 
 economy: 
-temperature: 
+temperature: 1.9
 ---
 
-## Strongmen
-
 Each new strongman leader blames the others for creating the migrant crisis.
+{:.leader-sentence}
 
-[[International tensions are heating up.->Global South uprising + climate wars]]
-
-(set: $temp to 1.9) (set: $conflict to “😡”)
+- [International tensions are heating up.](chapter_global-south-uprising-and-climate-wars.html)
+{:.choice-options}

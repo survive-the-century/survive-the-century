@@ -1,23 +1,21 @@
 ---
-title: 
-style: 
+title: "Orange zones"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.9
 ---
 
-## Orange zones
+Large swathes of the world are declared “orange zones”, places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. 
+{:.leader-sentence}
 
-Large swathes of the world are declared “orange zones”, places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. What remains of the governments of these countries are flat broke.
+What remains of the governments of these countries are flat broke.
 
-**What should we do with the orange zones?**
+What should we do with the orange zones?
 {:.choice-question}
 
-[[Let multinationals buy them for cheap.->Corporate orange zones]]
-
-[[Strong countries should claim them and build strategic military bases on them.->War over orange zones]]
-
-[[Agree to leave them be.->Experimental orange zones]]
-
-(set: $temp to 1.9)
+- [Let multinationals buy them for cheap.](chapter_corporate-orange-zones.html)
+- [Strong countries should claim them and build strategic military bases on them.](chapter_war-over-orange-zones.html)
+- [Agree to leave them be.](chapter_experimental-orange-zones.html)
+{:.choice-options}

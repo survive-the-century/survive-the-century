@@ -1,18 +1,15 @@
 ---
-title: 
-style: 
+title: "Stalling"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 2.25
 ---
-
-## Stalling
 
 We choose to do more research, and keep debating, and talking, and talking, and stalling.
 
 By the end of the decade, we haven’t done anything yet.
 
-[[What?! It’s 2060 ALREADY??->Welcome to 2060 (Slow Fade)]]
-
-(set: $temp to 2.25)
+- [What?! It’s 2060 ALREADY??](part-page_2060.html){js-next-dest="newspaper_welcome-to-2060-slow-fade.html"}
+{:.choice-options}

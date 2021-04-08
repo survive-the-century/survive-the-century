@@ -21,6 +21,5 @@ What do you think we should do?
 - [Let’s invest in carbon capture technology.](chapter_high-tech-1-5-mitigation.html)
 {:.choice-options}
 
-
 If we were to cut all greenhouse gas emissions today, temperatures would probably stabilize within the next 10 to 30 years. But this would not stop climate change: stopping temperature rise would not stop ice melting and sea levels rising. We have caused irreparable damage to our climate, in which our past and present greenhouse gas emissions have “locked-in changes” regardless of what emissions cut we make moving forward. That doesn’t mean our actions don’t matter: every 0.1 of a degree of extra warming translates into more lives lost and more species extinct.
 {:.infobox}

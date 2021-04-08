@@ -1,19 +1,18 @@
 ---
-title: 
-style: 
-conflict: 
+title: "People get richer"
+style: chapter
+conflict: 1
 decade: 
 economy: 
-temperature: 
+temperature: 2.1
 ---
 
-## People get richer
+As people get wealthier, they use a LOT more energy. 
+{:.leader-sentence}
 
-
-As people get wealthier, they use a LOT more energy. So, even though they’re switching to renewable sources, they’re using much more energy overall.
+So, even though they’re switching to renewable sources, they’re using much more energy overall.
 
 This leads to a much fairer society, but delays the transition to renewable energy sources.
 
-[[You made it through the decade!->Welcome to 2040 (Designer Planet)]]
-
-(set: $temp to 2.1) (set: $conflict to “😄”)
+- [You made it through the decade!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-designer-planet.html"}
+{:.choice-options}

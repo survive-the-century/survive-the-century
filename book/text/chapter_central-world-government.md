@@ -14,4 +14,5 @@ The leaders of the rogue states that attacked the space fleet are imprisoned and
 
 The Council appoints a Media Fairness Monitor to your newsroom. She won’t tell you her name, and she never smiles. She will review everything you publish from now on.
 
-[[You made it to 2070!->Welcome to 2070 (Designer Planet)]]
+- [You made it to 2070!](part-page_2070.html){js-next-dest="newspaper_welcome-to-2070-designer-planet.html"}
+{:.choice-options}

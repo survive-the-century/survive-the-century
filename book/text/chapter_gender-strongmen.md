@@ -1,21 +1,18 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Gender strongmen"
+style: chapter
+conflict: 4
 decade: 
 economy: 
-temperature: 
+temperature: 2.2
 ---
 
-## Gender strongmen
-
-
 Strongmen leaders are elected in countries around the world promising to restore traditional gender roles.
+{:.leader-sentence}
 
 They dismantle universal basic income programmes.
 
 In an effort to prove their machismo, a lot of them start small-scale wars and beef up their militaries.
 
-[[International tensions are heating up.->Global South uprising + climate wars]]
-
-(set: $temp to 2.2) (set: $conflict to “😡”)
+- [International tensions are heating up.](chapter_global-south-uprising-and-climate-wars.html)
+{:.choice-options}

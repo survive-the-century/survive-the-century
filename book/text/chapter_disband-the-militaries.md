@@ -1,14 +1,17 @@
 ---
-title: 
-style: 
+title: "Disband the militaries"
+style: chapter
 conflict: 
 decade: 
 economy: 
 temperature: 
 ---
 
-## Disband the militaries
+Cool! 
+{:.leader-sentence}
 
-Cool! I’m sure this decision won’t be important later.
+I’m sure this decision won’t be important later.
 
-[[You made it to 2070!->Welcome to 2070 (Ecotopia)]]
+
+- [You made it to 2070!](part-page_2070.html){js-next-dest="newspaper_welcome-to-2070-ecotopia"}
+{:.choice-options}

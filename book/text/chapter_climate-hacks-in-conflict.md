@@ -1,23 +1,22 @@
 ---
-title: 
-style: 
+title: "Climate hacks in conflict"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Climate hacks in conflict
+Every billionaire has their own pet climate hacking project.
+{:.leader-sentence}
 
-Every billionaire has their own pet climate hacking project. It’s an unregulated mess.
+It’s an unregulated mess.
 
 An activist group suggests that the projects should be nationalized and run democratically.
 
-**Should we have citizen groups take them over, or keep things as they are?**
+Should we have citizen groups take them over, or keep things as they are?
 {:.choice-question}
 
-[[Democracy, please!->Democratic takeover]]
-
-[[Billionaires know best.->Monocorp cities]]
-
-(set: $temp to 2.3)
+- [Democracy, please!](chapter_democratic-takeover.html)
+- [Billionaires know best.](chapter_monocorp-cities.html)
+{:.choice-options}

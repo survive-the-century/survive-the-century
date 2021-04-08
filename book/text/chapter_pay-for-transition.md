@@ -1,16 +1,16 @@
 ---
-title: 
-style: 
+title: "Pay for transition"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Pay for transition
+The world agrees to the fastest possible transition to a zero-emissions world, even though this will require some changes to people’s lifestyles in rich countries.
+{:.leader-sentence}
 
-
-The world agrees to the fastest possible transition to a zero-emissions world, even though this will require some changes to people’s lifestyles in rich countries. Cars, meat and fashion soon become luxury items.
+Cars, meat and fashion soon become luxury items.
 
 A lot of people grumble about the lack of alternatives: a lot of things people need have been taken away, with nothing offered in their place.
 
@@ -18,13 +18,10 @@ We’re going to need massive investment into public transport (even in smaller 
 
 All of this is going to cost a LOT of money.
 
-**How should we pay for it?**
+How should we pay for it?
 {:.choice-question}
 
-[[Reform capitalism. The super-rich should pay for everything, and the new infrastructure should belong to everyone.->Reform capitalism]]
-
-[[Nationalize the biggest polluters.->Transitional fracking]]
-
-[[Offer tax breaks and grants to tech companies who are working on solutions.->Green is the new gold]]
-
-(set: $temp to 1.6)
+- [Reform capitalism. The super-rich should pay for everything, and the new infrastructure should belong to everyone.](chapter_reform-capitalism.html)
+- [Nationalize the biggest polluters.](chapter_transitional-fracking.html)
+- [Offer tax breaks and grants to tech companies who are working on solutions.](chapter_green-is-the-new-gold.html)
+{:.choice-options}

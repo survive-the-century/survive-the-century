@@ -1,16 +1,16 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Human capital"
+style: chapter
+conflict: 1
 decade: 
 economy: 
-temperature: 
+temperature: 2.8
 ---
 
-## Human capital
+Migrants are welcomed as “human capital” and resettled in new, high-tech cities all around the world. 
+{:.leader-sentence}
 
-Migrants are welcomed as “human capital” and resettled in new, high-tech cities all around the world. We’re spending more money on education and healthcare than ever before. A host of new technologies are developed that help us to make the new cities more resilient against climate shocks.
+We’re spending more money on education and healthcare than ever before. A host of new technologies are developed that help us to make the new cities more resilient against climate shocks.
 
-[[You made it to 2050.->Welcome to 2050 (Designer Planet)]]
-
-(set: $temp to 2.8) (set: $conflict to “😄”)
+- [You made it to 2050.](part-page_2050.html){js-next-dest="newspaper_welcome-to-2050-designer-planet.html"}
+{:.choice-options}

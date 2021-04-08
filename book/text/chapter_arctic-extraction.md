@@ -14,4 +14,5 @@ Greenland is a poor country, so they have no choice but to offer licences to the
 
 Somehow, despite everything we’ve tried, we’re polluting even more than ever before.
 
-[[You made it to 2050.->Welcome to 2050 (Slow Fade)]]
+- [You made it to 2050.](part_page-2050.html){js-next-dest="newspaper_welcome-to-2050-slow-fade.html")
+{:.choice-options}

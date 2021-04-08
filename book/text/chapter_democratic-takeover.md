@@ -1,16 +1,14 @@
 ---
-title: 
-style: 
+title: "Democratic takeover"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 2.2
 ---
 
-## Democratic takeover
-
-
 A poll indicates that an overwhelming 80 per cent of people believe that climate projects should be managed democratically.
+{:.leader-sentence}
 
 A new generation of bold young politicians begin to speak out publicly about this issue. They try to pass laws nationalizing climate projects, or at least requiring them to follow some rules.
 
@@ -22,6 +20,5 @@ Activists back down and nothing really changes.
 
 Runaway effects of the climate hacks devastate parts of the world, forcing the last remaining free societies into corporate cities, where they hope to “earn” citizenship through work… maybe. One day. The unluckiest are forced into jobs on the nascent Mars colony.
 
-[[You made it to 2080!->Welcome to 2080 (Billionaire Saviours)]]
-
-(set: $temp to 2.2)
+- [You made it to 2080!](part-page_2080.html){js-next-dest="newspaper_welcome-to-2080-billionaire-saviours.html"}
+{:.choice-options}

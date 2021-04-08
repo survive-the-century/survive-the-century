@@ -1,13 +1,11 @@
 ---
-title: 
-style: 
+title: "Slow economic recovery"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.4
 ---
-
-## Slow economic recovery
 
 (if: $leaning is “wars”)[China buys goodwill by distributing vaccines across Africa and Asia. Pandemic-ridden countries in South America ask for vaccines, and are told to ask their rich neighbours to the north. The US is angry about this; they’ve got their own problems and China’s just trying to make them look bad.
 
@@ -25,13 +23,10 @@ Instead of taking months to roll out the vaccine, it takes four years.]
 
 By the late 2020s, economies are battered. Countries need bold new economic recovery plans. Different groups propose different solutions.
 
-**Which economic proposal will your news site give the most time to?**
+Which economic proposal will your news site give the most time to?
 {:.choice-question}
 
-[[Governments should invest in large-scale public infrastructure projects, like trains and housing.->Green New Deal]]
-
-[[Cut taxes and regulations on businesses so they’ve got more money to grow.->Billionaires get richer]]
-
-[[Our country first! Let’s break with our international trade agreements, put tariffs on imports and stimulate our own economy.->World trade is in tatters]]
-
-(set: $temp to 1.4)
+- [Governments should invest in large-scale public infrastructure projects, like trains and housing.](chapter_green-new-deal.html)
+- [Cut taxes and regulations on businesses so they’ve got more money to grow.](chapter_billionaires-get-richer.html)
+- [Our country first! Let’s break with our international trade agreements, put tariffs on imports and stimulate our own economy.](chapter_world-trade-is-in-tatters.html)
+{:.choice-options}

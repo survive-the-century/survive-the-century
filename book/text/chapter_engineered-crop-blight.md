@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Engineered crop blight"
+style: chapter
+conflict: 5
 decade: 
 economy: 
-temperature: 
+temperature: 2.8
 ---
 
-## Engineered crop blight
-
 We will never surrender! The war goes on.
+{:.leader-sentence}
 
 Six months later, retaliating to US threats to “pull another Hiroshima”, Japan releases an engineered blight that wipes out the world’s maize crops.
 
@@ -19,6 +18,5 @@ That year, millions of people die of starvation, mostly across the Americas.
 
 The war continues.
 
-[[Well, you made it to 2070.->Welcome to 2070 (Climate Wars)]]
-
-(set: $temp to 2.8) (set: $conflict to “🤬”)
+- [Well, you made it to 2070.](part-page_2070.html){js-next-dest="newspaper_welcome-to-2070-climate-wars.html"}
+{:.choice-options}

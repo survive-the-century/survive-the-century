@@ -1,14 +1,14 @@
 ---
-title: 
-style: 
+title: "State-led decarbonization"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## State-led decarbonization
+Pressure mounts on national leaders. 
+{:.leader-sentence}
 
-Pressure mounts on national leaders. This leads to the calling of a new [[emergency international climate summit.->Emissions accounting argument]]
-
-(set: $temp to 1.6)
+- [This leads to the calling of a new emergency international climate summit.](chapter_emissions-accounting-argument.html)
+{:.choice-options}

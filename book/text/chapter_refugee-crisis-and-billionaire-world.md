@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
+title: "Refugee crisis + billionaire world"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.8
 ---
 
-## Refugee crisis + billionaire world
-
 Phew, is it just me, or is it getting pretty hot in here?
+{:.leader-sentence}
 
 The world is really starting to feel the effects of climate change. 2041 is a particularly brutal year: so many disasters happen all at once that many of them don’t even make it onto the front page of your news site.
 
@@ -19,17 +18,13 @@ REM’s classic song “It’s the End of the World as We Know It (and I Feel Fi
 
 Millions want to resettle in more protected places. Most resettle in their own country, but many also cross borders in an attempt to give their families a better life.
 
-**How should society respond?**
+How should society respond?
 {:.choice-question}
 
-[[There are just too many people to assimilate all of them. Let’s build refugee camps in unpopulated areas.->Permanent refugee camps]]
-
-[[Let’s make it easier for businesses to sponsor working visas, so people can only move to a country if they have a job there.->Employment as citizenship]]
-
-[[Refugees are valuable, especially in rich countries with ageing populations. Welcome them and build new housing for them in cities.->Increasing densification]]
-
+- [There are just too many people to assimilate all of them. Let’s build refugee camps in unpopulated areas.](chapter_permanent-refugee-camps.html)
+- [Let’s make it easier for businesses to sponsor working visas, so people can only move to a country if they have a job there.](chapter_employment-as-citizenship.html)
+- [Refugees are valuable, especially in rich countries with ageing populations. Welcome them and build new housing for them in cities.](chapter_increasing-densification.html)
+{:.choice-options}
 
 As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}
-
-(set: $temp to 1.8)

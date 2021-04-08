@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
+title: "Refugee crisis + resilient world"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Refugee crisis + resilient world
-
 Phew, is it just me, or is it getting pretty hot in here?
+{:.leader-sentence}
 
 Despite all we’ve done, the world is really starting to feel the effects of climate change. 2041 is a particularly brutal year: so many disasters happen all at once that many of them don’t even make it onto the front page of your news site.
 
@@ -19,15 +18,12 @@ REM’s classic song “It’s the End of the World as We Know It (and I Feel Fi
 
 Millions want to resettle in more protected places. Rich countries recognize that they have ageing populations and new immigrants will be a huge boost for their economies, but resettling people will worsen housing shortages in the most desirable cities.
 
-**How should society respond?**
+How should society respond?
 {:.choice-question}
 
-[[Let’s build new public housing in cities.->Increasing densification]]
-
-[[Let’s offer tax breaks and loosen regulations so that private businesses build more housing.->Corporate housing]]
-
+- [Let’s build new public housing in cities.](chapter_increasing-densification.html)
+- [Let’s offer tax breaks and loosen regulations so that private businesses build more housing.](chapter_corporate-housing.html)
+{:.choice-options}
 
 As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}
-
-(set: $temp to 1.6)

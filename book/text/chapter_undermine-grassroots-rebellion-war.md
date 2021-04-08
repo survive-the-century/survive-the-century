@@ -1,16 +1,16 @@
 ---
-title: 
-style: 
+title: "Undermine grassroots rebellion (war)"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.7
 ---
 
-## Undermine grassroots rebellion (war)
+The EU and US claim that the protests are being stirred up and funded by the Chinese government in an attempt to undermine their democracies. 
+{:.leader-sentence}
 
-
-The EU and US claim that the protests are being stirred up and funded by the Chinese government in an attempt to undermine their democracies. They claim that it’s all being triggered by a targeted disinformation campaign on the hottest new social network: Spldge.
+They claim that it’s all being triggered by a targeted disinformation campaign on the hottest new social network: Spldge.
 
 Funny… China, which is seeing protests of its own, claims the same thing.
 
@@ -18,6 +18,5 @@ And no one has a good explanation for why the protests are happening simultaneou
 
 Everyone is angry. Nothing is done about climate change.
 
-[[Well, you made it through the decade!->Welcome to 2040 (Climate Wars)]]
-
-(set: $temp to 1.7)
+- [Well, you made it through the decade!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-climate-wars.html"}
+{:.choice-options}

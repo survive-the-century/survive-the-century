@@ -1,21 +1,18 @@
 ---
-title: 
-style: 
+title: "Zoonotic pandemic"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 2.7
 ---
 
-## Zoonotic pandemic
-
-
 Climate change disrupts wildlife migration, leading to the emergence of a terrible new virus, popularly known as Wisconsin flu.
+{:.leader-sentence}
 
 Within six months, it spreads all around the world, killing two per cent of the world’s population and decimating the global economy.
 
 Talking about geo-engineering is nobody’s priority right now.
 
-[[Well, you made it through the 2060s.->Welcome to 2070 (Slow Fade)]]
-
-(set: $temp to 2.7)
+- [Well, you made it through the 2060s.](part-page_2060.html){js-next-dest="newspaper_welcome-to-2070-slow-fade.html"}
+{:.choice-options}

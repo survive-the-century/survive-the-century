@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
+title: "Reform capitalism"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Reform capitalism
-
 We tax the rich and invest in public infrastructure and generous grant programmes.
+{:.leader-sentence}
 
 Freed from constant worry about their next pay cheque, we start to see a lot of experiments in new forms of communal and sustainable urban living.
 
@@ -17,11 +16,9 @@ We start reforming capitalism with new rules like employee representation on boa
 
 A lot of carbon capture projects happen on a grassroots level as co-operatives and community-owned projects. It looks like the world is on track to reach zero emissions by 2037.
 
-**But wait, the rich have \#sadfeels about all this! They produce charts proving that all this equality will decimate the world’s economy!**
+But wait, the rich have \#sadfeels about all this! They produce charts proving that all this equality will decimate the world’s economy!
 {:.choice-question}
 
-[[Well then, maybe we’re measuring the economy wrong.->GHW]]
-
-[[Oh no! Better undo all of these reforms. Things were fine before, weren’t they?->Gains reversed]]
-
-(set: $temp to 1.6)
+- [Well then, maybe we’re measuring the economy wrong.](chapter_ghw.html)
+- [Oh no! Better undo all of these reforms. Things were fine before, weren’t they?](chapter_gains_reversed.html)
+{:.choice-options}

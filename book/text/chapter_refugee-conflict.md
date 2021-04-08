@@ -1,17 +1,16 @@
 ---
-title: 
-style: 
-conflict: 
+title: "Refugee conflict"
+style: chapter
+conflict: 4
 decade: 
 economy: 
-temperature: 
+temperature: 1.9
 ---
 
-## Refugee conflict
+Rich countries argue this is unfair. 
+{:.leader-sentence}
 
+There are far too many refugees. Their entire way of life will be disrupted if they have to do this.
 
-Rich countries argue this is unfair. There are far too many refugees. Their entire way of life will be disrupted if they have to do this.
-
-[[A number of strongmen leaders emerge in rich countries that say they’ll pull out of the international migrant treaty.->Strongmen]]
-
-(set: $temp to 1.9) (set: $conflict to “😡”)
+- [A number of strongmen leaders emerge in rich countries that say they’ll pull out of the international migrant treaty.](chapter_strongmen.html)
+{:.choice-options}

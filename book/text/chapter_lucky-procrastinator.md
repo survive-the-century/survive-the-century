@@ -1,16 +1,14 @@
 ---
-title: 
-style: 
+title: "Lucky procrastinator"
+style: chapter
 conflict: 
 decade: 
 economy: 
 temperature: 
 ---
 
-## Lucky procrastinator
-
-
 Uh, really? Okay…
+{:.leader-sentence}
 
 You publish an editorial saying that we should bet on a technological breakthrough to magically fix our problems. It’s a very convincing piece!
 

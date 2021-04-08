@@ -18,4 +18,5 @@ A lot of carbon capture projects happen on a grassroots level as co-operatives/c
 
 The rich have \#sadfeels about all this. Nobody cares.
 
-[[[Congrats! You made it to 2040!->Welcome to 2040 (Ecotopia)]]
+- [Congrats! You made it to 2040!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-ecotopia"}
+{:.choice-options}

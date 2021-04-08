@@ -1,15 +1,14 @@
 ---
-title: 
-style: 
+title: "Refugee crisis + designer world"
+style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 
+temperature: 2.5
 ---
 
-## Refugee crisis + designer world
-
 The world is really starting to feel the effects of climate change.
+{:.leader-sentence}
 
 The popular view is that it’s far too late to stop any of this from happening: we have to *adapt* to the new climate.
 
@@ -23,15 +22,12 @@ REM’s classic song “It’s the End of the World as We Know It (and I Feel Fi
 
 Millions want to resettle in more protected places. Most resettle in their own country, but many also cross borders in an attempt to give their families a better life.
 
-**What’s your angle on this?**
+What’s your angle on this?
 {:.choice-question}
 
-[[Refugees are valuable, especially in rich countries with ageing populations. Let’s welcome them into our cities.->Human capital]]
-
-[[These immigrants are coming for your UBI!->Strongmen]]
-
+- [Refugees are valuable, especially in rich countries with ageing populations. Let’s welcome them into our cities.](chapter_human-capital.html)
+- [These immigrants are coming for your UBI!](chapter_strongmen.html)
+{:.choice-options}
 
 As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}
-
-(set: $temp to 2.5)
