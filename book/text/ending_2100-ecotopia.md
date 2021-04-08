@@ -1,16 +1,10 @@
 ---
-title: 
-style: 
-conflict: 
-decade: 
-economy: 
-temperature: 
+title: "2100 (Ecotopia)"
+style: ending
+image: 
 ---
 
-## 2100 (Ecotopia)
-
-
-#### So, what does the world look like at the end of the century?
+# So, what does the world look like at the end of the century?
 
 Looking back, we’d describe the 21st century as one of profound change, mostly for the better.
 
@@ -20,7 +14,7 @@ There’s more respect for indigenous knowledge and the idea of environmental st
 
 Nature is thriving and species we thought were extinct recover, as well as new species evolved for the new wild places of the earth. We manage to avoid the worst effects of climate change.
 
-### How did you get here?
+# How did you get here?
 
 You focused on reducing emissions early in the century, took bold steps to build a more inclusive economy, and prioritized respect for the natural world. Shifting to renewable energy and sustainable agriculture in the 2020s was key, but it mattered that you balanced those changes with investing in jobs that support human wellbeing, like those in education and healthcare.
 
