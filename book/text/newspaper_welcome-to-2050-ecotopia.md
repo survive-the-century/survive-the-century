@@ -1,38 +1,34 @@
 ---
-title: 
-style: 
+title: "Welcome to 2050 (Ecotopia)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2050
 economy: 
-temperature: 
+temperature: 1.7
 ---
 
-## Welcome to 2050 (Ecotopia)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 3 January 2050
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 Last harvest of wheat crop in Argentina signals the end of monoculture
+{:.headline}
 
 Sustainable small-scale organic agroforestry now produces 90 per cent of all food
+{:.subheadline}
 
-OTHER STORIES TODAY
+### Other stories today
 
-“We’ve turned the tide, but we should expect more disasters in the coming decade,” say climate experts, pointing to stabilizing temperatures
+- “We’ve turned the tide, but we should expect more disasters in the coming decade,” say climate experts, pointing to stabilizing temperatures
+- Laugh of the day: Review of a “Green Mall” by a grumpy Gen X shopaholic [Read more](story_green-mall-review.html)
+- Since the domestication of ostriches, home protein diets have improved significantly
+- Surface ocean acidification has been successfully reversed
+- Beavers return to Manhattan as the city fragments into sustainable communities
+{:.articles}
 
-[[Laugh of the day: Review of a “Green Mall” by a grumpy Gen X shopaholic->Green Mall review]]
-
-Since the domestication of ostriches, home protein diets have improved significantly
-
-Surface ocean acidification has been successfully reversed
-
-Beavers return to Manhattan as the city fragments into sustainable communities
-
-[[Let’s see what the 2050s will bring->Who looks after the wild?]]
-
-(set: $temp to 1.7) (set: $decade to “2050s”)
+[Let’s see what the 2050s will bring](chapter_who-looks-after-the-wild.html){:.next-decade-link}

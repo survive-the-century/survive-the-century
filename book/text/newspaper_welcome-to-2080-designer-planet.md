@@ -1,43 +1,37 @@
 ---
-title: 
-style: 
+title: "Welcome to 2080 (Designer Planet)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2080
 economy: 
-temperature: 
+temperature: 2
 ---
 
-## Welcome to 2080 (Designer Planet)
+# The news
 
-
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 12 January 2080
+{:.date}
 
-TOP ARTICLE
+### Top article
 
-The Council is still the greatest! Successfully averts near-disaster, saves humanity again
+The Council is still the greatest! 
+{:.headline}
 
-OTHER STORIES TODAY
+Successfully averts near-disaster, saves humanity again
+{:.subheadline}
 
-New breakthrough in air-to-food technology will mean we never have to rely on unreliable sunlight to grow our food, ever again
+### Other stories today
 
-Too hot where you live? Try one of these designer cool suits that will let you go outside for up to two hours
+- New breakthrough in air-to-food technology will mean we never have to rely on unreliable sunlight to grow our food, ever again
+- Too hot where you live? Try one of these designer cool suits that will let you go outside for up to two hours
+- Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin [Read more](story_lena-lenin.html)
+- A hundred of the best new underground nightclubs! (literally underground)
+- Five steps to create an indoor tropical paradise
+- Council reveals plans to launch huge new solar disc into orbit, increasing solar energy supplies hundredfold
+- Round-up of our favourite immersive VR nature experiences: So much better than the real thing!
+- What three of our favourite Council leaders are wearing this winter
+{:.articles}
 
-[[Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin->Lena Lenin]]
-
-A hundred of the best new underground nightclubs! (literally underground)
-
-Five steps to create an indoor tropical paradise
-
-Council reveals plans to launch huge new solar disc into orbit, increasing solar energy supplies hundredfold
-
-Round-up of our favourite immersive VR nature experiences: So much better than the real thing!
-
-What three of our favourite Council leaders are wearing this winter
-
-[[Just one more decade to go.->Climate domes]]
-
-(set: $temp to 2) (set: $decade to “2080s”)
+[Just one more decade to go.](chapter_climate-domes.html){:.new-decade-link}

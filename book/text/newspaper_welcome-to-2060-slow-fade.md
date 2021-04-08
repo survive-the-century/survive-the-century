@@ -1,36 +1,33 @@
 ---
-title: 
-style: 
+title: "Welcome to 2060 (Slow Fade)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2060
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Welcome to 2060 (Slow Fade)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 3 January 2060
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 “What are they waiting for? People are dying”: Humanitarian groups warn of mass famine across South East Asia
+{:.headline}
 
 Shifting Indian monsoon patterns bring droughts, floods for tenth consecutive year
+{:.subheadline}
 
-OTHER STORIES TODAY
+## Other stories today
 
-Chile holds historic reconciliation summit with climate guerrillas: “In retrospect, maybe we should have done more”
+- Chile holds historic reconciliation summit with climate guerrillas: “In retrospect, maybe we should have done more”
+- AlphaZero recommends solar geo-engineering, world leaders dither
+- Trans-Arctic shipping surpasses trans-Pacific shipping for first time
+- TikTok, Billie Eilish and sea ice: Our favourite nostalgic memories of the 2020s!
+{:.articles}
 
-AlphaZero recommends solar geo-engineering, world leaders dither
-
-Trans-Arctic shipping surpasses trans-Pacific shipping for first time
-
-TikTok, Billie Eilish and sea ice: Our favourite nostalgic memories of the 2020s!
-
-[[Cool, let’s see what the 2060s will bring…->2.5 degree shocks]]
-
-(set: $temp to 2.3) (set: $decade to “2060s”)
+[Cool, let’s see what the 2060s will bring…](chapter_2-5-degree-shocks.html){:.next-decade-link}

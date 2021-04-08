@@ -1,36 +1,34 @@
 ---
-title: 
-style: 
+title: "Welcome to 2080 (Ecotopia)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2080
 economy: 
-temperature: 
+temperature: 1.25
 ---
 
-## Welcome to 2080 (Ecotopia)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 24 June 2080
+{:.date}
 
-TOP ARTICLE
+### Top article
 
-The great sea ice return: Summer fest in the Arctic as Inuit communities celebrate the progression of sea ice returning
+The great sea ice return: 
+{:.headline}
 
-OTHER STORIES TODAY
+Summer fest in the Arctic as Inuit communities celebrate the progression of sea ice returning
+{:.subheadline}
 
-Arctic First Nations school established for intergenerational knowledge exchange about how to thrive in the cold
+### Other stories today
 
-[[Report from the Global Indigenous Peoples’ Stewardship Summit->GIPSS]]
+- Arctic First Nations school established for intergenerational knowledge exchange about how to thrive in the cold
+- Report from the Global Indigenous Peoples’ Stewardship Summit [Read more](story_gipss.html)
+- Scientists worried: Did we cool too quickly? Will we need to adapt our adaptations?
+- Glaciers have been spotted on Mount Kilimanjaro!
+- REAL SNOW! Historic ski resort in Argentina opens with real snow for the first time in decades
+{:.articles}
 
-Scientists worried: Did we cool too quickly? Will we need to adapt our adaptations?
-
-Glaciers have been spotted on Mount Kilimanjaro!
-
-REAL SNOW! Historic ski resort in Argentina opens with real snow for the first time in decades
-
-[[Just one more decade to go.->The end of nation states]]
-
-(set: $temp to 1.25) (set: $decade to “2080s”)
+[Just one more decade to go.](chapter_the-end-of-nation-states.html){:.new-decade-link}

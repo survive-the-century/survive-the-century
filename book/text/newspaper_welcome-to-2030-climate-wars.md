@@ -1,36 +1,34 @@
 ---
-title: 
-style: 
+title: "Welcome to 2030 (Climate Wars)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2030
 economy: 
-temperature: 
+temperature: 1.6
 ---
 
-## Welcome to 2030 (Climate Wars)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 3 January 2030
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 Tensions mount over control of Arctic sea routes
+{:.headline}
 
 Emergency summit aims to prevent new Cold War between US, Canada, China and Russia as melting ice creates lucrative new shipping routes
+{:.subheadline}
 
-OTHER STORIES TODAY
+### Other stories today
 
-Bolsonaro issues new permits for logging in the Amazon after indigenous communities devastated by Covid-19
+- Bolsonaro issues new permits for logging in the Amazon after indigenous communities devastated by Covid-19
+- Matrimonial Advertisement: Indian NRI Seeks Suitable Match [Read more](story_matrimony.html)
+- Bay of Bengal sets new record for number of super-cyclones, displacing millions of people
+- Record damages due to floods in the US Midwest are only matched by damage caused by mega-fires on the west coast of North America
+{:.articles}
 
-[[Matrimonial Advertisement: Indian NRI Seeks Suitable Match->Matrimony]]
+[What will this new decade bring?](chapter_grassroots-climate-rebellion.html){:.new-decade-link}
 
-Bay of Bengal sets new record for number of super-cyclones, displacing millions of people
-
-Record damages due to floods in the US Midwest are only matched by damage caused by mega-fires on the west coast of North America
-
-[[What will this new decade bring?->Grassroots climate rebellion]]
-
-(set: $temp to 1.6) (set: $decade to “2030s”)

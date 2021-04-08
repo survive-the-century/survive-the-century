@@ -1,33 +1,34 @@
 ---
-title: 
-style: 
+title: "Welcome to 2090 (billionaire ecotopia takeover)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2090
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Welcome to 2090 (billionaire ecotopia takeover)
+# The news
 
-
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 9 August 2090
+{:.date}
 
-TOP ARTICLE
+### Top article
 
-Are you Team Cocoa or Team Lydia? Final two contestants compete in talent show hoping to win spot in Martian-controlled oasis
+Are you Team Cocoa or Team Lydia? 
+{:.headline}
 
-OTHER STORIES TODAY
+Final two contestants compete in talent show hoping to win spot in Martian-controlled oasis
+{:.subheadline}
 
-Thousands apply for one surrogate position: Compensation for surrogacy at all-time low as supply of hopefuls outpaces demand
+### Other stories today
 
-Solar-powered Cape-to-Cairo magnetic levitation train “derails” mid-journey in the Congo basin, causing severe impacts to the home of mountain gorillas and creating mass outcry across the world
+- Thousands apply for one surrogate position: Compensation for surrogacy at all-time low as supply of hopefuls outpaces demand
+- Solar-powered Cape-to-Cairo magnetic levitation train “derails” mid-journey in the Congo basin, causing severe impacts to the home of mountain gorillas and creating mass outcry across the world
+- Outcry as logging begins in Amazon rainforest for the first time since 2030s
+{:.articles}
 
-Outcry as logging begins in Amazon rainforest for the first time since 2030s
+[You made it to the end of the century!](ending_2100-billionaire-ecotopia.html){:.new-decade-link}
 
-[[You made it to the end of the century!->2100 (Billionaire Ecotopia)]]
-
-(set: $temp to 2.3) (set: $decade to “2090s”) (set: $takeover to 1)
+(set: $takeover to 1)

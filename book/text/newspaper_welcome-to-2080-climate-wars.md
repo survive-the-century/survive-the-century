@@ -1,40 +1,35 @@
 ---
-title: 
-style: 
+title: "Welcome to 2080 (Climate Wars)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2080
 economy: 
-temperature: 
+temperature: 4
 ---
 
-## Welcome to 2080 (Climate Wars)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 12 July 2080
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 Violence erupts in poverty belts around New York and San Francisco
+{:.headline}
 
 Millions are left without refuge during the peak heat of the summer
+{:.subheadline}
 
-OTHER STORIES TODAY
+### Other stories today
 
-Chinese colonies in Africa are without water after American navy attacks Antarctic ice cargo ships
+- Chinese colonies in Africa are without water after American navy attacks Antarctic ice cargo ships
+- Displaced urban populations finally learning sustainable living among indigenous peoples’ forest refuge
+- Chinese navy occupies New Zealand waters after fisheries collapse in the tropical Pacific
+- Maize crops fail for the eighth consecutive year, five billion people rely on international food assistance
+- Serious destabilization of Arctic methane clathrates triggers tsunamis in northern seas
+- Millions of climate refugees are offered asylum in exchange for work in Antarctic uranium mines
+{:.articles}
 
-Displaced urban populations finally learning sustainable living among indigenous peoples’ forest refuge
-
-Chinese navy occupies New Zealand waters after fisheries collapse in the tropical Pacific
-
-Maize crops fail for the eighth consecutive year, five billion people rely on international food assistance
-
-Serious destabilization of Arctic methane clathrates triggers tsunamis in northern seas
-
-Millions of climate refugees are offered asylum in exchange for work in Antarctic uranium mines
-
-[[Just one more decade to go.->Death cults]]
-
-(set: $temp to 4) (set: $decade to “2080s”)
+[Just one more decade to go.](chapter_death-cults.html){:.new-decade-link}

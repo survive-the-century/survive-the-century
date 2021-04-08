@@ -1,38 +1,34 @@
 ---
-title: 
-style: 
+title: "Welcome to 2030 (Slow Fade)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2030
 economy: 
-temperature: 
+temperature: 1.5
 ---
 
-## Welcome to 2030 (Slow Fade)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 3 January 2030
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 Gates: Covid-19 approaching “final mile” of elimination
+{:.headline}
 
 Experts question continuing neglect of other global health priorities
+{:.subheadline}
 
-OTHER STORIES TODAY
+### Other stories today
 
-“Economy First”: US President Mike Pence pledges to bring prosperity to Appalachian shanty towns by revitalising the last coal mines
+- “Economy First”: US President Mike Pence pledges to bring prosperity to Appalachian shanty towns by revitalising the last coal mines
+- Top Bollywood stars establish fund to reunite families separated by 2027–29 quarantine
+- “The reefs are f-cked” admits leading coral reef expert
+- Record-breaking Hurricane Omega devastates Ireland
+- Vampire bats seen in New Orleans: experts say no risk, but possible benefits if they eat dengue mosquitoes
+{:.articles}
 
-Top Bollywood stars establish fund to reunite families separated by 2027–29 quarantine
-
-“The reefs are f-cked” admits leading coral reef expert
-
-Record-breaking Hurricane Omega devastates Ireland
-
-Vampire bats seen in New Orleans: experts say no risk, but possible benefits if they eat dengue mosquitoes
-
-[[What will this new decade bring?->Grassroots climate rebellion]]
-
-(set: $temp to 1.5) (set: $decade to “2030s”)
+[What will this new decade bring?](chapter_grassroots-climate-rebellion.html){:.next-decade-link}

@@ -1,42 +1,36 @@
 ---
-title: 
-style: 
+title: "Welcome to 2060 (Billionaire Saviours)"
+style: newspaper
 conflict: 
-decade: 
+decade: 2060
 economy: 
-temperature: 
+temperature: 2.3
 ---
 
-## Welcome to 2060 (Billionaire Saviours)
+# The news
 
-### The news
-
-All the news, all the time.
+## All the news, all the time.
 
 3 January 2060
+{:.date}
 
-TOP ARTICLE
+### Top article
 
 Regional geo-engineering by Saudi trillionaires leads to drought and crop failures in India
+{:.headline}
 
 Farmer suicides at all-time high
+{:.subheadline}
 
-OTHER STORIES TODAY
+### Other stories today
 
-The wealthiest entertainers create utopia bubbles; you’re probably not invited
+- The wealthiest entertainers create utopia bubbles; you’re probably not invited
+- Iyce festival in Greenland fails spectacularly, partygoers stranded as luxury glamping tents sink into melting permafrost
+- A new company wants to let you grow your own pork… on your own arm?
+- Major landslides destroy the town of Malibu after XÆ A-Xii Musk’s cloud seeding experiments cause unexpected torrential rainfall
+- Bangladeshi elevation project falls through – quite literally
+- Chinese economy rebounds as geo-engineering silver bullet slows rapid warming
+- World’s largest fishing company seeks damages as salmon catch dwindles after rogue ocean seeding experiment goes wrong
+{:.articles}
 
-Iyce festival in Greenland fails spectacularly, partygoers stranded as luxury glamping tents sink into melting permafrost
-
-A new company wants to let you grow your own pork… on your own arm?
-
-Major landslides destroy the town of Malibu after XÆ A-Xii Musk’s cloud seeding experiments cause unexpected torrential rainfall
-
-Bangladeshi elevation project falls through – quite literally
-
-Chinese economy rebounds as geo-engineering silver bullet slows rapid warming
-
-World’s largest fishing company seeks damages as salmon catch dwindles after rogue ocean seeding experiment goes wrong
-
-[[Cool, let’s see what the 2060s will bring…->Mars mission?]]
-
-(set: $temp to 2.3) (set: $decade to “2060s”)
+[Cool, let’s see what the 2060s will bring…](chapter_mars-mission.html){:.next-decade-link}
