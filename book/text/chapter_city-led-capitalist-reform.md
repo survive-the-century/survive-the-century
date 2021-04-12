@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 We tax the rich and invest in public infrastructure and generous grant programmes.
 {:.leader-sentence}
 
@@ -18,5 +21,5 @@ A lot of carbon capture projects happen on a grassroots level as co-operatives/c
 
 The rich have \#sadfeels about all this. Nobody cares.
 
-- [Congrats! You made it to 2040!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-ecotopia"}
+- [Congrats! You made it to 2040!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-ecotopia"}
 {:.choice-options}

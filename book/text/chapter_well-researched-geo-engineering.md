@@ -7,6 +7,10 @@ economy:
 temperature: 3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 All this investment in research starts paying off. 
 {:.leader-sentence}
 
@@ -17,9 +21,12 @@ There is some risk that something will go wrong. We could spend a few more years
 Should we try a geo-engineering solution now, or do more research?
 {:.choice-question}
 
-Should we go for it? (set: $stalling to 0) (link-repeat: “Let’s do a little more research first.”)[(if: $stalling \>= 1)[(goto:"Stalling")](else:)[(set:$stalling to it + 1)]]
+- [Let’s do a little more research first.](chapter_stalling.html){:js-var="js-var-stalling-1"}
+- [Let’s give it a go](geoengineering-1-10-placeholder){:js-var="js-var-geoengineering"}
 
-(link: “Let’s give it a go”)[(set: $geoengineering to (random: 1,10))(if: $geoengineering \<= 1)[(goto:“Geo-engineering FAIL”)](about:blank)[(goto:“Global climate council”)]]
+(set: $stalling to 0) (link-repeat: “”)[(if: $stalling \>= 1)[(goto:"Stalling")](else:)[(set:$stalling to it + 1)]]
+
+(link: “”)[(set: $geoengineering to (random: 1,10))(if: $geoengineering \<= 1)[(goto:“Geo-engineering FAIL”)](else)[(goto:“Global climate council”)]]
 
 Solar radiation management or modification (SRM) is an untested group of techniques and technologies that aim to reflect sunlight away from the earth. These include ideas like injecting sulphur aerosols into the stratosphere, brightening the clouds above the ocean, or even deploying space mirrors that bounce sunlight away from the earth. SRM would not undo the damage we’ve done to our planet: instead, it would simply slow warming without reducing the greenhouse gas emissions that drive climate change. SRM is highly controversial, with many people arguing that further tampering with our climate system is too risky.
 {:.infobox}

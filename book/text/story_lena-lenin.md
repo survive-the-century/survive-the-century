@@ -7,6 +7,9 @@ economy:
 temperature: 2
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin
 
 By Sophia Al-Maria

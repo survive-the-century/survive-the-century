@@ -7,6 +7,9 @@ economy:
 temperature: 2 
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Paris Fashion Week 2060 special report 
 
 By Sophia Al-Maria

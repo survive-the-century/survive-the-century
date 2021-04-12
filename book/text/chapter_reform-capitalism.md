@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 We tax the rich and invest in public infrastructure and generous grant programmes.
 {:.leader-sentence}
 

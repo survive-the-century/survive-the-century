@@ -7,6 +7,9 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The EU and US claim that the protests are being stirred up and funded by the Chinese government in an attempt to undermine their democracies. 
 {:.leader-sentence}
 
@@ -18,5 +21,5 @@ And no one has a good explanation for why the protests are happening simultaneou
 
 Everyone is angry. Nothing is done about climate change.
 
-- [Well, you made it through the decade!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-climate-wars.html"}
+- [Well, you made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-climate-wars.html"}
 {:.choice-options}

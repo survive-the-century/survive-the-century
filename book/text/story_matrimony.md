@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Matrimonial advertisement: Indian NRI seeks suitable match
 
 Hi, this is Chandan. Indian, non-resident Indian (NRI), clean-shaven, male of 27 years with a PhD in sports medicine, seeking a suitable alliance with Indian Hindu cisgender non-veg woman – caste no bar. I hold a stable job with decent pay and climate-insured accommodation in a Chinese MNC-run gambling city 50 kilometres from Johannesburg, South Africa. My employment conditions offer reasonably excellent labour rights with handsome perks including discount-price access to Chinese super-vaccine, Coronacraft, which guarantees protection against all future mutations of novel coronaviruses. I am looking for a strong-willed and like-minded partner of milk-white complexion, with no siblings.

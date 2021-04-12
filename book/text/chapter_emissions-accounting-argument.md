@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 At the climate summit, leaders need to agree to increasing emission reduction targets. 
 {:.leader-sentence}
 

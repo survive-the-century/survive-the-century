@@ -7,7 +7,27 @@ economy:
 temperature: 2.6
 ---
 
-{ (if: $termination is “roguestates”)[Yeah… that doesn’t work. The rogue states successfully hack the space mirrors and bring down the whole system.] (if: $termination is “mars”)[The Mars colony is going to cost an eye-melting amount of money. Most geo-engineering projects are defunded, and many of them have to be stopped suddenly.] }
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
+<div class="js-var-termination-roguestates">
+
+Yeah… that doesn’t work. 
+{:.leader-sentence}
+
+The rogue states successfully hack the space mirrors and bring down the whole system.
+
+</div>
+
+<div class="js-var-termination-mars">
+
+The Mars colony is going to cost an eye-melting amount of money. 
+{:.leader-sentence}
+
+Most geo-engineering projects are defunded, and many of them have to be stopped suddenly.
+
+</div>
 
 It turns out that we’d become more dependent on geo-engineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
 

@@ -7,6 +7,9 @@ economy:
 temperature: 2.5
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 There are more desperate discussions about geo-engineering. 
 {:.leader-sentence}
 

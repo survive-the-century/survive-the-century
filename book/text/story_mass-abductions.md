@@ -7,6 +7,9 @@ economy:
 temperature: 2.25
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Mass-abductions hobble India’s guest talent programme
 
 By Rajat Chaudhuri

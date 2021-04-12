@@ -7,6 +7,9 @@ economy:
 temperature: 3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Feeling increasingly hopeless, various groups of climate rebels get together and start discussing cheap ways to hack the climate.
 {:.leader-sentence}
 

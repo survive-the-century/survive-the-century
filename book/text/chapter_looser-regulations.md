@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Corporations argue that they need tax cuts and looser environmental regulations so they can grow, and hire more people.
 {:.leader-sentence}
 

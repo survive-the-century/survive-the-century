@@ -7,6 +7,10 @@ economy:
 temperature: 2.1
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 We successfully launch a fleet of space mirrors that controls how sunlight is reflected from the planet.
 {:.leader-sentence}
 
@@ -17,6 +21,7 @@ The council is warned that if the space mirror project ever fails, there might b
 Should we also invest in the planetary clean-up project?
 {:.choice-question}
 
-(link: “Nah, we trust the space mirrors!”)[(set: $carboncapture to 0)(goto:“Welcome to 2060 (Designer Planet)”)]
-(link: “Yes, let’s make sure there’s a plan B.”)[(set: $carboncapture to 1)(goto:“Welcome to 2060 (Designer Planet)”)]
+- [Nah, we trust the space mirrors!](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2060-designer-planet.html" js-var="js-var-carboncapture-0"}
+- [Yes, let’s make sure there’s a plan B.](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2060-designer-planet.html" js-var="js-var-carboncapture-1"}
+{:.choice-options}
 

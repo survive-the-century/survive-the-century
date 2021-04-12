@@ -7,6 +7,9 @@ economy:
 temperature: 2.5
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Each rich country agrees to contribute ten per cent of their GDP to a global climate transition fund.
 {:.leader-sentence}
 
@@ -14,5 +17,5 @@ This money is spent to build infrastructure to help cities ravaged by climate ch
 
 Quality of life improves rapidly for most people in the world.
 
-- [You made it to 2050.](part-page_2050.html){js-next-dest="newspaper_welcome-to-2050-designer-planet.html"}
+- [You made it to 2050.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-designer-planet.html"}
 {:.choice-options}

@@ -1,11 +1,16 @@
 ---
-title: "Welcome to 2021c"
+title: "Welcome to 2021"
 style: chapter
 conflict: 3
-decade: 
+decade: 2020
 economy: 
 temperature: 1.2
 ---
+
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 
 It’s late 2021.
 {:.leader-sentence}
@@ -23,9 +28,8 @@ What do you propose, oh, powerful editor of the world’s most-read news site?
 How should we get more vaccines to the rest of the world?
 {:.choice-question}
 
-(link: “Maybe a rich country could donate some vaccines?”)[(set: $leaning to “wars”)(goto: “Slow economic recovery”)]
-(link: “Maybe billionaires could donate some vaccines?”)[(set: $leaning to “billionaires”)(goto: “Slow economic recovery”)]
-(link: “Each country should donate one per cent of its GDP to a global vaccine fund.”)[(goto: “Fair vaccine distribution”)]
-(link: “Wake up, sheeple! Vaccines are a plot by sinister elites to turn everyone gay!”)[(set: $leaning to “slowfade”)(goto: “Slow economic recovery”)]
-
-(set: $gdp to 80)
+- [Maybe a rich country could donate some vaccines?](chapter_slow-economic-recovery.html){:js-var="js-var-leaning-wars"}
+- [Maybe billionaires could donate some vaccines?](chapter_slow-economic-recovery.html){:js-var="js-var-leaning-billionaires"}
+- [Each country should donate one per cent of its GDP to a global vaccine fund.](chapter_fair-vaccine-distribution.html)
+- [Wake up, sheeple! Vaccines are a plot by sinister elites to turn everyone gay!](chapter_slow-economic-recovery.html){:js-var="js-var-leaning-slowfade"}
+{:.choice-options}

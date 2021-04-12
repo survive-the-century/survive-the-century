@@ -7,6 +7,9 @@ economy:
 temperature: 3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 For most of the century, news organizations like yours have been the voice of moderate centrism, cautioning people against bold action.
 {:.leader-sentence}
 

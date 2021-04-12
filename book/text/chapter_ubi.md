@@ -7,6 +7,10 @@ economy:
 temperature: 1.8
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 The push for universal basic income becomes overwhelming. Most countries are under pressure to try UBI projects.
 {:.leader-sentence}
 

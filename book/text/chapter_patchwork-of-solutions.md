@@ -7,6 +7,9 @@ economy:
 temperature: 2
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Rich countries agree to reduce their own emissions, but refuse to contribute to a global climate change fund. 
 {:.leader-sentence}
 

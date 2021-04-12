@@ -7,6 +7,10 @@ economy:
 temperature: 2.3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 Every billionaire has their own pet climate hacking project.
 {:.leader-sentence}
 

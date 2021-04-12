@@ -7,6 +7,10 @@ economy:
 temperature: 2.3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 # Trouble in Paradys: Virtual worlds, real targets
 
 *After a series of high-profile burglaries in an exclusive paradise zone, VR critics wonder: How real is too real?*

@@ -7,6 +7,9 @@ economy:
 temperature: 1
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Finnish children celebrate first snow day in 50 years
 
 By Maria Turtschaninoff

@@ -7,6 +7,9 @@ economy:
 temperature: 2.25
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The effects of climate change are getting more and more severe. 
 {:.leader-sentence}
 

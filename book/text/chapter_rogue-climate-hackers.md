@@ -7,6 +7,9 @@ economy:
 temperature: 3.2
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Climate rebels around the world start implementing small-scale projects to hack the climate. 
 {:.leader-sentence}
 
@@ -14,5 +17,5 @@ These projects somewhat work, but have unintended consequences. Communities have
 
 Overall, the temperature of the planet doesn’t increase as much as it might have, but the disruption to people’s lives is arguably higher.
 
-- [You made it to 2080!](part-page_2080.html){js-next-dest="newspaper_welcome-to-2080-slow-fade.html"}
+- [You made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-slow-fade.html"}
 {:.choice-options}

@@ -7,6 +7,9 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Review of a “green mall” by a grumpy Gen X shopaholic
 
 By Maria Turtschaninoff

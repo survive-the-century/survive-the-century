@@ -7,6 +7,9 @@ economy:
 temperature: 4
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The effects are terrible: mass extinctions, devastated crops. 
 {:.leader-sentence}
 
@@ -16,5 +19,5 @@ The eastern allies led by the United States finally surrender. The war is over.
 
 Millions starve. Billions are displaced. This decade is called “the terrible 70s”.
 
-- [When will this decade end?](part-page_2080.html){js-next-dest="newspaper_welcome-to-2080-climate-wars.html"}
+- [When will this decade end?](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-climate-wars.html"}
 {:.choice-options}

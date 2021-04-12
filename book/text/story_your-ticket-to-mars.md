@@ -7,6 +7,9 @@ economy:
 temperature: 2.3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Quiz: What’s your ticket to Mars?
 
 By Lauren Beukes

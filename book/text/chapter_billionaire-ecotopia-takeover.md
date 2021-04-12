@@ -7,6 +7,9 @@ economy:
 temperature: 
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Ugh.
 {:.leader-sentence}
 
@@ -14,5 +17,5 @@ Awful hyper-capitalist Martians conquer the planet. Turns out they’ve been spe
 
 They claim all of the earth’s best resources as their own and start building tiny mini-utopias in the beautiful, newly restored natural forests and beaches.
 
-- [Well, you survived the decade.](part-page_2090.html){js-next-dest="newspaper_welcome-to-2090-billionaire-ecotopia-takeover.html"}
+- [Well, you survived the decade.](part-page_2090.html){:js-next-dest="newspaper_welcome-to-2090-billionaire-ecotopia-takeover.html"}
 {:.choice-options}

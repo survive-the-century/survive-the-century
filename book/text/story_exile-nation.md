@@ -7,6 +7,9 @@ economy:
 temperature: 2
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Exile nation: What happens when you’re forced out of paradise?
 
 By Lauren Beukes

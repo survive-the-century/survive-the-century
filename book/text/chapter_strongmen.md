@@ -7,6 +7,9 @@ economy:
 temperature: 1.9
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Each new strongman leader blames the others for creating the migrant crisis.
 {:.leader-sentence}
 

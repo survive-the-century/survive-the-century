@@ -7,6 +7,10 @@ economy:
 temperature: 3.1
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 # The news
 
 ## All the news, all the time.

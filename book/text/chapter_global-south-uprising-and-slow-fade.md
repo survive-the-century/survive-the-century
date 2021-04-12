@@ -7,6 +7,9 @@ economy:
 temperature: 1.9
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The world is falling far short of the (pitiful) climate change targets agreed to, and the worst impacts are happening in poor countries.
 {:.leader-sentence}
 
@@ -17,6 +20,6 @@ Most of your readers live in rich countries. Will you encourage them to take res
 
 - [Absolutely. The rich world should accept full responsibility and pay for the damage that’s been done.](chapter_late-stage-designer-planet.html)
 - [The rich world should absolutely stop polluting, but every country needs to find its own solutions.](chapter_patchwork-of-solutions.html)
-- [Rude! Those Global South upstarts need to be put in their place.](part-page_2050.html){js-next-dest="newspaper_welcome-to-2050-climate-wars.html"}
+- [Rude! Those Global South upstarts need to be put in their place.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-climate-wars.html"}
 - [Surely some cheap magical technology could just fix this?](chapter_lucky-procrastinator.html)
 {:.choice-options}

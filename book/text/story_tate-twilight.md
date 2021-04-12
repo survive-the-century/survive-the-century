@@ -7,6 +7,10 @@ economy:
 temperature: 3.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 # The Tate Twilight
 
 By Rajat Chaudhuri

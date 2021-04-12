@@ -7,6 +7,9 @@ economy:
 temperature: 1.9
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 We realize that there’s one clear way we could fund UBI projects: fracking. We can consider natural gas a transitional energy source that helps to wean us off dirtier technologies.
 {:.leader-sentence}
 

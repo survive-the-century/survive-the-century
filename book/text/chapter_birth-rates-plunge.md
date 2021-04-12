@@ -7,6 +7,9 @@ economy:
 temperature: 1.4
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 As women become better educated, birth rates plunge all around the world. 
 {:.leader-sentence}
 

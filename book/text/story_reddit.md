@@ -7,6 +7,9 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Reddit thread: Globohomo vaccine whistle blown
 
 Online Culture reporter Sophia Al-Maria brings us a sampling of what’s happening on your favourite social networks.

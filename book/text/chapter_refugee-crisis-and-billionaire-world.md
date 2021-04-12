@@ -7,6 +7,10 @@ economy:
 temperature: 1.8
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 Phew, is it just me, or is it getting pretty hot in here?
 {:.leader-sentence}
 

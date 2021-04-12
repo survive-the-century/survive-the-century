@@ -7,6 +7,9 @@ economy:
 temperature: 2.2
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Universal basic income allows many more women to enter politics. 
 {:.leader-sentence}
 

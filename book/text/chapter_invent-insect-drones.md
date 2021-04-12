@@ -7,6 +7,9 @@ economy:
 temperature: 4
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The council manages to release pollinating drones and new heat-resistant crops that don’t need to be pollinated, so most people are saved. 
 {:.leader-sentence}
 
@@ -18,5 +21,5 @@ The weather in most parts of the world is still unreliable. The Council says tha
 
 Our Council invests more money in creating safe climate-controlled cities that are resilient to extreme weather. Some communities start to experiment with building cities that are entirely underground, or are covered with huge domes to protect them from the outside world.
 
-- [We made it to 2080!](part-page_2080.html){js-next-dest="newspaper_welcome-to-2080-designer-planet.html"}
+- [We made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-designer-planet.html"}
 {:.choice-options}

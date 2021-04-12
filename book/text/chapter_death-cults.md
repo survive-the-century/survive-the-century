@@ -7,6 +7,9 @@ economy:
 temperature: 
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The losers of the climate wars continue to try to rebuild their economies.
 {:.leader-sentence}
 
@@ -18,5 +21,5 @@ Are you going to let her publish her letter?
 {:.choice-question}
 
 - [Yes, let’s end it all.](chapter_nukes.html)
-- [No, it’s not over yet.](part-page_2090.html){js-next-dest="newspaper_welcome-to-2090-climate-wars.html"}
+- [No, it’s not over yet.](part-page_2090.html){:js-next-dest="newspaper_welcome-to-2090-climate-wars.html"}
 {:.choice-options}

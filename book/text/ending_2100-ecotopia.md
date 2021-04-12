@@ -4,6 +4,9 @@ style: ending
 image: 
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # So, what does the world look like at the end of the century?
 
 Looking back, we’d describe the 21st century as one of profound change, mostly for the better.

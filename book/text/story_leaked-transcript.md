@@ -7,6 +7,9 @@ economy:
 temperature: 3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # US-sponsored non-state actors seeding oceans with banned geo-engineering tech?
 
 By Rajat Chaudhuri

@@ -7,6 +7,9 @@ economy:
 temperature: 2.3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # The news
 
 ## All the news, all the time.
@@ -30,5 +33,3 @@ Final two contestants compete in talent show hoping to win spot in Martian-contr
 {:.articles}
 
 [You made it to the end of the century!](ending_2100-billionaire-ecotopia.html){:.new-decade-link}
-
-(set: $takeover to 1)

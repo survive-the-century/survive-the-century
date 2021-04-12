@@ -7,6 +7,10 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 Cities welcome new migrants and invest in public housing, built with green technologies and incorporating a lot of urban gardens and social spaces.
 {:.leader-sentence}
 

@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 The world agrees to the fastest possible transition to a zero-emissions world, even though this will require some changes to people’s lifestyles in rich countries.
 {:.leader-sentence}
 

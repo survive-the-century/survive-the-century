@@ -7,6 +7,10 @@ economy:
 temperature: 2.4
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, animal and insect death. They’re coming fast now.
 {:.leader-sentence}
 

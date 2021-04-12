@@ -7,6 +7,9 @@ economy:
 temperature: 1.5
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Obituaries
 
 ## Capitalism: 1760–2068

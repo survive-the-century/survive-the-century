@@ -7,6 +7,9 @@ economy:
 temperature: 1.9
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Rich countries argue this is unfair. 
 {:.leader-sentence}
 

@@ -7,6 +7,9 @@ economy:
 temperature: 1.6
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Vaccine Queen opens the first of 100 tech universities across West Africa
 
 By Lauren Beukes

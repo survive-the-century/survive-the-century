@@ -7,6 +7,9 @@ economy:
 temperature: 1.8
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Only a handful of countries welcome international climate refugees, and most are corralled into permanent refugee camps. 
 {:.leader-sentence}
 

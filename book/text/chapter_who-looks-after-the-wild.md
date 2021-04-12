@@ -7,6 +7,10 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 There’s all this new wild space in different parts of the world. 
 {:.leader-sentence}
 

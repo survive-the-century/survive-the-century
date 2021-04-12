@@ -7,6 +7,9 @@ economy:
 temperature: 2.3
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Statement from Womb Riot demanding radical eco-political reforms now
 
 We are Womb Riot, a group of eighteen women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.

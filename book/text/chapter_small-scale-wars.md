@@ -7,6 +7,10 @@ economy:
 temperature: 3.5
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 Climate rebels around the world start implementing small-scale projects to hack the climate. 
 {:.leader-sentence}
 
@@ -16,5 +20,5 @@ The world erupts in a series of violent local conflicts over suddenly scarce res
 
 The effects are terrible. Millions starve. Billions are displaced by war. This decade is called “the terrible 70s”.
 
-- [When will this decade end?](part-page_2080.html){js-next-dest="newspaper_welcome-to-2080-climate-wars.html"}
+- [When will this decade end?](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-climate-wars.html"}
 {:.choice-options}

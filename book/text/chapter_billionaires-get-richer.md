@@ -7,6 +7,10 @@ economy:
 temperature: 1.5
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 We decide to let the winners win, and the losers lose. There are few economic stimulus packages, but lower tax rates for businesses.
 {:.leader-sentence}
 
@@ -17,6 +21,6 @@ In 2028, scientists produce a report saying that despite all the international c
 What’s your angle on this?
 {:.choice-question}
 
-- [Are you nuts? Right now we need to *grow* the economy, not raise prices.](part-page_2030.html){js-next-dest="newspaper_welcome-to-2030-slow-fade.html"}
-- [That seems like a sensible, free-market approach to solving climate change!](part-page_2030.html){js-next-dest="newspaper_welcome-to-2030-billionaire-saviours.html"}
+- [Are you nuts? Right now we need to *grow* the economy, not raise prices.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-slow-fade.html"}
+- [That seems like a sensible, free-market approach to solving climate change!](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-billionaire-saviours.html"}
 {:.choice-options}

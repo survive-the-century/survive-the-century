@@ -7,6 +7,10 @@ economy:
 temperature: 1.7
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 We keep trying to reduce pollution through small, incremental changes. 
 {:.leader-sentence}
 
@@ -16,4 +20,4 @@ We are polluting less than we were in the 2020s, but we’re far off the goals s
 
 Hopefully that won’t be a problem or anything.
 
-- [Well, you made it through the decade!](part-page_2040.html){js-next-dest="newspaper_welcome-to-2040-slow-fade.html"}
+- [Well, you made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-slow-fade.html"}

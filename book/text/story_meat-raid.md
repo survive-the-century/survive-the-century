@@ -7,6 +7,10 @@ economy:
 temperature: 1.4
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
+
 # California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants
 
 By Maria Turtschaninoff

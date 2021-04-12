@@ -7,6 +7,9 @@ economy:
 temperature: 1.25
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 # Report from the Global Indigenous Peoples’ Stewardship Summit
 
 By Maria Turtschaninoff

@@ -7,6 +7,9 @@ economy:
 temperature: 
 ---
 
+<h1>{{ page.title }}</h1>
+
+{% include variables %}
 Millions try to move to the “green zones”, parts of the world that are more liveable. 
 {:.leader-sentence}
 

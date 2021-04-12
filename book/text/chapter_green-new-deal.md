@@ -7,6 +7,8 @@ economy:
 temperature: 1.3
 ---
 
+{% include variables %}
+
 Hey, this could be a chance for us to fix the economy, and address the climate crisis at the same time!
 {:.leader-sentence}
 
