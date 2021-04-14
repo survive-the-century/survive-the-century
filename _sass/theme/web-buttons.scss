@@ -1,0 +1,51 @@
+.next-decade-link {
+    background-color: $red;
+    // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+    width: 100vw;
+    position: fixed;
+    margin-left: -50vw;
+    left: 50%;
+    bottom: 0;
+
+    display: flex;
+  
+    & a {
+        width: 100%;
+        padding: 0.8rem 0;
+        text-align: center;
+
+        img {
+            height: 1.5rem;
+            vertical-align: bottom;
+            padding-right: 1rem;
+        }
+
+        img:last-of-type {
+            padding-left: 1rem;
+        }
+    }
+}
+
+.read-more {
+    margin-left: auto;
+}
+
+p.button {
+    width: 12.5rem;
+    height: 2.2rem;
+    display: flex;
+    margin: auto;
+    a {
+        display: block;
+        height: 100%;
+        width: 100%;
+        padding: 0.5rem 0;
+    }
+    // hover glow
+    &.css-glow {
+        box-shadow: 0 0 7px $red-60pc;
+        a {
+            background-color: $red;
+        }
+    }
+}

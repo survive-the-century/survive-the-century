@@ -1,0 +1,32 @@
+.choice-options {
+    list-style-type: none;
+    font-family: $font-text-main;
+    max-width: 25rem;
+    margin: 0 auto 3rem;
+    li {
+        border: 1.5px solid $green;
+        box-sizing: border-box;
+        color: $white;
+        margin-bottom: $line-height-default;
+        a {
+            display: block;
+            padding: 1rem 2rem 2rem 1rem;            
+        }
+
+        // hover glow
+        &.css-glow {
+            box-shadow: 0 0 7px $green-60pc;
+        }
+    }
+
+    li::after {
+        content: url(../../assets/images/web/next-arrow.svg);
+        float: right;
+        position: relative;
+        right: 0.5rem;
+        bottom: 1.5rem;
+    }
+    li svg {
+        border: 2.5px solid $red;
+    }
+}

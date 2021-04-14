@@ -1,0 +1,33 @@
+.part-page {
+    .background-image {
+        .text-wrapper {
+            display: block;
+            position: relative;
+            top: -36.5rem;
+
+            & * {
+                text-align: center;
+            }
+        }
+
+        p {
+            text-align: center;
+            position: relative;
+            top: -34rem;
+            a {
+                border: 2px solid $red;
+                padding: 1em;
+                // hover glow
+                &.css-glow {
+                    box-shadow: 0 0 7px $red-60pc;
+                }
+            }
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            margin-top: 10.5rem;
+        }
+    }
+}

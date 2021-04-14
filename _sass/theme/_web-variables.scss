@@ -1,0 +1,16 @@
+// Containers
+$max-width-default: 40rem;
+
+// Font faces
+$font-text-main: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$font-text-secondary: "Lora", "Apple Garamond", "Baskerville", "Cambria", "Droid Serif", "Times","Source Serif Pro", serif;
+
+// Type sizes
+$font-size-default: 1.125rem;
+$line-height-default: 1.8em;
+
+// Colours
+@import "colors";
+$color-text-main: $white;
+$color-text-secondary: $green;
+$color-background: $midnight;

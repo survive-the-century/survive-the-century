@@ -1,0 +1,15 @@
+.story {
+    // Background
+
+    #wrapper, #content {
+        background-color: $white;
+        color: $midnight;
+    }
+    
+
+    .author {
+        padding-bottom: 1rem;
+        width: 100%;
+        border-bottom: 1px solid $red;
+    }
+}

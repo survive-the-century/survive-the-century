@@ -1,0 +1,189 @@
+p {
+    letter-spacing: 0.02em;
+}
+
+// Chapters
+
+.chapter {
+    .leader-sentence,
+    .choice-question {
+        color: $green;
+        font-family: $font-text-secondary;
+        font-size: 4 * $font-size-default / 3;
+        font-style: italic;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+    }
+
+    .choice-options {
+        font-size: 7 * $font-size-default / 9;
+        line-height: 1.5em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        li a {
+            color: $color-text-main;
+            text-decoration: none;
+        }
+    }
+}
+
+// Newspaper
+
+.newspaper {
+
+    h1 {
+        font-family: $font-text-secondary;
+        font-size: 2.5 * $font-size-default;
+        // line-height: 1.5em;
+        letter-spacing: 0.02em;
+        color: $white;
+        
+    }
+
+    h2 {
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 2rem;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+        color: $red;
+    }
+
+    .newspaper-header p {
+        font-family: $font-text-secondary;
+        font-size: 1.375rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        color: $white;
+        text-align: right;
+    }
+
+    h3 {
+        font-family: $font-text-main;
+        font-size: 1.25rem;
+        line-height: 1.5em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    }
+
+    .headline {
+        font-family: $font-text-secondary;
+        font-size: 2rem;
+        font-style: italic;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+    }
+    
+    .subheadline {
+        font-family: $font-text-secondary;
+        font-size: 1.375rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+    }
+
+    ul.articles  {
+        list-style-type: none;
+        li {
+            font-family: $font-text-main;
+            font-size: $font-size-default;
+            line-height: 1.8em;
+            letter-spacing: 0.02em;
+        }
+    }
+}
+
+// Next decade link
+
+.next-decade-link a {
+    font-family: $font-text-main;
+    font-size: 0.875rem;
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+    color: $white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+// Story
+
+.story {
+    h1 {
+        font-family: $font-text-secondary;
+        font-size: 2rem;
+        font-style: italic;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+    }
+
+    .author {
+        font-family: $font-text-main;
+        font-size: 1rem;
+        line-height: 1.5em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    }
+}
+
+// Part-pages
+
+.part-page {
+    .text-words {
+        font-family: $font-text-secondary;
+        font-size: 2.5 * $font-size-default;
+        font-style: italic;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        color: $green;
+    }
+
+    .text-number {
+        font-family: $font-text-secondary;
+        font-size: 7.5rem;
+        line-height: 1.5em;
+        color: $white;
+    }
+
+    a {
+        font-family: $font-text-main;
+        font-size: 0.875rem;
+        line-height: 1.5em;
+        letter-spacing: 0.1em;
+        color: $white;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+}
+
+// Ending
+
+.ending {
+    h1 {
+        font-family: $font-text-secondary;
+        font-size: 2rem;
+        font-style: italic;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+        color: $green;
+        text-align: center;
+    }
+
+    .leader-sentence {
+        font-family: $font-text-secondary;
+        font-size: 1.375rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+    }
+}
+
+// Buttons
+
+p.button a{
+    font-family: $font-text-main;
+    font-size: 0.8rem;
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+    color: $white;
+    background-color: $red;
+    text-align: center;
+    text-transform: uppercase;
+}
