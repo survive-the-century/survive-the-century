@@ -13,10 +13,11 @@ layout: compress
 {% else %}
 
 {% include head.html %}
-{% include masthead.html %}
-{% include nav-button.html %}
 {% include start-content.html %}
+{%comment%}{% include dashboard %}{%endcomment%}
 {{ content }}
+{%comment%}{% include footer %}{%endcomment%}
+{%comment%}{% include nav %}{%endcomment%}
 {% include close-content.html %}
 
 {% if site.output == "web" and site.data.settings.web.pagination == true %}
@@ -26,8 +27,6 @@ layout: compress
 {% include pagination %}
 {% endif %}
 
-{% include nav.html %}
-{% include footer.html %}
 {% include close-body.html %}
 
 {% endif %}
