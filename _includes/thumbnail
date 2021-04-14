@@ -1,0 +1,1 @@
+![thumbnail](../{{ site.image-set }}/{{ include.file }})

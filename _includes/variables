@@ -1,0 +1,10 @@
+{% comment %}
+This object will allow the JavaScript to access the page variables
+set in the YAML frontmatter, so that the dashboard be be populated on each page.
+{% endcomment %}
+
+<div class="visuallyhidden">
+    <span class="temperature">{{ page.temperature }}</span>
+    <span class="decade">{{ page.decade }}</span>
+    <span class="conflict">{{ page.conflict }}</span>
+</div>
