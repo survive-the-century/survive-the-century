@@ -7,9 +7,8 @@ economy:
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 # Exile nation: What happens when you’re forced out of paradise?
 
 By Lauren Beukes
@@ -47,4 +46,5 @@ It’s almost time for me to leave. I bend down to stroke the cat, scruffy in th
 
 “No. I had to leave them behind,” Shanaaz says, sipping her spiked coffee and staring out at the bright glow on the horizon. “But I’ll be back for them. Soon. You’ll see.”
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html){:.new-decade-link}
+[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+{:.next-decade-link}

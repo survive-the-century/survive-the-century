@@ -7,9 +7,8 @@ economy:
 temperature: 1.9
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 All of this migration within countries leads to a lot of internal tension between different social groups.
 {:.leader-sentence}
 

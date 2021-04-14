@@ -7,9 +7,8 @@ economy:
 temperature: 2.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 The world is falling far short of the (pitiful) climate change targets agreed to, and the worst impacts are happening in poor countries.
 {:.leader-sentence}

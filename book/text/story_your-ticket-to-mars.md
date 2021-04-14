@@ -7,9 +7,8 @@ economy:
 temperature: 2.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 # Quiz: What’s your ticket to Mars?
 
 By Lauren Beukes
@@ -97,4 +96,5 @@ Finally, what’s your hidden talent?
 
 **Mostly Es:** You’re a hustler and a charmer and a schemer, able to outwit, outlast and outplay. Maybe you already made it to the final four on one of the Earth-bound seasons of *Survivor*, but this time you’re playing for real, for lifetime rights to a coveted spot in a Mars paradise zone.
 
-[Onwards into the 2070s!](chapter_climate-hacks-in-conflict.html){:.next-decade-link}
+[Onwards into the 2070s!](chapter_climate-hacks-in-conflict.html)
+{:.next-decade-link}

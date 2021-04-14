@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 Large parts of the world are declared “red zones” where humans can no longer live safely. 
 {:.leader-sentence}

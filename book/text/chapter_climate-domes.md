@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 Improvements in the space mirror fleet and other adaptation technologies help, but a lot of the outside world is still a hostile, frightening place. 
 {:.leader-sentence}

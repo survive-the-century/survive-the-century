@@ -7,9 +7,8 @@ economy:
 temperature: 1.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Populist leaders emerge calling for us to restrict access to contraception and abortion. 
 {:.leader-sentence}
 

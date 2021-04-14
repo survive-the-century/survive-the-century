@@ -7,9 +7,8 @@ economy:
 temperature: 2.1
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 As people get wealthier, they use a LOT more energy. 
 {:.leader-sentence}

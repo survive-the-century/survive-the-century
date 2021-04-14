@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 You get a frantic phone call in the middle of the night: 
 {:.leader-sentence}
 

@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 Doesn’t it make more sense for the government to just give people cash and let them spend it how they want to? 
 {:.leader-sentence}

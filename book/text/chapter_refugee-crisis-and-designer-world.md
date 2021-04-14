@@ -7,9 +7,8 @@ economy:
 temperature: 2.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The world is really starting to feel the effects of climate change.
 {:.leader-sentence}
 
@@ -32,5 +31,5 @@ What’s your angle on this?
 - [These immigrants are coming for your UBI!](chapter_strongmen.html)
 {:.choice-options}
 
-As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
+> As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}

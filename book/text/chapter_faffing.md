@@ -7,9 +7,8 @@ economy:
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Rich countries threaten to drop out of the summit completely if pushed too hard, arguing that they’re still recovering from the post-Covid economic crash.
 {:.leader-sentence}
 

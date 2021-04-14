@@ -7,9 +7,8 @@ economy:
 temperature: 4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The council manages to release pollinating drones and new heat-resistant crops that don’t need to be pollinated, so most people are saved. 
 {:.leader-sentence}
 

@@ -7,9 +7,8 @@ economy:
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Confronting the fact that national leaders aren’t going to do enough, María Carlini, the beloved newly elected 27-year-old mayor of Mexico City, calls a World Cities Summit, inviting the mayors of the largest cities from all around the world.
 {:.leader-sentence}
 

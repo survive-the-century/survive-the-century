@@ -7,9 +7,8 @@ economy:
 temperature: 1.25
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 # Report from the Global Indigenous Peoples’ Stewardship Summit
 
 By Maria Turtschaninoff
@@ -49,4 +48,5 @@ The GIPS has, during this summit, taken the radical decision that its primary go
 
 I take one last look at Mount Rásttigáisá, the holy mountain which has been teaching and guiding the Sámi people for centuries. And when camp is broken after midsummer, there will not be a single trace of the summit in a month or so, Laiti assures me. “First there will be dead circles where the tents and teepees and yurts and lavvus have stood. But by the end of summer, the grass will once more be green.”
 
-[Just one more decade to go.](chapter_the-end-of-nation-states.html){:.new-decade-link}
+[Just one more decade to go.](chapter_the-end-of-nation-states.html)
+{:.next-decade-link}

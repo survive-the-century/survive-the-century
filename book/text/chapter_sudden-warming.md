@@ -7,9 +7,8 @@ economy:
 temperature: 4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The effects are terrible: mass extinctions, devastated crops. 
 {:.leader-sentence}
 

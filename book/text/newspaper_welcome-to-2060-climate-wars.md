@@ -7,17 +7,13 @@ economy:
 temperature: 2.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-3 January 2060
-{:.date}
+{% include newspaper-title date="3 January 2060" %}
 
 ### Top article
+
+{% include image file="sulphur-pipe.png" class="headline-image portrait" %}
 
 Anger grows over US sulphur pipe
 {:.headline}
@@ -27,11 +23,12 @@ China leads call for sanctions over unilateral geo-engineering
 
 ### Other stories today
 
-- California secedes from the United States as geo-engineering causes winter rains to fail; joins Washington and Oregon to form new “eco-utopia” of Cascadia
-- Eco-terrorist cell from Bolivia kidnaps head of the geo-engineering assessment project. President Barron Trump: “We don’t negotiate with terrorists and we will make the World Great Again”
-- Stocks in sulphur mining companies see a record increase
-- China faces food rationing as vital supply chains from India and South Africa dry up due to drought
-- Sahara begins to creep south as the US geo-engineering project disrupts global weather
+- {% include thumbnail file="thumbnail_flow-vertical.png" %} California secedes from the United States as geo-engineering causes winter rains to fail; joins Washington and Oregon to form new “eco-utopia” of Cascadia
+- {% include thumbnail file="thumbnail_people.png" %} Eco-terrorist cell from Bolivia kidnaps head of the geo-engineering assessment project. President Barron Trump: “We don’t negotiate with terrorists and we will make the World Great Again”
+- {% include thumbnail file="thumbnail_graph.png" %} Stocks in sulphur mining companies see a record increase
+- {% include thumbnail file="thumbnail_squiggles.png" %} China faces food rationing as vital supply chains from India and South Africa dry up due to drought
+- {% include thumbnail file="thumbnail_stormy.png" %} Sahara begins to creep south as the US geo-engineering project disrupts global weather
 {:.articles}
 
-[Let’s see what the 2070s will bring](chapter_the-wars-begin.html){:.next-decade-link}
+[Let’s see what the 2060s will bring](chapter_the-wars-begin.html)
+{:.next-decade-link}

@@ -7,9 +7,8 @@ economy:
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The world agrees! 
 {:.leader-sentence}
 

@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Nation states do less and less – they’re just an administrative hassle and a barrier to truly fair global decision-making.
 {:.leader-sentence}
 

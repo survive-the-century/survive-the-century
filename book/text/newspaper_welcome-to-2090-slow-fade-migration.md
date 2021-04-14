@@ -6,14 +6,14 @@ decade: 2090
 economy: 
 temperature: 3.7
 ---
-# The news
 
-## All the news, all the time.
+{% include variables %}
 
-9 August 2090
-{:.date}
+{% include newspaper-title date="9 August 2090" %}
 
 ### Top article
+
+{% include image file="underwater-tourism.png" class="headline-image landscape" %}
 
 Indian tour operators advertise winter scuba tours of the sunken city of Malé:
 {:.headline}
@@ -23,12 +23,13 @@ Booming disaster tourism industry turns pain into profit
 
 ### Other stories today
 
-- Food scientist warns that synthetic rice, beans may not be as safe as manufacturers claim
-- Two floating cities nearly collide off coast of Madagascar
-- Thousands complain as heatwaves cripple mobile phone use outdoors, teens mock Gen Z for not using refrigerated phone cases
-- Bats drive pigeons out of Kingston, take over kudzu-choked remains of the sunken city
-- Last holdouts finally abandon the Sahel
-- Global fish populations collapse due to ocean acidification
+- {% include thumbnail file="thumbnail_squiggles.png" %} Food scientist warns that synthetic rice, beans may not be as safe as manufacturers claim
+- {% include thumbnail file="thumbnail_graph.png" %} Two floating cities nearly collide off coast of Madagascar
+- {% include thumbnail file="thumbnail_people.png" %} Thousands complain as heatwaves cripple mobile phone use outdoors, teens mock Gen Z for not using refrigerated phone cases
+- {% include thumbnail file="thumbnail_shapes.png" %} Bats drive pigeons out of Kingston, take over kudzu-choked remains of the sunken city
+- {% include thumbnail file="flow-horizontal" %} Last holdouts finally abandon the Sahel
+- {% include thumbnail file="thumbnail_water.png" %} Global fish populations collapse due to ocean acidification
 {:.articles}
 
-- [You made it to the end of the century!](ending_2100-slow-fade.html){:.new-decade-link}
+[You made it to the end of the century!](ending_2100-slow-fade.html)
+{:.next-decade-link}

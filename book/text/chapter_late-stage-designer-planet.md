@@ -7,9 +7,8 @@ economy:
 temperature: 2.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Each rich country agrees to contribute ten per cent of their GDP to a global climate transition fund.
 {:.leader-sentence}
 

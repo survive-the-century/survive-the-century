@@ -1,13 +1,11 @@
 ---
 title: "Meat raid"
-style: 
+style: story
 conflict: 
 decade: 2030
 economy: 
 temperature: 1.4
 ---
-
-<h1>{{ page.title }}</h1>
 
 {% include variables %}
 
@@ -26,4 +24,5 @@ During the last era of prohibition, in the 1930s, the illegal speakeasies are sa
 
 “But we are not so much after the restaurants, or ‘meat-easies’,” said Governor Christina Schwarzenegger. “The bigger issue is the illegal import of beef and pork from other states.”
 
-[What will this new decade bring?](chapter_easier-climate-conference.html){:.next-decade-link}
+[What will this new decade bring?](chapter_easier-climate-conference.html)
+{:.next-decade-link}

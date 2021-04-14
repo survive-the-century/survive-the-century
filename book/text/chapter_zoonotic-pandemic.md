@@ -7,9 +7,8 @@ economy:
 temperature: 2.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Climate change disrupts wildlife migration, leading to the emergence of a terrible new virus, popularly known as Wisconsin flu.
 {:.leader-sentence}
 

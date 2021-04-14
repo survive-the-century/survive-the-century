@@ -1,15 +1,14 @@
 ---
 title: "Reddit"
-style: 
+style: story
 conflict: 
 decade: 2030
 economy: 
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 # Reddit thread: Globohomo vaccine whistle blown
 
 Online Culture reporter Sophia Al-Maria brings us a sampling of what’s happening on your favourite social networks.
@@ -100,4 +99,5 @@ Even Reddit is controlled by China
 
 ― Lenin
 
-[What will this new decade bring?](chapter_grassroots-inequality-rebellion.html){:.next-decade-link}
+[What will this new decade bring?](chapter_grassroots-inequality-rebellion.html)
+{:.next-decade-link}

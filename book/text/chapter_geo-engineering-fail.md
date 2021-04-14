@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We drop tons of chemical nutrients into the ocean, hoping to stimulate the growth of phytoplanktons that will trap carbon dioxide from the air and cool the planet.
 {:.leader-sentence}
 

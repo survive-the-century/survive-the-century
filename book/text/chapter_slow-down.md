@@ -7,9 +7,8 @@ economy:
 temperature: 1.4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Your readers are convinced by this argument. 
 {:.leader-sentence}
 

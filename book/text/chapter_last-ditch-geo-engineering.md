@@ -7,9 +7,8 @@ economy:
 temperature: 2.25
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The effects of climate change are getting more and more severe. 
 {:.leader-sentence}
 
@@ -26,5 +25,5 @@ We could try geo-engineering now, or spend a few more years talking about it fir
 
 (link: “Let’s give it a go.”)[(set: $geoengineering to (random: 1,6))(if: $geoengineering \<= 1)[(goto:“Geo-engineering FAIL”)(goto:“Billionaire geo-engineering”)(goto:“Unilateral geo-engineering”)](about:blank)[(goto:“Surprising success geo-engineering”)]]
  
-Solar radiation management or modification (SRM) is an untested group of techniques and technologies that aim to reflect sunlight away from the earth. These include ideas like injecting sulphur aerosols into the stratosphere, brightening the clouds above the ocean, or even deploying space mirrors that bounce sunlight away from the earth. SRM would not undo the damage we’ve done to our planet: instead, it would simply slow warming without reducing the greenhouse gas emissions that drive climate change. SRM is highly controversial, with many people arguing that further tampering with our climate system is too risky.
+> Solar radiation management or modification (SRM) is an untested group of techniques and technologies that aim to reflect sunlight away from the earth. These include ideas like injecting sulphur aerosols into the stratosphere, brightening the clouds above the ocean, or even deploying space mirrors that bounce sunlight away from the earth. SRM would not undo the damage we’ve done to our planet: instead, it would simply slow warming without reducing the greenhouse gas emissions that drive climate change. SRM is highly controversial, with many people arguing that further tampering with our climate system is too risky.
 {:.infobox}

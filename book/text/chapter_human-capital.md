@@ -7,9 +7,8 @@ economy:
 temperature: 2.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Migrants are welcomed as “human capital” and resettled in new, high-tech cities all around the world. 
 {:.leader-sentence}
 

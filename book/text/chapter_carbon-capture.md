@@ -7,13 +7,14 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 
 <div class="js-var-carboncapture-1" markdown="1">
 
-Phew, okay, we did decide to invest in a planetary clean-up project back in the 2050s. Luckily that means that there are fewer greenhouse gases in the atmosphere. The planet will warm a bit, but the magnificent Council has enough time to fix the space mirrors before anything too bad happens. Thank you, Council! 
+Phew, okay, we did decide to invest in a planetary clean-up project back in the 2050s. 
+{:.leader-sentence}
+
+Luckily that means that there are fewer greenhouse gases in the atmosphere. The planet will warm a bit, but the magnificent Council has enough time to fix the space mirrors before anything too bad happens. Thank you, Council! 
 
 - [Congratulations, you made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-designer-planet.html"}
 {:.choice-options}
@@ -24,7 +25,10 @@ Phew, okay, we did decide to invest in a planetary clean-up project back in the 
 
 <div class="js-var-carboncapture-0" markdown="1">
 
-Oh, whoops, we did not invest in a planetary clean-up project. It just didn’t seem necessary! 
+Oh, whoops, we did not invest in a planetary clean-up project. 
+{:.leader-sentence}
+
+It just didn’t seem necessary! 
 
 Without the space mirrors keeping the planet cool, things heat up FAST. The world experiences the hottest year ever. Most major coastal cities are flooded. People die of heatstroke. Wild animals from warm parts of the world have to be ushered into temporary air-conditioned enclosures to keep them alive.
 

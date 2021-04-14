@@ -7,9 +7,8 @@ economy:
 temperature: 3.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Climate rebels around the world start implementing small-scale projects to hack the climate. 
 {:.leader-sentence}
 

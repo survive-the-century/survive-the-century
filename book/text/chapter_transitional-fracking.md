@@ -7,9 +7,8 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 Energy companies blame the aggressive climate emission laws for high levels of unemployment. 
 {:.leader-sentence}
@@ -24,5 +23,5 @@ Should we approve new large-scale fracking projects?
 - [Yes, but let’s nationalize this and use the profits to fund a universal basic income.](chapter_people-get-richer.html){:js-var="js-var-fracking-1"}
 {:.choice-options}
 
-Carbon capture technologies aim to clean the air by filtering pollution out and storing it, usually underground.
+> Carbon capture technologies aim to clean the air by filtering pollution out and storing it, usually underground.
 {:.infobox}

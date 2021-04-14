@@ -7,12 +7,13 @@ economy:
 temperature: 1.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 
-We decide to let the winners win, and the losers lose. There are few economic stimulus packages, but lower tax rates for businesses.
+
+We decide to let the winners win, and the losers lose.
 {:.leader-sentence}
+
+There are few economic stimulus packages, but lower tax rates for businesses.There are few economic stimulus packages, but lower tax rates for businesses.
 
 Some company stock prices boom while unemployment soars. The rich get even richer, while millions line up for food aid all around the world.
 

@@ -7,13 +7,13 @@ economy:
 temperature: 3.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 # The Tate Twilight
 
 By Rajat Chaudhuri
+{:.author}
 
 Open daily: 7 p.m. to 6 a.m.
 
@@ -35,4 +35,5 @@ One minor quibble: It seemed the core VR platform running the walkthroughs of th
 
 Tip: Carry a torch, there will be power cuts.
 
-[You made it to the end of the century!](ending_2100-climate-wars.html){:.new-decade-link}
+[You made it to the end of the century!](ending_2100-climate-wars.html)
+{:.next-decade-link}

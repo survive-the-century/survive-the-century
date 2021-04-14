@@ -7,9 +7,8 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Rich countries refuse!
 {:.leader-sentence}
 

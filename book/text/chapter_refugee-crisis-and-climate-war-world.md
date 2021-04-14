@@ -7,9 +7,8 @@ economy:
 temperature: 1.9
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Phew, is it just me, or is it getting pretty hot in here?
 {:.leader-sentence}
 
@@ -31,5 +30,5 @@ How should society respond?
 - [Refugees are valuable, especially in rich countries with ageing populations. Welcome them and build new housing for them in cities.](chapter_increasing-densification.html)
 {:.choice-options}
 
-As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
+> As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}

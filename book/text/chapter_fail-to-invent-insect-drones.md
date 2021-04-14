@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The Council scrambles to develop pollination drones and heat-resistant crops, but everything happens too quickly.
 {:.leader-sentence}
 

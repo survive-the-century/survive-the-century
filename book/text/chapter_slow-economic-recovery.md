@@ -7,9 +7,8 @@ economy:
 temperature: 1.4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 <div class="js-var-leaning-wars" markdown="1">
 

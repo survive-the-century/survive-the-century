@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The losers of the climate wars continue to try to rebuild their economies.
 {:.leader-sentence}
 

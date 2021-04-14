@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 One year later, the inventors walk out excited to show off their greatest achievement:
 {:.leader-sentence}
 

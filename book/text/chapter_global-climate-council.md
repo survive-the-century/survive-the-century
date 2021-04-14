@@ -7,9 +7,8 @@ economy:
 temperature: 2.1
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 We successfully launch a fleet of space mirrors that controls how sunlight is reflected from the planet.
 {:.leader-sentence}

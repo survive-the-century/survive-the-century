@@ -7,9 +7,8 @@ economy:
 temperature: 2.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 A global agreement seems impossible. 
 {:.leader-sentence}
 

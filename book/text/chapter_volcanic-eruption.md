@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Mount Agung, a volcano in Bali, erupts, fortuitously cooling the world by 0.2 degrees for the next two years.
 {:.leader-sentence}
 

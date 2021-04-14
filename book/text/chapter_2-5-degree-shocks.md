@@ -7,15 +7,16 @@ economy:
 temperature: 2.4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 
-We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, animal and insect death. They’re coming fast now.
+
+We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, animal and insect death. 
 {:.leader-sentence}
+
+They’re coming fast now.
 
 There’s a terrible global economic recession as more and more money is spent responding to disaster after disaster.
 
 - [Every country is in crisis mode, focusing on their own problems, far too busy to think about world events.](chapter_late-stage-geo-engineering.html)
-{:.choice-questions}
+{:.choice-options}
 

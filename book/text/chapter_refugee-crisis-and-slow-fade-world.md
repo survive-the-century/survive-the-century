@@ -7,9 +7,8 @@ economy:
 temperature: 1.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Phew, is it just me, or is it getting pretty hot in here?
 {:.leader-sentence}
 
@@ -29,5 +28,5 @@ How should society respond?
 - [Let’s make it easier for businesses to sponsor working visas, so people can only move to a country if they have a job there.](chapter_employment-as-citizenship.html)
 {:.choice-options}
 
-As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
+> As climate change leads to rising sea levels and extreme weather events like droughts, many parts of the world are becoming uninhabitable, forcing people to leave their homes. Experts warn 1.2 billion people could be displaced by 2050. But to many people’s surprise, most of this displacement will happen domestically.
 {:.infobox}

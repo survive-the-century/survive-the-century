@@ -7,11 +7,13 @@ economy:
 temperature: 1.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-Economies all around the world have been battered by Covid. Countries need bold new economic recovery plans. Different groups propose different solutions.
+
+Economies all around the world have been battered by Covid.
 {:.leader-sentence}
+
+Countries need bold new economic recovery plans. Different groups propose different solutions.
+
 
 Which economic proposal will your news site give the most time to?
 {:.choice-question}

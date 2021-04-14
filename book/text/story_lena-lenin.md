@@ -1,15 +1,14 @@
 ---
 title: "Lena Lenin"
-style: 
+style: story
 conflict: 
 decade: 2080
 economy: 
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 # Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin
 
 By Sophia Al-Maria
@@ -43,5 +42,5 @@ On the contrary. If in the old days, they were comfortable being led by the sobe
 
 That is all.
 
-[Just one more decade to go.](chapter_climate-domes.html){:.new-decade-link}
-
+[Just one more decade to go.](chapter_climate-domes.html)
+{:.next-decade-link}

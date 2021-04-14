@@ -7,9 +7,8 @@ economy:
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Billionaires make a compelling argument:
 {:.leader-sentence}
 

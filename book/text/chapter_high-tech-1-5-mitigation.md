@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 We deploy high-tech carbon capture technologies (literally giant machines that clear the air and ocean of pollutants), and they’re a real help in stabilizing the climate.
 {:.leader-sentence}
@@ -23,5 +22,5 @@ Should we disband our militaries?
 - [Hmm… maybe let’s keep some kind of planetary defence system in place, just in case.](chapter_disband-the-militaries.html){:js-var="js-var-military-yes"}
 {:.choice-options}
 
-Carbon capture technologies aim to clean the air by filtering pollution out and storing it, usually underground.
+> Carbon capture technologies aim to clean the air by filtering pollution out and storing it, usually underground.
 {:.infobox}

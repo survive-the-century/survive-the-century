@@ -7,9 +7,8 @@ economy:
 temperature: 2.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 A poll indicates that an overwhelming 80 per cent of people believe that climate projects should be managed democratically.
 {:.leader-sentence}
 

@@ -7,17 +7,13 @@ economy:
 temperature: 2.1
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-3 January 2050
-{:.date}
+{% include newspaper-title date="3 January 2050" %}
 
 ### Top article
+
+{% include image file="mass-graves.png" class="headline-image landscape" %}
 
 Millions die as world’s first “global syndemic” declared
 {:.headline}
@@ -27,11 +23,12 @@ Concurrent influenza-paramyxovirus kill millions with asthma and pre-existing re
 
 ### Other stories today
 
-- Europe’s Green First Party achieves majority in EU parliament, immediately passes tough new immigration restrictions
-- Russia resettles climate refugees in new Siberian camps, refuses access to photojournalists
-- SpaceX offers first long-term leases in space colony
-- Heatwaves overwhelm crumbling infrastructure, leading to blackouts and deaths
-- Synthetic coffee, chocolate now cheaper than natural counterparts
+- {% include thumbnail file="thumbnail_people.png" %} Europe’s Green First Party achieves majority in EU parliament, immediately passes tough new immigration restrictions
+- {% include thumbnail file="thumbnail_peaks.png" %} Russia resettles climate refugees in new Siberian camps, refuses access to photojournalists
+- {% include thumbnail file="thumbnail_forest.png" %} SpaceX offers first long-term leases in space colony
+- {% include thumbnail file="thumbnail_squiggles.png" %} Heatwaves overwhelm crumbling infrastructure, leading to blackouts and deaths
+- {% include thumbnail file="thumbnail_flow-vertical.png" %} Synthetic coffee, chocolate now cheaper than natural counterparts
 {:.articles}
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html){:.next-decade-link}
+[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+{:.next-decade-link}
