@@ -4,6 +4,8 @@
 layout: null
 ---
 
+{% include metadata %}
+
 {% include_relative polyfills.js %}
 {% include_relative utilities.js %}
 {% include_relative settings.js %}
@@ -20,15 +22,19 @@ layout: null
     {% include_relative setup.js %}
     {% include_relative vendor/mark.min.js %}
     {% include_relative search-terms.js %}
-    {% include_relative nav.js %}
+    {% comment %}{% include_relative nav.js %}{% endcomment %}
     {% include_relative videos.js %}
-    {% include_relative mcqs.js %}
+    {% comment %}{% include_relative mcqs.js %}{% endcomment %}
     {% include_relative select-list.js %}
     {% include_relative tables.js %}
     {% include_relative footnote-popups.js %}
     {% include_relative slides.js %}
     {% include_relative show-hide.js %}
     {% include_relative copy-to-clipboard.js %}
+    {% include_relative variables.js %}
+    {% include_relative next-destination.js %}
+    {% include_relative glow.js %}
+    {% include_relative buttons.js %}
 
     {% if site.data.settings.web.svg.inject == true %}
         {% include_relative vendor/svg-inject.min.js %}
