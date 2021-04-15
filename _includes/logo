@@ -1,0 +1,5 @@
+<div class="logo">
+
+    {% include image file="logo-masthead.png" alt="Logo" %}
+
+</div>

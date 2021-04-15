@@ -1,0 +1,106 @@
+.masthead {
+
+    // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+
+    position: fixed;
+    top: 0;
+
+    height: 4.75rem;
+    margin-bottom: 4.75rem;
+
+    // keep on top always
+    z-index: 100;
+
+    border-bottom: 1px solid $midnight-60pc;
+    background-color: $midnight-90pc;
+
+    & * {
+        height: inherit;
+    }
+
+    ul {
+        padding: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        li {
+            // reset template css
+            display: list-item;
+            margin: 0;
+            padding: 0;
+            &:after {
+                content: none;
+            }
+
+            height: fit-content;
+            height: -moz-fit-content;
+
+            a {
+                display: block;
+            }
+        }
+    }
+    
+    .logo {
+        position: fixed;
+        left: 0;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        &::before {
+            content: "";
+            background-image: radial-gradient(farthest-corner, $green, $midnight-90pc, $midnight-90pc);
+            background-size: cover;
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            left: 0px;
+            opacity: 0.75;
+        }
+
+        img {
+            padding: 1rem 1.5rem;
+            z-index: 101;
+        }
+        border-bottom: 1px solid $midnight-60pc;
+    }
+
+    .dash {
+        width: 26rem;
+        display: inline-block;
+        margin: auto;
+        img {
+            height: 2.5rem;
+        }
+
+        p {
+            margin: 0 auto;
+            height: fit-content;
+        }
+    }
+
+    .nav {
+        position: fixed;
+        right: 0;
+        margin-right: 1rem;
+        width: 10.25rem;
+        display: inline-block;
+
+        img {
+            height: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            margin: 0 auto;
+            height: fit-content;
+        }
+    }
+
+}
