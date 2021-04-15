@@ -1,11 +1,12 @@
 ---
 title: "2100 (Designer Planet)"
 style: ending
-image:  
+decade: 2100
 ---
 
 {% include variables %}
 
+{% include image file="end-state-designer-planet.png" %}
 
 # So, where do we end up by the end of the century?
 
@@ -18,10 +19,4 @@ We live in the constant fear that if one piece in this complex system fails, tha
 
 You focused on adapting to climate change rather than trying to stop it. You got lucky, and your technological fixes mostly worked.
 
-[Take action]()
-{:.button}
-
-You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
-
-[See the data]()
-{:.button}
+{% include call-to-action %}

@@ -1,10 +1,12 @@
 ---
 title: "2100 (Billionaire Saviours)"
 style: ending
-image: 
+decade: 2100
 ---
 
 {% include variables %}
+
+{% include image file="end-state-billionaire-saviours.png" %}
 
 # So, where do we end up by the end of the century?
 
@@ -19,10 +21,4 @@ Better hope they never rebel.
 
 You allowed capitalists to run rampant and did not ever address inequality.
 
-[Take action]()
-{:.button}
-
-You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
-
-[See the data]()
-{:.button}
+{% include call-to-action %}

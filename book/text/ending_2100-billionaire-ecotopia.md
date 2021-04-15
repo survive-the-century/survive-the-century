@@ -1,10 +1,12 @@
 ---
 title: "2100 (Billionaire Ecotopia)"
 style: ending
-image: 
+decade: 2100
 ---
 
 {% include variables %}
+
+{% include image file="end-state-ecotopia.png" %}
 
 # So, where do we end up by the end of the century?
 
@@ -19,10 +21,4 @@ But then… we lost it all to terrible rich Martians.
 
 You focused on reducing emissions early in the century, took bold steps to build a more inclusive economy, and prioritized respect for the natural world. Unfortunately, you had no ability to protect the earth you’d built from people who wanted to take it for themselves.
 
-[Take action]()
-{:.button}
-
-You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
-
-[See the data]()
-{:.button}
+{% include call-to-action %}

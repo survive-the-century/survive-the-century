@@ -1,11 +1,12 @@
 ---
 title: "2100 (Climate Wars)"
 style: ending
-image: 
+decade: 2100
 ---
 
 {% include variables %}
 
+{% include image file="end-state-climate-wars.png" %}
 
 # So, where do we end up by the end of the century?
 
@@ -18,10 +19,4 @@ Like the fall of Rome or Europe’s Dark Ages, a reminder that humanity can go b
 
 You allowed climate change to be a source of conflict between people who saw everything as a zero-sum game.
 
-[Take action]()
-{:.button}
-
-You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
-
-[See the data]()
-{:.button}
+{% include call-to-action %}
