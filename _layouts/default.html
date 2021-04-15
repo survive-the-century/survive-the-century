@@ -14,10 +14,11 @@ layout: compress
 
 {% include head.html %}
 {% include start-content.html %}
-{%comment%}{% include dashboard %}{%endcomment%}
+{% include masthead.html %}
+<div class="main-content">
 {{ content }}
+</div>
 {%comment%}{% include footer %}{%endcomment%}
-{%comment%}{% include nav %}{%endcomment%}
 {% include close-content.html %}
 
 {% if site.output == "web" and site.data.settings.web.pagination == true %}
