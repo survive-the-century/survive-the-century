@@ -3,12 +3,11 @@ title: "Welcome to 2021"
 style: chapter
 conflict: 3
 decade: 2020
-economy: 
+economy: up
 temperature: 1.2
 ---
 
 {% include variables %}
-
 
 It’s late 2021.
 {:.leader-sentence}
