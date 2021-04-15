@@ -1,6 +1,7 @@
 ---
 title: "Welcome to 2040"
 style: part-page
+decade: 2040
 ---
 
 {% include variables %}
