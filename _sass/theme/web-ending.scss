@@ -1,5 +1,13 @@
 .ending {
-    h1 {
-        
+    p img {
+        max-height: 23rem;
+        position: relative;
+    }
+
+    .call-to-action {
+        position: absolute;
+        transform: translateY(6rem);
+        max-width: inherit;
+        padding-top: 1rem;
     }
 }

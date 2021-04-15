@@ -2,6 +2,17 @@ p {
     letter-spacing: 0.02em;
 }
 
+// Masthead
+
+.masthead {
+    p {
+        font-size: 0.5rem;
+        line-height: 1.1em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    }
+}
+
 // Chapters
 
 .chapter {
@@ -165,6 +176,10 @@ p {
         letter-spacing: 0.02em;
         color: $green;
         text-align: center;
+        position: relative;
+    }
+    &.dead h1 {
+        color: $white;
     }
 
     .leader-sentence {
@@ -172,6 +187,9 @@ p {
         font-size: 1.375rem;
         line-height: 1.5em;
         letter-spacing: 0.02em;
+    }
+    &.dead .leader-sentence {
+        color: $midnight;
     }
 }
 

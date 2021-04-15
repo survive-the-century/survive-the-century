@@ -4,9 +4,12 @@
     background-color: $green-10pc;
     // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
     width: 100vw;
-    position: relative;
+    position: absolute;
     margin-left: -50vw;
     left: 50%;
+
+    margin-top: 0;
+    transform: translateY(6rem);
 
     display: flex;
     justify-content: center;

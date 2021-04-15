@@ -1,4 +1,6 @@
-body, #wrapper {
+body, 
+#wrapper,
+.masthead {
     background-color: $midnight;
     color: $white;
     font-family: $font-text-main;
@@ -8,3 +10,103 @@ body, #wrapper {
     padding: 0;
 }
 
+.chapter .main-content {
+    margin-top: 4.75rem;
+
+    &::before,
+    &::after {
+        content: "";
+
+        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+        width: 100vw;
+        position: absolute;
+        margin-left: -50vw;
+        left: 50%;
+        
+        height: 6rem;
+        opacity: 0.34;
+    }
+
+    &::before {
+        background-image: linear-gradient($green, $midnight);
+    }
+    &::after {
+        background-image: linear-gradient($midnight, $green);
+    }
+}
+
+.part-page .main-content {
+    margin-top: 4.75rem;
+
+    &::before,
+    &::after {
+        content: "";
+
+        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+        width: 100vw;
+        position: absolute;
+        margin-left: -50vw;
+        left: 50%;
+        
+        height: 6rem;
+        opacity: 0.34;
+    }
+
+    &::before {
+        background-image: linear-gradient($red, $midnight);
+    }
+    &::after {
+        background-image: linear-gradient($midnight, $red);
+    }
+}
+
+.ending:not(.dead) .main-content {
+    margin-top: 4.75rem;
+
+    &::before,
+    &::after {
+        content: "";
+
+        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+        width: 100vw;
+        position: absolute;
+        margin-left: -50vw;
+        left: 50%;   
+    }
+
+    &::before {
+        opacity: 0.48;
+        height: 32rem;
+        background-image: linear-gradient($green, $midnight);
+    }
+    &::after {
+        opacity: 0.34;
+        height: 6rem;
+        background-image: linear-gradient($midnight, $green);
+    }
+}
+
+.ending.dead {
+    #wrapper, #content {
+        background-color: $red;
+        color: $white;
+    }
+
+    .main-content {
+
+        margin-top: 4.75rem;
+        background-color: $red;
+
+        &::before {
+            content: "";
+
+            // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
+            width: 100vw;
+            position: absolute;
+            margin-left: -50vw;
+            left: 50%;   
+            height: 6rem;
+            background-image: linear-gradient($midnight, $red);
+        }
+    }
+}
