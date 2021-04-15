@@ -4,7 +4,8 @@ set in the YAML frontmatter, so that the dashboard be be populated on each page.
 {% endcomment %}
 
 <div class="visuallyhidden">
-    <span class="temperature">{{ page.temperature }}</span>
-    <span class="decade">{{ page.decade }}</span>
-    <span class="conflict">{{ page.conflict }}</span>
+    <span class="temperature-value">{{ page.temperature }}</span>
+    <span class="decade-value">{{ page.decade }}</span>
+    <span class="conflict-value">{{ page.conflict }}</span>
+    <span class="economy-value">{{ page.economy }}</span>
 </div>
