@@ -1,0 +1,31 @@
+.footer-wrapper {
+    width: 100%;
+    
+    .footer {
+        max-width: $max-width-default;
+        margin: auto;
+    }
+
+    ul {
+        padding: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        li {
+            // reset template css
+            display: list-item;
+            margin: 0;
+            padding: 0;
+            &:after {
+                content: none;
+            }
+
+            height: fit-content;
+            height: -moz-fit-content;
+
+            a {
+                display: block;
+            }
+        }
+    }
+}
