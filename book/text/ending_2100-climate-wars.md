@@ -19,4 +19,6 @@ Like the fall of Rome or Europe’s Dark Ages, a reminder that humanity can go b
 
 You allowed climate change to be a source of conflict between people who saw everything as a zero-sum game.
 
-{% include call-to-action %}
+{% include call-to-action
+    hyperlink=""
+%}

@@ -13,4 +13,6 @@ image:
 You hoped that a silver bullet would fix our problems, instead of doing the slow, ongoing work needed to change society.
 {:.leader-sentence}
 
-{% include call-to-action %}
+{% include call-to-action
+    hyperlink=""
+%}

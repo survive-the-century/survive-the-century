@@ -21,4 +21,6 @@ Better hope they never rebel.
 
 You allowed capitalists to run rampant and did not ever address inequality.
 
-{% include call-to-action %}
+{% include call-to-action
+    hyperlink=""
+%}

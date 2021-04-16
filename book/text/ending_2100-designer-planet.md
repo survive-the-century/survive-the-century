@@ -19,4 +19,6 @@ We live in the constant fear that if one piece in this complex system fails, tha
 
 You focused on adapting to climate change rather than trying to stop it. You got lucky, and your technological fixes mostly worked.
 
-{% include call-to-action %}
+{% include call-to-action
+    hyperlink=""
+%}

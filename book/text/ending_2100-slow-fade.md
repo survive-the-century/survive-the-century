@@ -19,4 +19,6 @@ Many people join new religions that preach “anti-natalism”, the idea that ha
 
 You allowed entrenched interests to prevent bold action, and procrastinated until it was too late to change anything.
 
-{% include call-to-action %}
+{% include call-to-action
+    hyperlink=""
+%}
