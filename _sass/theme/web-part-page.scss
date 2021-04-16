@@ -1,9 +1,16 @@
 .part-page {
     .background-image {
+        background-image: url(../../assets/images/web/part-page.svg);
+        background-position: 50% 0rem;
+        background-size: auto 44rem;
+        background-repeat: no-repeat;
+        display: flex;
+        height: 752px;
+        align-items: center;
+
         .text-wrapper {
             display: block;
-            position: relative;
-            top: -36.5rem;
+            margin: auto;
 
             & * {
                 text-align: center;
@@ -12,8 +19,7 @@
 
         p {
             text-align: center;
-            position: relative;
-            top: -34rem;
+            margin-top: 3rem;
             a {
                 border: 2px solid $red;
                 padding: 1em;
@@ -24,10 +30,9 @@
             }
         }
 
-        img {
-            display: block;
-            margin: auto;
-            margin-top: 10.5rem;
-        }
+        // img {
+        //     display: block;
+        //     margin: auto;
+        // }
     }
 }
