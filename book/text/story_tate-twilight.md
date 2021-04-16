@@ -9,6 +9,7 @@ temperature: 3.7
 
 {% include variables %}
 
+{% include image file="virtual-safari.png" class="headline-image landscape" %}
 
 # The Tate Twilight
 

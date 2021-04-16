@@ -9,6 +9,8 @@ temperature: 1
 
 {% include variables %}
 
+{% include image file="snowy-mountains.png" class="headline-image landscape" %}
+
 # Finnish children celebrate first snow day in 50 years
 
 By Maria Turtschaninoff

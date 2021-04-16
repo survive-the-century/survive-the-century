@@ -1,6 +1,6 @@
 ---
 title: "Leaked transcript"
-style: story
+style: story transcript
 conflict: 
 decade: 2070
 economy: 
@@ -8,6 +8,8 @@ temperature: 3
 ---
 
 {% include variables %}
+
+{% include image file="sulphur-pipe.png" class="headline-image portrait" %}
 
 # US-sponsored non-state actors seeding oceans with banned geo-engineering tech?
 

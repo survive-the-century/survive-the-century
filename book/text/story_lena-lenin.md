@@ -11,10 +11,10 @@ temperature: 2
 
 # Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin
 
+*Lena Lenin talks Marie Antoinette, the myth of the nuclear family and the power of exotic stimulants.*
+
 By Sophia Al-Maria
 {:.author}
-
-*Lena Lenin talks Marie Antoinette, the myth of the nuclear family and the power of exotic stimulants.*
 
 When Lena Lenin was in Year 5 at primary school in what was then Elephant and Castle, south London, a New Eden officer gave a talk to their class. She told the students that they had the potential to do great things in spite of the planetary hardship their generation would endure. They only had to work hard and dream big. Thirty years later and Lenin has done both of those things. The New Eden project that originated with her team when she was a young councillor in the borough that would become “the bubble” we see thriving today as it welcomes migrants and others displaced by climate disasters. And while the dome is being built to rival all previous civil engineering projects in the world, Lena Lenin is still dreaming of what might be possible for the people of this old town and also what could be possible for those who decide to ignore government guidance and stay outside the biospheres being built around the globe today.
 

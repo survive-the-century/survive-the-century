@@ -11,7 +11,9 @@ temperature: 2.3
 
 # Statement from Womb Riot demanding radical eco-political reforms now
 
-Womb Riot
+*Thanks to our reporter Lauren Beukes for bringing this to our attention.*
+
+By Lauren Beukes
 {:.author}
 
 We are Womb Riot, a group of eighteen women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.
@@ -43,8 +45,6 @@ We know they will be coming for us; special forces and private security armed wi
 This is why we have chosen to place ourselves in the world’s eye, in the glass VIP box of the Ambani Stadium, accessible only by air. We are not afraid. We want you to see what they are capable of, how far they will go. We want you to see that we will not stand down. For all our futures.
 
 We are Womb Riot. We demand change.
-
-*Thanks to our reporter Lauren Beukes for bringing this to our attention.*
 
 [You made it to the end of the century!](ending_2100-billionaire-saviours.html)
 {:.next-decade-link}

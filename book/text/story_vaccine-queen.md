@@ -9,6 +9,8 @@ temperature: 1.6
 
 {% include variables %}
 
+{% include image file="child-getting-vaccine.png" class="headline-image landscape" %}
+
 # Vaccine Queen opens the first of 100 tech universities across West Africa
 
 By Lauren Beukes

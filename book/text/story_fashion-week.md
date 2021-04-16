@@ -9,6 +9,8 @@ temperature: 2
 
 {% include variables %}
 
+{% include image file="catwalk.png" class="headline-image portrait" %}
+
 # Paris Fashion Week 2060 special report 
 
 By Sophia Al-Maria

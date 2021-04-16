@@ -9,6 +9,8 @@ temperature: 2.25
 
 {% include variables %}
 
+{% include image file="floods-in-india.png" class="headline-image portrait" %}
+
 # Mass-abductions hobble India’s guest talent programme
 
 By Rajat Chaudhuri
