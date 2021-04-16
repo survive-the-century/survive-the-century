@@ -5,11 +5,85 @@
         background-color: $white;
         color: $midnight;
     }
+
+    .main-content {
+        margin-top: 4.75rem;
+    }
     
 
     .author {
         padding-bottom: 1rem;
         width: 100%;
         border-bottom: 1px solid $red;
+    }
+
+    // Transcript
+    &.transcript {
+        dt {
+            font-variant: all-small-caps;
+        }
+    }
+
+    // Reddit thread
+
+    &.reddit {
+        .post {
+            h2 {
+               font-family: $font-text-main; 
+               margin-top: 1rem;
+               margin-bottom: 2rem;
+            }
+            
+            .post-info {
+                font-size: 0.8rem;
+                margin-bottom: 0;
+            }
+            
+            border-bottom: 1px solid $midnight-60pc;
+            padding-bottom: 2rem;
+        }
+
+        .username {
+            font-style: italic;
+            margin-bottom: 0.5rem;
+        }
+
+        .comment {
+            // padding: 0;
+        }
+
+        .comment :not(.username) {
+            border-left: 2px solid $midnight;
+            padding-left: 1rem;
+        }
+    }
+
+    // Quiz
+
+    &.quiz {
+        .quiz-question {
+            margin-bottom: 0.5rem;
+            font-family: $font-text-secondary;
+            font-size: 1.2rem;
+            font-style: italic;
+            margin-bottom: 1rem;
+        }
+
+        ol {
+            list-style-type: upper-alpha;
+            padding-left: 1rem;
+            margin-bottom: 3rem;
+
+            ::marker {
+                font-weight: bold;
+            }
+            li {
+                padding-left: 0.5rem;
+            }
+        }
+
+        .quiz-result strong {
+            margin-right: 0.5rem;
+        }
     }
 }
