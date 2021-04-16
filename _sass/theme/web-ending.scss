@@ -7,11 +7,12 @@
     
     .call-to-action {
         width: 100%;
-        margin: 0 auto 2rem auto;
+        margin: 0 auto;
+        padding: 2rem 0;
         p {
             max-width: $max-width-default;
             margin: auto;
-            &.button {
+            &.button:last-of-type {
                 margin-top: 2rem;
             }
             &:not(.button) {
