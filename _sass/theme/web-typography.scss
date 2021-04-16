@@ -205,3 +205,18 @@ p.button a{
     text-align: center;
     text-transform: uppercase;
 }
+
+// Footer
+
+.footer {
+    li {
+        font-size: 0.5rem;
+        line-height: 1.1em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        list-style-type: none;
+        a {
+            text-decoration: none;
+        }
+    }
+}

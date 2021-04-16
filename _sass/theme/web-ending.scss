@@ -2,12 +2,21 @@
     p img {
         max-height: 23rem;
         position: relative;
+        margin-top: -30rem;
     }
-
+    
     .call-to-action {
-        position: absolute;
-        transform: translateY(6rem);
-        max-width: inherit;
-        padding-top: 1rem;
+        width: 100%;
+        margin: 0 auto 2rem auto;
+        p {
+            max-width: $max-width-default;
+            margin: auto;
+            &.button {
+                margin-top: 2rem;
+            }
+            &:not(.button) {
+                margin-top: 1.5rem;
+            }
+        }
     }
 }
