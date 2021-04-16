@@ -13,13 +13,15 @@ layout: compress
 {% else %}
 
 {% include head.html %}
-{% include start-content.html %}
 {% include masthead.html %}
+<div class="glow-top"></div>
+{% include start-content.html %}
 <div class="main-content">
 {{ content }}
 </div>
-{%comment%}{% include footer %}{%endcomment%}
 {% include close-content.html %}
+<div class="glow-bottom"></div>
+{% include footer.html %}
 
 {% if site.output == "web" and site.data.settings.web.pagination == true %}
 {% include pagination %}

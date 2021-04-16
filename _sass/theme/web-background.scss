@@ -1,6 +1,7 @@
 body, 
 #wrapper,
-.masthead {
+.masthead,
+.footer-wrapper {
     background-color: $midnight;
     color: $white;
     font-family: $font-text-main;
@@ -8,78 +9,61 @@ body,
 
 #content {
     padding: 0;
+    margin: 0 auto;
 }
 
-.chapter .main-content {
+.chapter {
     margin-top: 4.75rem;
 
-    &::before,
-    &::after {
-        content: "";
-
-        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
-        width: 100vw;
-        position: absolute;
-        margin-left: -50vw;
-        left: 50%;
+    .glow-top,
+    .glow-bottom {
+        width: 100%;
         
         height: 6rem;
         opacity: 0.34;
     }
 
-    &::before {
+    .glow-top {
         background-image: linear-gradient($green, $midnight);
     }
-    &::after {
+    .glow-bottom {
         background-image: linear-gradient($midnight, $green);
     }
 }
 
-.part-page .main-content {
+.part-page {
     margin-top: 4.75rem;
 
-    &::before,
-    &::after {
-        content: "";
-
-        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
-        width: 100vw;
-        position: absolute;
-        margin-left: -50vw;
-        left: 50%;
+    .glow-top,
+    .glow-bottom {
+        width: 100%;
         
         height: 6rem;
         opacity: 0.34;
     }
 
-    &::before {
+    .glow-top {
         background-image: linear-gradient($red, $midnight);
     }
-    &::after {
+    .glow-bottom {
         background-image: linear-gradient($midnight, $red);
     }
 }
 
-.ending:not(.dead) .main-content {
+.ending:not(.dead) {
     margin-top: 4.75rem;
 
-    &::before,
-    &::after {
-        content: "";
-
-        // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
-        width: 100vw;
-        position: absolute;
-        margin-left: -50vw;
-        left: 50%;   
+    .glow-top,
+    .glow-bottom {
+        width: 100%; 
     }
 
-    &::before {
+    .glow-top {
         opacity: 0.48;
         height: 32rem;
         background-image: linear-gradient($green, $midnight);
     }
-    &::after {
+    .glow-bottom {
         opacity: 0.34;
         height: 6rem;
         background-image: linear-gradient($midnight, $green);
@@ -92,21 +76,15 @@ body,
         color: $white;
     }
 
-    .main-content {
+    margin-top: 4.75rem;
 
-        margin-top: 4.75rem;
-        background-color: $red;
+    .glow-top {
+        width: 100%; 
+        height: 32rem;
+        background-image: linear-gradient($midnight, $red);
+    }
 
-        &::before {
-            content: "";
-
-            // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
-            width: 100vw;
-            position: absolute;
-            margin-left: -50vw;
-            left: 50%;   
-            height: 6rem;
-            background-image: linear-gradient($midnight, $red);
-        }
+    .call-to-action {
+        background-color: $midnight;
     }
 }

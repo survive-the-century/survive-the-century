@@ -23,10 +23,10 @@ function ebMoveElementBelowGlow (selector) {
     // are below the footer glow
 
     var nodeToMove = document.querySelector(selector);
-    var mainContentNode = document.querySelector(".main-content");
+    var bottomGlow = document.querySelector(".glow-bottom");
 
     if (nodeToMove) {
-        mainContentNode.after(nodeToMove);
+        bottomGlow.after(nodeToMove);
     }
 
 }
