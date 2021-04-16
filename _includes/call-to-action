@@ -5,7 +5,7 @@
 
 You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
 
-[See the data]()
+[See the data]({{ include.hyperlink }}){:target="_blank"}
 {:.button}
 
 </div>
