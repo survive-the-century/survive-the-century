@@ -27,7 +27,7 @@ If you are defined as a legal minor in your country, you may only use the servic
 This service is intended purely for entertainment purposes. None of the information presented in this service should be taken as factual or complete. The story, all names, characters, and incidents portrayed in this service are fictitious. No identification with actual persons (living or dead), places, buildings, and products is intended or should be inferred.
 
 ## All content belongs to us, or the creators
-All parts of this service are the exclusive property of either Three Kids in a Trenchcoat or the original creators, including, without limitation, all text, images, graphics, logos, audio, video and other material appearing on the service ("the content"). The content is protected by the copyright laws and other intellectual property laws of the United Kingdom, the United States and Australia and is protected globally by applicable international copyright treaties.
+All parts of this service are the exclusive property of either Three Kids in a Trenchcoat or the original creators, including, without limitation, all text, images, graphics, logos, audio, video and other material appearing on the service ("the content"). The content is protected by the copyright laws and other intellectual property laws of the United Kingdom and is protected globally by applicable international copyright treaties.
 
 You may download and print the content for your own personal and non-commercial use only. You may not use the content for any other purpose without prior written approval. You may not reproduce, republish, remix or adapt the content without our permission.
 
@@ -42,13 +42,11 @@ Our service may contain links to other web sites or services that are not owned 
 ## Limited liability
 To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service. 
 
-If you are accessing the service from the United States or Australia, the additional disclaimers and limitations of liability listed below apply to you.
-
 ## U.K. law applies to these terms
 These terms are governed by and interpreted in accordance with the laws of the United Kingdom without giving effect to any principles of conflict of law. You consent to the exclusive jurisdiction of the courts of the United Kingdom over any dispute about the service or these terms.
 
 ## We will try to resolve disputes informally
-If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on hello@survivethecentury.net and giving us at least thirty (30) days to first resolve your issue.
+If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on hello@survivethecentury.net and giving us at least thirty (30) days to first resolve your issue before taking additional action.
 
 ## These terms can change
 We might change these terms from time to time. We reserve the right to do so without your consent. Any revised terms will be applicable at the time of posting on the website. Please ensure that you review these terms regularly, as the new terms will be effective from the time they are posted.

@@ -198,6 +198,9 @@ exclude:
   - /book/text/0-0-cover.md
   - /book/text/0-1-titlepage.md
   - /book/text/0-2-copyright.md
+  - /book/text/0-3-contact.md
+  - /book/text/0-4-privacy.md
+  - /book/text/0-5-terms-of-service.md
   - /book/text/stc.md
   # - /book/text/chapter_1-5-degree-shocks.md
   # - /book/text/chapter_2-5-degree-shocks.md
