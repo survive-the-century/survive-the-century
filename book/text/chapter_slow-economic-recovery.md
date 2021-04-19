@@ -3,7 +3,7 @@ title: "Slow economic recovery"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.4
 ---
 

@@ -3,7 +3,7 @@ title: "Welcome to 2021"
 style: chapter
 conflict: 3
 decade: 2020
-economy: up
+economy: down
 temperature: 1.2
 ---
 

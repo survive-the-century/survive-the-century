@@ -3,7 +3,7 @@ title: "Climate domes"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

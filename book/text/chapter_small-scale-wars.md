@@ -3,7 +3,7 @@ title: "Small-scale wars"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 3.5
 ---
 

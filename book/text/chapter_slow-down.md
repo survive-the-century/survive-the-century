@@ -3,7 +3,7 @@ title: "Slow down"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.4
 ---
 

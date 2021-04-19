@@ -3,7 +3,7 @@ title: "Mars mission?"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 2.3
 ---
 

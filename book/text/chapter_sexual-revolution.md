@@ -3,7 +3,7 @@ title: "Sexual revolution"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 2.2
 ---
 

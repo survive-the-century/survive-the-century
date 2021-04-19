@@ -3,7 +3,7 @@ title: "Corporate housing"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.8
 ---
 

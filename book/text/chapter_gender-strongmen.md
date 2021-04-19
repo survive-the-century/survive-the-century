@@ -3,7 +3,7 @@ title: "Gender strongmen"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down
 temperature: 2.2
 ---
 

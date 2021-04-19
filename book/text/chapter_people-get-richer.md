@@ -3,7 +3,7 @@ title: "People get richer"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 2.1
 ---
 

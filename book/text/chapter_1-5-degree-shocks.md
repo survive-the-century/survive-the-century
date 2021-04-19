@@ -3,7 +3,7 @@ title: "1.5 degree shocks"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

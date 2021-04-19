@@ -3,7 +3,7 @@ title: "Looser regulations"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.6
 ---
 

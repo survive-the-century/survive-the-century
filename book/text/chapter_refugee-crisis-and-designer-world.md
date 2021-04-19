@@ -3,7 +3,7 @@ title: "Refugee crisis + designer world"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 2.5
 ---
 

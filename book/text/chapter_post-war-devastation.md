@@ -3,7 +3,7 @@ title: "Post-war devastation"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

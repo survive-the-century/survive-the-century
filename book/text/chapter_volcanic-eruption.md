@@ -3,7 +3,7 @@ title: "Volcanic eruption"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

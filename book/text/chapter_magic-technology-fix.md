@@ -3,7 +3,7 @@ title: "Magic technology fix"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

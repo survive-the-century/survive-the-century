@@ -3,7 +3,7 @@ title: "Seething underclass"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

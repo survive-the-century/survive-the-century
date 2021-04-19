@@ -3,7 +3,7 @@ title: "World trade is in tatters"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down
 temperature: 1.5
 ---
 

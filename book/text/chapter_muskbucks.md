@@ -3,7 +3,7 @@ title: "Muskbucks"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

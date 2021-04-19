@@ -3,7 +3,7 @@ title: "The wars begin"
 style: chapter
 conflict: 5
 decade: 
-economy: 
+economy: down
 temperature: 2.5
 ---
 

@@ -3,7 +3,7 @@ title: "Pay for transition"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.6
 ---
 
