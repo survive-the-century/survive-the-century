@@ -3,7 +3,7 @@ title: "Red zones"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

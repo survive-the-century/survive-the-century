@@ -3,7 +3,7 @@ title: "Geo-engineering FAIL"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

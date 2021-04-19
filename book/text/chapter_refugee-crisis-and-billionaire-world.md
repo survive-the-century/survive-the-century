@@ -3,7 +3,7 @@ title: "Refugee crisis + billionaire world"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.8
 ---
 

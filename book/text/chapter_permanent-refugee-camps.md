@@ -3,7 +3,7 @@ title: "Permanent refugee camps"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.8
 ---
 

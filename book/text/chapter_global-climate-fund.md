@@ -3,7 +3,7 @@ title: "Global climate fund"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.6
 ---
 

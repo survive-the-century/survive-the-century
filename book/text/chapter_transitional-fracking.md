@@ -3,7 +3,7 @@ title: "Transitional fracking"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy:
 temperature: 1.7
 ---
 

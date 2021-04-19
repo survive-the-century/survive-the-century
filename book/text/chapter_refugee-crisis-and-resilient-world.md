@@ -3,7 +3,7 @@ title: "Refugee crisis + resilient world"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.6
 ---
 

@@ -3,7 +3,7 @@ title: "Fair vaccine distribution"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 1.2
 ---
 

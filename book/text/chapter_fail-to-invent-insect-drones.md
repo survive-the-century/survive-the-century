@@ -3,7 +3,7 @@ title: "Fail to invent insect drones"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

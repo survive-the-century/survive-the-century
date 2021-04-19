@@ -3,7 +3,7 @@ title: "Easier climate conference"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.5
 ---
 

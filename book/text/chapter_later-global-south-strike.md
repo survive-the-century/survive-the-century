@@ -3,7 +3,7 @@ title: "Later Global South strike"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.7
 ---
 

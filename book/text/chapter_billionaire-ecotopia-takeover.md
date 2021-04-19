@@ -3,7 +3,7 @@ title: "Billionaire ecotopia takeover"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 

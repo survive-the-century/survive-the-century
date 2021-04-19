@@ -3,7 +3,7 @@ title: "Late-stage designer planet"
 style: chapter
 conflict: 2
 decade: 
-economy: 
+economy: up
 temperature: 2.5
 ---
 
