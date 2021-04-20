@@ -3,7 +3,7 @@ title: "Termination shock"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 2.6
 ---
 

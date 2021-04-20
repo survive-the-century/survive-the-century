@@ -3,7 +3,7 @@ title: "Zoonotic pandemic"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 2.7
 ---
 

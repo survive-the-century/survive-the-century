@@ -3,7 +3,7 @@ title: "Local conflicts"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

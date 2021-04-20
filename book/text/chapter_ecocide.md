@@ -3,7 +3,7 @@ title: "Ecocide"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

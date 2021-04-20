@@ -3,7 +3,7 @@ title: "Global South uprising + climate wars"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down
 temperature: 2.2
 ---
 

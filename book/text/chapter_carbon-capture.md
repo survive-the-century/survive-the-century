@@ -3,7 +3,7 @@ title: "Carbon capture?"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

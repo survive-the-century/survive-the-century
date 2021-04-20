@@ -3,7 +3,7 @@ title: "Patchwork of solutions"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 2
 ---
 

@@ -3,7 +3,7 @@ title: "Arctic extraction"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 2
 ---
 

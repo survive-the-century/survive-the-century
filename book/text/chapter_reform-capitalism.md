@@ -3,7 +3,7 @@ title: "Reform capitalism"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.6
 ---
 

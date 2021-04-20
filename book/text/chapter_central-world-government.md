@@ -3,7 +3,7 @@ title: "Central world government"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 1.7
 ---
 

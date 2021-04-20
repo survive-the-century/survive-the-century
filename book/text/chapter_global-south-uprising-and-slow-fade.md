@@ -3,7 +3,7 @@ title: "Global South uprising + slow fade"
 style: 
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.9
 ---
 

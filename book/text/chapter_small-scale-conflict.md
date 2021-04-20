@@ -3,7 +3,7 @@ title: "Small-scale conflict"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 

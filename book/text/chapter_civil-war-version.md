@@ -3,7 +3,7 @@ title: "Civil war version"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down 
 temperature: 1.9
 ---
 

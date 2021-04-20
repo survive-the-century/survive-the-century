@@ -3,7 +3,7 @@ title: "Fracking-funded UBI"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.9
 ---
 

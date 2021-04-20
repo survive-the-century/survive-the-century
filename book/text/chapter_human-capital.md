@@ -3,7 +3,7 @@ title: "Human capital"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 2.8
 ---
 

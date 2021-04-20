@@ -22,5 +22,5 @@ But then… we lost it all to terrible rich Martians.
 You focused on reducing emissions early in the century, took bold steps to build a more inclusive economy, and prioritized respect for the natural world. Unfortunately, you had no ability to protect the earth you’d built from people who wanted to take it for themselves.
 
 {% include call-to-action
-    hyperlink=""
+    hyperlink="https://en-roads.climateinteractive.org/scenario.html?p1=110&p7=98&p10=1.8&p16=-0.03&p23=-1&p39=250&p47=5&p50=5&p53=5&p55=5&p57=-10&p59=-57&p63=-0.3889&p235=1.1&p65=66&p67=31&g0=2&g1=62&v=2.7.35"
 %}

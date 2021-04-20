@@ -3,7 +3,7 @@ title: "Invest in social care"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.3
 ---
 
