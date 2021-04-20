@@ -31,6 +31,7 @@ layout: null
     {% include_relative slides.js %}
     {% include_relative show-hide.js %}
     {% include_relative copy-to-clipboard.js %}
+    {% include_relative history.js %}
     {% include_relative variables.js %}
     {% include_relative choices.js %}
     {% include_relative random.js %}
