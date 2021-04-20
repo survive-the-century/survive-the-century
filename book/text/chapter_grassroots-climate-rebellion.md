@@ -9,7 +9,6 @@ temperature: 1.6
 
 {% include variables %}
 
-
 There’s a resurgence of the climate rebellion movement. 
 {:.leader-sentence}
 
@@ -20,7 +19,7 @@ The movement is made of disparate voices calling for different solutions.
 Which of these solutions will your news site focus on?
 {:.choice-question}
 
-<div class="js-var-leaning-billionaires" markdown="1">
+<div data-js-var="css-var-leaning-billionaires" markdown="1" class="hidden">
 
 - [We need our countries’ leaders to act.](chapter_state-led-decarbonization.html)
 - [We need more passionate climate activists getting involved in local politics.](chapter_city-led-decarbonization.html)
@@ -29,7 +28,7 @@ Which of these solutions will your news site focus on?
 
 </div>
 
-<div class="js-var-leaning-wars" markdown="1">
+<div data-js-var="css-var-leaning-wars" markdown="1" class="hidden">
 
 - [We need our countries’ leaders to act.](chapter_state-led-decarbonization.html)
 - [We need more passionate climate activists getting involved in local politics.](chapter_city-led-decarbonization.html)
@@ -38,7 +37,7 @@ Which of these solutions will your news site focus on?
 
 </div>
 
-<div class="js-var-leaning-slowfade" markdown="1">
+<div data-js-var="css-var-leaning-slowfade" markdown="1" class="hidden">
 
 - [We need our countries’ leaders to act.](chapter_state-led-decarbonization.html)
 - [We need more passionate climate activists getting involved in local politics.](chapter_city-led-decarbonization.html)
@@ -47,6 +46,10 @@ Which of these solutions will your news site focus on?
 
 </div>
 
+<div data-js-var="css-var-leaning-none" markdown="1" class="hidden">
+
 - [We need our countries’ leaders to act.](chapter_state-led-decarbonization.html)
 - [We need more passionate climate activists getting involved in local politics.](chapter_city-led-decarbonization.html)
 {:.choice-options}
+
+</div>

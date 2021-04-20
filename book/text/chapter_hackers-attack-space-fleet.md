@@ -18,5 +18,5 @@ How should we deal with these rogue actors?
 {:.choice-question}
 
 - [Give the global climate council an army.](chapter_central-world-government.html)
-- [Tell them they are being very naughty and politely ask them to stop messing with the space mirrors.](chapter_termination-shock.html){:js-var="js-var-termination-roguestates"}
+- [Tell them they are being very naughty and politely ask them to stop messing with the space mirrors.](chapter_termination-shock.html){:data-js-var="js-var-termination-roguestates"}
 {:.choice-options}

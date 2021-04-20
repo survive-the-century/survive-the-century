@@ -9,21 +9,19 @@ temperature:
 
 {% include variables %}
 
-<div class="js-var-carboncapture-1" markdown="1">
+<div data-js-var="css-var-carboncapture-1" markdown="1" class="hidden">
 
 Phew, okay, we did decide to invest in a planetary clean-up project back in the 2050s. 
 {:.leader-sentence}
 
 Luckily that means that there are fewer greenhouse gases in the atmosphere. The planet will warm a bit, but the magnificent Council has enough time to fix the space mirrors before anything too bad happens. Thank you, Council! 
 
-- [Congratulations, you made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-designer-planet.html"}
+- [Congratulations, you made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-designer-planet.html" data-js-var="js-var-temperature-2"}
 {:.choice-options}
-
-(set: $temp to 2)
 
 </div>
 
-<div class="js-var-carboncapture-0" markdown="1">
+<div data-js-var="css-var-carboncapture-0" markdown="1" class="hidden">
 
 Oh, whoops, we did not invest in a planetary clean-up project. 
 {:.leader-sentence}
@@ -37,24 +35,18 @@ Most of the remaining insects die out, including all bees. The council scrambles
 Will our magnificent Council figure something out in time?
 {:.choice-question}
 
-(set: $insects to (random: 1,6))
+<div data-js-var="js-rand-insect-failure" markdown="1" class="hidden">
 
-<div class="js-var-insect-fail" markdown="1">
-
-(if: $insects <= 2)
-
-- [Let's sure hope so](chapter_fail-to-invent-insect-drones.html)
+- [Let's sure hope so](chapter_fail-to-invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
 {:.choice-options}
 
 </div>
 
-<div class="js-var-insect-success" markdown="1">
+<div data-js-var="js-rand-insect-success" markdown="1" class="hidden">
 
-</div>
-
-- [Let's sure hope so](chapter_invent-insect-drones.html)
+- [Let's sure hope so](chapter_invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
 {:.choice-options}
 
-(set: $temp to 5)
+</div>
 
 </div>

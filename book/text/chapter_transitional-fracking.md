@@ -18,9 +18,9 @@ They say that they can create a lot of new jobs in fracking, and that can be a t
 Should we approve new large-scale fracking projects?
 {:.choice-question}
 
-- [No. We can’t afford to pollute the air even more.](chapter_weak-reforms.html){:js-var="js-var-fracking-1"}
-- [Yes, but only if the energy companies invest some of their profits in capturing the pollution that’s created.](chapter_green-is-the-new-gold.html){:js-var="js-var-fracking-1"}
-- [Yes, but let’s nationalize this and use the profits to fund a universal basic income.](chapter_people-get-richer.html){:js-var="js-var-fracking-1"}
+- [No. We can’t afford to pollute the air even more.](chapter_weak-reforms.html){:data-js-var="js-var-fracking-1"}
+- [Yes, but only if the energy companies invest some of their profits in capturing the pollution that’s created.](chapter_green-is-the-new-gold.html){:data-js-var="js-var-fracking-1"}
+- [Yes, but let’s nationalize this and use the profits to fund a universal basic income.](chapter_people-get-richer.html){:data-js-var="js-var-fracking-1"}
 {:.choice-options}
 
 > Carbon capture technologies aim to clean the air by filtering pollution out and storing it, usually underground.

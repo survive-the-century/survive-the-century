@@ -10,7 +10,7 @@ temperature:
 {% include variables %}
 
 
-<div class="js-var-democracy-yes" markdown="1">
+<div data-js-var="css-var-democracy-yes" markdown="1" class="hidden">
 
 Sorry, this isn’t a democracy anymore.
 {:.leader-sentence}
@@ -21,7 +21,7 @@ The terrorist groups are rounded up and sent to re-education camps.
 
 </div>
 
-<div class="js-var-democracy-no" markdown="1">
+<div data-js-var="css-var-democracy-no" markdown="1" class="hidden">
 
 The terrorist groups are rounded up
 {:.leader-sentence}

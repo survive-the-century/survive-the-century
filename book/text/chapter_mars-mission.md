@@ -21,5 +21,5 @@ Should we forget about Earth and put all our hopes in Mars?
 {:.choice-question}
 
 - [No! Surely it makes more sense to fix the planet we’re already on?](chapter_earth-terraforming.html)
-- [Screw earth, let’s all go to Mars.](chapter_termination-shock.html){:js-var="js-var-termination-mars"}
+- [Screw earth, let’s all go to Mars.](chapter_termination-shock.html){:data-js-var="js-var-termination-mars"}
 {:.choice-options}

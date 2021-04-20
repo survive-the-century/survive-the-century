@@ -9,8 +9,14 @@ temperature: 1.4
 
 {% include variables %}
 
+<div data-js-var="css-var-leaning-none" markdown="1" class="hidden">
 
-<div class="js-var-leaning-wars" markdown="1">
+By the late 2020s, economies are battered. Countries need bold new economic recovery plans. Different groups propose different solutions.
+{:.leader-sentence}
+
+</div>
+
+<div data-js-var="css-var-leaning-wars" markdown="1" class="hidden">
 
 China buys goodwill by distributing vaccines across Africa and Asia. 
 {:.leader-sentence}
@@ -21,9 +27,11 @@ Organised crime networks start producing and selling fake vaccines, leading to m
 
 Because of all this arguing, it takes nearly two years until enough of the world is vaccinated that things can return to sort-of normal.
 
+By the late 2020s, economies are battered. Countries need bold new economic recovery plans. Different groups propose different solutions.
+
 </div>
 
-<div class="js-var-leaning-billionaires" markdown="1">
+<div data-js-var="css-var-leaning-billionaires" markdown="1" class="hidden">
 
 The richest people in the world band together and donate vaccines to countries that need them.
 {:.leader-sentence}
@@ -32,9 +40,11 @@ People erect statues in honour of their billionaire saviours.
 
 The rollout programmes aren’t very effective, though, because they’re optimized for PR rather than public health. Instead of taking months to roll out the vaccine, it takes two years.
 
+By the late 2020s, economies are battered. Countries need bold new economic recovery plans. Different groups propose different solutions.
+
 </div>
 
-<div class="js-var-leaning-slowfade" markdown="1">
+<div data-js-var="css-var-leaning-slowfade" markdown="1" class="hidden">
 
 Vaccine rumours are everywhere. 
 {:.leader-sentence}
@@ -43,9 +53,9 @@ They’re filled with oestrogen and it’s a plot to feminize men! They contain 
 
 Instead of taking months to roll out the vaccine, it takes four years.
 
-</div>
-
 By the late 2020s, economies are battered. Countries need bold new economic recovery plans. Different groups propose different solutions.
+
+</div>
 
 Which economic proposal will your news site give the most time to?
 {:.choice-question}
