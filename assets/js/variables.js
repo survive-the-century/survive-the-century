@@ -50,26 +50,29 @@ function ebDisplayTheIcons () {
     // for each of the four variables
     dashVariables.forEach(function (variable) {
         var dashListItem = document.querySelector(`li.${variable}`);
-        var variableValue = window.localStorage.getItem(variable);
 
-        // first page won't have localStorage value
-        if (variableValue === null) {
-            variableValue = document.querySelector(`.${variable}-value`).innerHTML;
+        if (dashListItem) {
+            var variableValue = window.localStorage.getItem(variable);
+
+            // first page won't have localStorage value
+            if (variableValue === null) {
+                variableValue = document.querySelector(`.${variable}-value`).innerHTML;
+            }
+
+            // round the value if it's a number
+            if (Number(variableValue)) {
+                variableValue = Math.round(Number(variableValue));
+            }
+
+            var filePath = `../images/web/icon_${variable}-${variableValue}.png`;
+            var altText = `${variable} = ${variableValue}`;
+
+            var imageNode = document.createElement("img");
+            imageNode.setAttribute("src", filePath);
+            imageNode.setAttribute("alt", altText);
+
+            dashListItem.prepend(imageNode);
         }
-
-        // round the value if it's a number
-        if (Number(variableValue)) {
-            variableValue = Math.round(Number(variableValue));
-        }
-
-        var filePath = `../images/web/icon_${variable}-${variableValue}.png`;
-        var altText = `${variable} = ${variableValue}`;
-
-        var imageNode = document.createElement("img");
-        imageNode.setAttribute("src", filePath);
-        imageNode.setAttribute("alt", altText);
-
-        dashListItem.prepend(imageNode);
     });
 }
 

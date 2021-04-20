@@ -31,5 +31,7 @@ function ebMoveElementBelowGlow (selector) {
 
 }
 
+ebMoveElementBelowGlow(".below-the-fold");
 ebMoveElementBelowGlow(".call-to-action");
 ebMoveElementBelowGlow(".infobox");
+ebMoveElementBelowGlow(".action-buttons");
