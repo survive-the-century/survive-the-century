@@ -1,12 +1,5 @@
 .newspaper {
 
-    // Background
-
-    #wrapper, #content {
-        background-color: $white;
-        color: $midnight;
-    }
-
     .articles img:not(.read-more) {
         display: inline-block;
         height: 6.5rem;

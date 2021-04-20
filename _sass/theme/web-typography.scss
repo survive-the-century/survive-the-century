@@ -13,6 +13,67 @@ p {
     }
 }
 
+// Homepage
+.home {
+    .homepage-leader-sentence {
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 2rem;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+        color: $green;
+        text-align: center;
+    }
+
+    .below-the-fold {
+        color: $midnight;
+        h1 {
+            font-family: $font-text-secondary;
+            font-style: italic;
+            font-size: 1.5rem;
+            line-height: 1.5em;
+            letter-spacing: 0.02em;
+        }
+    }
+}
+
+// Frontmatter
+.frontmatter .main-content {
+    h1 {
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 2rem;
+        line-height: 1.4em;
+        letter-spacing: 0.02em;
+    }
+
+    h2 {
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 1.5rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+    }
+
+    li a {
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 1.5rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        text-transform: none;
+    }
+    
+    li {
+        font-family: $font-text-main;
+        font-style: normal;
+        font-size: 1rem;
+        line-height: 1.5em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    }
+}
+
 // Chapters
 
 .chapter {
@@ -35,6 +96,13 @@ p {
             color: $color-text-main;
             text-decoration: none;
         }
+    }
+    
+    .closer-sentence {
+        font-family: $font-text-secondary;
+        font-size: 1.375rem;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
     }
 }
 
@@ -195,7 +263,7 @@ p {
 
 // Buttons
 
-p.button a{
+p.button a, button.copy-to-clipboard {
     font-family: $font-text-main;
     font-size: 0.8rem;
     line-height: 1.5em;
@@ -209,14 +277,16 @@ p.button a{
 // Footer
 
 .footer {
+    padding-top: 1.3rem;
     li {
-        font-size: 0.5rem;
+        font-size: 0.5 * $font-size-default;
         line-height: 1.1em;
         letter-spacing: 0.1em;
         text-transform: uppercase;
         list-style-type: none;
         a {
             text-decoration: none;
+            color: $white;
         }
     }
 }

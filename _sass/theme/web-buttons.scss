@@ -1,3 +1,5 @@
+// Newspaper next decade footer
+
 .next-decade-link {
     background-color: $red;
     // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
@@ -27,9 +29,13 @@
     }
 }
 
+// Newspaper "Read More" button
+
 .read-more {
     margin-left: auto;
 }
+
+// Generic buttons
 
 p.button {
     width: 12.5rem;
@@ -49,4 +55,49 @@ p.button {
             background-color: $red;
         }
     }
+    &.reverse-colours {
+        margin-top: 1rem;
+        a {
+            background-color: inherit;
+            border: 1px solid $red;
+        }
+    }
+    &.underline {
+        width: fit-content;
+        &.css-glow {
+            box-shadow: none;
+        }
+        a {
+            background-color: inherit;   
+            margin: auto;
+            color: $red;
+            border-bottom: 2px solid $red;
+        }
+    }
+
+    &.action-button {
+        width: fit-content;
+        a {
+            padding: 0.5rem;
+        }
+    }
+}
+
+.round-action-buttons {
+    width: 10.25rem;
+    display: inline-block;
+
+    img {
+        height: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    p {
+        margin: 0 auto;
+        height: fit-content;
+    }
+}
+
+button.copy-to-clipboard {
+    border: none;
 }

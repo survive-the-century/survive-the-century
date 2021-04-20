@@ -12,6 +12,21 @@ body,
     margin: 0 auto;
 }
 
+.frontmatter {
+    #wrapper, #content {
+        background-color: $green-10pc;
+    }
+}
+
+.home, .frontmatter {
+    .main-content {
+        margin-top: calc(4.75rem + 2rem);
+    }
+    .below-the-fold {
+        background-color: $green-10pc;
+    }
+}
+
 .chapter {
     margin-top: 4.75rem;
 
@@ -47,6 +62,13 @@ body,
     }
     .glow-bottom {
         background-image: linear-gradient($midnight, $red);
+    }
+}
+
+.newspaper {
+    #wrapper, #content {
+        background-color: $white;
+        color: $midnight;
     }
 }
 
