@@ -1,21 +1,21 @@
 <nav class="nav">
     <ul>
         <li class="back">
-            <a href="">
+            <a href="javascript:history.back()">
                 <img src="../../assets/images/web/back-arrow.svg" alt="Back">
                 <p>Back</p>
             </a>
         </li>
 
         <li class="home">
-            <a href="">
+            <a href="{{path-to-root-directory}}">
                 <img src="../../assets/images/web/home-icon.svg" alt="Home">
                 <p>Home</p>
             </a>
         </li>
         
         <li class="restart">
-            <a href="">
+            <a href="{{path-to-root-directory}}">
                 <img src="../../assets/images/web/restart-arrow.svg" alt="Restart">
                 <p>Restart</p>
             </a>

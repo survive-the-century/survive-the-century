@@ -1,8 +1,12 @@
 <div class="masthead">
 
+    {% if page.style != "home" and page.style != "frontmatter" %}
+
     {% include logo %}
 
     {% include dash %}
+
+    {% endif %}
 
     {% include nav %}
 
