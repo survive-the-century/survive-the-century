@@ -1,7 +1,12 @@
 ---
 title: "Contact"
+style: frontmatter
 ---
+
+{% include variables %}
 
 # Contact
 
-Email [{{ site.data.meta.project.email }}](mailto:{{ site.data.meta.project.email }}){:.copy-to-clipboard}
+Press: [press@survivethecentury.org](mailto:press@survivethecentury.org){:.copy-to-clipboard}
+
+All other queries: [hello@survivethecentury.org](mailto:hello@survivethecentury.org){:.copy-to-clipboard}
