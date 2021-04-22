@@ -1,6 +1,6 @@
 ---
 title: "Take action"
-style: chapter
+style: chapter action
 ---
 
 {% include variables %}
