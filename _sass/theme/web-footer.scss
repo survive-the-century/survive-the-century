@@ -6,15 +6,16 @@
     .footer {
         max-width: $max-width-default;
         padding: 0;
-        margin: 1.5rem auto 2.5rem auto;
+        margin: 1.5rem auto;
     }
 
     ul {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 0;
-        padding: 0 3.75rem;
+        margin: 0 auto;
+        max-width: 95%;
+
         li {
             // reset template css
             display: list-item;
@@ -34,11 +35,25 @@
     }
 
     .footer-logos {
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: 25% auto;
+        max-width: 0.7 * $max-width-default;
         margin: auto;
-        width: fit-content;
-        width: -moz-fit-content;
-        .ci-logo {
-            margin-right: 2rem;
+
+        img:first-of-type {
+            grid-column: 1 / 2;
+            margin: 1rem;
+        }
+        img:last-of-type {
+            grid-column: 2 / 3;
+            margin: 1rem;
+        }
+
+        @media only screen and (max-width: $break-point-footer) {
+            & {
+                max-width: 100%;
+            }
         }
     }
 }
