@@ -12,6 +12,10 @@
 
     display: flex;
   
+    @media only screen and (max-width: $break-point-masthead) {
+        bottom: $masthead-height;
+    }
+
     & a {
         width: 100%;
         padding: 0.8rem 0;
@@ -64,6 +68,7 @@ p.button {
     }
     &.underline {
         width: fit-content;
+        width: -moz-fit-content;
         &.css-glow {
             box-shadow: none;
         }
@@ -77,26 +82,34 @@ p.button {
 
     &.action-button {
         width: fit-content;
+        width: -moz-fit-content;
         a {
             padding: 0.5rem;
         }
     }
 }
 
-.round-action-buttons {
-    width: 10.25rem;
-    display: inline-block;
 
-    img {
-        height: 1.5rem;
-        margin-bottom: 0.5rem;
-    }
+.action-buttons {
+    padding-bottom: 4rem;
+    
+    .round-action-buttons {
+        display: flex;
+        width: 18rem;
+        justify-content: space-evenly;
+        margin: 2rem auto 1.5rem auto;
 
-    p {
-        margin: 0 auto;
-        height: fit-content;
+        a {
+            img {
+
+            }
+            p {
+                margin-top: 0.5rem;
+            }
+        }
     }
 }
+
 
 button.copy-to-clipboard {
     border: none;

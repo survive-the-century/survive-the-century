@@ -1,0 +1,20 @@
+<div class="action-buttons" markdown="1">
+
+<div class="round-action-buttons">
+
+    <a href="">
+        <img src="../../assets/images/web/share-icon.svg" alt="Share game">
+        <p>Share game</p>
+    </a>
+
+    <a href="{{path-to-root-directory}}">
+        <img src="../../assets/images/web/restart-icon.svg" alt="Play again">
+        <p>Play again</p>
+    </a>
+
+</div>
+
+[Join a climate justice group](https://350.org/get-involved/){:target="_blank"}
+{:.button.action-button}
+
+</div>
