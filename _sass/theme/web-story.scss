@@ -7,14 +7,24 @@
     }
 
     .main-content {
-        margin-top: 4.75rem;
+        margin-top: $masthead-height;
     }
     
+    .runner {
+        width: 100%;
+        margin: 0 0 1rem 0;
+        border-bottom: 1px solid $red;
+    }
+
+    h1 {
+        margin: 1rem 0;
+    }
 
     .author {
         padding-bottom: 1rem;
         width: 100%;
         border-bottom: 1px solid $red;
+        margin: 1rem 0;
     }
 
     // Transcript

@@ -36,8 +36,23 @@
     .footer-logos {
         margin: auto;
         width: fit-content;
+        width: -moz-fit-content;
         .ci-logo {
             margin-right: 2rem;
         }
+    }
+}
+
+.newspaper .footer-wrapper,
+.story .footer-wrapper {
+    margin-bottom: $next-decade-link-height;
+    @media only screen and (max-width: $break-point-masthead) {
+        margin-bottom: 3rem + $masthead-height;
+    }
+}
+
+@media only screen and (max-width: $break-point-masthead) {
+    .footer-wrapper {
+        margin-bottom: $masthead-height;
     }
 }
