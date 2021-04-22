@@ -1,14 +1,21 @@
 .ending {
-    p img {
-        max-width: 80%;
+    p {
         position: relative;
-        margin-top: -30rem;
+        img {
+            max-width: 80%;
+            margin-top: -30rem;
+        }
     }
     
     .call-to-action {
         width: 100%;
         margin: 0 auto;
         padding: 2rem 0;
+        
+        @media only screen and (max-width: $max-width-default) {
+            padding: 2rem 1rem;
+        }
+
         p {
             max-width: $max-width-default;
             margin: auto;

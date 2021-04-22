@@ -25,6 +25,10 @@
         grid-template-rows: 4.2rem 3rem;
 
         padding: 0.5rem 0;
+        
+        @media only screen and (max-width: $max-width-default) {
+            padding: 0.5rem 1rem;
+        }
 
         h1 {
             grid-column: 1 / 2;
@@ -101,7 +105,7 @@
 
     .headline-image {
         margin: 1rem auto 0.5rem auto;
-        max-width: $max-width-default;
+        width: 100%;
         // &.landscape {
         //     max-width: $max-width-default;
         // }
