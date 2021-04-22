@@ -22,5 +22,5 @@ But wait, the rich have \#sadfeels about all this! They produce charts proving t
 {:.choice-question}
 
 - [Well then, maybe we’re measuring the economy wrong.](chapter_ghw.html)
-- [Oh no! Better undo all of these reforms. Things were fine before, weren’t they?](chapter_gains_reversed.html)
+- [Oh no! Better undo all of these reforms. Things were fine before, weren’t they?](chapter_gains-reversed.html)
 {:.choice-options}

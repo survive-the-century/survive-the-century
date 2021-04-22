@@ -24,7 +24,7 @@ Should we try a last-ditch geo-engineering solution?
 <div data-js-var="js-rand-geoengineering2-low" markdown="1" class="hidden">
 
 - [Let’s keep talking about it for a few more years.](chapter_stalling.html)
-- [Let’s give it a go.](chapter_geo-engineering-fail.html)
+- {:.random} [Let’s give it a go.](chapter_geo-engineering-fail.html)
 {:.choice-options}
 
 </div>
@@ -32,7 +32,7 @@ Should we try a last-ditch geo-engineering solution?
 <div data-js-var="js-rand-geoengineering2-med" markdown="1" class="hidden">
 
 - [Let’s keep talking about it for a few more years.](chapter_stalling.html)
-- [Let’s give it a go.](chapter_billionaire-geo-engineering.html)
+- {:.random} [Let’s give it a go.](chapter_billionaire-geo-engineering.html)
 {:.choice-options}
 
 </div>
@@ -40,7 +40,7 @@ Should we try a last-ditch geo-engineering solution?
 <div data-js-var="js-rand-geoengineering2-medplus" markdown="1" class="hidden">
 
 - [Let’s keep talking about it for a few more years.](chapter_stalling.html)
-- [Let’s give it a go.](chapter_unilateral-geo-engineering.html)
+- {:.random} [Let’s give it a go.](chapter_unilateral-geo-engineering.html)
 {:.choice-options}
 
 </div>
@@ -48,7 +48,7 @@ Should we try a last-ditch geo-engineering solution?
 <div data-js-var="js-rand-geoengineering2-high" markdown="1" class="hidden">
 
 - [Let’s keep talking about it for a few more years.](chapter_stalling.html)
-- [Let’s give it a go.](chapter_surprising-success-geo-engineering.html)
+- {:.random} [Let’s give it a go.](chapter_surprising-success-geo-engineering.html)
 {:.choice-options}
 
 </div>

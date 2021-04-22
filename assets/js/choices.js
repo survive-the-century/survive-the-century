@@ -51,3 +51,36 @@ function ebDisplayVariableCopy () {
 }
 
 ebDisplayVariableCopy();
+
+// Move the SVGs into the hyperlinks to make entire choice box clickable
+function ebMoveTheSVGsIntoTheLinks () {
+    // get the links
+    var choiceLinkList = document.querySelectorAll("ul.choice-options a");
+
+    var svgPath;
+
+    choiceLinkList.forEach(function (link) {
+        // find out which kind we have
+        if (link.parentElement.classList.contains("random")) {
+            svgPath = "../../assets/images/web/dice.svg";
+        } else {
+            svgPath = "../../assets/images/web/next-arrow.svg";
+        }
+
+        // put the link text in a span for positioning
+        var linkText = link.innerHTML;
+        var linkSpan = document.createElement("span");
+        linkSpan.innerHTML = linkText;
+
+        // put the span inside the a
+        link.innerHTML = "";
+        link.appendChild(linkSpan);
+
+        // put the SVG inside the a
+        var svgElement = document.createElement("img");
+        svgElement.setAttribute("src", svgPath);
+        link.appendChild(svgElement);
+    });
+}
+
+ebMoveTheSVGsIntoTheLinks();

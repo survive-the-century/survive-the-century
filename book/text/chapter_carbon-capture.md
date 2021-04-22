@@ -37,14 +37,14 @@ Will our magnificent Council figure something out in time?
 
 <div data-js-var="js-rand-insect-failure" markdown="1" class="hidden">
 
-- [Let's sure hope so](chapter_fail-to-invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
+- {:.random} [Let's sure hope so.](chapter_fail-to-invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
 {:.choice-options}
 
 </div>
 
 <div data-js-var="js-rand-insect-success" markdown="1" class="hidden">
 
-- [Let's sure hope so](chapter_invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
+- {:.random} [Let's sure hope so.](chapter_invent-insect-drones.html){:data-js-var="js-var-temperature-5"}
 {:.choice-options}
 
 </div>

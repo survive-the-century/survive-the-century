@@ -23,7 +23,7 @@ Should we try a geo-engineering solution now, or do more research?
 <div data-js-var="js-rand-geoengineering3-low" markdown="1" class="hidden">
 
 - [Let’s do a little more research first.](chapter_stalling.html)
-- [Let’s give it a go](chapter_chapter_geo-engineering-fail.html)
+- {:.random} [Let’s give it a go.](chapter_chapter_geo-engineering-fail.html)
 {:.choice-options}
 
 </div>
@@ -31,7 +31,7 @@ Should we try a geo-engineering solution now, or do more research?
 <div data-js-var="js-rand-geoengineering3-high" markdown="1" class="hidden">
 
 - [Let’s do a little more research first.](chapter_stalling.html)
-- [Let’s give it a go](chapter_global-climate-council.html)
+- {:.random} [Let’s give it a go.](chapter_global-climate-council.html)
 {:.choice-options}
 
 </div>
