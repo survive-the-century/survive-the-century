@@ -1,6 +1,5 @@
 .newspaper-header-wrapper {
     background-color: $midnight;
-    height: $newspaper-header-height;
     margin-bottom: 1rem;
 
     // https://coderwall.com/p/hkgamw/creating-full-width-100-container-inside-fixed-width-container
@@ -9,14 +8,10 @@
     margin-left: -50vw;
     left: 50%;
 
-    // masthead height
-    // top: $masthead-height;
-
     .newspaper-header {
 
         height: 100%;
         max-width: $max-width-default;
-        // margin: 1rem auto 0.75rem auto;
         margin: auto;
         position: relative;
         
