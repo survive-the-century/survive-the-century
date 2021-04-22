@@ -9,6 +9,11 @@ temperature: 3
 
 {% include variables %}
 
+{% include newspaper-title date="10 January 2070" %}
+
+Press release
+{:.runner}
+
 {% include image file="sulphur-pipe.png" class="headline-image portrait" %}
 
 # US-sponsored non-state actors seeding oceans with banned geo-engineering tech?

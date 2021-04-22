@@ -9,6 +9,10 @@ temperature: 2.3
 
 {% include variables %}
 
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
 
 # Trouble in Paradys: Virtual worlds, real targets
 

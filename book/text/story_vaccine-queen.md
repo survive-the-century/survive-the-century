@@ -9,6 +9,11 @@ temperature: 1.6
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2030" %}
+
+Press release
+{:.runner}
+
 {% include image file="child-getting-vaccine.png" class="headline-image landscape" %}
 
 # Vaccine Queen opens the first of 100 tech universities across West Africa

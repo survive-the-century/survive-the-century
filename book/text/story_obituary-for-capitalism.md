@@ -9,6 +9,11 @@ temperature: 1.5
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2070" %}
+
+Press release
+{:.runner}
+
 # Obituaries
 
 ## Capitalism: 1760–2068

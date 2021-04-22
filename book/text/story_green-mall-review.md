@@ -9,6 +9,11 @@ temperature: 1.7
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
 # Review of a “green mall” by a grumpy Gen X shopaholic
 
 By Maria Turtschaninoff

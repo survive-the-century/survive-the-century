@@ -9,6 +9,11 @@ temperature: 2.25
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
 {% include image file="floods-in-india.png" class="headline-image portrait" %}
 
 # Mass-abductions hobble India’s guest talent programme

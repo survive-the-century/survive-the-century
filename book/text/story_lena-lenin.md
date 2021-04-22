@@ -9,6 +9,11 @@ temperature: 2
 
 {% include variables %}
 
+{% include newspaper-title date="12 January 2080" %}
+
+Press release
+{:.runner}
+
 # Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin
 
 *Lena Lenin talks Marie Antoinette, the myth of the nuclear family and the power of exotic stimulants.*

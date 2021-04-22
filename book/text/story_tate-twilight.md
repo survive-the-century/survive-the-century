@@ -9,6 +9,11 @@ temperature: 3.7
 
 {% include variables %}
 
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
 {% include image file="virtual-safari.png" class="headline-image landscape" %}
 
 # The Tate Twilight

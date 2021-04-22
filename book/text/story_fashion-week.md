@@ -9,6 +9,11 @@ temperature: 2
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2060" %}
+
+Press release
+{:.runner}
+
 {% include image file="catwalk.png" class="headline-image portrait" %}
 
 # Paris Fashion Week 2060 special report 

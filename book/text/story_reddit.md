@@ -9,6 +9,11 @@ temperature: 1.7
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2030" %}
+
+Press release
+{:.runner}
+
 # Reddit thread: Globohomo vaccine whistle blown
 
 *Online Culture reporter Sophia Al-Maria brings us a sampling of what’s happening on your favourite social networks.*

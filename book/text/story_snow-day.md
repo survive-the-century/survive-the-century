@@ -9,6 +9,11 @@ temperature: 1
 
 {% include variables %}
 
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
 {% include image file="snowy-mountains.png" class="headline-image landscape" %}
 
 # Finnish children celebrate first snow day in 50 years

@@ -9,6 +9,11 @@ temperature: 2.3
 
 {% include variables %}
 
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
 # Statement from Womb Riot demanding radical eco-political reforms now
 
 *Thanks to our reporter Lauren Beukes for bringing this to our attention.*

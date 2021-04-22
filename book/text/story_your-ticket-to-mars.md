@@ -9,6 +9,11 @@ temperature: 2.3
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2070" %}
+
+Press release
+{:.runner}
+
 {% include image file="city-dome.png" class="headline-image landscape" %}
 
 # Quiz: What’s your ticket to Mars?

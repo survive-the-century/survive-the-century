@@ -9,6 +9,11 @@ temperature: 1.4
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2030" %}
+
+Press release
+{:.runner}
+
 {% include image file="high-crime.png" class="headline-image landscape" %}
 
 # California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants

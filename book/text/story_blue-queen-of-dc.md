@@ -9,6 +9,11 @@ temperature: 3.7
 
 {% include variables %}
 
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
 # The Blue Queen of DC: A review
 
 By Rajat Chaudhuri

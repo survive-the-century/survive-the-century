@@ -9,6 +9,11 @@ temperature: 2
 
 {% include variables %}
 
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
 # Exile nation: What happens when you’re forced out of paradise?
 
 By Lauren Beukes

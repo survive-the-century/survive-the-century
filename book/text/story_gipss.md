@@ -9,6 +9,11 @@ temperature: 1.25
 
 {% include variables %}
 
+{% include newspaper-title date="24 June 2080" %}
+
+Press release
+{:.runner}
+
 # Report from the Global Indigenous Peoples’ Stewardship Summit
 
 By Maria Turtschaninoff
