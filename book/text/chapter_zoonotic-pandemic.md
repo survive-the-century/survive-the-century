@@ -16,5 +16,5 @@ Within six months, it spreads all around the world, killing two per cent of the 
 
 Talking about geo-engineering is nobody’s priority right now.
 
-- [Well, you made it through the 2060s.](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2070-slow-fade.html"}
+- [Well, you made it through the 2060s.](part-page_2070.html){:js-next-dest="newspaper_welcome-to-2070-slow-fade.html"}
 {:.choice-options}
