@@ -1,5 +1,8 @@
 p {
     letter-spacing: $letter-spacing-default;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 0.9375rem;    
+    }
 }
 
 // Masthead
@@ -57,6 +60,10 @@ p {
     .leader-sentence,
     .choice-question {
         @include text-big ($green);
+    }
+
+    .leader-sentence.thanks {
+        text-align: center;
     }
 
     .choice-options {
@@ -184,7 +191,8 @@ p {
 
 // Buttons
 
-p.button a, button.copy-to-clipboard {
+p.button a, 
+button.copy-to-clipboard {
     @include text-button-medium ($white);
     background-color: $red;
     text-align: center;
@@ -192,8 +200,10 @@ p.button a, button.copy-to-clipboard {
 }
 
 .round-action-buttons {
-    @include text-button-small ($white);
-    list-style-type: none;
+    a p {
+        @include text-button-small ($white);    
+    }
+    
     a {
         color: $white;
         text-decoration: none;
