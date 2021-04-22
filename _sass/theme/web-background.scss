@@ -37,6 +37,14 @@ body,
 .chapter {
     margin-top: $masthead-height;
 
+    @media only screen and (max-width: $break-point-masthead) {
+        // take action page doesn't have a dash
+        &.action {
+            margin-top: 0;
+        }
+    }
+    
+
     .glow-top,
     .glow-bottom {
         width: 100%;
