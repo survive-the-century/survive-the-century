@@ -1,5 +1,4 @@
 .masthead {
-
     position: fixed;
     top: 0;
 
@@ -11,15 +10,20 @@
         height: inherit;
     }
 
-    .stay-on-top,
-    .move-to-bottom {
+    &.masthead-top,
+    &.masthead-bottom {
         width: 100%;
         position: fixed;
     }
 
-    .stay-on-top {
+    &.masthead-top {
         border-bottom: 1px solid $midnight-60pc;
         background-color: $midnight-90pc;
+    }
+
+    &.masthead-bottom {
+        border-bottom: none;
+        background-color: transparent;
     }
 
     ul {
@@ -109,24 +113,26 @@
 // Responsiveness
 
 @media only screen and (max-width: $break-point-masthead) {
-    .stay-on-top {
-        top: 0;
+    .masthead.masthead-top {
         .dash {
             max-width: 100vw;
         }
-        
     }
 
-    .move-to-bottom {
+    .masthead.masthead-bottom {
+        top: auto;
         bottom: 0;
-        border-bottom: none;
         background-color: $midnight-90pc;
         border-top: 1px solid $midnight-60pc;
     }
 
-    .home .stay-on-top,
-    .frontmatter .stay-on-top {
-        display: none;
+    .home, .frontmatter {
+        .masthead-top {
+            display: none;
+        }
+        .main-content {
+            margin-top: 2rem;
+        }
     }
 }
 

@@ -1,13 +1,18 @@
-<div class="masthead">
 
-    {% if page.style != "home" and page.style != "frontmatter" %}
+<div class="masthead masthead-top">
 
-    {% include logo %}
-
+    {% if page.style != "home" and page.style != "frontmatter" and page.style != "frontmatter stories" %}
     {% include dash %}
-
     {% endif %}
 
+</div>
+
+<div class="masthead masthead-bottom">
+
+    {% if page.style != "home" and page.style != "frontmatter" and page.style != "frontmatter stories" %}
+    {% include logo %}
+    {% endif %}
+    
     {% include nav %}
 
-</div><!--.masthead-->
+</div>
