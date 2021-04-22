@@ -6,7 +6,7 @@ style: chapter
 {% include variables %}
 
 Thanks for playing!
-{:.leader-sentence}
+{:.leader-sentence.thanks}
 
 We hope you’ve enjoyed thinking about what the rest of the century might look like, and that you’re inspired to have some influence in the real world.
 

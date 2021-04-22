@@ -1,3 +1,5 @@
+/*jslint browser */
+
 function ebReadMoreButtons () {
     "use strict";
 
@@ -5,7 +7,7 @@ function ebReadMoreButtons () {
     var readMoreLinks = document.querySelectorAll(".articles a");
 
     readMoreLinks.forEach(function (link) {
-        // Make the link text invisible 
+        // Make the link text invisible
         // We want to keep it for accessibility
         var linkText = link.text;
 
@@ -25,6 +27,7 @@ function ebReadMoreButtons () {
 }
 
 ebReadMoreButtons();
+
 
 function ebNextDecadeButtons () {
     "use strict";
@@ -46,3 +49,23 @@ function ebNextDecadeButtons () {
 }
 
 ebNextDecadeButtons();
+
+
+function ebActionButtons () {
+    // need to put an event listener on the share button
+    // when it is pressed, reveal the share links
+    // and add the classes needed to rearrange the other elements
+
+    var shareButton = document.querySelector("a.share-button");
+    var shareLinks = document.querySelector("div.share-links");
+    var actionButtonDiv = document.querySelector("div.round-action-buttons");
+
+    if (shareButton) {
+        shareButton.addEventListener("click", function () {
+            shareLinks.classList.toggle("hidden");
+            actionButtonDiv.classList.toggle("display-share");
+        });
+    }
+}
+
+ebActionButtons();

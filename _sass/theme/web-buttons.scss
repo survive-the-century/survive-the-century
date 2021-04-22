@@ -43,7 +43,8 @@
 
 p.button {
     width: 12.5rem;
-    height: 2.2rem;
+    height: fit-content;
+    height: -moz-fit-content;
     display: flex;
     margin: auto;
     a {
@@ -100,11 +101,30 @@ p.button {
         margin: 2rem auto 1.5rem auto;
 
         a {
+            cursor: pointer;
             img {
-
+                display: block;
+                margin: auto;
             }
             p {
                 margin-top: 0.5rem;
+                text-align: center;
+            }
+        }
+
+        .share-links.hidden {
+            display: none;
+        }
+
+        // display the share options
+        &.display-share {
+            flex-direction: column;
+            .share-links {
+                margin-bottom: 1rem;
+                p {
+                    margin-bottom: 1rem;
+                    width: 8rem;
+                }
             }
         }
     }
