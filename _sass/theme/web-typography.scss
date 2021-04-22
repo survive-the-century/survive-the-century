@@ -97,6 +97,10 @@ p {
     .runner {
         @include text-medium-caps ($midnight);
     }
+
+    dd {
+        @include text-small($midnight);
+    }
 }
 
 // Newspaper
