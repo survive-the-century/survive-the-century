@@ -42,8 +42,14 @@ function ebNextDecadeButtons () {
     var nextDecadeLink = document.querySelector(".next-decade-link a");
 
     if (nextDecadeLink) {
+        var linkText = nextDecadeLink.innerHTML;
+        nextDecadeLink.innerHTML = "";
+
+        var textSpan = document.createElement("span");
+        textSpan.innerHTML = linkText;
         // put the image inside the link on either side of the content
-        nextDecadeLink.prepend(arrowElement1);
+        nextDecadeLink.appendChild(arrowElement1);
+        nextDecadeLink.appendChild(textSpan);
         nextDecadeLink.appendChild(arrowElement2);
     }
 }
