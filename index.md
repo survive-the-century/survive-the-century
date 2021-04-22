@@ -39,7 +39,7 @@ This game is a work of fiction, but it is informed by real science.
 
 We hope that this game helps you to feel less hopeless and nihilistic about the future. Our choices matter. It’s not over. There are still a lot of decisions we can make that will lead to dramatically different futures.
 
-[Take action](take-action)
+[Take action](book/text/take-action.html)
 {:.button.underline}
 
 
