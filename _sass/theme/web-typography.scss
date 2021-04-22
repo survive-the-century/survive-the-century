@@ -1,38 +1,26 @@
 p {
-    letter-spacing: 0.02em;
+    letter-spacing: $letter-spacing-default;
 }
 
 // Masthead
 
 .masthead {
     p {
-        font-size: 0.5rem;
-        line-height: 1.1em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+        @include text-button-small ($white);
     }
 }
 
 // Homepage
 .home {
     .homepage-leader-sentence {
-        font-family: $font-text-secondary;
-        font-style: italic;
-        font-size: 2rem;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
-        color: $green;
+        @include text-very-big ($green);
         text-align: center;
     }
 
     .below-the-fold {
         color: $midnight;
         h1 {
-            font-family: $font-text-secondary;
-            font-style: italic;
-            font-size: 1.5rem;
-            line-height: 1.5em;
-            letter-spacing: 0.02em;
+            @include text-big ($midnight);
         }
     }
 }
@@ -40,37 +28,26 @@ p {
 // Frontmatter
 .frontmatter .main-content {
     h1 {
-        font-family: $font-text-secondary;
-        font-style: italic;
-        font-size: 2rem;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
+        @include text-very-big ($midnight);
     }
 
     h2 {
-        font-family: $font-text-secondary;
-        font-style: italic;
-        font-size: 1.5rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-big ($midnight);
     }
 
+    a {
+        color: $midnight;
+    }
+}
+
+.frontmatter.stories .story-list {
     li a {
-        font-family: $font-text-secondary;
-        font-style: italic;
-        font-size: 1.5rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-big ($midnight);
         text-transform: none;
     }
     
     li {
-        font-family: $font-text-main;
-        font-style: normal;
-        font-size: 1rem;
-        line-height: 1.5em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+        @include text-medium-caps ($midnight);
     }
 }
 
@@ -79,94 +56,77 @@ p {
 .chapter {
     .leader-sentence,
     .choice-question {
-        color: $green;
-        font-family: $font-text-secondary;
-        font-size: 4 * $font-size-default / 3;
-        font-style: italic;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-big ($green);
     }
 
     .choice-options {
-        font-size: 7 * $font-size-default / 9;
-        line-height: 1.5em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+        @include text-button-medium ($white);
         li a {
-            color: $color-text-main;
             text-decoration: none;
+            color: $white;
+            strong {
+                color: $red;
+                font-weight: normal;
+            }
         }
     }
     
     .closer-sentence {
-        font-family: $font-text-secondary;
-        font-size: 1.375rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-medium ($white);
+    }
+}
+
+// Story
+
+.story {
+    h1 {
+        @include text-very-big ($midnight);
+    }
+
+    .author {
+        @include text-medium-caps ($midnight);
+    }
+
+    .runner {
+        @include text-medium-caps ($midnight);
     }
 }
 
 // Newspaper
 
-.newspaper {
-
+.newspaper .newspaper-header,
+.story .newspaper-header {
     h1 {
-        font-family: $font-text-secondary;
-        font-size: 2.5 * $font-size-default;
-        // line-height: 1.5em;
-        letter-spacing: 0.02em;
-        color: $white;
-        
+        @include text-huge ($white);        
     }
 
     h2 {
-        font-family: $font-text-secondary;
-        font-style: italic;
-        font-size: 2rem;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
-        color: $red;
+        @include text-very-big ($red);
     }
 
-    .newspaper-header p {
-        font-family: $font-text-secondary;
-        font-size: 1.375rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
-        color: $white;
+    p {
+        @include text-medium ($white);
         text-align: right;
     }
+}
 
+.newspaper {
     h3 {
-        font-family: $font-text-main;
-        font-size: 1.25rem;
-        line-height: 1.5em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+        @include text-medium-caps ($midnight);
     }
 
     .headline {
-        font-family: $font-text-secondary;
-        font-size: 2rem;
-        font-style: italic;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
+        @include text-very-big ($midnight);
     }
     
     .subheadline {
-        font-family: $font-text-secondary;
-        font-size: 1.375rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-medium ($midnight);
     }
 
     ul.articles  {
         list-style-type: none;
         li {
-            font-family: $font-text-main;
-            font-size: $font-size-default;
-            line-height: 1.8em;
-            letter-spacing: 0.02em;
+            @include text-small ($midnight);
         }
     }
 }
@@ -174,61 +134,29 @@ p {
 // Next decade link
 
 .next-decade-link a {
-    font-family: $font-text-main;
-    font-size: 0.875rem;
-    line-height: 1.5em;
-    letter-spacing: 0.1em;
-    color: $white;
-    text-transform: uppercase;
+    @include text-button-medium ($white);
     text-decoration: none;
-}
-
-// Story
-
-.story {
-    h1 {
-        font-family: $font-text-secondary;
-        font-size: 2rem;
-        font-style: italic;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
-    }
-
-    .author {
-        font-family: $font-text-main;
-        font-size: 1rem;
-        line-height: 1.5em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
-    }
 }
 
 // Part-pages
 
 .part-page {
     .text-words {
-        font-family: $font-text-secondary;
+        @include text-enormous ($green);
         font-size: 2.5 * $font-size-default;
         font-style: italic;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
-        color: $green;
+        letter-spacing: $letter-spacing-default;
+        @media only screen and (max-width: $break-point-default) {
+            font-size: 2.5rem;
+        }
     }
 
     .text-number {
-        font-family: $font-text-secondary;
-        font-size: 7.5rem;
-        line-height: 1.5em;
-        color: $white;
+        @include text-enormous ($white);
     }
 
-    a {
-        font-family: $font-text-main;
-        font-size: 0.875rem;
-        line-height: 1.5em;
-        letter-spacing: 0.1em;
-        color: $white;
-        text-transform: uppercase;
+    :not(li) > a {
+        @include text-button-medium ($white);
         text-decoration: none;
     }
 }
@@ -237,12 +165,7 @@ p {
 
 .ending {
     h1 {
-        font-family: $font-text-secondary;
-        font-size: 2rem;
-        font-style: italic;
-        line-height: 1.4em;
-        letter-spacing: 0.02em;
-        color: $green;
+        @include text-very-big ($green);
         text-align: center;
         position: relative;
     }
@@ -251,10 +174,8 @@ p {
     }
 
     .leader-sentence {
-        font-family: $font-text-secondary;
-        font-size: 1.375rem;
-        line-height: 1.5em;
-        letter-spacing: 0.02em;
+        @include text-medium ($white);
+        position: relative;
     }
     &.dead .leader-sentence {
         color: $midnight;
@@ -264,14 +185,19 @@ p {
 // Buttons
 
 p.button a, button.copy-to-clipboard {
-    font-family: $font-text-main;
-    font-size: 0.8rem;
-    line-height: 1.5em;
-    letter-spacing: 0.1em;
-    color: $white;
+    @include text-button-medium ($white);
     background-color: $red;
     text-align: center;
-    text-transform: uppercase;
+    
+}
+
+.round-action-buttons {
+    @include text-button-small ($white);
+    list-style-type: none;
+    a {
+        color: $white;
+        text-decoration: none;
+    }
 }
 
 // Footer
@@ -279,10 +205,7 @@ p.button a, button.copy-to-clipboard {
 .footer {
     padding-top: 1.3rem;
     li {
-        font-size: 0.5 * $font-size-default;
-        line-height: 1.1em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+        @include text-button-small ($white);
         list-style-type: none;
         a {
             text-decoration: none;
