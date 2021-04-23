@@ -30,7 +30,7 @@ Landmark ruling finds executive’s actions were premeditated in first test case
 - {% include thumbnail file="thumbnail_water.png" %} Successful test of Great Barrier Reef corals relocated to Tasmanian sea
 - {% include thumbnail file="thumbnail_forest.png" %} Global ban on tropical deforestation leads to revival of orangutan population
 - {% include thumbnail file="thumbnail_people.png" %} International meat tax increases food prices globally; poor communities argue tax makes it harder for them to meet basic nutritional requirements
-- {% include thumbnail file="thumbnail_graph.png" %} People in India can see the Himalayas for the first time in years as air pollution clears
+- {% include thumbnail file="thumbnail_squiggles.png" %} People in India can see the Himalayas for the first time in years as air pollution clears
 {:.articles}
 
 [What will this new decade bring?](chapter_easier-climate-conference.html)
