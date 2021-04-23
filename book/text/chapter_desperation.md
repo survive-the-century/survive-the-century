@@ -14,7 +14,7 @@ Feeling increasingly hopeless, various groups of climate rebels get together and
 
 There are risks.
 
-Should we try a last-ditch geo-engineering solution?
+Should we try a last-ditch geoengineering solution?
 {:.choice-question}
 
 <div data-js-var="js-rand-geoengineering1-low" markdown="1" class="hidden">

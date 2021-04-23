@@ -24,11 +24,11 @@ The rogue states successfully hack the space mirrors and bring down the whole sy
 The Mars colony is going to cost an eye-melting amount of money. 
 {:.leader-sentence}
 
-Most geo-engineering projects are defunded, and many of them have to be stopped suddenly.
+Most geoengineering projects are defunded, and many of them have to be stopped suddenly.
 
 </div>
 
-It turns out that we’d become more dependent on geo-engineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
+It turns out that we’d become more dependent on geoengineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
 
 - [This is BAD.](chapter_zoonotic-pandemic.html)
 {:.choice-options}

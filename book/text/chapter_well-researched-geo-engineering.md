@@ -17,7 +17,7 @@ We’ve developed a technology that we think will allow us to engineer the clima
 
 There is some risk that something will go wrong. We could spend a few more years doing research to improve the chances that it won’t, but we also can’t afford to wait much longer.
 
-Should we try a geo-engineering solution now, or do more research?
+Should we try a geoengineering solution now, or do more research?
 {:.choice-question}
 
 <div data-js-var="js-rand-geoengineering3-low" markdown="1" class="hidden">

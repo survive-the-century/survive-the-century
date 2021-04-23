@@ -18,7 +18,7 @@ temperature: 2.1
 Millions die as world’s first “global syndemic” declared
 {:.headline}
 
-Concurrent influenza-paramyxovirus kill millions with asthma and pre-existing respiratory illness
+Deforestation linked to concurrent influenza-paramyxovirus 
 {:.subheadline}
 
 ### Other stories today

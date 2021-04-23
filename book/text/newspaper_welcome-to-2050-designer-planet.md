@@ -15,7 +15,7 @@ temperature: 3
 
 {% include image file="scientists-studying-bat.png" class="headline-image landscape" %}
 
-Over 50 new zoonotic viruses detected this year as warming moves animal species into contact with each other
+Over 50 new zoonotic viruses detected this year as warming moves previously isolated animal species into contact with each other
 {:.headline}
 
 No big deal, say health experts, because global health surveillance system is so effective
@@ -23,11 +23,11 @@ No big deal, say health experts, because global health surveillance system is so
 
 ### Other stories today
 
-- {% include thumbnail file="thumbnail_graph.png" %} Over 90 per cent of animal and insect species lost, say experts
+- {% include thumbnail file="thumbnail_graph.png" %} Half of all insect and plant species heading for extinction, say experts
 - {% include thumbnail file="thumbnail_forest.png" %} Interest in VR safari holidays at all-time high
 - {% include thumbnail file="thumbnail_people.png" %} Amazon forced to replace 90 per cent of workforce with drones after UBI leads to mass walkout of low-paid employees
 - {% include thumbnail file="thumbnail_shapes.png" %} Versace premiers “cooling suits” at Paris Fashion Week allowing fashionistas to go outside in the tropics
-- {% include thumbnail file="thumbnail_water.png" %} Russia and Canada reach agreement over who owns the new year-long sailing routes over the Arctic Sea
+- {% include thumbnail file="thumbnail_water.png" %} Russia and Canada reach agreement over who owns the new year-long sailing routes over the ice-free Arctic Sea
 - {% include thumbnail file="thumbnail_squiggles.png" %} Japan becomes first country to be powered entirely by hydrogen
 - {% include thumbnail file="thumbnail_flow-horizontal.png" %} Ten ways to flavour your nutritional food packs this winter
 {:.articles}
