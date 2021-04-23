@@ -1,7 +1,8 @@
 .footer-wrapper {
     width: 100%;
     border-top: 1px solid $midnight-60pc;
-    height: 9rem;
+    // height: 9rem;
+    padding-bottom: 2rem;
     
     .footer {
         max-width: $max-width-default;
@@ -35,20 +36,33 @@
     }
 
     .footer-logos {
-        display: grid;
-        grid-template-rows: auto;
-        grid-template-columns: 25% auto;
+
+        img {
+            height: 1.5rem;
+            display: block;
+            margin: 0.5rem;
+        }
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        // display: grid;
+        // grid-template-rows: auto;
+        // grid-template-columns: 25% auto;
         max-width: 0.7 * $max-width-default;
         margin: auto;
 
-        img:first-of-type {
-            grid-column: 1 / 2;
-            margin: 1rem;
-        }
-        img:last-of-type {
-            grid-column: 2 / 3;
-            margin: 1rem;
-        }
+        // img:first-of-type {
+        //     grid-column: 1 / 2;
+        //     margin: 1rem;
+        // }
+        // img:last-of-type {
+        //     grid-column: 2 / 3;
+        //     margin: 1rem;
+        // }
 
         @media only screen and (max-width: $break-point-footer) {
             & {
