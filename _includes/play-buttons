@@ -1,0 +1,19 @@
+<div class="play-buttons" markdown="1">
+
+<div class="play-first-time hidden" markdown="1">
+
+[Play the game]({{ path-to-book-directory }}text/chapter_welcome-to-2021.html)
+{:.button}
+
+</div>
+
+<div class="play-again hidden" markdown="1">
+
+[Play again]({{ path-to-book-directory }}text/chapter_welcome-to-2021.html)
+{:.button}
+
+[Resume game](last-location){:.resume-game}
+{:.button.reverse-colours}
+
+</div>
+</div>

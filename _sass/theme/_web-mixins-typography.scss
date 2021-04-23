@@ -1,0 +1,111 @@
+@mixin text-enormous ($color) {
+    font-family: $font-text-secondary;
+    font-size: 7.5rem;
+    line-height: 150%;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 5rem;
+    }
+}
+
+
+@mixin text-huge ($color) {
+    font-family: $font-text-secondary;
+    font-size: 2.5 * $font-size-default;
+    line-height: 150%;
+    letter-spacing: $letter-spacing-default;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 2.5rem;
+    }
+}
+
+
+@mixin text-very-big ($color) {
+    font-family: $font-text-secondary;
+    font-style: italic;
+    font-size: 2rem;
+    line-height: 140%;
+    letter-spacing: $letter-spacing-default;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 1.5rem;
+    }
+}
+
+
+@mixin text-big ($color) {
+    font-family: $font-text-secondary;
+    font-style: italic;
+    font-size: 1.5rem;
+    line-height: 150%;
+    letter-spacing: $letter-spacing-default;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 1.25rem;
+    }
+}
+
+
+@mixin text-medium ($color) {
+    font-family: $font-text-secondary;
+    font-size: 1.375rem;
+    line-height: 150%;
+    letter-spacing: $letter-spacing-default;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: $font-size-default;
+    }
+}
+
+
+@mixin text-small ($color) {
+    font-family: $font-text-main;
+    font-size: $font-size-default;
+    line-height: $line-height-default;
+    letter-spacing: $letter-spacing-default;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 0.9375rem;    
+    }
+}
+
+
+@mixin text-medium-caps ($color) {
+    font-family: $font-text-main;
+    font-size: 1.25rem;
+    line-height: 150%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 1rem;
+    }
+}
+
+
+@mixin text-button-big ($color) {
+    font-family: $font-text-main;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color;
+}
+
+@mixin text-button-medium ($color) {
+    font-family: $font-text-main;
+    font-size: 0.875rem;
+    line-height: 150%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color;
+}
+
+@mixin text-button-small ($color) {
+    font-family: $font-text-main;
+    font-size: 0.5625rem;
+    line-height: 110%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color;
+}

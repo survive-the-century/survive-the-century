@@ -4,4 +4,8 @@
 layout: min
 ---
 
-{% include redirect target="text" %}
+{% include variables %}
+
+{% include metadata %}
+
+{% include redirect target="../" %}

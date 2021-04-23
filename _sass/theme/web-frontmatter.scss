@@ -1,0 +1,44 @@
+.frontmatter {
+    #content {
+        color: $midnight;
+        min-height: 80vh;
+    }
+
+    h1, h2 {
+        border-bottom: 1px solid $red;
+    }
+    h1 {
+        padding-bottom: 1rem;
+    }
+    h2 {
+        padding-bottom: 0.5rem;
+    }
+    
+    p a {
+        color: $midnight;
+    }   
+}
+
+
+// Stories
+
+.frontmatter.stories .main-content {
+    ul {
+        margin: 0;
+        margin-bottom: 2.5rem;
+    }
+
+    li {
+        list-style-type: none;
+        border-bottom: 1px $red solid;
+        padding-bottom: 1rem;
+    }
+    
+    li a {
+        display: block;
+        text-decoration: none;
+        color: $midnight;
+        margin-top: 1rem;
+        margin-bottom: 0.8rem;
+    }
+}

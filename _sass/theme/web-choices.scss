@@ -1,0 +1,10 @@
+// variable pieces are hidden by default
+
+div[data-js-var^="css-var-"].hidden {
+    display: none;
+}
+
+div[data-js-var^="js-rand-"].hidden {
+    display: none;
+}
+

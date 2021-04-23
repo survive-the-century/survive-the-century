@@ -1,0 +1,22 @@
+<div class="background-image">
+    
+    <div class="text-wrapper">
+        <div class="text-words">
+            Welcome to
+        </div>
+        <div class="text-number">
+            {{ include.year }} 
+        </div>
+        <div class="text-words">
+            You made it!
+        </div>
+        <p>
+            <a href="js-next-dest-placeholder" class="part-page-button">What will {{ include.year }} bring?</a>
+        </p>
+    </div>
+</div>
+
+
+
+
+

@@ -1,0 +1,38 @@
+.part-page {
+    .background-image {
+        background-image: url(../../assets/images/web/part-page.svg);
+        background-position: 50% 0rem;
+        background-size: auto 44rem;
+        background-repeat: no-repeat;
+        display: flex;
+        height: 752px;
+        align-items: center;
+
+        .text-wrapper {
+            display: block;
+            margin: auto;
+
+            & * {
+                text-align: center;
+            }
+        }
+
+        p {
+            text-align: center;
+            margin-top: 3rem;
+            a {
+                border: 2px solid $red;
+                padding: 1em;
+                // hover glow
+                &.css-glow {
+                    box-shadow: 0 0 7px $red-60pc;
+                }
+            }
+        }
+
+        // img {
+        //     display: block;
+        //     margin: auto;
+        // }
+    }
+}

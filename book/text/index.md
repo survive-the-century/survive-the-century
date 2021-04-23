@@ -2,4 +2,8 @@
 style: cover
 ---
 
-{% include cover %}
+{% include variables %}
+
+{% include metadata %}
+
+{% include redirect target="../../" %}

@@ -77,6 +77,9 @@ exclude:
   - /*/package.opf
   - /*/toc.ncx
 
+  # Files that do not go live
+  - /book/text/link-list*
+
   # Exclude web images only if you keep_files them below
   # - /*/images/web
 

@@ -1,0 +1,20 @@
+<div class="dash">
+    <ul>
+        <li class="decade">
+            <p>Decade</p>
+        </li>
+
+        <li class="conflict">
+            <p>Conflict</p>
+        </li>
+
+        <li class="temperature">
+            <p>Temperature</p>
+        </li>
+
+        <li class="economy">
+            <p>Economy</p>
+        </li>
+    </ul>
+
+</div>
