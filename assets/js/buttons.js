@@ -56,15 +56,18 @@ function ebNextDecadeButtons () {
         nextDecadeLink.appendChild(arrowElement1);
         nextDecadeLink.appendChild(textSpan);
         nextDecadeLink.appendChild(arrowElement2);
-    }
 
-    // This should not show if you are coming from the stories TOC
-    if (document.referrer.includes("stories.html")) {
-        nextDecadeLink.parentNode.classList.add("hidden");
+        // This should not show if you are coming from the stories TOC
+        if (document.referrer.includes("stories.html")) {
+            nextDecadeLink.parentNode.classList.add("hidden");
 
-        // Push the footer down to fill the void
-        var footerWrapper = document.querySelector(".footer-wrapper");
-        footerWrapper.classList.add("no-next-decade-link");
+            // Push the footer down to fill the void
+            var footerWrapper = document.querySelector(".footer-wrapper");
+            footerWrapper.classList.add("no-next-decade-link");
+
+            // hide the dash
+            document.body.classList.add("dash-hidden");
+        }
     }
 }
 
