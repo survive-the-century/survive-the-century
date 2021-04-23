@@ -48,3 +48,19 @@
         }
     }
 }
+
+.chapter-image-parent {
+    margin: 0;
+}
+
+.chapter-image-parent img.chapter-image {
+    margin: -4rem auto 1rem auto;
+    position: relative;
+    width: 100%;
+    // &.landscape {
+    //     max-width: $max-width-default;
+    // }
+    // &.portrait {
+    //     max-height: 25.125rem;
+    // }
+}
