@@ -15,7 +15,7 @@ temperature: 2.75
 
 {% include image file="space-mirrors.png" class="headline-image landscape" %}
 
-Fears of conflict, counter-geo-engineering deter China from deploying solar geo-engineering
+Fears of conflict, counter-geoengineering deter China from deploying solar geoengineering
 {:.headline}
 
 “Another decade lost,” say dejected activists

@@ -50,3 +50,6 @@ Will our magnificent Council figure something out in time?
 </div>
 
 </div>
+
+> One of the potential risks of blocking some of the sun’s rays to offset global warming is that if we stopped, the temperature could rise very quickly. This would happen if geoengineering was deployed without society also reducing greenhouse gas emissions at the same time. Suddenly stopping geoengineering would cause temperatures to rebound fast. Scientists call this risk "termination shock" and it would be catastrophic for ecosystems globally.
+{:.infobox}

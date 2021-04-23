@@ -15,7 +15,7 @@ We start experiencing even more climate shocks: hurricanes, fires, droughts, flo
 
 They’re coming fast now.
 
-There’s a growing movement that calls themselves “Planet B”. They argue that geo-engineering the earth is a waste of time. We should rather put all of our resources into colonizing Mars on a larger scale.
+There’s a growing movement that calls themselves “Planet B”. They argue that geoengineering the earth is a waste of time. We should rather put all of our resources into colonizing Mars on a larger scale.
 
 Should we forget about Earth and put all our hopes in Mars?
 {:.choice-question}

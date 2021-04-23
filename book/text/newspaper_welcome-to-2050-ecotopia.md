@@ -25,8 +25,8 @@ Sustainable small-scale organic agroforestry now produces 90 per cent of all foo
 
 - {% include thumbnail file="thumbnail_stormy.png" %} “We’ve turned the tide, but we should expect more disasters in the coming decade,” say climate experts, pointing to stabilizing temperatures
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Laugh of the day: Review of a “Green Mall” by a grumpy Gen X shopaholic [Read more](story_green-mall-review.html){:.read-more}
-- {% include thumbnail file="thumbnail_people.png" %} Since the domestication of ostriches, home protein diets have improved significantly
-- {% include thumbnail file="thumbnail_water.png" %} Surface ocean acidification has been successfully reversed
+- {% include thumbnail file="thumbnail_people.png" %} Thanks to home insect farms, protein diets have improved significantly
+- {% include thumbnail file="thumbnail_water.png" %} Surface ocean acidification stabilized within safe limits for shellfish
 - {% include thumbnail file="thumbnail_peaks.png" %} Beavers return to Manhattan as the city fragments into sustainable communities
 {:.articles}
 

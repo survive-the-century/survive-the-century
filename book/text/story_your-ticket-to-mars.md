@@ -21,7 +21,7 @@ Press release
 By Lauren Beukes
 {:.author}
 
-Ah, Mars, that russet interstellar paradise we mere mortals can only gaze up at in envy, through the blur of smog and light pollution and the white glare of the sulphur oxide skein in the atmosphere. It’s a dream come true among the terraformed lava tubes, if you could only get there. Mars is a paradise for the lucky few who can afford it, but there are other ways to get a piece of that red life. Take our quiz to find out what Mars-specific job you’d be best suited for.
+Ah, Mars, that russet interstellar paradise we mere mortals can only gaze up at in envy, through the blur of smog and light pollution and the white glare of the sulphur dioxide skein in the atmosphere. It’s a dream come true among the terraformed lava tubes, if you could only get there. Mars is a paradise for the lucky few who can afford it, but there are other ways to get a piece of that red life. Take our quiz to find out what Mars-specific job you’d be best suited for.
 
 Pick a romantic Mars vacation spot:
 {:.quiz-question}

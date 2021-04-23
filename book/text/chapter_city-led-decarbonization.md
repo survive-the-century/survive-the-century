@@ -14,7 +14,7 @@ Confronting the fact that national leaders aren’t going to do enough, María C
 
 Over 150 city leaders assemble, together representing a billion people, and one third of the world’s economy. They realize that they don’t need to wait for their national leaders to act: there’s a lot they can do on their own.
 
-The cities commit to the 2035-Zero goal: for the combined emissions of all of these citizens to be zero by 2035. This goal is measured collectively – cities that had a head start in transitioning to greener cities invest in technology to capture greenhouse gases, to offset the emissions by cities that start later. The cities work together, pooling their resources and sharing information about how to change.
+The cities commit to the 2035-Zero goal: for the combined emissions of all of these citizens to be zero by 2035. This goal is measured collectively – cities that had a head start in transitioning to renewable energy invest in technology to capture greenhouse gases, to offset the emissions by cities that start later. The cities work together, pooling their resources and sharing information about how to change.
 
 These changes immediately make life better for the inhabitants of these cities. Air pollution clears up, there are waves of new jobs in green tech, and there are more green spaces.
 

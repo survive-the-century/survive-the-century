@@ -28,7 +28,6 @@ Partners with Amazon-Chase to extend credit to farmers who can’t afford to buy
 - {% include thumbnail file="thumbnail_forest.png" %} The safest escape: How one VR programme can improve your mental health
 - {% include thumbnail file="thumbnail_water.png" %} Natural gas extraction leads to extensive groundwater contamination in rural areas as regulators defer to energy interests
 - {% include thumbnail file="thumbnail_shapes.png" %} The promise of a good meal: Musk promises room and board in exchange for menial labour in his southern California TeslaTown
-- {% include thumbnail file="thumbnail_people.png" %} It’s “cool” to fly again: Commercial airlines start mixing sulphur into fuel to cool the planet as they fly – “You don’t have to feel bad about international travel anymore!” says airline executive
 - {% include thumbnail file="thumbnail_squiggles.png" %} Second dust bowl created in Midwest US as Ogallala aquifer depleted
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Algae is the new Colombian: Five coffee replacements now that coffee plants are extinct
 {:.articles}

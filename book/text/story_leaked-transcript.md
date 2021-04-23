@@ -16,7 +16,7 @@ Press release
 
 {% include image file="sulphur-pipe.png" class="headline-image portrait" %}
 
-# US-sponsored non-state actors seeding oceans with banned geo-engineering tech?
+# US-sponsored non-state actors seeding oceans with banned geoengineering tech?
 
 By Rajat Chaudhuri
 {:.author}
