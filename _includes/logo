@@ -1,5 +1,7 @@
 <div class="logo">
 
+    <a href="{{ path-to-root-directory }}">
     {% include image file="logo-masthead.png" alt="Logo" %}
+    </a>
 
 </div>

@@ -30,13 +30,18 @@ ebReadMoreButtons();
 
 
 function ebNextDecadeButtons () {
-    "use strict";
 
     // create the image element
     var arrowElement1 = document.createElement("img");
-    arrowElement1.setAttribute("src", "../../assets/images/web/next-decade-arrow.svg");
+    arrowElement1.setAttribute(
+        "src",
+        "{{ path-to-root-directory }}assets/images/web/next-decade-arrow.svg"
+    );
     var arrowElement2 = document.createElement("img");
-    arrowElement2.setAttribute("src", "../../assets/images/web/next-decade-arrow.svg");
+    arrowElement2.setAttribute(
+        "src",
+        "{{ path-to-root-directory }}assets/images/web/next-decade-arrow.svg"
+    );
 
     // get the link
     var nextDecadeLink = document.querySelector(".next-decade-link a");
@@ -51,6 +56,15 @@ function ebNextDecadeButtons () {
         nextDecadeLink.appendChild(arrowElement1);
         nextDecadeLink.appendChild(textSpan);
         nextDecadeLink.appendChild(arrowElement2);
+    }
+
+    // This should not show if you are coming from the stories TOC
+    if (document.referrer.includes("stories.html")) {
+        nextDecadeLink.parentNode.classList.add("hidden");
+
+        // Push the footer down to fill the void
+        var footerWrapper = document.querySelector(".footer-wrapper");
+        footerWrapper.classList.add("no-next-decade-link");
     }
 }
 
@@ -69,7 +83,7 @@ function ebActionButtons () {
     if (shareButton) {
         shareButton.addEventListener("click", function () {
             shareLinks.classList.toggle("hidden");
-            actionButtonDiv.classList.toggle("display-share");
+            // actionButtonDiv.classList.toggle("display-share");
         });
     }
 }

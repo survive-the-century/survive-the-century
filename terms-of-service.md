@@ -39,7 +39,7 @@ You can read more about this in our [Privacy Policy](privacy.html).
 
 ## Links to other websites
 
-Our service may contain links to other web sites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party web site or service. 
+Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party website or service. 
 
 ## Limited liability
 

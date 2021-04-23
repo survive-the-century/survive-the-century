@@ -60,9 +60,17 @@
 
 .newspaper .footer-wrapper,
 .story .footer-wrapper {
+    
     margin-bottom: $next-decade-link-height;
+    &.no-next-decade-link {
+        margin-bottom: 0;
+    }
+
     @media only screen and (max-width: $break-point-masthead) {
         margin-bottom: 3rem + $masthead-height;
+        &.no-next-decade-link {
+            margin-bottom: $masthead-height;
+        }
     }
 }
 

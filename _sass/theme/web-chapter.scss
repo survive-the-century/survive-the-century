@@ -2,7 +2,7 @@
     list-style-type: none;
     font-family: $font-text-main;
     max-width: 25rem;
-    margin: 0 auto 3rem;
+    margin: 0 auto -3rem auto;
     li {
         border: 1.5px solid $green;
         box-sizing: border-box;

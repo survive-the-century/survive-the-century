@@ -31,6 +31,10 @@
             padding: 0 1rem;
         }
     }
+
+    &.hidden {
+        display: none;
+    }
 }
 
 // Newspaper "Read More" button
@@ -111,21 +115,18 @@ p.button {
                 text-align: center;
             }
         }
+    }
 
-        .share-links.hidden {
-            display: none;
+    .share-links {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1rem;
+        p {
+            margin-bottom: 1rem;
+            width: 8rem;
         }
-
-        // display the share options
-        &.display-share {
-            flex-direction: column;
-            .share-links {
-                margin-bottom: 1rem;
-                p {
-                    margin-bottom: 1rem;
-                    width: 8rem;
-                }
-            }
+        &.hidden {
+            display: none;
         }
     }
 }
