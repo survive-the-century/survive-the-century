@@ -1,0 +1,49 @@
+.infobox {
+    // Background
+    
+    background-color: $green-10pc;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    
+    // Text
+
+    color: $midnight;
+    font-size: $font-size-default / 1.2;    
+    padding: 2rem 0;
+    a {
+        color: $midnight;
+    }
+    
+    p {
+        max-width: $max-width-default;
+        display: block;
+    }
+
+    // Info symbol
+    &::before {
+        content: "i";
+        font-family: $font-text-secondary;
+        font-style: italic;
+        font-size: 25 * $font-size-default / 18;
+        
+        display: inline-block;
+        width: 3rem;
+        height: 2rem;
+        left: -0.5rem;
+        position: relative;
+        padding-right: 0.3em;
+        
+        background-color: $green;
+        text-align: right;
+        
+    }
+}
+
+@media only screen and (max-width: $break-point-infobox) {
+    .infobox p {
+        max-width: calc(100vw - 6rem);
+        margin-right: 3rem;
+    }
+}

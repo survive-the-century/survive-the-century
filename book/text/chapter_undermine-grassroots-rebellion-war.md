@@ -7,9 +7,8 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The EU and US claim that the protests are being stirred up and funded by the Chinese government in an attempt to undermine their democracies. 
 {:.leader-sentence}
 

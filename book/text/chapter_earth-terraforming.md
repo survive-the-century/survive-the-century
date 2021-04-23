@@ -7,9 +7,8 @@ economy:
 temperature: 2.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 We decide it’s probably more important to terraform the planet we’re already on. 
 {:.leader-sentence}

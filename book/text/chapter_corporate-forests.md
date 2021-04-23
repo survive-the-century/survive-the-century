@@ -3,13 +3,12 @@ title: "Corporate forests"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Billionaires make a compelling argument:
 {:.leader-sentence}
 

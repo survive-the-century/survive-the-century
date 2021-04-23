@@ -7,11 +7,12 @@ economy:
 temperature: 1.9
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-Large swathes of the world are declared “orange zones”, places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. 
+
+Large swathes of the world are declared “orange zones”:
 {:.leader-sentence}
+
+places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. 
 
 What remains of the governments of these countries are flat broke.
 

@@ -7,9 +7,8 @@ economy:
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We tax the rich and invest in public infrastructure and generous grant programmes.
 {:.leader-sentence}
 
@@ -17,7 +16,7 @@ Freed from constant worry about their next pay cheque, we start to see a lot of 
 
 We start reforming capitalism with new rules like employee representation on boards. The gap between rich and poor closes.
 
-A lot of carbon capture projects happen on a grassroots level as co-operatives/community-owned projects.
+A lot of the renewable energy projects are run as co-operatives and commmunity-owned projects, and the technology is shared freely.
 
 The rich have \#sadfeels about all this. Nobody cares.
 

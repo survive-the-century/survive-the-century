@@ -24,7 +24,7 @@ The lead author of this project is me, [Sam Beckbessinger](https://sambeckbessin
 
 The other two project leads are [Simon Nicholson](https://www.american.edu/sis/faculty/snichols.cfm) and [Christopher Trisos](https://climaterisklab.com/team/). They’re both world-leading climate impact academics, and fellows of the National Socio-Environmental Synthesis Center at University of Maryland, which brings scientists and artists of different disciplines together to think about the intersections between climate change and social change.
 
-The original idea for the game came out of a workshop Simon and Chris facilitated which brought together SF writers (including myself, Lauren Beukes and Mohale Mashigo) with climate scientists and experts including climate modelers, social scientists and geo-engineering specialists, all of whom contributed ideas that are present in the game.
+The original idea for the game came out of a workshop Simon and Chris facilitated which brought together SF writers (including myself, Lauren Beukes and Mohale Mashigo) with climate scientists and experts including climate modelers, social scientists and geoengineering specialists, all of whom contributed ideas that are present in the game.
 
 The project is being funded by grants secured from the Global Strategic Communications Council Opportunity Fund (the GSCC) and Climate Interactive. The GSCC is also offering invaluable support in marketing the project, clarifying the messaging, and punching up the design. Our main points of contact there are Mélissa Godin and Katherine Mansell.
 

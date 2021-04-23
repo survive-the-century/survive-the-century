@@ -7,9 +7,8 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The EU and America claim that the “historical emissions” proposal is nothing but a power grab by China. 
 {:.leader-sentence}
 

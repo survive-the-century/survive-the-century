@@ -3,13 +3,12 @@ title: "Monocorp cities"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 2.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 After decades of defunding, democracies have no ability to govern anymore. 
 {:.leader-sentence}
 

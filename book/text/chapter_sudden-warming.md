@@ -3,13 +3,12 @@ title: "Sudden warming"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The effects are terrible: mass extinctions, devastated crops. 
 {:.leader-sentence}
 

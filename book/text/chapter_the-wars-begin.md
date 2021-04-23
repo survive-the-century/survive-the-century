@@ -3,19 +3,18 @@ title: "The wars begin"
 style: chapter
 conflict: 5
 decade: 
-economy: 
+economy: down
 temperature: 2.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-America’s rogue geo-engineering is the last straw. 
+
+America’s rogue geoengineering is the last straw. 
 {:.leader-sentence}
 
 This sparks a decade-long world war.
 
-There are geo-engineering and counter geo-engineering attacks on both sides, and vicious proxy wars all around the world. Millions of people die, and the world’s economy is devastated.
+There are geoengineering and counter geoengineering attacks on both sides, and vicious proxy wars all around the world. Millions of people die, and the world’s economy is devastated.
 
 After nine years, there’s still no clear winner. People are exhausted of fighting. The leaders of both sides agree to a clandestine meeting.
 

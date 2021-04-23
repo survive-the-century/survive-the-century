@@ -7,9 +7,8 @@ economy:
 temperature: 1.9
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We let multinationals buy up all the land in orange zones. 
 {:.leader-sentence}
 

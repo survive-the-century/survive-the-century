@@ -3,13 +3,12 @@ title: "Engineered crop blight"
 style: chapter
 conflict: 5
 decade: 
-economy: 
+economy: down
 temperature: 2.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We will never surrender! The war goes on.
 {:.leader-sentence}
 

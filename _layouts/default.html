@@ -14,10 +14,14 @@ layout: compress
 
 {% include head.html %}
 {% include masthead.html %}
-{% include nav-button.html %}
+<div class="glow-top"></div>
 {% include start-content.html %}
+<div class="main-content">
 {{ content }}
+</div>
 {% include close-content.html %}
+<div class="glow-bottom"></div>
+{% include footer.html %}
 
 {% if site.output == "web" and site.data.settings.web.pagination == true %}
 {% include pagination %}
@@ -26,8 +30,6 @@ layout: compress
 {% include pagination %}
 {% endif %}
 
-{% include nav.html %}
-{% include footer.html %}
 {% include close-body.html %}
 
 {% endif %}

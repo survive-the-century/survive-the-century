@@ -1,0 +1,30 @@
+.ending {
+    p {
+        position: relative;
+        img {
+            width: 100%;
+            margin-top: -30rem;
+        }
+    }
+    
+    .call-to-action {
+        width: 100%;
+        margin: 0 auto;
+        padding: 2rem 0;
+        
+        @media only screen and (max-width: $max-width-default) {
+            padding: 2rem 1rem;
+        }
+
+        p {
+            max-width: $max-width-default;
+            margin: auto;
+            &.button:last-of-type {
+                margin-top: 2rem;
+            }
+            &:not(.button) {
+                margin-top: 1.5rem;
+            }
+        }
+    }
+}

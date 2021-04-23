@@ -3,15 +3,16 @@ title: "Gains reversed"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-Over the next few years, the world elects a number of Margaret Thatcher/Ronald Reagan-type pro-capitalist national leaders. They argue that we’ve ruined the economy by trying to control it, and we need to let the free market do its job.
+
+Over the next few years, the world elects a number of Margaret Thatcher/Ronald Reagan-type pro-capitalist national leaders.
 {:.leader-sentence}
+
+They argue that we’ve ruined the economy by trying to control it, and we need to let the free market do its job.
 
 They loosen regulations, including environmental laws, which leads to a massive increase in emissions again.
 

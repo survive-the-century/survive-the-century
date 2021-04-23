@@ -7,9 +7,8 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Your news site writes off the movement as being just a bunch of kids getting themselves tied up in knots over nothing, encouraged by vandals and hooligans who just want an excuse to loot stores.
 {:.leader-sentence}
 

@@ -7,15 +7,19 @@ economy:
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
 # Exile nation: What happens when you’re forced out of paradise?
 
 By Lauren Beukes
 {:.author}
 
-In the dark of the Qatar desert, Dr Shanaaz Naicker sits on the edge of the rickety corrugated rooftop of a former warehouse and looks out at the glowing beacon of Bezosistan, that Amazon paradise zone 50 miles away she used to call home until her unexpected retrenchment nine days ago. “ used to have a whole damn life there,” the 27-year-old bioengineer sighs. A two-bedroom apartment in the sky garden district with an enclosed balcony for her cats, Hamilton and Angelica. Her work was important and useful, developing organ growth tech, although she can’t get into the details because of the “hectic” NDA she had to sign. She used to kayak to work along the canals, she had interesting and accomplished friends, was a regular at the local vegan deli, and she’d recently started dating an AI project manager, Emad, who declined to be interviewed for this article.
+In the dark of the Qatar desert, Dr Shanaaz Naicker sits on the edge of the rickety corrugated rooftop of a former warehouse and looks out at the glowing beacon of Bezosistan, that Amazon paradise zone 50 miles away she used to call home until her unexpected retrenchment nine days ago. “I used to have a whole damn life there,” the 27-year-old bioengineer sighs. A two-bedroom apartment in the sky garden district with an enclosed balcony for her cats, Hamilton and Angelica. Her work was important and useful, developing organ growth tech, although she can’t get into the details because of the “hectic” NDA she had to sign. She used to kayak to work along the canals, she had interesting and accomplished friends, was a regular at the local vegan deli, and she’d recently started dating an AI project manager, Emad, who declined to be interviewed for this article.
 
 Now Shanaaz is one of the “warehoused” of Limbo City – the unemployed (and maybe unemployable), camping out among the abandoned warehouses on the edge of Bezosistan’s borders, sending off their resumes and hoping, fervently, to get back in.
 
@@ -47,4 +51,5 @@ It’s almost time for me to leave. I bend down to stroke the cat, scruffy in th
 
 “No. I had to leave them behind,” Shanaaz says, sipping her spiked coffee and staring out at the bright glow on the horizon. “But I’ll be back for them. Soon. You’ll see.”
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html){:.new-decade-link}
+[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+{:.next-decade-link}

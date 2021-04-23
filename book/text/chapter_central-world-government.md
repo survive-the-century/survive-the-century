@@ -3,13 +3,12 @@ title: "Central world government"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The Global Climate Council argues that they need stronger enforcement powers to protect the world, and effectively become the world’s (highly authoritarian) central government.
 {:.leader-sentence}
 

@@ -1,9 +1,33 @@
-    <div id="footer">
-        <div class="footer-content">
+    <div class="footer-wrapper">
+        <div class="footer">
+            <ul>
+                <li>
+                    <a href="{{ path-to-root-directory }}contact.html">Contact</a>
+                </li>
 
-            <p>
-                {{ project-credit | strip | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
-            </p>
+                <li>
+                    <a href="{{ path-to-root-directory }}credits.html">Credits</a>
+                </li>
 
-        </div><!--.footer-content-->
+                <li>
+                    <a href="{{ path-to-root-directory }}terms-of-service.html">T&amp;Cs</a>
+                </li>
+
+                <li>
+                    <a href="{{ path-to-root-directory }}privacy.html">Privacy</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer-logos">
+            <a href="https://www.climateinteractive.org/" target="_blank">
+                <img src="../../assets/images/web/ci-logo.svg" alt="Logo" class="ci-logo">
+            </a>
+            <a href="https://www.sesync.org/">
+                <img src="../../assets/images/web/sesync-logo.png" alt="Logo" class="sesync-logo">
+            </a>
+            <a href="https://www.american.edu/sis/centers/carbon-removal/">
+                <img src="../../assets/images/web/icrlp-logo.svg" alt="Logo" class="icrlp-logo">
+            </a>
+        </div>
     </div><!--#footer-->

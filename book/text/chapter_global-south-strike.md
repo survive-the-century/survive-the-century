@@ -3,13 +3,12 @@ title: "Global South strike"
 style: chapter
 conflict: 3
 decade: 
-economy: 
+economy: down
 temperature: 2.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 The Global South enters a strike. 
 {:.leader-sentence}

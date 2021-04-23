@@ -3,13 +3,12 @@ title: "Seething underclass"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Our attempts to hack the climate start to work, and create gorgeous, liveable micro-paradise zones in parts of the planet.
 {:.leader-sentence}
 

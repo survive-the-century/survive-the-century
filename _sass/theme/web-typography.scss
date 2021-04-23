@@ -1,0 +1,229 @@
+p {
+    letter-spacing: $letter-spacing-default;
+    @media only screen and (max-width: $break-point-default) {
+        font-size: 0.9375rem;    
+    }
+}
+
+// Masthead
+
+.masthead {
+    p {
+        @include text-button-small ($white);
+    }
+}
+
+// Homepage
+.home {
+    .homepage-leader-sentence {
+        @include text-very-big ($green);
+        text-align: center;
+    }
+
+    .below-the-fold {
+        color: $midnight;
+        h1 {
+            @include text-big ($midnight);
+        }
+    }
+}
+
+// Frontmatter
+.frontmatter .main-content {
+    h1 {
+        @include text-very-big ($midnight);
+    }
+
+    h2 {
+        @include text-big ($midnight);
+    }
+
+    a {
+        color: $midnight;
+    }
+}
+
+.frontmatter.stories .story-list {
+    li a {
+        @include text-big ($midnight);
+        text-transform: none;
+    }
+    
+    li {
+        @include text-medium-caps ($midnight);
+    }
+}
+
+// Chapters
+
+.chapter {
+    .leader-sentence,
+    .choice-question {
+        @include text-big ($green);
+    }
+
+    .leader-sentence.thanks {
+        text-align: center;
+    }
+
+    .choice-options {
+        @include text-button-medium ($white);
+        li a {
+            text-decoration: none;
+            color: $white;
+            strong {
+                color: $red;
+                font-weight: normal;
+            }
+        }
+    }
+    
+    .closer-sentence {
+        @include text-medium ($white);
+    }
+}
+
+// Story
+
+.story {
+    h1 {
+        @include text-very-big ($midnight);
+    }
+
+    .author {
+        @include text-medium-caps ($midnight);
+    }
+
+    .runner {
+        @include text-medium-caps ($midnight);
+    }
+
+    dd {
+        @include text-small($midnight);
+    }
+}
+
+// Newspaper
+
+.newspaper .newspaper-header,
+.story .newspaper-header {
+    h1 {
+        @include text-huge ($white);        
+    }
+
+    h2 {
+        @include text-very-big ($red);
+    }
+
+    p {
+        @include text-medium ($white);
+        text-align: right;
+    }
+}
+
+.newspaper {
+    h3 {
+        @include text-medium-caps ($midnight);
+    }
+
+    .headline {
+        @include text-very-big ($midnight);
+    }
+    
+    .subheadline {
+        @include text-medium ($midnight);
+    }
+
+    ul.articles  {
+        list-style-type: none;
+        li {
+            @include text-small ($midnight);
+        }
+    }
+}
+
+// Next decade link
+
+.next-decade-link a {
+    @include text-button-medium ($white);
+    text-decoration: none;
+}
+
+// Part-pages
+
+.part-page {
+    .text-words {
+        @include text-enormous ($green);
+        font-size: 2.5 * $font-size-default;
+        font-style: italic;
+        letter-spacing: $letter-spacing-default;
+        @media only screen and (max-width: $break-point-default) {
+            font-size: 2.5rem;
+        }
+    }
+
+    .text-number {
+        @include text-enormous ($white);
+    }
+
+    :not(li) > a {
+        @include text-button-medium ($white);
+        text-decoration: none;
+    }
+}
+
+// Ending
+
+.ending {
+    h1 {
+        @include text-very-big ($green);
+        text-align: center;
+        position: relative;
+    }
+    &.dead h1 {
+        color: $white;
+    }
+
+    .leader-sentence {
+        @include text-medium ($white);
+        position: relative;
+    }
+    &.dead .leader-sentence {
+        color: $midnight;
+    }
+}
+
+// Buttons
+
+p.button a, 
+button.copy-to-clipboard {
+    @include text-button-medium ($white);
+    background-color: $red;
+    text-align: center;
+    
+}
+
+.round-action-buttons {
+    a p {
+        @include text-button-small ($white);    
+    }
+    
+    a {
+        color: $white;
+        text-decoration: none;
+    }
+}
+
+// Footer
+
+.footer {
+    padding-top: 1.3rem;
+    li {
+        @include text-button-small ($white);
+        list-style-type: none;
+        a {
+            text-decoration: none;
+            color: $white;
+        }
+    }
+}

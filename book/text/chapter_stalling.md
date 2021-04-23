@@ -7,10 +7,10 @@ economy:
 temperature: 2.25
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We choose to do more research, and keep debating, and talking, and talking, and stalling.
+{:.leader-sentence}
 
 By the end of the decade, we haven’t done anything yet.
 

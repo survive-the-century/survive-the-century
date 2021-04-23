@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 
 Uh oh. 
 {:.leader-sentence}
@@ -21,14 +20,14 @@ They just invaded Earth. They say they want their planet back.
 Oh boy. Do we still have some kind of global military we could call up?
 {:.choice-question}
 
-<div class="js-var-military-no" markdown="1">
+<div data-js-var="css-var-military-no" markdown="1" class="hidden">
 
 - [Shoot! No, we disbanded all of the militaries, remember!?](chapter_billionaire-ecotopia-takeover.html)
 {:.choice-options}
 
 </div>
 
-<div class="js-var-military-yes" markdown="1">
+<div data-js-var="css-var-military-yes" markdown="1" class="hidden">
 
 - [Yes! We kept some militaries in place, so we can fight them off. Phew.](part-page_2090.html){:js-next-dest="newspaper_welcome-to-2090-ecotopia.html"}
 {:.choice-options}

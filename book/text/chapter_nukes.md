@@ -7,9 +7,8 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We drop a couple of nukes; why not? 
 {:.leader-sentence}
 
