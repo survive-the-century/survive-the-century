@@ -1,8 +1,6 @@
 /*jslint browser */
 
-function ebReadMoreButtons () {
-    "use strict";
-
+function ebReadMoreButtons() {
     // Get the hyperlink
     var readMoreLinks = document.querySelectorAll(".articles a");
 
@@ -20,7 +18,10 @@ function ebReadMoreButtons () {
 
         // Add the SVG icon
         var svgNode = document.createElement("img");
-        svgNode.setAttribute("src", "../../assets/images/web/read-more.svg");
+        svgNode.setAttribute(
+            "src",
+            "{{ path-to-root-directory }}assets/images/web/read-more.svg"
+        );
         svgNode.classList.add("read-more");
         link.appendChild(svgNode);
     });
@@ -29,7 +30,7 @@ function ebReadMoreButtons () {
 ebReadMoreButtons();
 
 
-function ebNextDecadeButtons () {
+function ebNextDecadeButtons() {
 
     // create the image element
     var arrowElement1 = document.createElement("img");
@@ -74,19 +75,17 @@ function ebNextDecadeButtons () {
 ebNextDecadeButtons();
 
 
-function ebActionButtons () {
+function ebActionButtons() {
     // need to put an event listener on the share button
     // when it is pressed, reveal the share links
     // and add the classes needed to rearrange the other elements
 
     var shareButton = document.querySelector("a.share-button");
     var shareLinks = document.querySelector("div.share-links");
-    var actionButtonDiv = document.querySelector("div.round-action-buttons");
 
     if (shareButton) {
         shareButton.addEventListener("click", function () {
             shareLinks.classList.toggle("hidden");
-            // actionButtonDiv.classList.toggle("display-share");
         });
     }
 }

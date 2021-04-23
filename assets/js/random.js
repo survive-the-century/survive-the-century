@@ -1,3 +1,5 @@
+/*jslint browser */
+
 var dataObject = {
     "insect": {
         max: 6,
@@ -27,18 +29,18 @@ var dataObject = {
 };
 
 
-function ebRandomNumberGenerator (max) {
+function ebRandomNumberGenerator(max) {
     var randomInteger = Math.ceil(Math.random() * max);
     return randomInteger;
 }
 
 
-function ebFindTheCorrectIndex (number, list) {
+function ebFindTheCorrectIndex(number, list) {
     var index = 0;
 
     while (index < list.length) {
         if (number > list[index]) {
-            index++;
+            index = index + 1;
         } else {
             break;
         }
@@ -48,9 +50,11 @@ function ebFindTheCorrectIndex (number, list) {
 }
 
 
-function ebDisplayRandomChoices (object) {
-    var thisPageHasRandomness = document.querySelector("div[data-js-var^='js-rand-']");
-    
+function ebDisplayRandomChoices() {
+    var thisPageHasRandomness = document.querySelector(
+        "div[data-js-var^='js-rand-']"
+    );
+
     if (thisPageHasRandomness) {
         var keywordString = thisPageHasRandomness.getAttribute("data-js-var");
 
@@ -61,7 +65,8 @@ function ebDisplayRandomChoices (object) {
 
         // find which position in the value list is the one
         var correctIndex = ebFindTheCorrectIndex(
-            randomNumber, dataObject[objectName].values
+            randomNumber,
+            dataObject[objectName].values
         );
 
         // pull out the corresponding keyword
@@ -71,7 +76,9 @@ function ebDisplayRandomChoices (object) {
         var attributeString = `js-rand-${objectName}-${keyword}`;
 
         // find the correct div in the dom
-        var divToShow = document.querySelector(`div[data-js-var^='${attributeString}']`);
+        var divToShow = document.querySelector(
+            `div[data-js-var^='${attributeString}']`
+        );
 
         // remove the hidden class
         divToShow.classList.remove("hidden");

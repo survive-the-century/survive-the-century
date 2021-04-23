@@ -1,4 +1,4 @@
-// capture and store the variables chosen
+/*jslint browser */
 
 function ebCaptureTheChoiceVariables () {
     // the variables are attributes in the href
@@ -31,7 +31,9 @@ ebCaptureTheChoiceVariables();
 
 function ebDisplayVariableCopy () {
     // look on the page for divs that are variable
-    var divThatIsVariable = document.querySelector("div[data-js-var^='css-var-']");
+    var divThatIsVariable = document.querySelector(
+        "div[data-js-var^='css-var-']"
+    );
 
     if (divThatIsVariable) {
         // pull out the keyword
@@ -45,7 +47,9 @@ function ebDisplayVariableCopy () {
         // find the div with the correct key-value pair
         // remove the display none
 
-        var divToShow = document.querySelector(`div[data-js-var^='${classNameToShow}']`);
+        var divToShow = document.querySelector(
+            `div[data-js-var^='${classNameToShow}']`
+        );
         divToShow.classList.remove("hidden");
     }
 }
@@ -62,9 +66,11 @@ function ebMoveTheSVGsIntoTheLinks () {
     choiceLinkList.forEach(function (link) {
         // find out which kind we have
         if (link.parentElement.classList.contains("random")) {
-            svgPath = "../../assets/images/web/dice.svg";
+            svgPath = "{{ path-to-root-directory }}" +
+            "assets/images/web/dice.svg";
         } else {
-            svgPath = "../../assets/images/web/next-arrow.svg";
+            svgPath = "{{ path-to-root-directory }}" +
+            "assets/images/web/next-arrow.svg";
         }
 
         // put the link text in a span for positioning

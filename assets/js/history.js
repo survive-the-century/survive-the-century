@@ -30,7 +30,7 @@ function ebActivateNavButtons(hasPlayedBefore) {
 }
 
 
-function ebLastLocationIsInGame (lastLocation) {
+function ebLastLocationIsInGame(lastLocation) {
     // If the last location was a chapter, part-page, newspaper, or ending
     // Don't worry about stories, they'll just go back to the newspaper before
     if (
@@ -46,7 +46,7 @@ function ebLastLocationIsInGame (lastLocation) {
 }
 
 
-function ebTrackPlayHistory () {
+function ebTrackPlayHistory() {
     // Track last location
     // This is not true last location, it's just last useful game location
 

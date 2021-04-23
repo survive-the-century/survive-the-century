@@ -1,5 +1,6 @@
-function ebTrackTheVariables () {
-    "use strict";
+/*jslint browser */
+
+function ebTrackTheVariables() {
 
     var initialStorageObject = {
         temperature: 0,
@@ -39,7 +40,7 @@ function ebTrackTheVariables () {
 ebTrackTheVariables();
 
 
-function ebDisplayTheIcons () {
+function ebDisplayTheIcons() {
     var dashVariables = [
         "decade",
         "temperature",
