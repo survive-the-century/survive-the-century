@@ -9,13 +9,13 @@ project:
   # A live web address for the organisation
   url: "https://survivethecentury.net"
   # The default contact email address
-  email: "support@electricbookworks.com"
+  email: "hello@survivethecentury.org"
   # The name of the project of books in this folder.
   name: "Survive the Century"
   # A one-liner about this project. Useful for Open Graph metadata.
   description: "A cli-fi game of choice and consequence."
   # The logo of the organisation, saved web-ready in /assets
-  logo: "publisher-logo.jpg"
+  logo: "logo.png"
   # An image in /assets/images/web that stands for the project
   image: "cover.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
@@ -259,8 +259,8 @@ works:
           - "story_vaccine-queen"
           - "story_your-ticket-to-mars"
         nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-        start-page: "0-3-contents" # At which file should users start reading?
-        contents-page: "0-3-contents" # Your contents-page file, if you have one.
+        start-page: "index" # At which file should users start reading?
+        contents-page: "index" # Your contents-page file, if you have one.
       print-pdf:
         date: "2021-05-06" # YYYY-MM-DD e.g. publication or creation date
         format: "Print" # e.g. Paperback, Digital download, Digital online
