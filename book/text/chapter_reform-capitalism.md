@@ -16,7 +16,7 @@ Freed from constant worry about their next pay cheque, we start to see a lot of 
 
 We start reforming capitalism with new rules like employee representation on boards. The gap between rich and poor closes.
 
-A lot of carbon capture projects happen on a grassroots level as co-operatives and community-owned projects. It looks like the world is on track to reach zero emissions by 2037.
+A lot of renewable energy projects happen on a grassroots level as co-operatives and community-owned projects. It looks like the world is on track to reach zero emissions by 2037.
 
 But wait, the rich have \#sadfeels about all this! They produce charts proving that all this equality will decimate the world’s economy!
 {:.choice-question}

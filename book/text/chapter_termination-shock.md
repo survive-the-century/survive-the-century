@@ -24,14 +24,14 @@ The rogue states successfully hack the space mirrors and bring down the whole sy
 The Mars colony is going to cost an eye-melting amount of money. 
 {:.leader-sentence}
 
-Most geo-engineering projects are defunded, and many of them have to be stopped suddenly.
+Most geoengineering projects are defunded, and many of them have to be stopped suddenly.
 
 </div>
 
-It turns out that we’d become more dependent on geo-engineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
+It turns out that we’d become more dependent on geoengineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
 
 - [This is BAD.](chapter_zoonotic-pandemic.html)
 {:.choice-options}
 
-> One of the potential risks of blocking the sun’s rays is that if we stopped, the temperature could rise very suddenly. If the earth’s temperature changes too quickly, species aren’t able to adapt in time to the new conditions, and many might die. Scientists aren’t sure yet how big the risks of this sort of “termination shock” are.
+> One of the potential risks of blocking some of the sun’s rays to offset global warming is that if we stopped, the temperature could rise very quickly. This would happen if geoengineering was deployed without society also reducing greenhouse gas emissions at the same time. Suddenly stopping geoengineering would cause temperatures to rebound fast. Scientists call this risk "termination shock" and it would be catastrophic for ecosystems globally.
 {:.infobox}

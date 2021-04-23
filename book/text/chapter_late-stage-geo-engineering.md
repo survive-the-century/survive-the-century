@@ -9,7 +9,7 @@ temperature: 2.5
 
 {% include variables %}
 
-There are more desperate discussions about geo-engineering. 
+There are more desperate discussions about geoengineering. 
 {:.leader-sentence}
 
 You’ve heard rumours around your newsroom that a rich country just wants to try doing something unilaterally, but it would have to be something pretty stealthy so as not to inflame global tensions.

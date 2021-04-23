@@ -28,7 +28,7 @@ Millions gather in the streets to mark ten-year anniversary since first declarat
 - {% include thumbnail file="thumbnail_shapes.png" %} Sea wars and closure of the Suez Canal by Egypt prevents European food aid from reaching drought-stricken India
 - {% include thumbnail file="thumbnail_forest.png" %} New victory gardens: Stretch your rations further by growing food at home
 - {% include thumbnail file="thumbnail_graph.png" %} Genetically modified Tibetan rice in high demand as Indian rice yields plummet
-- {% include thumbnail file="thumbnail_squiggles.png" %} Widespread wildfires destroy fir plantations in Greenland, two decades’ worth of sequestered carbon go up in smoke
+- {% include thumbnail file="thumbnail_squiggles.png" %} Widespread wildfires destroy fir tree plantations in Greenland, two decades’ worth of sequestered carbon go up in smoke
 - {% include thumbnail file="thumbnail_water.png" %} Russia seeks damages from EU as sturgeon catch dwindles in the Caspian after rogue seeding experiment
 {:.articles}
 

@@ -14,7 +14,7 @@ Only a handful of countries welcome international climate refugees, and most are
 
 It’s a humanitarian disaster.
 
-Leaders in rich countries grow increasingly nationalistic, arguing that refugees must be kept out at all costs. They warn that refugees will bring disease and crime into their countries, and that it’s their own country’s problems that created this whole mess to begin with.
+Leaders in rich countries grow increasingly nationalistic, arguing that refugees must be kept out at all costs. They warn that refugees will bring disease and crime into their countries, and that it’s their home country’s problems that created this whole mess to begin with.
 
 - [Your correspondents from poorer countries report that there’s a lot of anger building.](chapter_global-south-uprising-and-slow-fade.html)
 {:.choice-options}

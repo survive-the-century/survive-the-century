@@ -33,5 +33,5 @@ Australian heatwave causes mass animal deaths across Australia
 - {% include thumbnail file="thumbnail_shapes.png" %} South Korean inventor debuts “floating farms” that can migrate with the weather
 {:.articles}
 
-[Everybody’s feeling optimistic about the 2040s!](chapter_sexual-revolution.html)
+[People are feeling optimistic about the 2040s!](chapter_sexual-revolution.html)
 {:.next-decade-link}

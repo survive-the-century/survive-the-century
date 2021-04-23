@@ -17,7 +17,7 @@ We’ve developed a technology that we think will allow us to engineer the clima
 
 There is some risk that something will go wrong. We could spend a few more years doing research to improve the chances that it won’t, but we also can’t afford to wait much longer.
 
-Should we try a geo-engineering solution now, or do more research?
+Should we try a solar geoengineering solution now, or do more research?
 {:.choice-question}
 
 <div data-js-var="js-rand-geoengineering3-low" markdown="1" class="hidden">
@@ -36,5 +36,5 @@ Should we try a geo-engineering solution now, or do more research?
 
 </div>
 
-> Solar radiation management or modification (SRM) is an untested group of techniques and technologies that aim to reflect sunlight away from the earth. These include ideas like injecting sulphur aerosols into the stratosphere, brightening the clouds above the ocean, or even deploying space mirrors that bounce sunlight away from the earth. SRM would not undo the damage we’ve done to our planet: instead, it would simply slow warming without reducing the greenhouse gas emissions that drive climate change. SRM is highly controversial, with many people arguing that further tampering with our climate system is too risky.
+> Solar geoegineering is a proposed group of technologies that aim to reflect more sunlight away from the earth. These include ideas like injecting sulphur aerosols into the stratosphere, brightening the clouds above the ocean, or even deploying space mirrors that bounce sunlight away from the planet. None of these technologies are ready for deployment (at least not in 2021). Research suggests that solar geoengineering could reduce temperatures, but it could also introduce some big new risks, like disrupting rainfall in major food producing regions. Solar geoengineering has been called a stopgap measure because it does not reduce greenhouse gas emissions, the underlying driver of climate change. It treats the symptoms of climate change rather than curing the underlying condition. Solar geoengineering is highly controversial, with some people arguing more research should be done on these technologies, and others saying that tampering even more with our climate system is too risky.
 {:.infobox}

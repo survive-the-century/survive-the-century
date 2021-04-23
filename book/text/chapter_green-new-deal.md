@@ -12,7 +12,7 @@ temperature: 1.3
 Hey, this could be a chance for us to fix the economy, and address the climate crisis at the same time!
 {:.leader-sentence}
 
-We choose to pass sweeping “Green New Deal”-style plans that create a lot of jobs building renewable energy plants and efficient public infrastructure like trains.
+We choose to pass sweeping “Green New Deal”-style plans that create a lot of jobs building renewable energy plants and efficient public infrastructure like trains, and making existing buildings more energy efficient.
 
 A lot of these projects are community-run and community-owned, like local solar panel installation networks.
 

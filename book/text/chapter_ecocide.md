@@ -12,7 +12,7 @@ temperature:
 The Net Zero Emissions Accountability Act is adopted globally by 2025, putting strict limits in place on how much carbon and other greenhouse gases can be released into the air every year. 
 {:.leader-sentence}
 
-The nations of the UN agree that the International Court of Justice should have power to fine and enforce sanctions on anyone who violates these laws.
+The nations of the UN agree that the International Criminal Court should have power to fine and enforce sanctions on anyone who violates these laws.
 
 Bold activists start putting together court cases arguing that historical emitters should pay reparations for loss and damage from climate change.
 

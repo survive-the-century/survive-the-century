@@ -14,7 +14,7 @@ The northern hemisphere’s summer of 2031 is particularly brutal:
 
 Hurricanes and wildfires batter the US while hundreds die in a heatwave across southern Europe and central Asia.
 
-In November 2031, the world calls a new global climate conference. We’ve gained some momentum on climate change, but clearly a lot more needs to be done.
+In November 2031, world leaders come together for another climate conference. We’ve gained some momentum on climate change, but clearly a lot more needs to be done.
 
 Every world leader reads your news site, so tell them. How aggressive should we be about reducing greenhouse gas emissions?
 {:.choice-question}
