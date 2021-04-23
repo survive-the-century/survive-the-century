@@ -12,7 +12,7 @@ We hope you’ve enjoyed thinking about what the rest of the century might look 
 
 Our choices matter. The climate has already changed, and it will continue to change. But that doesn’t mean it’s over. There are still a lot of decisions we can make that will lead to dramatically different futures. Some decisions open up multiple pathways, and some close down our options. Choices create winners and losers. And all choices have consequences.
 
-Now, make a choice in the real world:
+Now, make a choice in the real world.
 {:.closer-sentence}
 
 {% include action-buttons %}

@@ -15,7 +15,7 @@ temperature: 1.25
 
 {% include image file="inuit-festival.png" class="headline-image landscape" %}
 
-The great sea ice return: 
+The great sea ice return
 {:.headline}
 
 Summer fest in the Arctic as Inuit communities celebrate the progression of sea ice returning

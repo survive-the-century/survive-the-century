@@ -19,10 +19,10 @@ style: frontmatter stories
 - [Reddit thread: Globohomo vaccine whistle blown](story_reddit.html) Sophia Al-Maria
 - [Report from the Global Indigenous Peoples’ Stewardship Summit](story_gipss.html) Maria Turtschaninoff
 - [Review of a “green mall” by a grumpy Gen X shopaholic](story_green-mall-review.html) Maria Turtschaninoff
-- [Statement from Womb Riot demanding radical eco-political reforms now](story_womb-riot.html) Lauren Beukes
+- [Statement from Womb Riot demanding radical eco-political reforms now](story_statement-from-womb-riot.html) Lauren Beukes
 - [The Tate Twilight](story_tate-twilight.html) Rajat Chaudhuri
 - [Trouble in Paradys: Virtual worlds, real targets](story_trouble-in-paradys.html) Lauren Beukes
 - [Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin](story_lena-lenin.html) Sophia Al-Maria
-- [US-sponsored non-state actors seeding oceans with banned geo-engineering tech?](story_leaked-transcipt.html) Rajat Chaudhuri
+- [US-sponsored non-state actors seeding oceans with banned geo-engineering tech?](story_leaked-transcript.html) Rajat Chaudhuri
 - [Vaccine Queen opens the first of 100 tech universities across West Africa](story_vaccine-queen.html) Lauren Beukes
 {:.story-list}

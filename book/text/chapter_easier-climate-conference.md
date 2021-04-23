@@ -16,7 +16,7 @@ Hurricanes and wildfires batter the US while hundreds die in a heatwave across s
 
 In November 2031, the world calls a new global climate conference. We’ve gained some momentum on climate change, but clearly a lot more needs to be done.
 
-Every world leader reads your news site, so tell them: How aggressive should we be about reducing greenhouse gas emissions?
+Every world leader reads your news site, so tell them. How aggressive should we be about reducing greenhouse gas emissions?
 {:.choice-question}
 
 - [There’s no time to waste. Let’s commit to net zero emissions by 2035, regardless of how hard it is.](chapter_pay-for-transition.html)

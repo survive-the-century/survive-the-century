@@ -9,10 +9,8 @@ temperature: 1.8
 
 {% include variables %}
 
-A lot of the migrants are offered “corporate citizenship” – 
+A lot of the migrants are offered “corporate citizenship” - business visas that mean getting a job with one of the big multinationals is the only way they’re allowed to live in one of the parts of the world that are still easy to live in. Losing their job means exile.
 {:.leader-sentence}
-
-business visas that mean getting a job with one of the big multinationals is the only way they’re allowed to live in one of the parts of the world that are still easy to live in. Losing their job means exile.
 
 - [And exile is a problem, because large parts of the world are becoming unliveable.](chapter_orange-zones.html)
 {:.choice-options}

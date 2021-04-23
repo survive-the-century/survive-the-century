@@ -23,7 +23,7 @@ China buys goodwill by distributing vaccines across Africa and Asia.
 
 Pandemic-ridden countries in South America ask for vaccines, and are told to ask their rich neighbours to the north. The US is angry about this; they’ve got their own problems and China’s just trying to make them look bad.
 
-Organised crime networks start producing and selling fake vaccines, leading to more scepticism about whether vaccines really work. Families stop speaking to each other over whether or not the risks of vaccination is worth it.
+Organised crime networks start producing and selling fake vaccines, leading to more scepticism about whether vaccines really work. Families stop speaking to each other over whether or not the risks of vaccination are worth it.
 
 Because of all this arguing, it takes nearly two years until enough of the world is vaccinated that things can return to sort-of normal.
 

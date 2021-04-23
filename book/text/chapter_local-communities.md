@@ -9,7 +9,7 @@ temperature: 1.7
 
 {% include variables %}
 
-The world launches a global climate fund:
+The world launches a global climate fund.
 {:.leader-sentence}
 
 A taxation pool that taxes those who produce pollution or consume luxury goods, and uses this money to fund indigenous communities and co-operatives around the world who act as stewards of the environment, which act as carbon sinks.

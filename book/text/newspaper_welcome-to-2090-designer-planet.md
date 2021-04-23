@@ -15,7 +15,7 @@ temperature: 2
 
 {% include image file="city-dome.png" class="headline-image landscape" %}
 
-New-New Singapore named Best Dome of 2092: 
+New-New Singapore named Best Dome of 2092
 {:.headline}
 
 “You can’t even see the dome,” say happy residents
