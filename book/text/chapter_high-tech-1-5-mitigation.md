@@ -10,7 +10,7 @@ temperature:
 {% include variables %}
 
 
-We deploy high-tech carbon capture technologies (literally giant machines that clear the air and ocean of pollutants), and they’re a real help in stabilizing the climate.
+We deploy high-tech carbon removal technologies (literally giant machines that clear the air and ocean of global warming pollutants), and they’re a real help in stabilizing the climate.
 {:.leader-sentence}
 
 These machines are expensive, though. Activists point out that one way we could fund them would be to disband our militaries. The world has been a very peaceful place for decades, after all!

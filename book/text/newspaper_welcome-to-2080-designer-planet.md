@@ -24,7 +24,7 @@ Successfully averts near-disaster, saves humanity again
 ### Other stories today
 
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} New breakthrough in air-to-food technology will mean we never have to rely on unreliable sunlight to grow our food, ever again
-- {% include thumbnail file="thumbnail_water.png" %} Too hot where you live? Try one of these designer cool suits that will let you go outside for up to two hours
+- {% include thumbnail file="thumbnail_water.png" %} Too hot where you live? Try one of these designer cool suits that will let you go outside for up to six hours
 - {% include thumbnail file="thumbnail_graph.png" %} Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin [Read more](story_lena-lenin.html){:.read-more}
 - {% include thumbnail file="thumbnail_shapes.png" %} A hundred of the best new underground nightclubs! (literally underground)
 - {% include thumbnail file="thumbnail_forest.png" %} Five steps to create an indoor tropical paradise

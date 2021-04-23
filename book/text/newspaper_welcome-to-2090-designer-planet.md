@@ -30,7 +30,7 @@ New-New Singapore named Best Dome of 2092
 - {% include thumbnail file="thumbnail_people.png" %} Ten more wonderful things the Council did this year (we love the Council!)
 - {% include thumbnail file="thumbnail_squiggles.png" %} Scientists discuss: “How quickly can we cool the planet safely?”
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} World’s largest dam started: Plans to hold back Antarctic ice sheet collapse
-- {% include thumbnail file="thumbnail_shapes.png" %} Large project to restore continental ice sheets in Antarctica begins
+- {% include thumbnail file="thumbnail_shapes.png" %} Large project to restore continental ice sheets in Greenland begins
 {:.articles}
 
 [You made it to the end of the century!](ending_2100-designer-planet.html)
