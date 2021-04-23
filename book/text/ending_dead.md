@@ -10,7 +10,7 @@ image:
 
 # You did not survive the century
 
-You hoped that a silver bullet would fix our problems, instead of doing the slow, ongoing work needed to change society.
+You put too much faith in a technological fix alone solving all of our problems, instead of also doing the urgent, ongoing work needed to change society and stabilize the climate.
 {:.leader-sentence}
 
 {% include call-to-action

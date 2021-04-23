@@ -26,7 +26,7 @@ Booming disaster tourism industry turns pain into profit
 - {% include thumbnail file="thumbnail_squiggles.png" %} Food scientist warns that synthetic rice, beans may not be as safe as manufacturers claim
 - {% include thumbnail file="thumbnail_graph.png" %} Two floating cities nearly collide off coast of Madagascar
 - {% include thumbnail file="thumbnail_people.png" %} Thousands complain as heatwaves cripple mobile phone use outdoors, teens mock Gen Z for not using refrigerated phone cases
-- {% include thumbnail file="thumbnail_shapes.png" %} Bats drive pigeons out of Kingston, take over kudzu-choked remains of the sunken city
+- {% include thumbnail file="thumbnail_shapes.png" %} Bats drive pigeons out of Kingston, Jamaica, take over kudzu-choked remains of the sunken city
 - {% include thumbnail file="thumbnail_flow-horizontal.png" %} Last holdouts finally abandon the Sahel
 - {% include thumbnail file="thumbnail_water.png" %} Global fish populations collapse due to ocean acidification
 {:.articles}
