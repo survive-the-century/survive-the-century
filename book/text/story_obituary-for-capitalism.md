@@ -14,6 +14,8 @@ temperature: 1.5
 Press release
 {:.runner}
 
+{% include image file="obituaries-for-capitalism.png" class="headline-image portrait" %}
+
 # Obituaries
 
 ## Capitalism: 1760–2068

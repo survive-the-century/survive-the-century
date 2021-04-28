@@ -14,6 +14,8 @@ temperature: 2
 Press release
 {:.runner}
 
+{% include image file="exile-nation.png" class="headline-image portrait" %}
+
 # Exile nation: What happens when you’re forced out of paradise?
 
 By Lauren Beukes
