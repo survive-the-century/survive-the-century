@@ -22,7 +22,7 @@ Lead the world towards utopia, or unleash your inner sociopath to see how bad th
 
 Created by Sam Beckbessinger, Simon Nicholson and Christopher Trisos.
 
-Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria.
+Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria, as well as illustrations by Annika Brandow.
 
 Invaluable scientific contributions (and hilarious headlines) co-ordinated through the National Socio-Environmental Synthesis Center (SESYNC) of the University of Maryland. [A full list of contributors is here.](credits.html)
 
@@ -33,7 +33,7 @@ This is a not-for-profit project supported by the Global Strategic Communication
 
 # About
 
-*Survive the Century* is a choose-your-own adventure game about the political, environmental and social choices humans will face between 2020 and 2100 as we adapt to the ravages of climate change.
+*Survive the Century* is a choose-your-own adventure game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
 
 This game is a work of fiction, but it is informed by real science.
 
