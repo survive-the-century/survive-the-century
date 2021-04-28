@@ -9,10 +9,10 @@ temperature: 1.9
 
 {% include variables %}
 
-Large swathes of the world are declared “orange zones”:
+Large swathes of the world are declared “orange zones”.
 {:.leader-sentence}
 
-places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. 
+These are places where food no longer grows, temperatures are uncomfortable for most people, and there are frequent disasters. 
 
 What remains of the governments of these countries are flat broke.
 
