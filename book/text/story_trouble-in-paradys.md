@@ -14,6 +14,8 @@ temperature: 2.3
 Press release
 {:.runner}
 
+{% include image file="trouble-in-paradys.png" class="headline-image landscape" %}
+
 # Trouble in Paradys: Virtual worlds, real targets
 
 *After a series of high-profile burglaries in an exclusive paradise zone, VR critics wonder: How real is too real?*
