@@ -14,6 +14,8 @@ temperature: 1.25
 Press release
 {:.runner}
 
+{% include image file="stewardship-summit.png" class="headline-image landscape" %}
+
 # Report from the Global Indigenous Peoples’ Stewardship Summit
 
 By Maria Turtschaninoff

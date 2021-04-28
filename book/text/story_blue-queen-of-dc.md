@@ -14,6 +14,8 @@ temperature: 3.7
 Press release
 {:.runner}
 
+{% include image file="blue-queen-of-dc.png" class="headline-image landscape" %}
+
 # The Blue Queen of DC: A review
 
 By Rajat Chaudhuri
