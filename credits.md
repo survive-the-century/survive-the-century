@@ -17,7 +17,7 @@ Christopher Trisos and Simon Nicholson
 
 ## Short fiction 
 
-Lauren Beukes, Maria Turtschaninoff, Mohale Mashigo, Rajat Chaudhuri and Sophia Al-Maria
+Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
 
 ## Primary sponsors
 
