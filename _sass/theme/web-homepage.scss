@@ -5,9 +5,8 @@
     }
 
     img.homepage-logo  {
-        background-image: radial-gradient(closest-side, $green, $midnight);
+        background-image: radial-gradient(closest-side, $green-075-opacity, $midnight-075-opacity);
         background-size: cover;
-        opacity: 0.75;
         width: 75%;
         margin-bottom: 1rem;
     }

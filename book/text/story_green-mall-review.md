@@ -14,6 +14,8 @@ temperature: 1.7
 Press release
 {:.runner}
 
+{% include image file="green-mall.png" class="headline-image landscape" %}
+
 # Review of a “green mall” by a grumpy Gen X shopaholic
 
 By Maria Turtschaninoff
