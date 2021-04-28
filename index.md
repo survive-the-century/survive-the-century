@@ -22,7 +22,7 @@ Lead the world towards utopia, or unleash your inner sociopath to see how bad th
 
 Created by Sam Beckbessinger, Simon Nicholson and Christopher Trisos.
 
-Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria.
+Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria, as well as illustrations by Annika Brandow.
 
 Invaluable scientific contributions (and hilarious headlines) co-ordinated through the National Socio-Environmental Synthesis Center (SESYNC) of the University of Maryland. [A full list of contributors is here.](credits.html)
 
