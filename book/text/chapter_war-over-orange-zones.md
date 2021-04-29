@@ -7,9 +7,8 @@ economy:
 temperature: 2.1
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 A series of wars are started over who gets to control the new orange zone territories. 
 {:.leader-sentence}
 

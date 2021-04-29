@@ -1,0 +1,127 @@
+body, 
+#wrapper,
+.masthead,
+.footer-wrapper {
+    background-color: $midnight;
+    color: $white;
+    font-family: $font-text-main;
+}
+
+#content {
+    padding: 0;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: $max-width-default) {
+    body:not(.part-page) .main-content,
+    .below-the-fold {
+        padding: 0 1rem;
+    }
+}
+
+.frontmatter {
+    #wrapper, #content {
+        background-color: $green-10pc;
+    }
+}
+
+.home, .frontmatter {
+    .main-content {
+        margin-top: $masthead-height + 2rem;
+    }
+    .below-the-fold {
+        background-color: $green-10pc;
+    }
+}
+
+.chapter {
+    margin-top: $masthead-height;
+
+    @media only screen and (max-width: $break-point-masthead) {
+        // take action page doesn't have a dash
+        &.action {
+            margin-top: 0;
+        }
+    }
+    
+
+    .glow-top,
+    .glow-bottom {
+        width: 100%;
+        
+        height: 6rem;
+        opacity: 0.34;
+    }
+
+    .glow-top {
+        background-image: linear-gradient($green, $midnight);
+    }
+    .glow-bottom {
+        background-image: linear-gradient($midnight, $green);
+    }
+}
+
+.part-page {
+    margin-top: $masthead-height;
+
+    .glow-top,
+    .glow-bottom {
+        width: 100%;
+        
+        height: 6rem;
+        opacity: 0.34;
+    }
+
+    .glow-top {
+        background-image: linear-gradient($red, $midnight);
+    }
+    .glow-bottom {
+        background-image: linear-gradient($midnight, $red);
+    }
+}
+
+.newspaper {
+    #wrapper, #content {
+        background-color: $white;
+        color: $midnight;
+    }
+}
+
+.ending:not(.dead) {
+    margin-top: $masthead-height;
+
+    .glow-top,
+    .glow-bottom {
+        width: 100%; 
+    }
+
+    .glow-top {
+        opacity: 0.48;
+        height: 32rem;
+        background-image: linear-gradient($green, $midnight);
+    }
+    .glow-bottom {
+        opacity: 0.34;
+        height: 6rem;
+        background-image: linear-gradient($midnight, $green);
+    }
+}
+
+.ending.dead {
+    #wrapper {
+        background-color: $red;
+        color: $white;
+    }
+
+    margin-top: $masthead-height;
+
+    .glow-top {
+        width: 100%; 
+        height: 32rem;
+        background-image: linear-gradient($midnight, $red);
+    }
+
+    .call-to-action {
+        background-color: $midnight;
+    }
+}

@@ -7,17 +7,13 @@ economy:
 temperature: 2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-3 January 2060
-{:.date}
+{% include newspaper-title date="3 January 2060" %}
 
 ### Top article
+
+{% include image file="seaside-tourists.png" class="headline-image landscape" %}
 
 People disappointed that they can’t choose what weather they get every day
 {:.headline}
@@ -27,11 +23,12 @@ People disappointed that they can’t choose what weather they get every day
 
 ### Other stories today
 
-- Greta Thunberg, age 57, declines leadership role on global climate council: “The young must lead us”
-- Time to take that Thailand trip at last! Joy as tropics become habitable again
-- Weaker monsoons in South Asia drive regional water shortages
-- Synthetic fabrics and subdermal implants dazzle at Fashion Week [Read more](story_fashion-week.html)
-- Last hydropower plant closed in Indian Himalayas after successive years of low flows and low electricity generation due to melting of glaciers
+- {% include thumbnail file="thumbnail_people.png" %} Greta Thunberg, age 57, declines leadership role on global climate council: “The young must lead us”
+- {% include thumbnail file="thumbnail_forest.png" %} Time to take that Thailand trip at last! Joy as tropics become habitable again
+- {% include thumbnail file="thumbnail_stormy.png" %} Weaker monsoons in South Asia drive regional water shortages
+- {% include thumbnail file="thumbnail_flow-vertical.png" %} Synthetic fabrics and subdermal implants dazzle at Fashion Week [Read more](story_fashion-week.html){:.read-more}
+- {% include thumbnail file="thumbnail_peaks.png" %} Last hydropower plant closed in Indian Himalayas after successive years of low flows and low electricity generation due to melting of glaciers
 {:.articles}
 
-[Let’s see what the 2070s will bring.](chapter_hackers-attack-space-fleet.html){:.next-decade-link}
+[Let’s see what the 2060s will bring.](chapter_hackers-attack-space-fleet.html)
+{:.next-decade-link}

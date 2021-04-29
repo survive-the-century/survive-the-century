@@ -3,22 +3,21 @@ title: "Green is the new gold"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 
-<div class="js-var-fracking-1">
+
+<div data-js-var="css-var-fracking-1" markdown="1" class="hidden">
 
 Energy companies have to use a portion of their fracking profits to research new ways to reduce climate change, or help the world adapt to it.
 {:.leader-sentence}
 
 </div>
 
-<div class="js-var-fracking-0">
+<div data-js-var="css-var-fracking-0" markdown="1" class="hidden">
 
 We launch a number of green technology funds that invest in private businesses researching new ways to reduce climate change, or help the world adapt to it.
 {:.leader-sentence}

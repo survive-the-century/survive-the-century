@@ -3,13 +3,12 @@ title: "Corporate housing"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We relax housing regulations and provide generous tax breaks to businesses building new housing complexes in the cities.
 {:.leader-sentence}
 

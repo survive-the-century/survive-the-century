@@ -3,13 +3,12 @@ title: "Global climate fund"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The world agrees! 
 {:.leader-sentence}
 

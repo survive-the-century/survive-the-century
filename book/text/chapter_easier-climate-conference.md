@@ -3,19 +3,20 @@ title: "Easier climate conference"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-The northern hemisphere’s summer of 2031 is particularly brutal: hurricanes and wildfires batter the US while hundreds die in a heatwave across southern Europe and central Asia.
+
+The northern hemisphere’s summer of 2031 is particularly brutal: 
 {:.leader-sentence}
 
-In November 2031, the world calls a new global climate conference. We’ve gained some momentum on climate change, but clearly a lot more needs to be done.
+Hurricanes and wildfires batter the US while hundreds die in a heatwave across southern Europe and central Asia.
 
-Every world leader reads your news site, so tell them: How aggressive should we be about reducing greenhouse gas emissions?
+In November 2031, world leaders come together for another climate conference. We’ve gained some momentum on climate change, but clearly a lot more needs to be done.
+
+Every world leader reads your news site, so tell them. How aggressive should we be about reducing greenhouse gas emissions?
 {:.choice-question}
 
 - [There’s no time to waste. Let’s commit to net zero emissions by 2035, regardless of how hard it is.](chapter_pay-for-transition.html)

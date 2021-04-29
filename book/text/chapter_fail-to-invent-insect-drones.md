@@ -3,13 +3,12 @@ title: "Fail to invent insect drones"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 The Council scrambles to develop pollination drones and heat-resistant crops, but everything happens too quickly.
 {:.leader-sentence}
 

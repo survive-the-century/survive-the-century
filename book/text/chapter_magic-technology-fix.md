@@ -3,13 +3,12 @@ title: "Magic technology fix"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Wow, uh, that was lucky.
 {:.leader-sentence}
 

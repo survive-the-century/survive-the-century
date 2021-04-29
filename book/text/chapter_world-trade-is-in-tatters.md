@@ -3,13 +3,12 @@ title: "World trade is in tatters"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down
 temperature: 1.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Countries start to pass protectionist laws and break trade agreements. 
 {:.leader-sentence}
 
@@ -19,8 +18,8 @@ Warmer weather is causing ice to melt in the Arctic Sea. Canada, the US, China a
 
 Countries quietly start to divert post-Covid economic stimulus money into beefing up their militaries. You know, just in case.
 
-- [You made it to 2030.](part-apge_2030.html){:js-next-dest="newspaper_welcome-to-2030-climate-wars.html"}
+- [You made it to 2030.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-climate-wars.html"}
 {:.choice-options}
 
-As sea ice melts, shipping lanes are opening up in the Arctic, making it an increasingly profitable region. But this is causing geopolitical tensions, as countries scramble to secure their northern borders. Already, governments have sent their militaries to the region in order to ensure that their countries’ stakes in the Arctic are protected.
+> As sea ice melts, shipping lanes are opening up in the Arctic, making it an increasingly profitable region. But this is causing geopolitical tensions, as countries scramble to secure their northern borders. Already, governments have sent their militaries to the region in order to ensure that their countries’ stakes in the Arctic are protected.
 {:.infobox}

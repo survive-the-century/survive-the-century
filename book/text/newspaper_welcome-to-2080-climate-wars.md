@@ -7,17 +7,13 @@ economy:
 temperature: 4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-12 July 2080
-{:.date}
+{% include newspaper-title date="12 July 2080" %}
 
 ### Top article
+
+{% include image file="riot-police.png" class="headline-image portrait" %}
 
 Violence erupts in poverty belts around New York and San Francisco
 {:.headline}
@@ -27,12 +23,13 @@ Millions are left without refuge during the peak heat of the summer
 
 ### Other stories today
 
-- Chinese colonies in Africa are without water after American navy attacks Antarctic ice cargo ships
-- Displaced urban populations finally learning sustainable living among indigenous peoples’ forest refuge
-- Chinese navy occupies New Zealand waters after fisheries collapse in the tropical Pacific
-- Maize crops fail for the eighth consecutive year, five billion people rely on international food assistance
-- Serious destabilization of Arctic methane clathrates triggers tsunamis in northern seas
-- Millions of climate refugees are offered asylum in exchange for work in Antarctic uranium mines
+- {% include thumbnail file="thumbnail_flow-horizontal.png" %} Chinese colonies in Africa are without water after American navy attacks Antarctic ice cargo ships
+- {% include thumbnail file="thumbnail_forest.png" %} Displaced urban populations finally learning sustainable living among indigenous peoples’ forest refuge
+- {% include thumbnail file="thumbnail_water.png" %} Chinese navy occupies New Zealand waters after fisheries collapse in the tropical Pacific
+- {% include thumbnail file="thumbnail_graph.png" %} Maize crops fail for the eighth consecutive year, five billion people rely on international food assistance
+- {% include thumbnail file="thumbnail_stormy.png" %} Serious destabilization of Arctic methane clathrates triggers tsunamis in northern seas
+- {% include thumbnail file="thumbnail_people.png" %} Millions of climate refugees are offered asylum in exchange for work in Antarctic uranium mines
 {:.articles}
 
-[Just one more decade to go.](chapter_death-cults.html){:.new-decade-link}
+[Just one more decade to go.](chapter_death-cults.html)
+{:.next-decade-link}

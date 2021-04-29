@@ -3,13 +3,12 @@ title: "Gender strongmen"
 style: chapter
 conflict: 4
 decade: 
-economy: 
+economy: down
 temperature: 2.2
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Strongmen leaders are elected in countries around the world promising to restore traditional gender roles.
 {:.leader-sentence}
 

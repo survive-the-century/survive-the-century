@@ -3,13 +3,12 @@ title: "Corporate colonialism"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 1.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 We let multinationals buy up all this land. 
 {:.leader-sentence}
 

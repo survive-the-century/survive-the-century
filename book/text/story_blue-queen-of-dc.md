@@ -7,9 +7,15 @@ economy:
 temperature: 3.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
+{% include image file="blue-queen-of-dc.png" class="headline-image landscape" %}
+
 # The Blue Queen of DC: A review
 
 By Rajat Chaudhuri
@@ -31,4 +37,5 @@ Vegetarians can try their luck with a variety of stews (wots) prepared with red 
 
 The Volcanists believe a series of eruptions will cool the planet, buying enough time for the forces of justice and reason to prevail. Our taste buds teased and bellies full, as the human-operated lift dropped us back into the swollen Potomac, we could only hope they know what they’re talking about.
 
-[You made it to the end of the century!](ending_2100-climate-wars.html){:.new-decade-link}
+[You made it to the end of the century!](ending_2100-climate-wars.html)
+{:.next-decade-link}

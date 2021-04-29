@@ -7,9 +7,14 @@ economy:
 temperature: 2.3
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="9 August 2090" %}
+
+Press release
+{:.runner}
+
+{% include image file="trouble-in-paradys.png" class="headline-image landscape" %}
 
 # Trouble in Paradys: Virtual worlds, real targets
 
@@ -30,4 +35,5 @@ ReallyReal (TM) spokesperson, Colin Ray, says, “It’s regrettable that a few 
 
 Investigations are ongoing and police say although the gang may have used VR to scout out the locations, they believe there was someone on the inside who let them into the real-world Paradys and helped facilitate the burglaries. Paradys residents with any information are urged to come forward.
 
-[You made it to the end of the century!](ending_2100-billionaire-saviours.html){:.new-decade-link}
+[You made it to the end of the century!](ending_2100-billionaire-saviours.html)
+{:.next-decade-link}

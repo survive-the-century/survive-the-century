@@ -7,9 +7,15 @@ economy:
 temperature: 2 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2060" %}
+
+Press release
+{:.runner}
+
+{% include image file="catwalk.png" class="headline-image portrait" %}
+
 # Paris Fashion Week 2060 special report 
 
 By Sophia Al-Maria
@@ -33,4 +39,5 @@ There are, still, overarching trends that stick within these brief windows. Body
 
 It must be said, it feels like we’re at the technological bleeding edge, with much excitement to be expected with what we wear in the coming year – it’s all about leaning into the reflection of ourselves, not away from it.
 
-[Let’s see what the 2070s will bring.](chapter_hackers-attack-space-fleet.html){:.next-decade-link}
+[Let’s see what the 2070s will bring.](chapter_hackers-attack-space-fleet.html)
+{:.next-decade-link}

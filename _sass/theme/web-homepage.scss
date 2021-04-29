@@ -1,0 +1,50 @@
+.home {
+    .logo,
+    .dash {
+        display: none;
+    }
+
+    img.homepage-logo  {
+        background-image: radial-gradient(closest-side, $green-075-opacity, $midnight-075-opacity);
+        background-size: cover;
+        width: 75%;
+        margin-bottom: 1rem;
+    }
+
+    .leader-sentence {
+        margin-bottom: 2.3rem;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .play-buttons {
+        margin-bottom: 6rem;
+    }
+
+    .below-the-fold {
+        padding-top: 2rem;
+        padding-bottom: 4.5rem;
+
+        h1,
+        p {
+            max-width: $max-width-default;
+            margin: auto;
+        }
+
+        h1 {
+            padding-bottom: 1rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid $midnight;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: $midnight;
+        }
+    }
+}

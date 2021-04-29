@@ -7,13 +7,12 @@ economy:
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-The losers of the climate wars continue to try to rebuild their economies.
+
+The losers of the climate wars continue to try to rebuild.
 {:.leader-sentence}
 
-Desperate, their economy in tatters, a lot of them see small doomsday cults emerge, some of them with nuclear bombs.
+Desperate, their economies in tatters, a lot of them see small doomsday cults emerge, some of them with nuclear bombs.
 
 The leader of one of these cults wants to publish an open letter on your news site arguing it would be better to just drop nukes and end everything.
 

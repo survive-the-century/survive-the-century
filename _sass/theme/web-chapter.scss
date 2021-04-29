@@ -1,0 +1,66 @@
+.choice-options {
+    list-style-type: none;
+    font-family: $font-text-main;
+    max-width: 25rem;
+    margin: 0 auto -3rem auto;
+    li {
+        border: 1.5px solid $green;
+        box-sizing: border-box;
+        color: $white;
+        margin-bottom: $line-height-default;
+        a span {
+            display: block;
+            padding: 1rem 2rem 2rem 1rem;            
+        }
+
+        // hover glow
+        &.css-glow {
+            box-shadow: 0 0 7px $green-60pc;
+        }
+    }
+
+    li:not(.random) {
+        img {
+            float: right;
+            position: relative;
+            right: 0.5rem;
+            bottom: 1.5rem;
+        }
+    }
+    
+    li svg {
+        border: 2.5px solid $red;
+    }
+
+    // Styles for random choices
+    li.random {
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            span {
+                padding: 1rem 2rem 2rem 1rem;            
+            }
+            
+            img {
+                padding: 0.5rem;
+            }
+        }
+    }
+}
+
+.chapter-image-parent {
+    margin: 0;
+}
+
+.chapter-image-parent img.chapter-image {
+    margin: -4rem auto 1rem auto;
+    position: relative;
+    width: 100%;
+    // &.landscape {
+    //     max-width: $max-width-default;
+    // }
+    // &.portrait {
+    //     max-height: 25.125rem;
+    // }
+}

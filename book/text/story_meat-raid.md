@@ -1,15 +1,20 @@
 ---
 title: "Meat raid"
-style: 
+style: story
 conflict: 
 decade: 2030
 economy: 
 temperature: 1.4
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2030" %}
+
+Press release
+{:.runner}
+
+{% include image file="high-crime.png" class="headline-image landscape" %}
 
 # California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants
 
@@ -26,4 +31,5 @@ During the last era of prohibition, in the 1930s, the illegal speakeasies are sa
 
 “But we are not so much after the restaurants, or ‘meat-easies’,” said Governor Christina Schwarzenegger. “The bigger issue is the illegal import of beef and pork from other states.”
 
-[What will this new decade bring?](chapter_easier-climate-conference.html){:.next-decade-link}
+[What will this new decade bring?](chapter_easier-climate-conference.html)
+{:.next-decade-link}

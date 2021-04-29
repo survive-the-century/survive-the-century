@@ -7,17 +7,13 @@ economy:
 temperature: 1.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-3 January 2040
-{:.date}
+{% include newspaper-title date="3 January 2040" %}
 
 ### Top article
+
+{% include image file="wto-flags.png" class="headline-image portrait" %}
 
 World Trade Organization breaks up
 {:.headline}
@@ -27,10 +23,11 @@ China leads Belt and Road countries to form new trading bloc
 
 ### Other stories today
 
-- Japan and Australia deny asylum to boats of migrants seeking new homes after fisheries collapse from marine heatwaves in the Indo-Pacific
-- African elephants listed as critically endangered as industrialization of agriculture fuels conflict with farmers
-- Reinsurance companies file for bankruptcy as Arabian Sea cyclones batter Indian and East African coastlines
-- Forced relocation from Sundarbans sparks widespread violence in eastern India
+- {% include thumbnail file="thumbnail_people.png" %} Japan and Australia deny asylum to boats of migrants seeking new homes after fisheries collapse from marine heatwaves in the Indo-Pacific
+- {% include thumbnail file="thumbnail_squiggles.png" %} African elephants listed as critically endangered as industrialization of agriculture fuels conflict with farmers
+- {% include thumbnail file="thumbnail_graph.png" %} Reinsurance companies file for bankruptcy as Arabian Sea cyclones batter Indian and East African coastlines
+- {% include thumbnail file="thumbnail_shapes.png" %} Forced relocation from Sundarbans sparks widespread violence in eastern India
 {:.articles}
 
-[Onto the 2040s!](chapter_refugee-crisis-and-climate-war-world.html){:.next-decade-link}
+[Onto the 2040s!](chapter_refugee-crisis-and-climate-war-world.html)
+{:.next-decade-link}

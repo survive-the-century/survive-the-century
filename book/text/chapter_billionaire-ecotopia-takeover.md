@@ -3,17 +3,16 @@ title: "Billionaire ecotopia takeover"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: up
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-Ugh.
+
+Ugh. Awful hyper-capitalist Martians conquer the planet.
 {:.leader-sentence}
 
-Awful hyper-capitalist Martians conquer the planet. Turns out they’ve been spending all of the past two decades building advanced war drones and bioweapons. Typical.
+Turns out they’ve been spending all of the past two decades building advanced war drones and bioweapons. Typical.
 
 They claim all of the earth’s best resources as their own and start building tiny mini-utopias in the beautiful, newly restored natural forests and beaches.
 

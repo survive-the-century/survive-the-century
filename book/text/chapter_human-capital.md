@@ -3,13 +3,14 @@ title: "Human capital"
 style: chapter
 conflict: 1
 decade: 
-economy: 
+economy: up
 temperature: 2.8
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include image file="catwalk.png" class="chapter-image portrait" %}
+
 Migrants are welcomed as “human capital” and resettled in new, high-tech cities all around the world. 
 {:.leader-sentence}
 

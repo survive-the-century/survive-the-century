@@ -7,9 +7,15 @@ economy:
 temperature: 2.25
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
+{% include image file="floods-in-india.png" class="headline-image portrait" %}
+
 # Mass-abductions hobble India’s guest talent programme
 
 By Rajat Chaudhuri
@@ -29,4 +35,5 @@ A central team has been rushed to the area.
 
 *This article wasn’t written or edited by human editors.*
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html){:.next-decade-link}
+[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+{:.next-decade-link}

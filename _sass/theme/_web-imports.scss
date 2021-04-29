@@ -1,0 +1,25 @@
+// Fonts
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../../assets/fonts/Inter-Regular.ttf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../../assets/fonts/Lora-Regular.ttf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../../assets/fonts/Lora-Italic.ttf") format("truetype"),
+}

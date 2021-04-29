@@ -7,9 +7,15 @@ economy:
 temperature: 1.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2070" %}
+
+Press release
+{:.runner}
+
+{% include image file="obituaries-for-capitalism.png" class="headline-image portrait" %}
+
 # Obituaries
 
 ## Capitalism: 1760–2068
@@ -31,4 +37,5 @@ Capitalism did not take gracefully to being rejected. In the last decades, many 
 
 As happens with many who live long lives, Capitalism had, in the end, outlived most of its friends. The last of them left for Mars in 2062.
 
-[Onwards into the 2070s!](chapter_birth-rates-plunge.html){:.next-decade-link}
+[Onwards into the 2070s!](chapter_birth-rates-plunge.html)
+{:.next-decade-link}

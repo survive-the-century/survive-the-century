@@ -7,9 +7,15 @@ economy:
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2050" %}
+
+Press release
+{:.runner}
+
+{% include image file="green-mall.png" class="headline-image landscape" %}
+
 # Review of a “green mall” by a grumpy Gen X shopaholic
 
 By Maria Turtschaninoff
@@ -31,4 +37,5 @@ Sincerely,
 
 A Gen X shopaholic.
 
-[Let’s see what the 2050s will bring](chapter_who-looks-after-the-wild.html){:.next-decade-link}
+[Let’s see what the 2050s will bring](chapter_who-looks-after-the-wild.html)
+{:.next-decade-link}

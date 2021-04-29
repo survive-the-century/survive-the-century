@@ -3,13 +3,12 @@ title: "Later Global South strike"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 1.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Rich countries refuse!
 {:.leader-sentence}
 

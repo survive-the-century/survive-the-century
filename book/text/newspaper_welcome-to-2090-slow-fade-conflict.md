@@ -7,17 +7,13 @@ economy:
 temperature: 3.7
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-# The news
 
-## All the news, all the time.
-
-9 August 2090
-{:.date}
+{% include newspaper-title date="9 August 2090" %}
 
 ### Top article
+
+{% include image file="soldier.png" class="headline-image portrait" %}
 
 New conflict erupts on California-Mexico border
 {:.headline}
@@ -27,14 +23,14 @@ Communities battle over control of few remaining rain catchment areas
 
 ### Other stories today
 
-- Lightning strikes twice! Psalm West wins another child permit in parenting lottery (lucky bastard)
-- Latest poll: Thirty per cent of global population hopes to move to Mars
-- “I was a child soldier”: How one teenager survived the Patagonian war
-- Thousands complain as heatwaves cripple mobile phone use outdoors, teens mock Gen Z for not using refrigerated phone cases
-- Bats drive pigeons out of Kingston, take over kudzu-choked remains of the sunken city
-- Last holdouts finally abandon the Sahel
-- Global fish populations collapse due to ocean acidification
+- {% include thumbnail file="thumbnail_squiggles.png" %} Lightning strikes twice! Psalm West wins another child permit in parenting lottery (lucky bastard)
+- {% include thumbnail file="thumbnail_graph.png" %} Latest poll: Thirty per cent of global population hopes to move to Mars
+- {% include thumbnail file="thumbnail_flow-vertical.png" %} “I was a child soldier”: How one teenager survived the Patagonian war
+- {% include thumbnail file="thumbnail_people.png" %} Thousands complain as heatwaves cripple mobile phone use outdoors, teens mock Gen Z for not using refrigerated phone cases
+- {% include thumbnail file="thumbnail_shapes.png" %} Bats drive pigeons out of Kingston, Jamaica, take over kudzu-choked remains of the sunken city
+- {% include thumbnail file="thumbnail_flow-horizontal.png" %} Last holdouts finally abandon the Sahel
+- {% include thumbnail file="thumbnail_water.png" %} Global fish populations collapse due to ocean acidification
 {:.articles}
 
-[You made it to the end of the century!](ending_2100-slow-fade.html){:.new-decade-link}
-
+[You made it to the end of the century!](ending_2100-slow-fade.html)
+{:.next-decade-link}

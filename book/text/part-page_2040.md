@@ -1,10 +1,10 @@
 ---
 title: "Welcome to 2040"
 style: part-page
+decade: 2040
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
-[Welcome to 2040!](js-next-dest-placeholder)
+
+{% include part-page year="2040" %}
 

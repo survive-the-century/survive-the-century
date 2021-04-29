@@ -3,13 +3,12 @@ title: "Small-scale conflict"
 style: chapter
 conflict: 
 decade: 
-economy: 
+economy: down
 temperature: 
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
 Phew. 
 {:.leader-sentence}
 

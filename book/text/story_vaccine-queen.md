@@ -7,15 +7,19 @@ economy:
 temperature: 1.6
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
+
+{% include newspaper-title date="3 January 2030" %}
+
+Press release
+{:.runner}
+
+{% include image file="child-getting-vaccine.png" class="headline-image landscape" %}
+
 # Vaccine Queen opens the first of 100 tech universities across West Africa
 
 By Lauren Beukes
 {:.author}
-
-**Press release:**
 
 ACCRA: With the launch of the debut OkC01 University in Ghana’s capital today, Nigerian-Australian vaccine magnate, Dylan Okereke-Clifford joins the ranks of billionaire techpreneurs investing in the continent.
 
@@ -31,4 +35,5 @@ The OkC universities are free to attend and Okereke-Clifford’s brand new Reall
 
 OkC01 campus opens in the defunct and neglected Accra Central Library, redesigned and expanded by British starchitect Thomas Heatherwick. “This is another way the private sector is able to step up where government fails,” Okereke-Clifford says, adding that the library lives on in virtual reality, and all the books have been digitized. Her company will be distributing ReallyReal(TM) headsets to all Accra residents to ensure they continue to have free access to all the books.
 
-[What will this new decade bring?](chapter_grassroots-inequality-rebellion.html){:.new-decade-link}
+[What will this new decade bring?](chapter_grassroots-inequality-rebellion.html)
+{:.next-decade-link}

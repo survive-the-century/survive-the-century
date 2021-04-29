@@ -3,20 +3,20 @@ title: "Billionaires get richer"
 style: chapter
 conflict: 3
 decade: 2020
-economy: 
+economy: up
 temperature: 1.5
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 
-We decide to let the winners win, and the losers lose. There are few economic stimulus packages, but lower tax rates for businesses.
+We decide that the best way to grow the economic pie for everyone is to reward the people at the top.
 {:.leader-sentence}
 
-Some company stock prices boom while unemployment soars. The rich get even richer, while millions line up for food aid all around the world.
+There are few economic stimulus packages, but lower tax rates for businesses.
 
-In 2028, scientists produce a report saying that despite all the international carbon agreements, greenhouse gas emissions are still rising. Activists propose putting a higher tax on carbon emissions, which companies can offset by doing things like planting trees.
+Some company stock prices boom. Unemployment, though, soars. Instead of using the tax cuts to spur job growth, the rich get even richer, while millions line up for food aid all around the world.
+
+In 2028, scientists produce a report saying that despite all the international climate change agreements, greenhouse gas emissions are still rising. Activists propose putting a higher tax on carbon emissions, which companies can offset by doing things like planting trees.
 
 What’s your angle on this?
 {:.choice-question}
