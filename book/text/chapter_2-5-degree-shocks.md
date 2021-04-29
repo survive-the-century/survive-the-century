@@ -9,7 +9,6 @@ temperature: 2.4
 
 {% include variables %}
 
-
 We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, animal and insect death. 
 {:.leader-sentence}
 
