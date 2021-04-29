@@ -9,7 +9,6 @@ temperature:
 
 {% include variables %}
 
-
 The world is now capturing more greenhouse gases than it produces, but we’re still recovering from damage that was done to the environment earlier in the century.
 {:.leader-sentence}
 
