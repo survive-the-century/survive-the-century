@@ -18,7 +18,7 @@ temperature: 2.2
 “Birds are just dropping dead from the trees,” says tearful PM
 {:.headline}
 
-Australian heatwave causes mass animal deaths across Australia
+Record-breaking heatwave causes mass animal deaths across Australia
 {:.subheadline}
 
 ### Other stories today

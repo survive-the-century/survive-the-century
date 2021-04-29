@@ -27,7 +27,7 @@ Unprecedented rise in domestic violence, assaults linked to impact of rising tem
 - {%include thumbnail file="thumbnail_people.png" %} Climate activists stage sit-in at World Economic Forum in Davos, are told to “go home and whine to your dolls” by president of the European Union
 - {%include thumbnail file="thumbnail_graph.png" %} Russian scientists confirm spike in emissions from thawing permafrost, warn warming could cause vicious cycle
 - {%include thumbnail file="thumbnail_forest.png" %} Record-low rainfall is a warning sign of Amazon rainforest ecosystem collapse, say alarmed experts
-- {%include thumbnail file="thumbnail_flow-horizontal.png" %} The African Union’s Green Great Wall slows Sahara’s southward march
+- {%include thumbnail file="thumbnail_flow-horizontal.png" %} The African Union’s Great Green Wall slows Sahara’s southward march
 {:.articles}
 
 [Onto the 2040s!](chapter_refugee-crisis-and-slow-fade-world.html)
