@@ -13,7 +13,7 @@ temperature: 2.1
 We successfully launch a fleet of space mirrors that reflects some sunlight away from the planet, reducing warming.
 {:.leader-sentence}
 
-In a historic meeting, we establish a new global climate council that oversees the project, and begin to deploy it.
+In a historic meeting, we establish a new global climate council that oversees the project, and begin to deploy it. All council members must be under the age of 20, because they have the most stake in the future of the planet.
 
 The council is warned that if the space mirror project ever fails, there might be terrible consequences. The world can also invest in a backup plan, building machines that suck carbon out of the atmosphere, but it will be expensive. The cost will mean a five per cent reduction of everyone’s UBI (universal basic income), which will be unpopular!
 
