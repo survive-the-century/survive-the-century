@@ -2,7 +2,7 @@
 title: "Experimental orange zones"
 style: chapter
 conflict: 
-decade: 
+decade: 2040
 economy: 
 temperature: 1.9
 var-experimental-zones: 1

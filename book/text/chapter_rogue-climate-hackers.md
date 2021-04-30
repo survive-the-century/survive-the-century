@@ -2,7 +2,7 @@
 title: "Rogue climate hackers"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: 
 temperature: 3.2
 ---

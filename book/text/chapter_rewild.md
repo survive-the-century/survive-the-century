@@ -2,7 +2,7 @@
 title: "Rewild"
 style: chapter
 conflict: 
-decade: 
+decade: 2040
 economy: 
 temperature: 1.7
 ---

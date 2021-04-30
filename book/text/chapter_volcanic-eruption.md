@@ -2,7 +2,7 @@
 title: "Volcanic eruption"
 style: chapter
 conflict: 
-decade: 
+decade: 2060
 economy: up
 temperature: 
 ---

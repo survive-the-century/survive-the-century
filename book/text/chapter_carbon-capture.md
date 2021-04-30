@@ -2,7 +2,7 @@
 title: "Carbon capture?"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: down
 temperature: 
 ---

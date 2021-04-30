@@ -2,7 +2,7 @@
 title: "Ecocide"
 style: chapter
 conflict: 
-decade: 
+decade: 2020
 economy: down
 temperature: 
 ---

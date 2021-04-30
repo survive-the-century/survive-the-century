@@ -2,7 +2,7 @@
 title: "Fossil-fuelled development"
 style: chapter
 conflict: 
-decade: 
+decade: 2020
 economy: up
 temperature: 1.6
 ---

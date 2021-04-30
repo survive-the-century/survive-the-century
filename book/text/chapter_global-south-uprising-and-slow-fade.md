@@ -2,7 +2,7 @@
 title: "Global South uprising + slow fade"
 style: 
 conflict: 
-decade: 
+decade: 2040
 economy: down
 temperature: 1.9
 ---

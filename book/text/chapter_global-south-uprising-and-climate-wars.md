@@ -2,7 +2,7 @@
 title: "Global South uprising + climate wars"
 style: chapter
 conflict: 4
-decade: 
+decade: 2040
 economy: down
 temperature: 2.2
 ---

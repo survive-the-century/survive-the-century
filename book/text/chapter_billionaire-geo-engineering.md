@@ -2,7 +2,7 @@
 title: "Billionaire geo-engineering"
 style: chapter
 conflict: 
-decade: 
+decade: 2050
 economy: up 
 temperature: 2.25
 ---

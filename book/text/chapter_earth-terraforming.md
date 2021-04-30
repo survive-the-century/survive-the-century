@@ -2,7 +2,7 @@
 title: "Earth terraforming"
 style: chapter
 conflict: 
-decade: 
+decade: 2060
 economy: 
 temperature: 2.3
 ---

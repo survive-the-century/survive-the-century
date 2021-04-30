@@ -2,7 +2,7 @@
 title: "World trade is in tatters"
 style: chapter
 conflict: 4
-decade: 
+decade: 2020
 economy: down
 temperature: 1.5
 ---

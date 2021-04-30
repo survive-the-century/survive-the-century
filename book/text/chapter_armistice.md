@@ -2,7 +2,7 @@
 title: "Armistice"
 style: chapter
 conflict: 2
-decade: 
+decade: 2060
 economy: up
 temperature: 2
 ---

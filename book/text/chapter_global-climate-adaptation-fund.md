@@ -2,7 +2,7 @@
 title: "Global climate adaptation fund"
 style: chapter
 conflict: 
-decade: 
+decade: 2030
 economy: down
 temperature: 2
 ---

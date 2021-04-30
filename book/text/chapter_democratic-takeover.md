@@ -2,7 +2,7 @@
 title: "Democratic takeover"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: 
 temperature: 2.2
 ---

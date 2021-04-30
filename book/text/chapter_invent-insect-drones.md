@@ -2,7 +2,7 @@
 title: "Invent insect drones"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: down
 temperature: 4
 ---
