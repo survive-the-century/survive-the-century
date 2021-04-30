@@ -10,7 +10,7 @@ temperature:
 {% include variables %}
 
 
-Uh oh. 
+Uh-oh. 
 {:.leader-sentence}
 
 Remember all the billionaires who left in the 2060s and went to live on a Mars colony?

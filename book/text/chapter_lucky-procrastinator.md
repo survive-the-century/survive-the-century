@@ -14,7 +14,7 @@ Uh, really? Okay…
 
 You publish an editorial saying that we should bet on a technological breakthrough to magically fix our problems. It’s a very convincing piece!
 
-World leaders lock ten of the smartest inventors on earth in a room for a year and ask them to invent a technology to magically fix climate change.
+World leaders lock ten of the smartest inventors on Earth in a room for a year and ask them to invent a technology to magically fix climate change.
 
 They warn you there’s a one in ten chance that they’ll find something.
 
