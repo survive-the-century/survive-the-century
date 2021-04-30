@@ -24,6 +24,6 @@ What do you think we should do?
 - [Let’s invest in carbon removal technology.](chapter_high-tech-1-5-mitigation.html)
 {:.choice-options}
 
-> If we were to reduce all greenhouse gas emissions to zero in 2021, temperatures would probably stabilise within the next 10 to 30 years. But some parts of the climate system respond much more slowly than temperatures. Sea levels would still rise for the rest of the century because past greenhouse gas emissions have "locked-in" an amount of glacier and ice sheet melting. That doesn’t mean our actions don’t matter: every 0.1 of a degree of extra warming translates into more lives lost and more species extinct.
+> If we were to reduce all greenhouse gas emissions to zero in 2021, temperatures would probably stabilize within the next 10 to 30 years. But some parts of the climate system respond much more slowly than temperatures. Sea levels would still rise for the rest of the century because past greenhouse gas emissions have "locked-in" an amount of glacier and ice sheet melting. That doesn’t mean our actions don’t matter: every 0.1 of a degree of extra warming translates into more lives lost and more species extinct.
 {:.infobox}
 

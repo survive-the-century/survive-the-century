@@ -9,7 +9,7 @@ temperature: 1.6
 
 {% include variables %}
 
-At the climate summit, leaders need to agree to stricter emission reduction targets. 
+At the climate summit, leaders need to agree to stricter emission-reduction targets. 
 {:.leader-sentence}
 
 There’s a debate about whether historical emissions should be counted towards a country’s total target (which would damage the economies of currently rich countries) or whether only current emissions matter (which would impact China and other emerging economies).
