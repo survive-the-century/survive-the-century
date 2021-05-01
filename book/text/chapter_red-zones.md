@@ -18,6 +18,6 @@ We talk about “strategic retreat” to safer places, but this creates tensions
 Where should these people try to go?
 {:.choice-question}
 
-- [Build new migrating cities](chapter_migratory-cities.html)
-- [Retreat to safety](chapter_local-conflicts.html)
+- [Build new migrating cities.](chapter_migratory-cities.html)
+- [Retreat to safety.](chapter_local-conflicts.html)
 {:.choice-options}
