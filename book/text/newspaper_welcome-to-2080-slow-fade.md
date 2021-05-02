@@ -23,7 +23,7 @@ Southern hemisphere agriculture revives for the first time in decades
 
 ### Other stories today
 
-- {% include thumbnail file="thumbnail_forest.png" %} International rebel alliance led by Nigerian guerrillas dredge up decades-old strategy from Twitter archives, launch distributed solar geoengineering in southern hemisphere to green the Sahel
+- {% include thumbnail file="thumbnail_forest.png" %} International rebel alliance led by Nigerian guerillas dredge up decades-old strategy from Twitter archives, launch distributed solar geoengineering in southern hemisphere to green the Sahel
 - {% include thumbnail file="thumbnail_graph.png" %} Switzerland bans avocado exports to US, demands lower prices on Alaskan rice
 - {% include thumbnail file="thumbnail_people.png" %} Legal battles continue over Moscow’s attempt to expel climate refugees from Siberian bread basket
 - {% include thumbnail file="thumbnail_flow-horizontal.png" %} Remaining American airlines file for bankruptcy following heatwave-induced flight cancellations
