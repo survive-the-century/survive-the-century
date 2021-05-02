@@ -30,5 +30,5 @@ Unprecedented rise in domestic violence, assaults linked to impact of rising tem
 - {%include thumbnail file="thumbnail_flow-horizontal.png" %} The African Union’s Great Green Wall slows Sahara’s southward march
 {:.articles}
 
-[Onto the 2040s!](chapter_refugee-crisis-and-slow-fade-world.html)
+[On to the 2040s!](chapter_refugee-crisis-and-slow-fade-world.html)
 {:.next-decade-link}
