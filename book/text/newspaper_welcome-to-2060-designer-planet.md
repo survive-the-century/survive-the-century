@@ -13,7 +13,7 @@ temperature: 2
 
 ### Top article
 
-{% include image file="seaside-tourists.png" class="headline-image landscape" %}
+{% include image file="space-mirrors.png" class="headline-image landscape" %}
 
 People disappointed that they can’t choose what weather they get every day
 {:.headline}
