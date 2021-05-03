@@ -5,11 +5,15 @@
 
 {% unless page.style contains "dead" %}
 
-You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
+<div class="see-the-data">
 
-[See the data]({{ include.hyperlink }}){:target="_blank"}
-{:.button.reverse-colours}
+<p>You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.</p>
 
+<a href="{{ include.hyperlink }}">
+    <img src="../../assets/images/web/data.svg" alt="See the data">
+    <p>See the data</p>
+</a>
+
+</div>
 {% endunless %}
-
 </div>

@@ -6,26 +6,35 @@
             margin-top: -30rem;
         }
     }
-    
+
     .call-to-action {
         width: 100%;
-        margin: 0 auto;
-        padding: 2rem 0;
-        
+        margin: 2rem auto 0 auto;
+        padding: 0 0;
+
         @media only screen and (max-width: $max-width-default) {
-            padding: 2rem 1rem;
+            padding: 0 1rem;
         }
 
         p {
             max-width: $max-width-default;
             margin: auto;
-            // &.button:last-of-type {
-            //     margin-top: 2rem;
-            // }
-            &:not(.button) {
+        }
+
+        .see-the-data {
+            margin-top: 2rem;
+                p {
                 margin-top: 1.5rem;
                 margin-bottom: 2rem;
             }
+        }
+    }
+
+    &.dead .call-to-action {
+        padding: 0 0 2rem 0;
+        margin-top: -1rem;
+        @media only screen and (max-width: $max-width-default) {
+            padding: 1rem 0 2rem 0;
         }
     }
 }
