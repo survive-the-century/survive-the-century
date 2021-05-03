@@ -25,7 +25,7 @@ Climate Interactive, the Global Strategic Communications Council Opportunity Fun
 
 ## Web development and publishing
 
-Electric Book Works
+[Electric Book Works](https://electricbookworks.com){:target="_blank"}
 
 ## Illustrations
 
