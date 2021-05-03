@@ -41,6 +41,10 @@
 
 .read-more {
     margin-left: auto;
+    @media only screen and (min-width: $break-point-default) {
+        height: 5rem;
+        line-height: 1;
+    }
 }
 
 // Generic buttons
@@ -94,9 +98,12 @@ p.button {
     }
 }
 
+// Take Action button on dead ending page
+.dead .call-to-action .button {
+    background-color: $midnight;
+}
 
 .action-buttons {
-    padding-bottom: 4rem;
     
     .round-action-buttons {
         display: flex;
