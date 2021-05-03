@@ -3,9 +3,13 @@
 [Take action](take-action.html)
 {:.button}
 
+{% unless page.style contains "dead" %}
+
 You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.
 
 [See the data]({{ include.hyperlink }}){:target="_blank"}
-{:.button}
+{:.button.reverse-colours}
+
+{% endunless %}
 
 </div>
