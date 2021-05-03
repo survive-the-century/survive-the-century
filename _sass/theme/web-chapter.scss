@@ -3,6 +3,10 @@
     font-family: $font-text-main;
     max-width: 25rem;
     margin: 0 auto -3rem auto;
+
+    position: relative;
+    z-index: 10;
+
     li {
         border: 1.5px solid $green;
         box-sizing: border-box;
@@ -25,6 +29,7 @@
             position: relative;
             right: 0.5rem;
             bottom: 1.5rem;
+            height: 1rem;
         }
     }
     
