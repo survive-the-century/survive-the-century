@@ -4,7 +4,7 @@ style: chapter
 conflict: 
 decade: 2070
 economy: down
-temperature: 4
+temperature: 2
 ---
 
 {% include variables %}
