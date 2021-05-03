@@ -1,8 +1,5 @@
 p {
-    letter-spacing: $letter-spacing-default;
-    @media only screen and (max-width: $break-point-default) {
-        font-size: 0.9375rem;    
-    }
+    @include text-small ($white);
 }
 
 // Masthead

@@ -62,10 +62,11 @@
 @mixin text-small ($color) {
     font-family: $font-text-main;
     font-size: $font-size-default;
-    line-height: $line-height-default;
+    line-height: 175%;
     letter-spacing: $letter-spacing-default;
     @media only screen and (max-width: $break-point-default) {
-        font-size: 0.9375rem;    
+        font-size: 0.9375rem;
+        line-height: 150%;
     }
 }
 
