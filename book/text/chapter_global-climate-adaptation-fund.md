@@ -9,7 +9,7 @@ temperature: 2
 
 {% include variables %}
 
-Thanks entirely to a well-argued, impassioned editorial you wrote, rich countries cave in to the pressure.
+Thanks entirely to a well-argued, impassioned editorial you wrote, rich countries cave to the pressure.
 {:.leader-sentence}
 
 Although they say they can't reduce their own emissions faster, they do contribute trillions of dollars to a global climate fund.

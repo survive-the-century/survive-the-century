@@ -10,7 +10,7 @@ decade: 2100
 
 # So, what does the world look like at the end of the century?
 
-Looking back, we’d describe the 21<sup>st</sup> century as one of profound change, mostly for the better.
+Looking back, we’d describe the 21st century as one of profound change, mostly for the better.
 {:.leader-sentence}
 
 We will remember this as the century when we stopped prioritizing growth above everything else, and started valuing the truly valuable things: human welfare and the environment.

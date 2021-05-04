@@ -9,7 +9,7 @@ temperature: 2.2
 
 {% include variables %}
 
-Strongmen leaders are elected in countries around the world, promising to restore traditional gender roles.
+Strongmen leaders are elected in countries around the world promising to restore traditional gender roles.
 {:.leader-sentence}
 
 They dismantle universal basic income programmes.

@@ -15,7 +15,7 @@ temperature: 1.6
 
 {% include image file="bezos.png" class="headline-image portrait" %}
 
-Brazil builds giant statue of Jeff Bezos, hoping to win lucrative mining contract
+Brazil builds giant statue of Jeff Bezos hoping to win lucrative mining contract
 {:.headline}
 
 Amazon looks for new rare minerals supplier for world’s largest solar panel project, humanitarians raise concerns
