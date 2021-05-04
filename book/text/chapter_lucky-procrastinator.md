@@ -16,7 +16,7 @@ You publish an editorial saying that we should bet on a technological breakthrou
 
 World leaders lock ten of the smartest inventors on Earth in a room for a year and ask them to invent a technology to magically fix climate change.
 
-They warn you there’s a one in ten chance that they’ll find something.
+They warn you there’s a one-in-ten chance that they’ll find something.
 
 <div data-js-var="js-rand-luck-low" markdown="1" class="hidden">
 
