@@ -23,21 +23,21 @@ We do collect non-identifiable, aggregated information that helps us to understa
 
 We do log anonymous usage statistics and collect data about the decisions individual players make when playing the game. Such data is never connected to any information that could be used to identify you.
 
-We reserve the right to publish such non-identifiable, aggregated information, for instance, in articles discussing the most common choices players make. We reserve the right for such anonymised information to be used in academic research projects, publications or other purposes that support the project's goals.
+We reserve the right to publish such non-identifiable, aggregated information, for instance, in articles discussing the most common choices players make. We reserve the right for such anonymized information to be used in academic research projects, publications or other purposes that support the project's goals.
 
-## Third party services
+## Third-party services
 
-We rely on third party services that may collect information used to identify you. Here are links to the privacy policies of those third party service providers:
+We rely on third-party services that may collect information used to identify you. Here are links to the privacy policies of those third-party service providers:
 
 - [Netlify](https://www.netlify.com/privacy/)
 - [Google Analytics](https://policies.google.com/privacy)
 - [Microsoft PlayFab](https://privacy.microsoft.com/en-us/privacystatement)
 
-## Third party services may use cookies
+## Third-party services may use cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-We do not use these “cookies” explicitly. However, we may use third party code and libraries that use “cookies” to collect information and improve our services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this service.
+We do not use these “cookies” explicitly. However, we may use third-party code and libraries that use “cookies” to collect information and improve our services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this service.
 
 ## We are not responsible for your security on external sites
 
@@ -51,7 +51,7 @@ We might change these terms from time to time. We reserve the right to do so wit
 
 Data controller: 
 Name: Samantha Beckbessinger 
-Email: hello@survivethecentury.net
+Email: [hello@survivethecentury.net](mailto:hello@survivethecentury.net)
 
 Company information:
 Three Kids in a Trenchcoat Limited

@@ -12,7 +12,7 @@ style: home
 You are the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby shift the zeitgeist.
 {:.homepage-leader-sentence}
 
-Lead the world towards utopia, or unleash your inner sociopath to see how bad things can get. Nobody’s judging. Your choices will determine how well humanity will survive the 21<sup>st</sup> century.
+Lead the world towards utopia, or unleash your inner sociopath to see how bad things can get. Nobody’s judging. Your choices will determine how well humanity will survive the 21st century.
 
 {% include play-buttons %}
 
@@ -33,7 +33,7 @@ This is a not-for-profit project supported by the Global Strategic Communication
 
 # About
 
-*Survive the Century* is a choose-your-own adventure game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
+*Survive the Century* is a choose-your-own-adventure game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
 
 This game is a work of fiction, but it is informed by real science.
 

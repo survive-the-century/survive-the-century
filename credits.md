@@ -17,7 +17,7 @@ Christopher Trisos and Simon Nicholson
 
 ## Short fiction 
 
-Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
+Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al&#x2011;Maria
 
 ## Primary sponsors
 
@@ -53,13 +53,13 @@ Karen Lilje
 - Juan B. Moreno-Cruz
 - Katharine J. Mach
 - Laura M. Pereira
-- Leslie Paul Tiele
+- Leslie Paul Thiele
 - Maggie Clifford
 - Mariia Belaia
 - Michael Thompson
 - Nicholas Simpson
 - Oliver Geden
-- Olufemi Taiwo
+- Olúfẹ́mi Táíwò
 - Sara Metcalf
 - Shuchi Talati
 - Valentina Aquila
