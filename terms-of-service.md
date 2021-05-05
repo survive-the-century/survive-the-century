@@ -31,7 +31,7 @@ All parts of this service are the exclusive property of either Three Kids in a T
 
 You may download and print the content for your own personal and non-commercial use only. You may not use the content for any other purpose without prior written approval. You may not reproduce, republish, remix or adapt the content without our permission.
 
-If you wish to use our content other than as permitted by these terms and conditions, please contact us at hello@survivethecentury.net. 
+If you wish to use our content other than as permitted by these terms and conditions, please contact us at [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## We respect your privacy
 
@@ -39,11 +39,11 @@ You can read more about this in our [Privacy Policy](privacy.html).
 
 ## Links to other websites
 
-Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party website or service. 
+Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party website or service.
 
 ## Limited liability
 
-To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service. 
+To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service.
 
 ## U.K. law applies to these terms
 

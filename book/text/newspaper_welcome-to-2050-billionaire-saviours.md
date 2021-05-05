@@ -1,9 +1,9 @@
 ---
 title: "Welcome to 2050 (Billionaire Saviours)"
 style: newspaper
-conflict: 
+conflict:
 decade: 2050
-economy: 
+economy:
 temperature: 2
 ---
 
@@ -11,9 +11,9 @@ temperature: 2
 
 {% include newspaper-title date="3 January 2050" %}
 
-{% include image file="seaside-tourists.png" class="headline-image landscape" %}
-
 ### Top article
+
+{% include image file="seaside-tourists.png" class="headline-image landscape" %}
 
 Last chance to see: Five cities expected to sink within the next decade
 {:.headline}
