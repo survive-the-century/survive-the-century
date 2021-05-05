@@ -27,8 +27,8 @@ Sustainable small-scale organic agroforestry now produces 90 per cent of all foo
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Laugh of the day: Review of a “Green Mall” by a grumpy Gen X shopaholic [Read more](story_green-mall-review.html){:.read-more}
 - {% include thumbnail file="thumbnail_people.png" %} Thanks to home insect farms, protein diets have improved significantly
 - {% include thumbnail file="thumbnail_water.png" %} Surface ocean acidification stabilized within safe limits for shellfish
-- {% include thumbnail file="thumbnail_peaks.png" %} Beavers return to Manhattan as the city fragments into sustainable communities
+- {% include thumbnail file="thumbnail_peaks.png" %} Beavers return to Manhattan as New York City fragments into sustainable communities
 {:.articles}
 
-[Let’s see what the 2050s will bring](chapter_who-looks-after-the-wild.html)
+[Let’s see what the 2050s will bring.](chapter_who-looks-after-the-wild.html)
 {:.next-decade-link}

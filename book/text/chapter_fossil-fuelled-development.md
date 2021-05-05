@@ -9,7 +9,7 @@ temperature: 1.6
 
 {% include variables %}
 
-We stimulate economies by selling new coal mining/drilling/fracking rights.
+We stimulate economies by selling new coal-mining/drilling/fracking rights.
 {:.leader-sentence}
 
 The owners in these industries get rich and national coffers get a temporary boost.

@@ -37,7 +37,7 @@ Could the summit not have been successfully done virtually as well, I ask. Most 
 
 “It could, and it could not,” Laiti says. Lihtonen nods.
 
-“We could have discussed issues and made decisions, sure. But we would have not learned from each other. We could not have shared stories, and food. We could not have paid thanks together or talked to the land together. And so, the decisions we would have made might have been the wrong ones.” Meeting in person is cumbersome for such a huge council, he admits, but he insists on it being absolutely necessary.
+“We could have discussed issues and made decisions, sure. But we would have not learnt from each other. We could not have shared stories, and food. We could not have paid thanks together or talked to the land together. And so, the decisions we would have made might have been the wrong ones.” Meeting in person is cumbersome for such a huge council, he admits, but he insists on it being absolutely necessary.
 
 The summit started with three days of rites of thanksgiving to the land, to which I was not privy. After that, the daily schedule has been a mix of ritual and meetings about the different stewardship issues faced by the councils around the world. When I ask about this, Laiti smiles. “We do not see it as two separate things. We ask the land for advice on what to do with the land.”
 
@@ -49,7 +49,7 @@ But now we listen. Since its formation nearly 40 years ago, the GIPS has success
 
 “Every human being must re-forge the broken link between themselves and the earth,” Lihtonen says. “That is the only way. We are helping during this time of transition, but it is not our job to be nannies forever.”
 
-The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next twenty years.
+The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next 20 years.
 
 “We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120 kilometres away. “It has to be.”
 

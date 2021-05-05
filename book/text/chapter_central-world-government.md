@@ -9,7 +9,7 @@ temperature: 1.7
 
 {% include variables %}
 
-The Global Climate Council argues that they need stronger enforcement powers to protect the world, and effectively become the world’s (highly authoritarian) central government.
+The Global Climate Council argues that they need stronger enforcement powers to protect the world, and effectively becomes the world’s (highly authoritarian) central government.
 {:.leader-sentence}
 
 The leaders of the rogue states that attacked the space fleet are imprisoned and the Council takes control.

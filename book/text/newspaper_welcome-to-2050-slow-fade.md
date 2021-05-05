@@ -24,11 +24,11 @@ Deforestation linked to concurrent influenza-paramyxovirus
 ### Other stories today
 
 - {% include thumbnail file="thumbnail_people.png" %} Europe’s Green First Party achieves majority in EU parliament, immediately passes tough new immigration restrictions
-- {% include thumbnail file="thumbnail_peaks.png" %} Russia resettles climate refugees in new Siberian camps, refuses access to photojournalists
+- {% include thumbnail file="thumbnail_peaks.png" %} Russia resettles climate refugees in new Siberian camps, refuses photojournalists access
 - {% include thumbnail file="thumbnail_forest.png" %} SpaceX offers first long-term leases in space colony
 - {% include thumbnail file="thumbnail_squiggles.png" %} Heatwaves overwhelm crumbling infrastructure, leading to blackouts and deaths
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Synthetic coffee, chocolate now cheaper than natural counterparts
 {:.articles}
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+[Let’s see what the 2050s will bring.](chapter_last-ditch-geo-engineering.html)
 {:.next-decade-link}

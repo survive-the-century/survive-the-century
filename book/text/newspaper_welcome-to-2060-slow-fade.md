@@ -23,7 +23,7 @@ Shifting Indian monsoon patterns bring droughts, floods for tenth consecutive ye
 
 ### Other stories today
 
-- {% include thumbnail file="thumbnail_people.png" %} Chile holds historic reconciliation summit with climate guerrillas: “In retrospect, maybe we should have done more”
+- {% include thumbnail file="thumbnail_people.png" %} Chile holds historic reconciliation summit with climate guerillas: “In retrospect, maybe we should have done more”
 - {% include thumbnail file="thumbnail_stormy.png" %} AlphaZero recommends solar geoengineering, world leaders dither
 - {% include thumbnail file="thumbnail_water.png" %} Trans-Arctic shipping surpasses trans-Pacific shipping for first time
 - {% include thumbnail file="thumbnail_peaks.png" %} TikTok, Billie Eilish and sea ice: Our favourite nostalgic memories of the 2020s!

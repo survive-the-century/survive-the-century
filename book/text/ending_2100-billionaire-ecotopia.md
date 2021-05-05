@@ -13,7 +13,7 @@ decade: 2100
 Looking back, we’d describe the 21st century as one of profound change, mostly for the better.
 {:.leader-sentence}
 
-After peaking at nine billion people in the 2050s, the world population has declined to seven billion. We will remember this as the century when we stopped prioritizing growth above everything else, and started valuing the truly valuable things: human welfare and the environment. Nature is thriving and species we thought were extinct recover, as well as new species evolved for the new wild places of the earth.
+After peaking at nine billion people in the 2050s, the world population has declined to seven billion. We will remember this as the century when we stopped prioritizing growth above everything else, and started valuing the truly valuable things: human welfare and the environment. Nature is thriving and species we thought were extinct recover, while new species have evolved for the new wild places of the earth.
 
 But then… we lost it all to terrible rich Martians.
 

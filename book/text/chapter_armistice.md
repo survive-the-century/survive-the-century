@@ -12,7 +12,7 @@ temperature: 2
 Peace is declared.
 {:.leader-sentence}
 
-After a decade of fighting, society is exhausted. We’re ready to do whatever we need to do to ensure that war never breaks out again.
+After a decade of fighting, society is exhausted. We’re ready to do whatever it takes to ensure that war never breaks out again.
 
 We strengthen our commitments to the United Nations. Countries that left it in a huff over the past few decades re-join.
 

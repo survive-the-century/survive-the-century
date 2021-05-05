@@ -18,7 +18,7 @@ temperature: 1.5
 Five-day festival declared for restoration of Lake Chad
 {:.headline}
 
-After shrinking to ten of its full size in the 2020s, Lake Chad has returned to the size it was in 1960
+After shrinking to one-tenth of its full size in the 2020s, Lake Chad has returned to the size it was in 1960
 {:.subheadline}
 
 ### Other stories today

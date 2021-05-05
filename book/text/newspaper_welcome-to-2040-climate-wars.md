@@ -18,7 +18,7 @@ temperature: 1.8
 World Trade Organization breaks up
 {:.headline}
 
-China leads Belt and Road countries to form new trading bloc
+China leads belt-and-road countries to form new trading bloc
 {:.subheadline}
 
 ### Other stories today
@@ -29,5 +29,5 @@ China leads Belt and Road countries to form new trading bloc
 - {% include thumbnail file="thumbnail_shapes.png" %} Forced relocation from Sundarbans sparks widespread violence in eastern India
 {:.articles}
 
-[Onto the 2040s!](chapter_refugee-crisis-and-climate-war-world.html)
+[On to the 2040s!](chapter_refugee-crisis-and-climate-war-world.html)
 {:.next-decade-link}

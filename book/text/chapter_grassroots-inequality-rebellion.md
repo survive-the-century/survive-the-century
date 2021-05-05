@@ -14,7 +14,7 @@ The world is rocked by a series of mass protests around inequality.
 
 People demand change.
 
-The movement is made of disparate voices calling for different solutions.
+The movement is made up of disparate voices calling for different solutions.
 
 Which of these solutions will your news site focus on?
 {:.choice-question}
