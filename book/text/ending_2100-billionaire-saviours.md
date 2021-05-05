@@ -13,7 +13,7 @@ decade: 2100
 We avoided some of the worst effects of climate change, but we completely lost any hope for democracy or fairness. 
 {:.leader-sentence}
 
-Unfettered disaster capitalism and an overreliance on technological fixes created a blindingly unequal world, where the rich are mostly insulated from climate impacts and there’s a huge, suffering underclass.
+Unfettered disaster capitalism and an over-reliance on technological fixes created a blindingly unequal world, where the rich are mostly insulated from climate impacts and there’s a huge, suffering underclass.
 
 Better hope they never rebel.
 

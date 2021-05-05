@@ -23,11 +23,11 @@ Experts question continuing neglect of other global health priorities
 
 ### Other stories today
 
-- {% include thumbnail file="thumbnail_peaks.png" %} “Economy First”: US President Mike Pence pledges to bring prosperity to Appalachian shanty towns by revitalising the last coal mines
+- {% include thumbnail file="thumbnail_peaks.png" %} “Economy First”: US President Mike Pence pledges to bring prosperity to Appalachian shanty towns by revitalizing the last coal mines
 - {% include thumbnail file="thumbnail_people.png" %} Top Bollywood stars establish fund to reunite families separated by 2027–29 quarantine
 - {% include thumbnail file="thumbnail_water.png" %} “The reefs are f-cked” admits leading coral reef expert
 - {% include thumbnail file="thumbnail_stormy.png" %} Record-breaking Hurricane Omega devastates Ireland
-- {% include thumbnail file="thumbnail_forest.png" %} Vampire bats seen in New Orleans: experts say no risk, but possible benefits if they eat dengue mosquitoes
+- {% include thumbnail file="thumbnail_forest.png" %} Vampire bats seen in New Orleans: Experts say no risk, but possible benefits if they eat dengue mosquitoes
 {:.articles}
 
 [What will this new decade bring?](chapter_grassroots-climate-rebellion.html)

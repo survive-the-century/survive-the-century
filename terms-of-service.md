@@ -39,19 +39,19 @@ You can read more about this in our [Privacy Policy](privacy.html).
 
 ## Links to other websites
 
-Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party website or service.
+Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third-party website or service. 
 
 ## Limited liability
 
 To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service.
 
-## U.K. law applies to these terms
+## UK law applies to these terms
 
 These terms are governed by and interpreted in accordance with the laws of the United Kingdom without giving effect to any principles of conflict of law. You consent to the exclusive jurisdiction of the courts of the United Kingdom over any dispute about the service or these terms.
 
 ## We will try to resolve disputes informally
 
-If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on hello@survivethecentury.net and giving us at least thirty (30) days to first resolve your issue before taking additional action.
+If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on [hello@survivethecentury.net](mailto:hello@survivethecentury.net) and giving us at least thirty (30) days to first resolve your issue before taking additional action.
 
 ## These terms can change
 
