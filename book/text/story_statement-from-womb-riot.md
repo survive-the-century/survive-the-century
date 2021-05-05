@@ -1,9 +1,9 @@
 ---
 title: "Statement from Womb Riot"
 style: story
-conflict: 
+conflict:
 decade: 2090
-economy: 
+economy:
 temperature: 2.3
 ---
 
@@ -23,7 +23,7 @@ By Lauren Beukes
 
 We are Womb Riot, a group of 18 women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.
 
-Our unborn charges include the heirs to some of the greatest tech dynasties, including the granddaughter of Dylan Okereke-Clifford, and the triplets of XÆ and his husband, Li Ma. As of this morning at 05h47, we have barricaded ourselves in the aerial suite of the Ambani Stadium floating above Ascraeus Mons.
+Our unborn charges include the heirs to some of the greatest tech dynasties, including the granddaughter of Dylan Okereke-Clifford, and the triplets of X&nbsp;Æ and his husband, Li Ma. As of this morning at 05h47, we have barricaded ourselves in the aerial suite of the Ambani Stadium floating above Ascraeus Mons.
 
 The Deimos Dervishes will not be playing their scheduled game against the New York Yankees today. Nor will the rich parents who have plundered our planet have their developing foetuses safely returned to them. Not until they are willing to take action, to instigate meaningful, grand-scale change. Now.
 
