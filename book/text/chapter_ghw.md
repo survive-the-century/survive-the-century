@@ -2,7 +2,7 @@
 title: "GHW"
 style: chapter
 conflict: 
-decade: 
+decade: 2030
 economy: up
 temperature: 1.6
 ---

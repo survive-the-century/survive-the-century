@@ -2,7 +2,7 @@
 title: "Ecocide"
 style: chapter
 conflict: 
-decade: 
+decade: 2020
 economy: down
 temperature: 
 ---
@@ -25,5 +25,5 @@ The air is much nicer to breathe all of a sudden, and three million children who
 - [Congratulations, you made it to 2030!](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-ecotopia.html"}
 {:.choice-options}
 
-> The word *ecocide* is an umbrella term for all forms of environmental destruction from deforestation to greenhouse gas emissions. For over 50 years, environmental advocates have championed the idea of creating an international ecocide law that would penalize individuals responsible for environmental destruction. Now in 2021, human rights lawyers are drafting a definition of the law in the hopes of getting it adopted by the International Criminal Court.
+> The word *ecocide* is an umbrella term for all forms of environmental destruction from deforestation to greenhouse gas emissions. For over 50&nbsp;years, environmental advocates have championed the idea of creating an international ecocide law that would penalize individuals responsible for environmental destruction. Now in 2021, human rights lawyers are drafting a definition of the law in the hopes of getting it adopted by the International Criminal Court.
 {:.infobox}

@@ -30,7 +30,7 @@ By Sophia Al-Maria
 > 
 > YOU NEED TO READ THIS
 > 
-> Liberals have been trying to push their agendas like LGBTQ ‘rights’ etc. down our throats via the liberal fake news media. Forced diversity and Covid are the \#1 news stories. I have NEVER worn a mask and I am 100 per cent healthy and heterosexual.
+> Liberals have been trying to push their agendas like LGBTQ ‘rights’ etc. down our throats via the liberal fake news media. Forced diversity and Covid are the \#1 news stories. I have NEVER worn a mask and I am 100&nbsp;per&nbsp;cent healthy and heterosexual.
 > 
 > Given how feminism has demonised males and masculinity and tried to make all men into beta cucks. Now they want to literally VASECTOMIZE and HYSTERECTOMIZE heterosexuals covertly via the vaccine so they can reduce the population size and make it easy to govern us under one unified government aka the NEW WORLD ORDER.
 > 

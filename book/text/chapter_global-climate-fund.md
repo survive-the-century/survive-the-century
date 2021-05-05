@@ -2,7 +2,7 @@
 title: "Global climate fund"
 style: chapter
 conflict: 
-decade: 
+decade: 2050
 economy: up
 temperature: 1.6
 ---

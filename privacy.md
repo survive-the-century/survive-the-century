@@ -19,7 +19,7 @@ We do not collect any personally identifiable information.
 
 ## Non-identifiable information
 
-We do collect non-identifiable, aggregated information that helps us to understand our users better, such as which city they are from and what model of device they have. 
+We do collect non-identifiable, aggregated information that helps us to understand our users better, such as which city they are from and what model of device they have.
 
 We do log anonymous usage statistics and collect data about the decisions individual players make when playing the game. Such data is never connected to any information that could be used to identify you.
 
@@ -49,10 +49,10 @@ We might change these terms from time to time. We reserve the right to do so wit
 
 ## Key information
 
-Data controller: 
-Name: Samantha Beckbessinger 
-Email: hello@survivethecentury.net
+**Data controller:**    
+Name: Samantha Beckbessinger    
+Email: [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
-Company information:
-Three Kids in a Trenchcoat Limited
+**Company information:**    
+Three Kids in a Trenchcoat Limited    
 United Kingdom

@@ -2,7 +2,7 @@
 title: "Late-stage designer planet"
 style: chapter
 conflict: 2
-decade: 
+decade: 2040
 economy: up
 temperature: 2.5
 ---

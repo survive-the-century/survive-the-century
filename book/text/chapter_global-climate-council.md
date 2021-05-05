@@ -2,7 +2,7 @@
 title: "Global climate council"
 style: chapter
 conflict: 
-decade: 
+decade: 2050
 economy: 
 temperature: 2.1
 ---

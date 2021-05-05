@@ -2,7 +2,7 @@
 title: "Unilateral geo-engineering"
 style: chapter
 conflict: 4
-decade: 
+decade: 2050
 economy: down
 temperature: 2.3
 ---

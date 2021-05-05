@@ -2,7 +2,7 @@
 title: "City-led capitalist reform"
 style: chapter
 conflict: 
-decade: 
+decade: 2030
 economy: 
 temperature: 1.6
 ---

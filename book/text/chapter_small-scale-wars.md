@@ -2,7 +2,7 @@
 title: "Small-scale wars"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: down
 temperature: 3.5
 ---

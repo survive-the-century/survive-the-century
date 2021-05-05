@@ -2,7 +2,7 @@
 title: "Fossil-fuelled development"
 style: chapter
 conflict: 
-decade: 
+decade: 2020
 economy: up
 temperature: 1.6
 ---
@@ -19,5 +19,5 @@ Pollution gets much worse. People in cities powered by coal and congested with c
 - [You made it to 2030.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-designer-planet.html"}
 {:.choice-options}
 
-> The World Health Organization estimates that 4.2 million people die every year because of air pollution (as of 2021). Reducing the amount of pollution in the air by switching to renewable energy not only reduces the impact of climate change in the future, but also dramatically improves the health of people around the world today.
+> The World Health Organization estimates that 4.2&nbsp;million people die every year because of air pollution (as of 2021). Reducing the amount of pollution in the air by switching to renewable energy not only reduces the impact of climate change in the future, but also dramatically improves the health of people around the world today.
 {:.infobox}

@@ -2,7 +2,7 @@
 title: "Engineered crop blight"
 style: chapter
 conflict: 5
-decade: 
+decade: 2060
 economy: down
 temperature: 2.8
 ---

@@ -10,7 +10,7 @@ style: frontmatter stories
 - [The Blue Queen of DC: A review](story_blue-queen-of-dc.html) Rajat Chaudhuri
 - [California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants](story_meat-raid.html) Maria Turtschaninoff
 - [Exile nation: What happens when you’re forced out of paradise?](story_exile-nation.html) Lauren Beukes
-- [Finnish children celebrate first snow day in 50 years](story_snow-day.html) Maria Turtschaninoff
+- [Finnish children celebrate first snow day in 50&nbsp;years](story_snow-day.html) Maria Turtschaninoff
 - [Mass-abductions hobble India’s guest talent programme](story_mass-abductions.html) Rajat Chaudhuri
 - [Matrimonial advertisement: Indian NRI seeks suitable match](story_matrimony.html) Author Name Here
 - [Obituaries Capitalism: 1760–2068](story_obituary-for-capitalism.html) Maria Turtschaninoff

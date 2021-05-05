@@ -2,7 +2,7 @@
 title: "Slow down"
 style: chapter
 conflict: 
-decade: 
+decade: 2020
 economy: up
 temperature: 1.4
 ---

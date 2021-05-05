@@ -2,7 +2,7 @@
 title: "Bail out existing businesses"
 style: chapter
 conflict: 3
-decade: 
+decade: 2020
 economy: up
 temperature: 1.4
 ---

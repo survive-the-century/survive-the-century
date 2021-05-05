@@ -43,7 +43,7 @@ The summit started with three days of rites of thanksgiving to the land, to whic
 
 Is it really that simple? She looks at me sternly. “Why would it need to be more difficult than that? The land has always taught us how to live. For a long time, people just did not listen.”
 
-But now we listen. Since its formation nearly 40 years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund, established in 2054. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
+But now we listen. Since its formation nearly 40&nbsp;years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund, established in 2054. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
 
 “We have to make ourselves unnecessary,” Laiti finally says. “We cannot govern the world for everyone. We must teach everyone to care for it themselves.”
 
@@ -51,7 +51,7 @@ But now we listen. Since its formation nearly 40 years ago, the GIPS has success
 
 The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next twenty years.
 
-“We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120 kilometres away. “It has to be.”
+“We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120&nbsp;kilometres away. “It has to be.”
 
 I take one last look at Mount Rásttigáisá, the holy mountain which has been teaching and guiding the Sámi people for centuries. And when camp is broken after midsummer, there will not be a single trace of the summit in a month or so, Laiti assures me. “First there will be dead circles where the tents and teepees and yurts and lavvus have stood. But by the end of summer, the grass will once more be green.”
 

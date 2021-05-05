@@ -2,7 +2,7 @@
 title: "Human capital"
 style: chapter
 conflict: 1
-decade: 
+decade: 2040
 economy: up
 temperature: 2.8
 ---
