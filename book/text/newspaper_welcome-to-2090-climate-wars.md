@@ -15,7 +15,7 @@ temperature: 3.7
 
 {% include image file="snowy-mountains.png" class="headline-image landscape" %}
 
-Nuclear winter causes first snowfall in decades in the Swiss Alps:
+Nuclear winter causes first snowfall in decades in the Swiss Alps
 {:.headline}
 
 Water reservoirs finally replenished as people rush to the ponds despite high radiation warnings

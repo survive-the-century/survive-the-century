@@ -13,9 +13,9 @@
                 <p>Home</p>
             </a>
         </li>
-        
+
         <li class="restart">
-            <a href="{{path-to-root-directory}}">
+            <a href="{{ path-to-book-directory }}text/chapter_welcome-to-2021.html">
                 <img src="../../assets/images/web/restart-arrow.svg" alt="Restart">
                 <p>Restart</p>
             </a>

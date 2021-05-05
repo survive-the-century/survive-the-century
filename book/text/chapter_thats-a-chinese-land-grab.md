@@ -2,7 +2,7 @@
 title: "That’s a Chinese land grab!"
 style: chapter
 conflict: 4
-decade: 
+decade: 2030
 economy: 
 temperature: 1.7
 ---

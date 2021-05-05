@@ -10,10 +10,10 @@ decade: 2100
 
 # So, where do we end up by the end of the century?
 
-Humanity is rich and flourishing, but with fewer individual freedoms. 
+Humanity is rich and flourishing, but has fewer individual freedoms. 
 {:.leader-sentence}
 
-Over a million animal and plant species have gone extinct. We're living on a high-tech, fully engineered planet that would be unrecognisable to people of today. We live in the constant fear that if one piece in this complex system fails, that might be the end of humanity.
+It wasn't an easy ride to get here, though. Many millions of people died or were displaced because of climate change. Over a million animal and plant species have gone extinct. We're now living on a high-tech, fully engineered planet that would be unrecognizable to people of today. We live in the constant fear that if one piece in this complex system fails, that might be the end of humanity.
 
 # How did you get here?
 

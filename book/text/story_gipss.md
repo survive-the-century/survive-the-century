@@ -37,21 +37,21 @@ Could the summit not have been successfully done virtually as well, I ask. Most 
 
 “It could, and it could not,” Laiti says. Lihtonen nods.
 
-“We could have discussed issues and made decisions, sure. But we would have not learned from each other. We could not have shared stories, and food. We could not have paid thanks together or talked to the land together. And so, the decisions we would have made might have been the wrong ones.” Meeting in person is cumbersome for such a huge council, he admits, but he insists on it being absolutely necessary.
+“We could have discussed issues and made decisions, sure. But we would have not learnt from each other. We could not have shared stories, and food. We could not have paid thanks together or talked to the land together. And so, the decisions we would have made might have been the wrong ones.” Meeting in person is cumbersome for such a huge council, he admits, but he insists on it being absolutely necessary.
 
 The summit started with three days of rites of thanksgiving to the land, to which I was not privy. After that, the daily schedule has been a mix of ritual and meetings about the different stewardship issues faced by the councils around the world. When I ask about this, Laiti smiles. “We do not see it as two separate things. We ask the land for advice on what to do with the land.”
 
 Is it really that simple? She looks at me sternly. “Why would it need to be more difficult than that? The land has always taught us how to live. For a long time, people just did not listen.”
 
-But now we listen. Since its formation nearly 40 years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund, established in 2054. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
+But now we listen. Since its formation nearly 40&nbsp;years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund, established in 2054. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
 
 “We have to make ourselves unnecessary,” Laiti finally says. “We cannot govern the world for everyone. We must teach everyone to care for it themselves.”
 
 “Every human being must re-forge the broken link between themselves and the earth,” Lihtonen says. “That is the only way. We are helping during this time of transition, but it is not our job to be nannies forever.”
 
-The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next twenty years.
+The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next 20 years.
 
-“We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120 kilometres away. “It has to be.”
+“We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120&nbsp;kilometres away. “It has to be.”
 
 I take one last look at Mount Rásttigáisá, the holy mountain which has been teaching and guiding the Sámi people for centuries. And when camp is broken after midsummer, there will not be a single trace of the summit in a month or so, Laiti assures me. “First there will be dead circles where the tents and teepees and yurts and lavvus have stood. But by the end of summer, the grass will once more be green.”
 

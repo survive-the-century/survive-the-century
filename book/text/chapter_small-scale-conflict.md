@@ -2,7 +2,7 @@
 title: "Small-scale conflict"
 style: chapter
 conflict: 
-decade: 
+decade: 2080
 economy: down
 temperature: 
 ---

@@ -26,7 +26,7 @@ They saved our planet, now they can fix all of our other problems
 - {% include thumbnail file="thumbnail_people.png" %} Malaria reappears in Nigeria, but no problem because the Council deploys a vaccine in record time
 - {% include thumbnail file="thumbnail_flow-horizontal.png" %} Quality of life improves dramatically in formerly poorer countries; “Sovereign states were the source of so much injustice,” says newly appointed minister for global fairness
 - {% include thumbnail file="thumbnail_peaks.png" %} Young people in northern hemisphere experience first cold winter; report “Thanks, but we hate it. Can we get global warming back?”
-- {% include thumbnail file="thumbnail_water.png" %} After 20 years, finally sea ice is spotted again in the Arctic; ice sheets keep collapsing, but Council spokesperson assures us they will become more stable in time
+- {% include thumbnail file="thumbnail_water.png" %} After 20&nbsp;years, finally sea ice is spotted again in the Arctic; ice sheets keep collapsing, but Council spokesperson assures us they will become more stable in time
 - {% include thumbnail file="thumbnail_stormy.png" %} India sees their first season without monsoon due to disruption of the hydrological cycle
 - {% include thumbnail file="thumbnail_forest.png" %} The trees are coming! Increased woody vegetation expansion across Africa turns grasslands into savannas and savannas into forests
 - {% include thumbnail file="thumbnail_graph.png" %} 500 more reasons that the Council is the best

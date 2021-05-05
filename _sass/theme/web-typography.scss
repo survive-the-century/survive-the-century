@@ -1,8 +1,5 @@
 p {
-    letter-spacing: $letter-spacing-default;
-    @media only screen and (max-width: $break-point-default) {
-        font-size: 0.9375rem;    
-    }
+    @include text-small ($white);
 }
 
 // Masthead
@@ -48,7 +45,7 @@ p {
         @include text-big ($midnight);
         text-transform: none;
     }
-    
+
     li {
         @include text-medium-caps ($midnight);
     }
@@ -77,7 +74,7 @@ p {
             }
         }
     }
-    
+
     .closer-sentence {
         @include text-medium ($white);
     }
@@ -108,7 +105,7 @@ p {
 .newspaper .newspaper-header,
 .story .newspaper-header {
     h1 {
-        @include text-huge ($white);        
+        @include text-huge ($white);
     }
 
     h2 {
@@ -129,7 +126,7 @@ p {
     .headline {
         @include text-very-big ($midnight);
     }
-    
+
     .subheadline {
         @include text-medium ($midnight);
     }
@@ -195,19 +192,20 @@ p {
 
 // Buttons
 
-p.button a, 
+p.button a,
 button.copy-to-clipboard {
     @include text-button-medium ($white);
     background-color: $red;
     text-align: center;
-    
+
 }
 
-.round-action-buttons {
+.round-action-buttons, .see-the-data {
     a p {
-        @include text-button-small ($white);    
+        @include text-button-small ($white);
+        line-height: 150%;
     }
-    
+
     a {
         color: $white;
         text-decoration: none;

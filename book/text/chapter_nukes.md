@@ -2,7 +2,7 @@
 title: "Nukes"
 style: chapter
 conflict: 
-decade: 
+decade: 2080
 economy: 
 temperature: 
 ---

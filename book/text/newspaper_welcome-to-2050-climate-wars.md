@@ -18,7 +18,7 @@ temperature: 2.25
 China to re-home entire population of Bengal tigers after flooding leaves region uninhabitable
 {:.headline}
 
-Bangladeshi humans not as lucky: millions of displaced people wait at their border for entry permits
+Bangladeshi humans not as lucky: Millions of displaced people wait at their border for entry permits
 {:.subheadline}
 
 ### Other stories today
@@ -26,8 +26,8 @@ Bangladeshi humans not as lucky: millions of displaced people wait at their bord
 - {% include thumbnail file="thumbnail_graph.png" %} Advanced countries reap benefits as brain drain peaks, leaving towns empty in the developing world
 - {% include thumbnail file="thumbnail_people.png" %} Mass abductions hobble India’s guest talent programme [Read more](story_mass-abductions.html){:.read-more}
 - {% include thumbnail file="thumbnail_peaks.png" %} US puts refugees to work in “mine towns” in a massive carbon dioxide removal project despite humanitarian concerns
-- {% include thumbnail file="thumbnail_flow-vertical.png" %} Kenya's Serengeti-Mara National Park is de-proclaimed as global food insecurity increases the demand and value of land with agricultural potential
+- {% include thumbnail file="thumbnail_flow-vertical.png" %} Kenya's Serengeti-Mara National Park is de-proclaimed as global food insecurity increases the demand for and value of land with agricultural potential
 {:.articles}
 
-[Let’s see what the 2050s will bring](chapter_last-ditch-geo-engineering.html)
+[Let’s see what the 2050s will bring.](chapter_last-ditch-geo-engineering.html)
 {:.next-decade-link}

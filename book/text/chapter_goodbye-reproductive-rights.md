@@ -2,7 +2,7 @@
 title: "Goodbye reproductive rights"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: 
 temperature: 1.3
 ---
