@@ -5,3 +5,16 @@ that you want in the <head> of your HTML.
 Use Liquid logic tags to include only in certain outputs, e.g.
 `if site.output == "web"` for Google Analytics scripts.
 {% endcomment %}
+
+
+{% if site.output == "web" %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HV7MMMZ583"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HV7MMMZ583');
+</script>
+{% endif %}

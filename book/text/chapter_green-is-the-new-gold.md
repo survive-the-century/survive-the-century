@@ -2,7 +2,7 @@
 title: "Green is the new gold"
 style: chapter
 conflict: 
-decade: 
+decade: 2030
 economy: up
 temperature: 1.6
 ---
@@ -19,7 +19,7 @@ Energy companies have to use a portion of their fracking profits to research new
 
 <div data-js-var="css-var-fracking-0" markdown="1" class="hidden">
 
-We launch a number of green technology funds that invest in private businesses researching new ways to reduce climate change, or help the world adapt to it.
+We launch a number of green-technology funds that invest in private businesses researching new ways to reduce climate change, or help the world adapt to it.
 {:.leader-sentence}
 
 </div>

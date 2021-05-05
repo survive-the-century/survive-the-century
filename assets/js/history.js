@@ -68,7 +68,8 @@ function ebTrackPlayHistory() {
         // only activate hasPlayedBefore the first time a user visits a chapter
         if (
             window.location.href.includes("chapter") &&
-            window.localStorage.getItem("lastLocation")
+            window.localStorage.getItem("lastLocation") &&
+            document.referrer.includes(window.location.origin)
         ) {
             window.localStorage.setItem("hasPlayedBefore", true);
             hasPlayedBefore = true;
@@ -77,3 +78,16 @@ function ebTrackPlayHistory() {
 }
 
 ebTrackPlayHistory();
+
+
+function ebRedirectUsersWhoHaventStarted() {
+    // if a user accesses a URL that is not the home page, and they
+    // haven't played before, redirect them to the home page
+
+    if (window.location.pathname !== "/" &&
+        !(document.referrer.includes(window.location.origin))) {
+        window.location.href = "/";
+    }
+}
+
+ebRedirectUsersWhoHaventStarted();

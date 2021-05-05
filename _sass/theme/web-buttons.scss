@@ -11,7 +11,7 @@
     margin-bottom: 0;
 
     display: flex;
-  
+
     @media only screen and (max-width: $break-point-masthead) {
         bottom: $masthead-height;
     }
@@ -41,6 +41,10 @@
 
 .read-more {
     margin-left: auto;
+    @media only screen and (min-width: $break-point-default) {
+        height: 5rem;
+        line-height: 1;
+    }
 }
 
 // Generic buttons
@@ -78,7 +82,7 @@ p.button {
             box-shadow: none;
         }
         a {
-            background-color: inherit;   
+            background-color: inherit;
             margin: auto;
             color: $red;
             border-bottom: 2px solid $red;
@@ -94,10 +98,33 @@ p.button {
     }
 }
 
+// Take Action button on dead ending page
+.dead .call-to-action .button a {
+    background-color: $midnight;
+}
+
+.ending .call-to-action {
+    .see-the-data {
+        display: flex;
+        align-items: center;
+        a {
+            display: block;
+            cursor: pointer;
+            img {
+                display: block;
+                margin: auto;
+                height: 4rem;
+            }
+            p {
+                margin-top: 0.5rem;
+                margin-bottom: 0;
+                text-align: center;
+            }
+        }
+    }
+}
 
 .action-buttons {
-    padding-bottom: 4rem;
-    
     .round-action-buttons {
         display: flex;
         width: 18rem;
@@ -109,6 +136,7 @@ p.button {
             img {
                 display: block;
                 margin: auto;
+                height: 4rem;
             }
             p {
                 margin-top: 0.5rem;

@@ -23,6 +23,10 @@
 // Stories
 
 .frontmatter.stories .main-content {
+    h1 {
+        margin-bottom: 0;
+    }
+    
     ul {
         margin: 0;
         margin-bottom: 2.5rem;
@@ -31,7 +35,7 @@
     li {
         list-style-type: none;
         border-bottom: 1px $red solid;
-        padding-bottom: 1rem;
+        padding: 1.2rem 0 1.7rem 0;
     }
     
     li a {

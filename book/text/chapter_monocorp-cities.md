@@ -2,7 +2,7 @@
 title: "Monocorp cities"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: up
 temperature: 2.2
 ---

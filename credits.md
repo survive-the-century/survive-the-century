@@ -25,7 +25,7 @@ Climate Interactive, the Global Strategic Communications Council Opportunity Fun
 
 ## Web development and publishing
 
-Electric Book Works
+[Electric Book Works](https://electricbookworks.com){:target="_blank"}
 
 ## Illustrations
 
@@ -53,13 +53,13 @@ Karen Lilje
 - Juan B. Moreno-Cruz
 - Katharine J. Mach
 - Laura M. Pereira
-- Leslie Paul Tiele
+- Leslie Paul Thiele
 - Maggie Clifford
 - Mariia Belaia
 - Michael Thompson
 - Nicholas Simpson
 - Oliver Geden
-- Olufemi Taiwo
+- Olúfẹ́mi Táíwò
 - Sara Metcalf
 - Shuchi Talati
 - Valentina Aquila

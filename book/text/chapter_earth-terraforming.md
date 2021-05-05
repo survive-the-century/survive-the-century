@@ -2,7 +2,7 @@
 title: "Earth terraforming"
 style: chapter
 conflict: 
-decade: 
+decade: 2060
 economy: 
 temperature: 2.3
 ---
@@ -13,7 +13,7 @@ temperature: 2.3
 We decide it’s probably more important to terraform the planet we’re already on. 
 {:.leader-sentence}
 
-We invest more money into climate hacking projects, with mixed success but no civilization-ending disasters.
+We invest more money into climate-hacking projects, with mixed success but no civilization-ending disasters.
 
 There’s still a Mars colony, but it’s small, the passion project of a single billionaire.
 

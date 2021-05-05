@@ -14,7 +14,7 @@ There’s a resurgence of the climate rebellion movement.
 
 Grassroots groups campaign for change. Millions join a global day of protest, once again led by schoolchildren.
 
-The movement is made of disparate voices calling for different solutions.
+The movement is made up of disparate voices calling for different solutions.
 
 Which of these solutions will your news site focus on?
 {:.choice-question}

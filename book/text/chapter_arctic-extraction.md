@@ -2,7 +2,7 @@
 title: "Arctic extraction"
 style: chapter
 conflict: 
-decade: 
+decade: 2040
 economy: up
 temperature: 2
 ---

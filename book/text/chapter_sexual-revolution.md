@@ -20,7 +20,7 @@ Climate change is just a technological problem. We’ll deal with it later.
 
 What else do people do with their newfound spare time? Well…
 
-There’s a new sexual revolution. Birth rates continue to fall, marriage rates plummet, 60 per cent of women and 45 per cent of men now identify as queer.
+There’s a new sexual revolution. Birth rates continue to fall, marriage rates plummet, and 60 per cent of women and 45&nbsp;per&nbsp;cent of men now identify as queer.
 
 What do you think, bigshot editor? Are you okay with this?
 {:.choice-question}

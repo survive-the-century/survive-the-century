@@ -2,7 +2,7 @@
 title: "Engineered crop blight"
 style: chapter
 conflict: 5
-decade: 
+decade: 2060
 economy: down
 temperature: 2.8
 ---
@@ -14,7 +14,7 @@ We will never surrender! The war goes on.
 
 Six months later, retaliating to US threats to “pull another Hiroshima”, Japan releases an engineered blight that wipes out the world’s maize crops.
 
-Farmers scramble to produce alternative crops, but the whole world’s food supply chains can’t adapt fast enough. Most countries introduce rations to try to share food fairly, but in some places, there just is not enough, and people starve.
+Farmers scramble to produce alternative crops, but the whole world’s food-supply chains can’t adapt fast enough. Most countries introduce rations to try to share food fairly, but in some places, there just is not enough, and people starve.
 
 That year, millions of people die of starvation, mostly across the Americas.
 

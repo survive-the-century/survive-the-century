@@ -40,6 +40,23 @@ function ebTrackTheVariables() {
 ebTrackTheVariables();
 
 
+function ebChooseTheTemperatureIcon(variableValue) {
+    var temperature = Number(variableValue);
+
+    if (temperature > 1 && temperature < 2) {
+        if (temperature < 1.4) {
+            return "1";
+        } else if (temperature < 1.8) {
+            return "1-5";
+        } else {
+            return "2";
+        }
+    } else {
+        return Math.round(Number(variableValue));
+    }
+}
+
+
 function ebDisplayTheIcons() {
     var dashVariables = [
         "decade",
@@ -62,7 +79,11 @@ function ebDisplayTheIcons() {
 
             // round the value if it's a number
             if (Number(variableValue)) {
-                variableValue = Math.round(Number(variableValue));
+                if (variable == "temperature") {
+                    variableValue = ebChooseTheTemperatureIcon(variableValue);
+                } else {
+                    variableValue = Math.round(Number(variableValue));
+                }
             }
 
             var filePath = `../images/web/icon_${variable}-${variableValue}.png`;

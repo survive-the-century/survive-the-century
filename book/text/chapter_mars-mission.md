@@ -10,7 +10,7 @@ temperature: 2.3
 {% include variables %}
 
 
-We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, animal and insect death. 
+We start experiencing even more climate shocks: hurricanes, fires, droughts, flooding, and animal and insect death. 
 {:.leader-sentence}
 
 They’re coming fast now.

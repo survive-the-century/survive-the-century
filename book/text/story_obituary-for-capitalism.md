@@ -23,7 +23,7 @@ Press release
 By Maria Turtschaninoff
 {:.author}
 
-Unnoticed by most, Capitalism has passed away at the ripe old age of 308 years. Its death throes during the last decades were violent and harvested many casualties, but in the end Capitalism went with a whimper, not a bang.
+Unnoticed by most, Capitalism has passed away at the ripe old age of 308&nbsp;years. Its death throes during the last decades were violent and harvested many casualties, but in the end Capitalism went with a whimper, not a bang.
 
 In its youth, Capitalism was characterized by a wide-eyed enthusiasm that was contagious. Capitalism loved to travel and enjoyed the finer things in life. It worked hard at many new innovations and technologies, and much of what we have today we owe to the exploits of early Capitalism – good and bad.
 
