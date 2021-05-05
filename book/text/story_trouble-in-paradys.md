@@ -29,7 +29,7 @@ Unfortunately, it’s exactly that high fidelity to life that has allowed an eli
 
 Paradys is currently down for maintenance while ReallyReal(TM) restructures, stranding millions of people in their real lives – a move that’s “shockingly inhumane”, according to one human rights watchdog, VR4All. Director Allison Engels says they will be suing ReallyReal(TM) for damages.
 
-“We’re talking about 5.5 billion climate refugees living in the worst possible conditions. Virtual reality is vital for their mental health, for them to be able to have a sense of purpose and value, to be able to connect with friends and family, living or dead, through their avatars. In the two days it’s been down, we’ve already seen an uptick in suicides and domestic violence.”
+“We’re talking about 5.5&nbsp;billion climate refugees living in the worst possible conditions. Virtual reality is vital for their mental health, for them to be able to have a sense of purpose and value, to be able to connect with friends and family, living or dead, through their avatars. In the two days it’s been down, we’ve already seen an uptick in suicides and domestic violence.”
 
 ReallyReal (TM) spokesperson, Colin Ray, says, “It’s regrettable that a few bad apples would ruin it for the majority of our customer base, who are ordinary honest citizens desiring the luxury of the perfect escape. But we’re convinced that our new proprietary obfuscation technology that randomizes key details in every load-up will have us back up and running in no time.”
 

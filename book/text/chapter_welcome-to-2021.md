@@ -16,7 +16,7 @@ As an important and informed person, you’re aware that the world is running ou
 
 But the only thing your readers want to talk about is this pesky pandemic.
 
-Rich countries are reaching nearly 100 per cent vaccination of their citizens, and are starting to open up again.
+Rich countries are reaching nearly 100&nbsp;per&nbsp;cent vaccination of their citizens, and are starting to open up again.
 
 But poor countries, who haven’t been able to afford vaccines, are seeing wave after wave of the virus. Experts are worried that it’s continuing to mutate and become more aggressive. They say our best chance is to get the whole world vaccinated.
 

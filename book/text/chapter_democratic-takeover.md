@@ -9,7 +9,7 @@ temperature: 2.2
 
 {% include variables %}
 
-A poll indicates that an overwhelming 80 per cent of people believe that climate projects should be managed democratically.
+A poll indicates that an overwhelming 80&nbsp;per&nbsp;cent of people believe that climate projects should be managed democratically.
 {:.leader-sentence}
 
 A new generation of bold young politicians begin to speak out publicly about this issue. They try to pass laws nationalizing climate projects, or at least requiring them to follow some rules.

@@ -25,7 +25,7 @@ No big deal, say health experts, because global health surveillance system is so
 
 - {% include thumbnail file="thumbnail_graph.png" %} Half of all insect and plant species heading for extinction, say experts
 - {% include thumbnail file="thumbnail_forest.png" %} Interest in VR safari holidays at all-time high
-- {% include thumbnail file="thumbnail_people.png" %} Amazon forced to replace 90 per cent of workforce with drones after UBI leads to mass walkout of low-paid employees
+- {% include thumbnail file="thumbnail_people.png" %} Amazon forced to replace 90&nbsp;per&nbsp;cent of workforce with drones after UBI leads to mass walkout of low-paid employees
 - {% include thumbnail file="thumbnail_shapes.png" %} Versace premiers “cooling suits” at Paris Fashion Week allowing fashionistas to go outside in the tropics
 - {% include thumbnail file="thumbnail_water.png" %} Russia and Canada reach agreement over who owns the new year-long sailing routes over the ice-free Arctic Sea
 - {% include thumbnail file="thumbnail_squiggles.png" %} Japan becomes first country to be powered entirely by hydrogen

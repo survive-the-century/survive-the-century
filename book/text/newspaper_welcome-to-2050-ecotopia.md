@@ -18,7 +18,7 @@ temperature: 1.7
 Last harvest of wheat crop in Argentina signals the end of monoculture
 {:.headline}
 
-Sustainable small-scale organic agroforestry now produces 90 per cent of all food
+Sustainable small-scale organic agroforestry now produces 90&nbsp;per&nbsp;cent of all food
 {:.subheadline}
 
 ### Other stories today

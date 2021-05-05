@@ -27,7 +27,7 @@ OkC01 is the first of a hundred tertiary education institutions with a focus on 
 
 Known affectionately as the Vaccine Queen of Lagos, pharmaceutical heir Okereke-Clifford made her fortune post-Covid in manufacturing and distributing vaccines throughout Africa, in partnership with China’s HealthEEE.
 
-HealthEEE is proud to continue its partnership with Okereke-Clifford as one of OkC’s elite Future Employer partners, who will not only help develop the cutting-edge syllabus, but also have first pick of graduates, guaranteeing 40 per cent employment and ensuring the continent’s top minds get the best possible global opportunities they deserve. Other Future Employer partners include the likes of Alibaba, Pfizer and HSBC.
+HealthEEE is proud to continue its partnership with Okereke-Clifford as one of OkC’s elite Future Employer partners, who will not only help develop the cutting-edge syllabus, but also have first pick of graduates, guaranteeing 40&nbsp;per&nbsp;cent employment and ensuring the continent’s top minds get the best possible global opportunities they deserve. Other Future Employer partners include the likes of Alibaba, Pfizer and HSBC.
 
 At the ribbon-cutting ceremony in Accra today, Okereke-Clifford said, “I’m thrilled to be able to open new possibilities to West Africans, to expand our minds and our futures. I look forward to seeing OkC graduates taking their rightful places in the global economy and I hope they too will find interesting ways to change the world.”
 

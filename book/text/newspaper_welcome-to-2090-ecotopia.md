@@ -24,7 +24,7 @@ Celebration as global temperatures return to 2020 levels
 ### Other stories today
 
 - {% include thumbnail file="thumbnail_flow-horizontal.png" %} Solar-powered Cape-to-Cairo magnetic levitation train “derails” mid-journey in the Congo basin, causing severe impacts to the home of mountain gorillas and creating mass outcry across the world
-- {% include thumbnail file="thumbnail_peaks.png" %} Finnish children celebrate first snow day in 50 years [Read more](story_snow-day.html){:.read-more}
+- {% include thumbnail file="thumbnail_peaks.png" %} Finnish children celebrate first snow day in 50&nbsp;years [Read more](story_snow-day.html){:.read-more}
 - {% include thumbnail file="thumbnail_people.png" %} DNA testing: variety of ancestral roots gives us a new sense of place as planetary citizens living in our local environments
 - {% include thumbnail file="thumbnail_forest.png" %} Species mass-migrate back to their original biomes as environmental restoration and climate stabilization has enabled a viable habitats
 - {% include thumbnail file="thumbnail_water.png" %} Penguins celebrate as polar bears are repatriated to the Arctic; bear custodians say “Yes yes, we’re putting them on a diet”
