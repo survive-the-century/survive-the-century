@@ -31,7 +31,6 @@ We rely on third-party services that may collect information used to identify yo
 
 - [Netlify](https://www.netlify.com/privacy/)
 - [Google Analytics](https://policies.google.com/privacy)
-- [Microsoft PlayFab](https://privacy.microsoft.com/en-us/privacystatement)
 
 ## Third-party services may use cookies
 
