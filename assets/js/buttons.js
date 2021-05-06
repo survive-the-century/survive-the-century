@@ -63,11 +63,15 @@ function ebNextDecadeButtons() {
             nextDecadeLink.parentNode.classList.add("hidden");
 
             // Push the footer down to fill the void
-            var footerWrapper = document.querySelector(".footer-wrapper");
-            footerWrapper.classList.add("no-next-decade-link");
+            // var footerWrapper = document.querySelector(".footer-wrapper");
+            // footerWrapper.classList.add("no-next-decade-link");
 
             // hide the dash
             document.body.classList.add("dash-hidden");
+
+            // fix the lower margin on the content
+            var contentDiv = document.querySelector("#content");
+            contentDiv.classList.add("no-next-decade-link");
         }
     }
 }
