@@ -14,6 +14,8 @@ Each rich country agrees to contribute ten per cent of its GDP to a global clima
 
 This money is spent to build infrastructure to help cities ravaged by climate change adapt to extreme weather, to invest in food security, and to pay compensation to countries that have already suffered the most from global warming. We also invest in researching technological ways that could reduce global warming.
 
+Most countries that did not already offer a universal basic income (UBI) now introduce them.
+
 Quality of life improves rapidly for most people in the world.
 
 - [You made it to 2050.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-designer-planet.html"}
