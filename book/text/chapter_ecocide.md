@@ -16,7 +16,7 @@ The nations of the UN agree that the International Criminal Court should have po
 
 Bold activists start putting together court cases arguing that historical emitters should pay reparations for loss and damage from climate change.
 
-The world declares that knowingly violating pollution laws is a crime against humanity, now called *ecocide*.
+The world declares that knowingly violating pollution laws is a crime against humanity, now called [*ecocide*.](#infobox)
 
 By 2029, the biggest emitters have more than halved how much they’re polluting the atmosphere, and some CEOs of large fossil fuel companies have mysteriously gone into hiding.
 

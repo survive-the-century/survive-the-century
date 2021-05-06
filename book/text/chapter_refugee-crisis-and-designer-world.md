@@ -12,7 +12,7 @@ temperature: 2.5
 The world is really starting to feel the effects of climate change.
 {:.leader-sentence}
 
-The popular view is that it’s far too late to stop any of this from happening: we have to *adapt* to the new climate.
+The popular view is that it’s far too late to stop any of this from happening: we have to *adapt* to [the new climate](#infobox).
 
 Some cities manage to do this quite well: we build huge barriers to keep back the ocean, we develop new food sources, we build huge machines to filter pollution from the air so it’s breathable. With our new wealth and stable society, it feels like climate change is something we can manage.
 

@@ -12,7 +12,7 @@ temperature: 1.6
 At the climate summit, leaders need to agree to stricter emission-reduction targets. 
 {:.leader-sentence}
 
-There’s a debate about whether historical emissions should be counted towards a country’s total target (which would damage the economies of currently rich countries) or whether only current emissions matter (which would impact China and other emerging economies).
+[There’s a debate](#infobox) about whether historical emissions should be counted towards a country’s total target (which would damage the economies of currently rich countries) or whether only current emissions matter (which would impact China and other emerging economies).
 
 How hard should we push rich countries to pay for climate change?
 {:.choice-question}

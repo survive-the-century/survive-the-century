@@ -13,7 +13,7 @@ temperature:
 The world is now capturing more greenhouse gases than it produces, but we’re still recovering from damage that was done to the environment earlier in the century.
 {:.leader-sentence}
 
-In 2062, we get unlucky. Hot oceans lead to a series of terrible hurricanes across the southern US and Caribbean, destroying thousands of homes and ripping up forests.
+In 2062, [we get unlucky](#infobox). Hot oceans lead to a series of terrible hurricanes across the southern US and Caribbean, destroying thousands of homes and ripping up forests.
 
 We’re already capturing a lot of greenhouse gases through natural methods like planting trees and preserving wild areas, but some groups say we need to speed things up with high-tech carbon removal technology.
 

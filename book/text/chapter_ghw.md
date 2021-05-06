@@ -16,7 +16,7 @@ Which is weird, because most people have seen a marked improvement in their qual
 
 So, obviously how we’re measuring the economy is wrong!
 
-The world stops focusing on stuff like GDP and stock-market growth and starts focusing on a new, single GHW (global human welfare) score. This score measures the health, happiness, security and wellbeing of all humans around the world.
+The world stops focusing on stuff like [GDP](#infobox) and stock-market growth and starts focusing on a new, single GHW (global human welfare) score. This score measures the health, happiness, security and wellbeing of all humans around the world.
 
 With this score, the proposed actions are predicted to dramatically improve the economy.
 

@@ -13,7 +13,7 @@ temperature: 1.7
 Fossil energy companies blame the aggressive climate emission laws for high levels of unemployment. 
 {:.leader-sentence}
 
-They say that they can create a lot of new jobs in fracking, and that can be a transitional energy source while we move off coal. They can even re-invest those profits into carbon capture technology! A little more pollution now, but it will give us much more money to spend fixing the problem in future.
+They say that they can create a lot of new jobs in fracking, and that can be a transitional energy source while we move off coal. They can even re-invest those profits into [carbon capture technology](#infobox)! A little more pollution now, but it will give us much more money to spend fixing the problem in future.
 
 Should we approve new large-scale fracking projects?
 {:.choice-question}

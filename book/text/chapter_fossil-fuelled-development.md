@@ -14,7 +14,7 @@ We stimulate economies by selling new coal-mining/drilling/fracking rights.
 
 The owners in these industries get rich and national coffers get a temporary boost.
 
-Pollution gets much worse. People in cities powered by coal and congested with cars say they’re struggling to breathe, and their children are falling sick.
+Pollution gets much worse. People in cities powered by coal and congested with cars say they’re [struggling to breathe](#infobox), and their children are falling sick.
 
 - [You made it to 2030.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-designer-planet.html"}
 {:.choice-options}
