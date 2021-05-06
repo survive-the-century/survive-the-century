@@ -30,5 +30,5 @@ Millions in the streets as Coalition for Democracy protestors rally against Tesl
 - {% include thumbnail file="thumbnail_squiggles.png" %} Miss blue skies? New augmented reality eye implants let you choose whatever sky colour you like!
 {:.articles}
 
-[Just one more decade to go.](chapter_seething-underclass.html)
+[Just a couple more decades to go.](chapter_seething-underclass.html)
 {:.next-decade-link}

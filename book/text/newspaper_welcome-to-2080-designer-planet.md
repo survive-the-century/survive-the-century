@@ -33,5 +33,5 @@ Successfully averts near-disaster, saves humanity again
 - {% include thumbnail file="thumbnail_people.png" %} What three of our favourite Council leaders are wearing this winter
 {:.articles}
 
-[Just one more decade to go.](chapter_climate-domes.html)
+[Just a couple more decades to go.](chapter_climate-domes.html)
 {:.next-decade-link}
