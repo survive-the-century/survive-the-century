@@ -60,23 +60,14 @@
     }
 }
 
-.newspaper .footer-wrapper,
-.story .footer-wrapper {
-
-    // margin-bottom: $next-decade-link-height;
-    // &.no-next-decade-link {
-    //     margin-bottom: 0;
-    // }
-
-    // @media only screen and (max-width: $break-point-masthead) {
-    //     margin-bottom: 3rem + $masthead-height;
-    //     &.no-next-decade-link {
-    //         margin-bottom: $masthead-height;
-    //     }
-    // }
-
-    // Hide footer to make it easier to see next-decade-link
-    display: none;
+.newspaper,
+.story {
+    #content:not(.no-next-decade-link) {
+        & ~ .footer-wrapper {
+            // Hide footer to make it easier to see next-decade-link
+            display: none;
+        }
+    }
 }
 
 @media only screen and (max-width: $break-point-masthead) {
