@@ -33,7 +33,7 @@ This is a not-for-profit project supported by the Global Strategic Communication
 
 # About
 
-*Survive the Century* is a choose-your-own-adventure game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
+*Survive the Century* is a branching narrative game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
 
 This game is a work of fiction, but it is informed by real science.
 

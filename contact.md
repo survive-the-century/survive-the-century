@@ -11,13 +11,14 @@ For all queries, please contact: [hello@survivethecentury.net](mailto:hello@surv
 
 ## Press information
 
-On May 10th, people around the world will get to decide what their climate futures will look like by playing *Survive the Century*, a choose-your-own adventure, climate-fiction game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change. This game is a work of fiction, but it is informed by real science.
+On May 10th, people around the world will get to decide what their climate futures will look like by playing *Survive the Century*, a branching narrative climate-fiction game about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change. This game is a work of fiction, but it is informed by real science.
 
 The player of the game is the editor of a popular newspaper and chooses headlines that influence public opinion and political responses to climate change, that include a green recovery from Covid-19. The player’s choices shape the future, and they’re able to read the news that results.
 
-Created by best-selling author Sam Beckbessinger in collaboration with renowned climate scientists Christopher Trisos and Simon Nicholson, the game aims to show players that there are steps we can take to mitigate global heating and ensure an equitable, green future.
+Created by best-selling author Sam Beckbessinger in collaboration with climate scientists Christopher Trisos of the Climate Risk Lab at the  African Climate and Development Initiative and Simon Nicholson of the American University School of International Service, the game aims to
+show players that there are steps we can take to mitigate global heating and ensure an equitable, green future.
 
-Game creator, Sam Beckbessinger, says:  “I created *Survive the Century* because I felt hopeless, and I wanted to explore the ways in which we still have power, our choices matter, and it’s not all over just yet.
+Game co-creator, Sam Beckbessinger, says:  “I created *Survive the Century* because I felt hopeless, and I wanted to explore the ways in which we still have power, our choices matter, and it’s not all over just yet.
 
 "Climate change is not just some distant environmental matter. Climate change is made and experienced by people. How the future will play out is going to be shaped by choices taken by people today, and tomorrow, and the day after. We need better tools for understanding and peering into that future, not out of a sense that we can know for certain what awaits, but so that we can more clearly see the important choices available to us today."
 

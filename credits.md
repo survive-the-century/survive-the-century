@@ -35,6 +35,10 @@ Annika Brandow
 
 Karen Lilje
 
+## Copyediting
+
+Louis Greenberg
+
 ## Scientific contributors
 
 - Aditi Mukherji

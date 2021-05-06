@@ -2,7 +2,7 @@
 
 Built with the [Electric Book](http://electricbook.works).
 
-Survive the Century is a choose-your-own adventure game about the political, environmental and social choices the human race will face between 2021-2100 as we adapt to the ravages of climate change. 
+Survive the Century is a branching narrative game about the political, environmental and social choices the human race will face between 2021-2100 as we adapt to the ravages of climate change. 
 
 The point of the game is that our choices matter, it’s not over, and there are still a lot of decisions we can make that will lead to dramatically different futures.
 
