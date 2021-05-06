@@ -27,7 +27,16 @@ function ebMoveElementBelowGlow(selector) {
     var nodeToMove = document.querySelector(selector);
     var bottomGlow = document.querySelector(".glow-bottom");
 
+
+
     if (nodeToMove) {
+        // if it's an infobox, first add a span for link targeting
+        if (selector === ".infobox") {
+            var infoLinkSpan = document.createElement("span");
+            infoLinkSpan.setAttribute("id", "infobox");
+            nodeToMove.before(infoLinkSpan);
+        }
+
         bottomGlow.after(nodeToMove);
     }
 
