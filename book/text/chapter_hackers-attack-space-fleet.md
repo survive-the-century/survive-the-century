@@ -9,10 +9,10 @@ temperature: 1.9
 
 {% include variables %}
 
-The space fleet becomes the target of attack by rogue states, 
+The space fleet becomes the target of attack by rogue states.
 {:.leader-sentence}
 
-who try to hack it to benefit their own microclimates.
+They try to hack it to benefit their own microclimates.
 
 How should we deal with these rogue actors?
 {:.choice-question}

@@ -18,7 +18,7 @@ A lot of these projects are community-run and community-owned, like local solar 
 
 This makes communities more resilient to extreme weather, raises the standard of living for the less well-off, and accelerates the transition away from dirty energy like coal, oil and gas.
 
-A consortium of oil companies wants to buy a two-page spread in the paper arguing that we’re moving too fast on reducing emissions, and this is going to damage the economy.
+A consortium of oil companies wants to buy a lot of advertising space arguing that we’re moving too fast on reducing emissions, and this is going to damage the economy.
 
 Will you let them?
 {:.choice-question}
