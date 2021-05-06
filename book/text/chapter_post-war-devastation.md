@@ -14,7 +14,7 @@ You get a frantic phone call in the middle of the night:
 
 An elite Chinese military operation has knocked out America’s sulphur dioxide pipe.
 
-Your lead climate reporter tells you, in a voice choked with fear, that this means the world is going to warm as much over the next **two years** as it did in the **two decades** before that.
+Your lead climate reporter tells you, in a voice choked with fear, that this means the world is going to warm as much over the next **two years** as it has in the last **two decades**.
 
 - [Sorry, you’re all out of choices.](chapter_sudden-warming.html)
 {:.choice-options}

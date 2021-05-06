@@ -24,8 +24,8 @@ Emergency summit aims to prevent new Cold War between US, Canada, China and Russ
 ### Other stories today
 
 - {% include thumbnail file="thumbnail_forest.png" %} Bolsonaro issues new permits for logging in the Amazon after indigenous communities devastated by Covid-19
-- {% include thumbnail file="thumbnail_people.png" %} Matrimonial Advertisement: Indian NRI Seeks Suitable Match [Read more](story_matrimony.html){:.read-more}
-- {% include thumbnail file="thumbnail_stormy.png" %} Bay of Bengal sets new record for number of super-cyclones, displacing millions of people
+- {% include thumbnail file="thumbnail_people.png" %} Matrimonial advertisement: Indian NRI seeks suitable match [Read more](story_matrimony.html){:.read-more}
+- {% include thumbnail file="thumbnail_stormy.png" %} Bay of Bengal sets new record for number of super-cyclones, millions of people displaced
 - {% include thumbnail file="thumbnail_water.png" %} Record damages due to floods in the US Midwest are only matched by damage caused by mega-fires on the west coast of North America
 {:.articles}
 

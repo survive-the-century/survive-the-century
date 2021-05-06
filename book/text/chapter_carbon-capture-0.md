@@ -16,7 +16,7 @@ It just didn’t seem necessary!
 
 Without the space mirrors keeping the planet cool, things heat up FAST. The world experiences the hottest year ever. Most major coastal cities are flooded. People die of heatstroke. Wild animals from warm parts of the world have to be ushered into temporary air-conditioned enclosures to keep them alive.
 
-Most of the remaining insects die out, including all bees. The council scrambles to figure out a solution before everyone dies of hunger.
+Most of the remaining insects die out, including all bees. The Council scrambles to figure out a solution before everyone dies of hunger.
 
 Will our magnificent Council figure something out in time?
 {:.choice-question}

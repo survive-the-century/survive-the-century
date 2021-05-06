@@ -25,7 +25,7 @@ President of European Commission: “Stop blaming America for the Wisconsin flu"
 
 - {% include thumbnail file="thumbnail_shapes.png" %} Fears of conflict, counter-geoengineering deter China from deploying solar geoengineering; "another decade lost" say dejected activists
 - {% include thumbnail file="thumbnail_people.png" %} Global day of mourning declared for the millions dead from Wisconsin flu
-- {% include thumbnail file="thumbnail_graph.png" %} Booming megacities prompt African continental free trade zone to negotiate trade deal with Brazil for food
+- {% include thumbnail file="thumbnail_graph.png" %} Booming megacities prompt African continental free-trade zone to negotiate trade deal with Brazil for food
 - {% include thumbnail file="thumbnail_forest.png" %} Amazon basin formally loses “rainforest” categorization, reclassified as “savanna”
 {:.articles}
 

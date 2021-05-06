@@ -53,13 +53,13 @@ Karen Lilje
 - Juan B. Moreno-Cruz
 - Katharine J. Mach
 - Laura M. Pereira
-- Leslie Paul Tiele
+- Leslie Paul Thiele
 - Maggie Clifford
 - Mariia Belaia
 - Michael Thompson
 - Nicholas Simpson
 - Oliver Geden
-- Olufemi Taiwo
+- Olúfẹ́mi Táíwò
 - Sara Metcalf
 - Shuchi Talati
 - Valentina Aquila

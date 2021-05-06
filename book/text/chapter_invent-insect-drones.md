@@ -9,10 +9,10 @@ temperature: 2
 
 {% include variables %}
 
-The council manages to release pollinating drones and new heat-resistant crops that don’t need to be pollinated, so most people are saved. 
+The Council manages to release pollinating drones and new heat-resistant crops that don’t need to be pollinated, so most people are saved. 
 {:.leader-sentence}
 
-But there’s still a year of food rationing, which made people pretty miserable.
+But there’s still a year of food rationing, which makes people pretty miserable.
 
 The Council manages to restabilize the climate, though, once again proving that it is the greatest and humanity can withstand anything.
 

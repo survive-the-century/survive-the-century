@@ -31,5 +31,5 @@ Indigenous peoples and local communities (IPLCs) take their seat at the UN
 - {% include thumbnail file="thumbnail_peaks.png" %} All vertebrate wildlife population movements to be tracked by satellite to measure “pulse of the planet” score
 {:.articles}
 
-[Let’s see what the 2060s will bring](chapter_1-5-degree-shocks.html)
+[Let’s see what the 2060s will bring.](chapter_1-5-degree-shocks.html)
 {:.next-decade-link}

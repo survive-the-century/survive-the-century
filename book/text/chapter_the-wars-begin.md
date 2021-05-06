@@ -14,7 +14,7 @@ America’s rogue geoengineering is the last straw.
 
 This sparks a decade-long world war.
 
-There are geoengineering and counter geoengineering attacks on both sides, and vicious proxy wars all around the world. Millions of people die, and the world’s economy is devastated.
+There are geoengineering and counter-geoengineering attacks on both sides, and vicious proxy wars all around the world. Millions of people die, and the world’s economy is devastated.
 
 After nine years, there’s still no clear winner. People are exhausted of fighting. The leaders of both sides agree to a clandestine meeting.
 
