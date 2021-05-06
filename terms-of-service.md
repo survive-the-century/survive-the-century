@@ -11,7 +11,7 @@ Last updated: April 19, 2021
 
 When you use this website or play *Survive the Century*, these terms will automatically apply to you. We know it's legal stuff, but please read it. We've tried to write everything in clear language.
 
-If you have any questions about any of our terms, please pop us an email and we’ll try to help: [sam.beckbessinger@gmail.com](mailto:sam.beckbessinger@gmail.com){:.copy-to-clipboard}
+If you have any questions about any of our terms, please pop us an email and we’ll try to help: [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## You accept these terms
 

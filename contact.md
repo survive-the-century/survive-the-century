@@ -7,7 +7,7 @@ style: frontmatter
 
 # Contact
 
-For all queries, please contact: [sam.beckbessinger@gmail.com](mailto:sam.beckbessinger@gmail.com){:.copy-to-clipboard}
+For all queries, please contact: [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## Press information
 

@@ -6,6 +6,9 @@ Survive the Century is a choose-your-own adventure game about the political, env
 
 The point of the game is that our choices matter, it’s not over, and there are still a lot of decisions we can make that will lead to dramatically different futures.
 
+## Contact
+For all queries, please contact [hello@survivethecentury.net](mailto:hello@survivethecentury.net)
+
 ## Game summary
 
 You are playing the news editor of the world’s most prominent news organization over the remainder of the 21st century (2021 to 2100). You get to pick the angle on the news, and thereby influence public sentiment, leading to different political decisions: will rich countries accept the increasing waves of climate refugees into their countries? Can the world agree to stop burning fossil fuels in time, or will a maverick cabal of billionaires be left to deploy a fleet of space-mirrors in a last-minute attempt to stop the temperature from rising?

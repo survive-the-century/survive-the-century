@@ -9,7 +9,7 @@ project:
   # A live web address for the organisation
   url: "https://survivethecentury.net"
   # The default contact email address
-  email: "hello@survivethecentury.org"
+  email: "hello@survivethecentury.net"
   # The name of the project of books in this folder.
   name: "Survive the Century"
   # A one-liner about this project. Useful for Open Graph metadata.

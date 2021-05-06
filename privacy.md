@@ -11,7 +11,7 @@ Last updated: April 19, 2021
 
 We are committed to offering you a service that respects your privacy. Wherever possible, we avoid collecting any data that is not critical for us to provide you with our service.
 
-If you have any questions about any of our terms, please pop us an email and we’ll try to help: [sam.beckbessinger@gmail.com](mailto:sam.beckbessinger@gmail.com){:.copy-to-clipboard}
+If you have any questions about any of our terms, please pop us an email and we’ll try to help: [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## We don’t collect personal information
 
