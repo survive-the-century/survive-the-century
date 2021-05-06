@@ -27,6 +27,6 @@ How should we get more vaccines to the rest of the world?
 
 - [Maybe a rich country could donate some vaccines?](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-wars"}
 - [Maybe billionaires could donate some vaccines?](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-billionaires"}
-- [Lets waive patents on the vaccines, and agree that each country should donate one per cent of its GDP to a global vaccine fund.](chapter_fair-vaccine-distribution.html){:data-js-var="js-var-leaning-none"}
+- [Lets agree that each country should donate one per cent of its GDP to a global vaccine fund.](chapter_fair-vaccine-distribution.html){:data-js-var="js-var-leaning-none"}
 - [Wake up, sheeple! Vaccines are a plot by sinister elites to turn everyone gay!](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-slowfade"}
 {:.choice-options}
