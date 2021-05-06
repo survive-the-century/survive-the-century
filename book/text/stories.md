@@ -12,7 +12,7 @@ style: frontmatter stories
 - [Exile nation: What happens when you’re forced out of paradise?](story_exile-nation.html) Lauren Beukes
 - [Finnish children celebrate first snow day in 50 years](story_snow-day.html) Maria Turtschaninoff
 - [Mass abductions hobble India’s guest talent programme](story_mass-abductions.html) Rajat Chaudhuri
-- [Matrimonial advertisement: Indian NRI seeks suitable match](story_matrimony.html) Author Name Here
+- [Matrimonial advertisement: Indian NRI seeks suitable match](story_matrimony.html) Rajat Chaudhuri
 - [Obituaries – Capitalism: 1760–2068](story_obituary-for-capitalism.html) Maria Turtschaninoff
 - [Paris Fashion Week 2060 special report](story_fashion-week.html) Sophia Al-Maria
 - [Quiz: What’s your ticket to Mars?](story_your-ticket-to-mars.html) Lauren Beukes
