@@ -9,7 +9,7 @@ style: frontmatter
 
 ## Created by
 
-[Sam Beckbessinger](https://sambeckbessinger.com/), [Christopher Trisos](https://climaterisklab.com/team/) and [Simon Nicholson](https://www.american.edu/sis/faculty/snichols.cfm)
+[Sam Beckbessinger](https://sambeckbessinger.com/), [Christopher Trisos](https://climaterisklab.com/) and [Simon Nicholson](https://www.american.edu/sis/faculty/snichols.cfm)
 
 ## Short fiction 
 
@@ -17,7 +17,7 @@ style: frontmatter
 
 ## Primary sponsors
 
-[Climate Interactive](https://www.climateinteractive.org/), the Global Strategic Communications Council Opportunity Fund (the GSCC), the [FLAIR Fellowship Programme](https://royalsociety.org/grants-schemes-awards/grants/flair/): a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145
+[Climate Interactive](https://www.climateinteractive.org/), the Global Strategic Communications Council Opportunity Fund (the GSCC), the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145
 
 ## Web development and publishing
 

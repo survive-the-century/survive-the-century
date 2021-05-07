@@ -26,7 +26,7 @@ Game co-creator, Sam Beckbessinger, says:  “I created *Survive the Century* be
 
 **Sam Beckbessinger** is the best-selling author of *Manage Your Money Like a Fucking Grownup*, sold in six countries. She writes [horror stories and kids' TV shows](https://sambeckbessinger.com/).
 
-**Christopher Trisos** directs the Climate Risk Lab at the [African Climate and Development Initiative](http://www.acdi.uct.ac.za/). Dr Trisos is a co-ordinating lead author on the Intergovernmental Panel on Climate Change 6th Assessment Report. 
+**Christopher Trisos** directs the [Climate Risk Lab](https://climaterisklab.com/) at the [African Climate and Development Initiative](http://www.acdi.uct.ac.za/). Dr Trisos is a co-ordinating lead author on the Intergovernmental Panel on Climate Change 6th Assessment Report. 
 
 **Simon Nicholson** is an Associate Professor at the American University, focusing on global environmental governance, global food politics, and the politics of emerging technologies, including climate engineering and carbon removal technologies. He is co-founder of the Forum for Climate Engineering Assessment and the [Institute for Carbon Removal Law and Policy](https://www.american.edu/sis/centers/carbon-removal/).
 
