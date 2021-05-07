@@ -13,7 +13,7 @@ temperature: 1.8
 The push for universal basic income becomes overwhelming.
 {:.leader-sentence}
 
-Most countries are under pressure to try UBI projects.
+Most countries are under pressure to try [UBI projects](#infobox).
 
 There’s just one problem: the world’s still pretty broke after the disastrous post-Covid 2020s.
 

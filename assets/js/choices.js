@@ -1,6 +1,25 @@
 /*jslint browser */
 
-function ebCaptureTheChoiceVariables () {
+function ebSetTheDefaultVariables() {
+    var variableObject = {
+        "carboncapture": 0,
+        "leaning": "slowfade",
+        "fracking": 0,
+        "military": "yes",
+        "democracy": "no",
+        "termination": "roguestates"
+    };
+
+    for (var variableName in variableObject) {
+        if (!window.localStorage.getItem(variableName)) {
+            window.localStorage.setItem(variableName, variableObject[variableName]);
+        }
+    }
+}
+
+ebSetTheDefaultVariables();
+
+function ebCaptureTheChoiceVariables() {
     // the variables are attributes in the href
     // of the form data-js-var="js-var-{variablename}-{variablevalue}"
 
@@ -29,7 +48,7 @@ ebCaptureTheChoiceVariables();
 
 // display based on the variables stored
 
-function ebDisplayVariableCopy () {
+function ebDisplayVariableCopy() {
     // look on the page for divs that are variable
     var divThatIsVariable = document.querySelector(
         "div[data-js-var^='css-var-']"
@@ -57,7 +76,7 @@ function ebDisplayVariableCopy () {
 ebDisplayVariableCopy();
 
 // Move the SVGs into the hyperlinks to make entire choice box clickable
-function ebMoveTheSVGsIntoTheLinks () {
+function ebMoveTheSVGsIntoTheLinks() {
     // get the links
     var choiceLinkList = document.querySelectorAll("ul.choice-options a");
 

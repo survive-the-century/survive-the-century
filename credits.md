@@ -9,31 +9,31 @@ style: frontmatter
 
 ## Created by
 
-Sam Beckbessinger
-
-## Project leads
-
-Christopher Trisos and Simon Nicholson
+[Sam Beckbessinger](https://sambeckbessinger.com/), [Christopher Trisos](https://climaterisklab.com/team/) and [Simon Nicholson](https://www.american.edu/sis/faculty/snichols.cfm)
 
 ## Short fiction 
 
-Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
+[Lauren Beukes](https://laurenbeukes.com/), [Maria Turtschaninoff](https://www.mariaturtschaninoff.com/english), [Rajat Chaudhuri](https://www.rajatchaudhuri.net/) and [Sophia Al-Maria](https://www.unitedagents.co.uk/sophia-al-maria)
 
 ## Primary sponsors
 
-Climate Interactive, the Global Strategic Communications Council Opportunity Fund (the GSCC), the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, the National Socio-Environmental Synthesis Center (SESYNC) under funding received from the National Science Foundation DBI-1639145
+[Climate Interactive](https://www.climateinteractive.org/), the Global Strategic Communications Council Opportunity Fund (the GSCC), the [FLAIR Fellowship Programme](https://royalsociety.org/grants-schemes-awards/grants/flair/): a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145
 
 ## Web development and publishing
 
-Electric Book Works
+[Electric Book Works](https://electricbookworks.com){:target="_blank"}
 
 ## Illustrations
 
-Annika Brandow
+[Annika Brandow](https://annikabrandow.com/)
 
 ## Design
 
-Karen Lilje
+[Karen Lilje](https://www.hybridcreative.co.za/about)
+
+## Copyediting
+
+[Louis Greenberg](https://louisgreenberg.com/index.html)
 
 ## Scientific contributors
 
@@ -53,13 +53,13 @@ Karen Lilje
 - Juan B. Moreno-Cruz
 - Katharine J. Mach
 - Laura M. Pereira
-- Leslie Paul Tiele
+- Leslie Paul Thiele
 - Maggie Clifford
 - Mariia Belaia
 - Michael Thompson
 - Nicholas Simpson
 - Oliver Geden
-- Olufemi Taiwo
+- Olúfẹ́mi Táíwò
 - Sara Metcalf
 - Shuchi Talati
 - Valentina Aquila

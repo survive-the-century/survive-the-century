@@ -12,7 +12,7 @@ temperature: 2.5
 The world is really starting to feel the effects of climate change.
 {:.leader-sentence}
 
-The popular view is that it’s far too late to stop any of this from happening: we have to *adapt* to the new climate.
+The popular view is that it’s far too late to stop any of this from happening: we have to *adapt* to [the new climate](#infobox).
 
 Some cities manage to do this quite well: we build huge barriers to keep back the ocean, we develop new food sources, we build huge machines to filter pollution from the air so it’s breathable. With our new wealth and stable society, it feels like climate change is something we can manage.
 
@@ -20,7 +20,7 @@ But in 2041, we are particularly unlucky. It’s a brutal year. So many disaster
 
 The disasters displace millions of people. In the US, droughts and hurricanes force people north. Many of them lose their homes and livelihoods. Bangladesh has become largely uninhabitable due to flooding. Failing fish stocks in the tropics lead to near-starvation among communities that depend on fishing to survive, and force people into cities. Plans have been made for large parts of Hong Kong, Miami, Lagos and Manhattan to be abandoned to the rising sea water.
 
-REM’s classic song “It’s the End of the World as We Know It (and I Feel Fine)” is the most listened-to song of the year.
+R.E.M.’s classic song “It’s the End of the World as We Know It (and I Feel Fine)” is the most listened-to song of the year.
 
 Millions want to resettle in more protected places. Most resettle in their own country, but many also cross borders in an attempt to give their families a better life.
 

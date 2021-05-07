@@ -2,7 +2,7 @@
 title: "Disband the militaries"
 style: chapter
 conflict: 
-decade: 
+decade: 2060
 economy: 
 temperature: 
 ---

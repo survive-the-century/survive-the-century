@@ -2,7 +2,7 @@
 title: "Corporate colonialism"
 style: chapter
 conflict: 
-decade: 
+decade: 2040
 economy: up
 temperature: 1.8
 ---

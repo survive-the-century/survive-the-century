@@ -29,7 +29,7 @@ Pick a romantic Mars vacation spot:
 1. A rustic cabin on the ski slopes of Olympus Mons outside Lovelace One
 2. At the Hilton Honeycomb in Medusa Fossa, where the rooms have been carved from the lava tubes to resemble the strange rock formations
 3. At Sun International’s Tropica, an immaculate rain forest family resort with luxury cabanas, waterslides, nightlife and shopping  
-4. A private Tuscan-style villa on the shore of the newly-filled in Valles Marineris dam
+4. A private Tuscan-style villa on the shore of the newly-filled-in Valles Marineris dam
 5. In a radiation-proof tent at the South Pole – bring on the adventure!
 {:.quiz-options}
 
@@ -93,7 +93,7 @@ Finally, what’s your hidden talent?
 5. Manipulating people
 {:.quiz-options}
 
-**Mostly As:** You’re healthy, physically fit, down to earth, and practical and definitely not the squeamish type. You’re perfect for a COHO, a concentrated organ harvesting operation, which sounds a lot scarier than it is. You’ll be growing extra organs for transplant alongside your own, which can be harvested without (much) risk. But don’t think growing an extra liver means you can drink double the amount of alcohol. Because of the lower oxygen levels on Mars, you get drunk a lot quicker – and there’s the medical compact where you agree not to take any intoxicants during the growth period. You may be asked to trial new vaccines and medicines, though, which will put you on the cutting edge of scientific developments and saving rich people’s lives!
+**Mostly As:** You’re healthy, physically fit, down to earth, and practical and definitely not the squeamish type. You’re perfect for a COHO, a concentrated organ-harvesting operation, which sounds a lot scarier than it is. You’ll be growing extra organs for transplant alongside your own, which can be harvested without (much) risk. But don’t think growing an extra liver means you can drink double the amount of alcohol. Because of the lower oxygen levels on Mars, you get drunk a lot quicker – and there’s the medical compact where you agree not to take any intoxicants during the growth period. You may be asked to trial new vaccines and medicines, though, which will put you on the cutting edge of scientific developments and saving rich people’s lives!
 {:.quiz-result}
 
 **Mostly Bs:** It turns out AI can make killer pop hits and write accessible thrillers, but it can’t (yet) create art that is surprising and profound on a human level. If you’ve got a special talent and a truly unique voice, you can apply to one of the Red Residencies which fly out performers, musicians, dancers, artists, sculptors, slam poets, and the occasional novelist to be inspired by life on Mars for anywhere from six months to two years. The truly exceptional may be granted permanent residency under the De Medici patronage programme, but you better be able to keep it fresh and stay ahead of artificial intelligence.

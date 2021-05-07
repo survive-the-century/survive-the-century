@@ -3,7 +3,7 @@
     border-top: 1px solid $midnight-60pc;
     // height: 9rem;
     padding-bottom: 2rem;
-    
+
     .footer {
         max-width: $max-width-default;
         padding: 0;
@@ -49,20 +49,8 @@
         flex-direction: row;
         flex-wrap: wrap;
 
-        // display: grid;
-        // grid-template-rows: auto;
-        // grid-template-columns: 25% auto;
         max-width: 0.7 * $max-width-default;
         margin: auto;
-
-        // img:first-of-type {
-        //     grid-column: 1 / 2;
-        //     margin: 1rem;
-        // }
-        // img:last-of-type {
-        //     grid-column: 2 / 3;
-        //     margin: 1rem;
-        // }
 
         @media only screen and (max-width: $break-point-footer) {
             & {
@@ -72,18 +60,12 @@
     }
 }
 
-.newspaper .footer-wrapper,
-.story .footer-wrapper {
-    
-    margin-bottom: $next-decade-link-height;
-    &.no-next-decade-link {
-        margin-bottom: 0;
-    }
-
-    @media only screen and (max-width: $break-point-masthead) {
-        margin-bottom: 3rem + $masthead-height;
-        &.no-next-decade-link {
-            margin-bottom: $masthead-height;
+.newspaper,
+.story {
+    #content:not(.no-next-decade-link) {
+        & ~ .footer-wrapper {
+            // Hide footer to make it easier to see next-decade-link
+            display: none;
         }
     }
 }

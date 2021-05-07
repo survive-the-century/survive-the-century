@@ -2,7 +2,7 @@
 title: "Quash terrorists"
 style: chapter
 conflict: 
-decade: 
+decade: 2080
 economy: 
 temperature: 
 ---
@@ -12,10 +12,8 @@ temperature:
 
 <div data-js-var="css-var-democracy-yes" markdown="1" class="hidden">
 
-Sorry, this isn’t a democracy anymore.
+Sorry, this isn’t a democracy anymore. Public opinion doesn’t matter.
 {:.leader-sentence}
-
-Public opinion doesn’t matter.
 
 The terrorist groups are rounded up and sent to re-education camps.
 

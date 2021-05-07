@@ -2,7 +2,7 @@
 title: "Invest in social care"
 style: chapter
 conflict: 
-decade: 
+decade: 2070
 economy: up
 temperature: 1.3
 ---

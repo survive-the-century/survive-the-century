@@ -2,7 +2,7 @@
 title: "People get richer"
 style: chapter
 conflict: 1
-decade: 
+decade: 2030
 economy: up
 temperature: 2.1
 ---

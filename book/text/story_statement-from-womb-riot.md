@@ -1,9 +1,9 @@
 ---
 title: "Statement from Womb Riot"
 style: story
-conflict: 
+conflict:
 decade: 2090
-economy: 
+economy:
 temperature: 2.3
 ---
 
@@ -21,9 +21,9 @@ Press release
 By Lauren Beukes
 {:.author}
 
-We are Womb Riot, a group of eighteen women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.
+We are Womb Riot, a group of 18 women and non-binary people with wombs, who have been working as human incubators for the wealthy of Lovelace Two, the fifth-largest colony state on Mars, and the most exclusive.
 
-Our unborn charges include the heirs to some of the greatest tech dynasties, including the granddaughter of Dylan Okereke-Clifford, and the triplets of X-AE and his husband, Li Ma. As of this morning at 05h47, we have barricaded ourselves in the aerial suite of the Ambani Stadium floating above Ascraeus Mons.
+Our unborn charges include the heirs to some of the greatest tech dynasties, including the granddaughter of Dylan Okereke-Clifford, and the triplets of X&nbsp;Æ and his husband, Li Ma. As of this morning at 05h47, we have barricaded ourselves in the aerial suite of the Ambani Stadium floating above Ascraeus Mons.
 
 The Deimos Dervishes will not be playing their scheduled game against the New York Yankees today. Nor will the rich parents who have plundered our planet have their developing foetuses safely returned to them. Not until they are willing to take action, to instigate meaningful, grand-scale change. Now.
 
@@ -37,9 +37,9 @@ What does this mean in practice?
 
 We demand that the tech dynasties and conglomerates acknowledge the anger of the people and immediately cease the violent suppression of the X-tinction Riots playing out across Earth.
 
-We demand the immediate release of X-tinction leaders including but not limited to Charne Allais, Kim Ahn and D’Angelo Greenwood, who are being held in inhumane conditions in Jakarta, Medellin, Detroit and beyond.
+We demand the immediate release of X-tinction leaders including but not limited to Charne Allais, Kim Ahn and D’Angelo Greenwood, who are being held in inhumane conditions in Jakarta, Medellín, Detroit and beyond.
 
-We demand that the tech dynasties surrender their assets equal to 80 per cent of their accumulated wealth and that this money be immediately redistributed for ecological reparations under the guidance of X-tinction and their various NGO partners as per the Accra Papers of 2098.
+We demand that the tech dynasties surrender their assets equal to 80&nbsp;per&nbsp;cent of their accumulated wealth and that this money be immediately redistributed for ecological reparations under the guidance of X-tinction and their various NGO partners as per the Accra Papers of 2088.
 
 We demand that Teslamerica shuts down the A-93 SRM mirror that has been climate-privileging North America.
 

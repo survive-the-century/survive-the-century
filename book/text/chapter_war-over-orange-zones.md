@@ -2,7 +2,7 @@
 title: "War over orange zones"
 style: chapter
 conflict: 4
-decade: 
+decade: 2040
 economy: 
 temperature: 2.1
 ---

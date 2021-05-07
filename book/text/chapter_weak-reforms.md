@@ -2,7 +2,7 @@
 title: "Weak reforms"
 style: chapter
 conflict: 
-decade: 
+decade: 2030
 economy: 
 temperature: 1.7
 ---

@@ -2,7 +2,7 @@
 title: "World trade is in tatters"
 style: chapter
 conflict: 4
-decade: 
+decade: 2020
 economy: down
 temperature: 1.5
 ---
@@ -14,7 +14,7 @@ Countries start to pass protectionist laws and break trade agreements.
 
 The US–China trade war escalates, leading to a number of shortages.
 
-Warmer weather is causing ice to melt in the Arctic Sea. Canada, the US, China and Russia now have a new northern border to protect.
+Warmer weather is causing [ice to melt in the Arctic Ocean](#infobox). Canada, the US, China and Russia now have a new northern border to protect.
 
 Countries quietly start to divert post-Covid economic stimulus money into beefing up their militaries. You know, just in case.
 

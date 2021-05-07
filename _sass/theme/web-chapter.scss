@@ -3,6 +3,10 @@
     font-family: $font-text-main;
     max-width: 25rem;
     margin: 0 auto -3rem auto;
+
+    position: relative;
+    z-index: 10;
+
     li {
         border: 1.5px solid $green;
         box-sizing: border-box;
@@ -10,7 +14,7 @@
         margin-bottom: $line-height-default;
         a span {
             display: block;
-            padding: 1rem 2rem 2rem 1rem;            
+            padding: 1rem 2rem 2rem 1rem;
         }
 
         // hover glow
@@ -25,9 +29,10 @@
             position: relative;
             right: 0.5rem;
             bottom: 1.5rem;
+            height: 1rem;
         }
     }
-    
+
     li svg {
         border: 2.5px solid $red;
     }
@@ -39,11 +44,12 @@
             align-items: center;
             justify-content: space-between;
             span {
-                padding: 1rem 2rem 2rem 1rem;            
+                padding: 1rem 2rem 2rem 1rem;
             }
-            
+
             img {
                 padding: 0.5rem;
+                height: 4rem;
             }
         }
     }

@@ -11,7 +11,7 @@ Last updated: April 19, 2021
 
 When you use this website or play *Survive the Century*, these terms will automatically apply to you. We know it's legal stuff, but please read it. We've tried to write everything in clear language.
 
-If you have any questions about any of our terms, please pop us an email and we’ll try to help: [sam.beckbessinger@gmail.com](mailto:sam.beckbessinger@gmail.com){:.copy-to-clipboard}
+If you have any questions about any of our terms, please pop us an email and we’ll try to help: [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## You accept these terms
 
@@ -31,7 +31,7 @@ All parts of this service are the exclusive property of either Three Kids in a T
 
 You may download and print the content for your own personal and non-commercial use only. You may not use the content for any other purpose without prior written approval. You may not reproduce, republish, remix or adapt the content without our permission.
 
-If you wish to use our content other than as permitted by these terms and conditions, please contact us at hello@survivethecentury.net. 
+If you wish to use our content other than as permitted by these terms and conditions, please contact us at [hello@survivethecentury.net](mailto:hello@survivethecentury.net){:.copy-to-clipboard}
 
 ## We respect your privacy
 
@@ -39,19 +39,19 @@ You can read more about this in our [Privacy Policy](privacy.html).
 
 ## Links to other websites
 
-Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third party website or service. 
+Our service may contain links to other websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any third-party website or service. 
 
 ## Limited liability
 
-To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service. 
+To the maximum extent permitted by law, we do not accept any responsibility for any statement contained in this service. We will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of using the service.
 
-## U.K. law applies to these terms
+## UK law applies to these terms
 
 These terms are governed by and interpreted in accordance with the laws of the United Kingdom without giving effect to any principles of conflict of law. You consent to the exclusive jurisdiction of the courts of the United Kingdom over any dispute about the service or these terms.
 
 ## We will try to resolve disputes informally
 
-If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on hello@survivethecentury.net and giving us at least thirty (30) days to first resolve your issue before taking additional action.
+If you have any concern or dispute about the service, you agree to first try to resolve the dispute informally by contacting us on [hello@survivethecentury.net](mailto:hello@survivethecentury.net) and giving us at least thirty (30) days to first resolve your issue before taking additional action.
 
 ## These terms can change
 

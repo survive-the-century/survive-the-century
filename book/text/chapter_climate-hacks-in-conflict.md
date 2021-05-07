@@ -10,7 +10,7 @@ temperature: 2.3
 {% include variables %}
 
 
-Every billionaire has their own pet climate hacking project.
+Every billionaire has their own pet climate-hacking project.
 {:.leader-sentence}
 
 It’s an unregulated mess.
