@@ -17,7 +17,7 @@ style: frontmatter
 
 ## Primary sponsors
 
-[Climate Interactive](https://www.climateinteractive.org/), the Global Strategic Communications Council Opportunity Fund (the GSCC), the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145
+[Climate Interactive](https://www.climateinteractive.org/) and the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145.
 
 ## Web development and publishing
 
