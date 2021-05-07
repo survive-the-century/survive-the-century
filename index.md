@@ -26,7 +26,7 @@ Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff 
 
 Invaluable scientific contributions (and hilarious headlines) co-ordinated through the National Socio-Environmental Synthesis Center (SESYNC) of the University of Maryland. [A full list of contributors is here.](credits.html)
 
-This is a not-for-profit project supported by the Global Strategic Communications Council Opportunity Fund and Climate Interactive.
+This is a not-for-profit project supported by Climate Interactive and the National Socio-Environmental Synthesis Center (SESYNC).
 
 [Read the stories](book/text/stories.html)
 {:.button.underline}
