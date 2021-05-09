@@ -4,7 +4,7 @@ style: chapter
 conflict: 
 decade: 
 economy: 
-temperature: 1.4
+temperature: 1.5
 ---
 
 {% include variables %}

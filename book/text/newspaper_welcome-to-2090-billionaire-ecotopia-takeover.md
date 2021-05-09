@@ -4,7 +4,7 @@ style: newspaper
 conflict: 
 decade: 2090
 economy: 
-temperature: 2.3
+temperature: 1.7
 ---
 
 {% include variables %}
