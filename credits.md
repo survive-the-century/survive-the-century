@@ -17,7 +17,7 @@ style: frontmatter
 
 ## Primary sponsors
 
-[Climate Interactive](https://www.climateinteractive.org/) and the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145.
+[Climate Interactive](https://www.climateinteractive.org/), the [FLAIR Fellowship Programme](https://royalsociety.org/grants-schemes-awards/grants/flair/): a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, and the [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) under funding received from the National Science Foundation DBI-1639145.
 
 ## Web development and publishing
 
