@@ -42,17 +42,22 @@ ebTrackTheVariables();
 
 function ebChooseTheTemperatureIcon(variableValue) {
     var temperature = Number(variableValue);
+    var intTemperature = Math.round(temperature);
 
-    if (temperature > 1 && temperature < 2) {
-        if (temperature < 1.4) {
-            return "1";
-        } else if (temperature < 1.8) {
-            return "1-5";
+    // if value is not an integer
+    if (temperature !== intTemperature) {
+        var integerPart = Math.floor(temperature);
+        var decimalPart = temperature - integerPart;
+
+        if (decimalPart < 0.4) {
+            return `${integerPart}`;
+        } else if (decimalPart < 0.8) {
+            return `${integerPart}-5`;
         } else {
-            return "2";
+            return `${integerPart + 1}`;
         }
     } else {
-        return Math.round(Number(variableValue));
+        return `${temperature}`;
     }
 }
 
