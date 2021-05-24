@@ -24,7 +24,7 @@ New-New Singapore named Best Dome of 2092
 ### Other stories today
 
 - {% include thumbnail file="thumbnail_forest.png" %} De-extinction update: Tigers, rhinos latest creatures to be resurrected through gene editing, available to adopt as miniature pets
-- {% include thumbnail file="thumbnail_flow-horizontal.png" %} “There were no domes when my father was president,” says Barron Trump
+- {% include thumbnail file="thumbnail_flow-horizontal.png" %} “There were no domes when my father was president,” says William Trump
 - {% include thumbnail file="thumbnail_peaks.png" %} Seats for simulated Holy Himalayan tourism get booked five years in advance
 - {% include thumbnail file="thumbnail_water.png" %} Looking for an unusual holiday? Try an underwater tour of Miami!
 - {% include thumbnail file="thumbnail_people.png" %} Ten more wonderful things the Council did this year (we love the Council!)
