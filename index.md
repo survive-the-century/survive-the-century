@@ -12,7 +12,7 @@ style: home
 You are the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby shift the zeitgeist.
 {:.homepage-leader-sentence}
 
-Lead the world towards utopia, or unleash your inner sociopath to see how bad things can get. Nobody’s judging. Your choices will determine how well humanity will survive the 21st century.
+Lead the world towards utopia, or unleash your inner villain to see how bad things can get. Nobody’s judging. Your choices will determine how well humanity will survive the 21st century.
 
 {% include play-buttons %}
 
