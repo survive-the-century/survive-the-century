@@ -59,7 +59,11 @@ function ebNextDecadeButtons() {
         nextDecadeLink.appendChild(arrowElement2);
 
         // This should not show if you are coming from the stories TOC
-        if (document.referrer.includes("stories.html")) {
+        // or if someone has shared a story link
+        if (
+            !document.referrer.includes("newspaper") &&
+            !document.referrer.includes("part-page")
+        ) {
             nextDecadeLink.parentNode.classList.add("hidden");
 
             // Push the footer down to fill the void
