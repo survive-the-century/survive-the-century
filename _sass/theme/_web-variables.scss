@@ -7,9 +7,10 @@ $font-text-secondary: "Lora", "Apple Garamond", "Baskerville", "Cambria", "Droid
 
 // Break points
 $break-point-default: $max-width-default;
-$break-point-masthead: 54rem;
+$break-point-masthead: 58rem;
 $break-point-infobox: 46rem;
-$break-point-footer: 0.7 * $max-width-default;
+$break-point-footer: 25.25rem;
+$break-point-nav: 24rem;
 
 // Type sizes
 $font-size-default: 1.125rem;
@@ -27,7 +28,7 @@ $color-text-secondary: $green;
 $color-background: $midnight;
 
 // Masthead
-$masthead-height: 4.75rem;
+$masthead-height: 4.875rem;
 
 // Newspaper
 $newspaper-header-height: 8.2rem;

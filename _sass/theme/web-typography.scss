@@ -2,6 +2,11 @@ p {
     @include text-small ($white);
 }
 
+p, p + p {
+    margin-bottom: 0.75rem;
+    text-indent: 0;
+}
+
 // Masthead
 
 .masthead {
@@ -57,6 +62,7 @@ p {
     .leader-sentence,
     .choice-question {
         @include text-big ($green);
+        margin-bottom: 1.5rem;
     }
 
     .leader-sentence.thanks {
@@ -218,14 +224,11 @@ button.copy-to-clipboard {
 
 // Footer
 
-.footer {
+.footer-wrapper {
     padding-top: 1.3rem;
-    li {
+    a {
         @include text-button-small ($white);
-        list-style-type: none;
-        a {
-            text-decoration: none;
-            color: $white;
-        }
+        text-decoration: none;
+        color: $white;
     }
 }
