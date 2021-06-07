@@ -36,21 +36,40 @@
     li svg {
         border: 2.5px solid $red;
     }
+}
 
-    // Styles for random choices
-    li.random {
-        a {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            span {
-                padding: 1rem 2rem 2rem 1rem;
-            }
+// Styles for random choices
 
-            img {
-                padding: 0.5rem;
-                height: 4rem;
-            }
+// Keyframes for animation
+@keyframes dice-roll {
+  0% {
+    transform: rotate(-20deg);
+  }
+  50% {
+    transform: rotate(20deg);
+  }
+  100% {
+    transform: rotate(-20deg);
+  }
+}
+
+.choice-options li.random {
+    a {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        span {
+            padding: 1rem 2rem 2rem 1rem;
+        }
+
+        img {
+            padding: 0.5rem;
+            height: 4rem;
+        }
+    }
+    &.rolling {
+        a img {
+            animation: dice-roll 0.3s linear infinite;
         }
     }
 }
