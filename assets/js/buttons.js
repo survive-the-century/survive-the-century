@@ -99,3 +99,18 @@ function ebActionButtons() {
 }
 
 ebActionButtons();
+
+
+function ebNavShareButton() {
+    // the share button in the nav needs interactivity
+
+    var navShareButton = document.querySelector(".nav .share");
+    var navShareLinks = document.querySelector("div.nav-share-links");
+    if (navShareButton) {
+        navShareButton.addEventListener("click", function () {
+            navShareLinks.classList.toggle("hidden");
+        });
+    }
+}
+
+ebNavShareButton();

@@ -20,5 +20,24 @@
                 <p>Restart</p>
             </a>
         </li>
+
+        <li class="share">
+            <a class="share">
+                <img src="../../assets/images/web/share.svg" alt="Share">
+                <p>Share</p>
+            </a>
+        </li>
     </ul>
+
+    <div class="nav-share-links hidden">
+        <p>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://survivethecentury.net/" target="_blank">Facebook</a>
+        </p>
+        <p>
+            <a href="https://twitter.com/intent/tweet?url=https://survivethecentury.net/&text=You are the senior editor of the world's most popular and trusted news organization. Your choices will determine whether humanity will survive the 21st century. No pressure!" target="_blank">Twitter</a>
+        </p>
+        <p>
+            <a href="mailto:info@example.com?&subject=&body=https://survivethecentury.net/ You are the senior editor of the world's most popular and trusted news organization. Your choices will determine whether humanity will survive the 21st century. No pressure!" target="_blank">Email</a>
+        </p>
+    </div>
 </nav>
