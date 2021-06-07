@@ -1,1 +1,25 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="70.8" height="55" xml:space="preserve"><style>.st0{fill:#000040}.st1{fill:none;stroke:#ff4f3c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.st2{fill:#ff4f3c}</style><path class="st0" d="M48.2 14l18.2 7.4 3.4 21.4L54.5 54l-17.8-8-3.4-21.4L48.2 14z"/><path class="st1" d="M33.3 24.6l17.8 7.5m-17.8-7.5L48.2 14l18.2 7.4m-33.1 3.2L36.7 46l17.8 8m-3.4-21.9l15.4-10.7M51.1 32.1L54.5 54m12-32.6l3.4 21.4L54.5 54"/><ellipse transform="rotate(-8.885 46.905 36.62)" class="st2" cx="46.9" cy="36.6" rx="1.9" ry="2.9"/><ellipse transform="rotate(-8.885 48.247 45.19)" class="st2" cx="48.2" cy="45.2" rx="1.9" ry="2.9"/><ellipse transform="rotate(-8.885 62.643 31.23)" class="st2" cx="62.6" cy="31.2" rx="1.9" ry="2.9"/><ellipse transform="rotate(-8.885 49.726 23.499)" class="st2" cx="49.7" cy="23.5" rx="2.9" ry="1.9"/><ellipse transform="rotate(-8.885 59.522 42.448)" class="st2" cx="59.5" cy="42.5" rx="1.9" ry="2.9"/><ellipse transform="rotate(-8.885 39.494 32.904)" class="st2" cx="39.5" cy="32.9" rx="1.9" ry="2.9"/><ellipse transform="rotate(-8.885 40.837 41.473)" class="st2" cx="40.8" cy="41.5" rx="1.9" ry="2.9"/><path class="st0" d="M30.6 2.6l9 17.5-11.3 18.5-18.9-1.5L1 19.4 12.4 1l18.2 1.6z"/><path class="st1" d="M12.4 1L21 18.2M12.4 1l18.2 1.6 9 17.5M12.4 1L1 19.4 9.4 37M21 18.2l18.7 1.9M21 18.2L9.4 37.1m30.3-17L28.3 38.6 9.4 37.1"/><ellipse transform="rotate(-58.29 14.891 18.968)" class="st2" cx="14.9" cy="19" rx="2.9" ry="1.9"/><ellipse transform="rotate(-58.29 10.332 26.347)" class="st2" cx="10.3" cy="26.3" rx="2.9" ry="1.9"/><ellipse transform="rotate(-58.29 30.35 25.12)" class="st2" cx="30.3" cy="25.1" rx="2.9" ry="1.9"/><ellipse transform="rotate(-58.29 25.577 10.842)" class="st2" cx="25.6" cy="10.8" rx="1.9" ry="2.9"/><ellipse transform="rotate(-58.29 20.678 31.606)" class="st2" cx="20.7" cy="31.6" rx="2.9" ry="1.9"/><ellipse transform="rotate(-58.29 11.685 11.322)" class="st2" cx="11.7" cy="11.3" rx="2.9" ry="1.9"/><ellipse transform="rotate(-58.29 7.126 18.701)" class="st2" cx="7.1" cy="18.7" rx="2.9" ry="1.9"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 48" style="enable-background:new 0 0 40 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000040;}
+	.st1{fill:none;stroke:#FF4F3C;stroke-width:1.5;}
+	.st2{fill:none;stroke:#FF4F3C;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#FF4F3C;}
+</style>
+<path class="st0" d="M19.7,1.2l18.6,11.4l-0.2,24.1l-18.8,9.5L1.3,34.2l0.2-24.1L19.7,1.2z"/>
+<line class="st1" x1="1.5" y1="10.1" x2="19.6" y2="21.5"/>
+<polyline class="st2" points="1.5,10.1 19.7,1.2 38.4,12.6 "/>
+<polyline class="st2" points="1.5,10.1 1.3,34.2 19.3,46.1 "/>
+<line class="st1" x1="19.6" y1="21.5" x2="38.4" y2="12.6"/>
+<line class="st1" x1="19.6" y1="21.5" x2="19.3" y2="46.1"/>
+<polyline class="st2" points="38.4,12.6 38.1,36.6 19.3,46.1 "/>
+<ellipse transform="matrix(8.971832e-03 -1 1 8.971832e-03 -11.6769 39.6533)" class="st3" cx="14.2" cy="25.7" rx="3.2" ry="2.1"/>
+<ellipse transform="matrix(8.971965e-03 -1 1 8.971965e-03 -21.3891 49.1075)" class="st3" cx="14.1" cy="35.3" rx="3.2" ry="2.1"/>
+<ellipse transform="matrix(8.971832e-03 -1 1 8.971832e-03 9.4188 54.8471)" class="st3" cx="32.4" cy="22.7" rx="3.2" ry="2.1"/>
+<ellipse transform="matrix(8.972602e-03 -1 1 8.972602e-03 7.6045 31.3926)" class="st3" cx="19.6" cy="11.9" rx="2.1" ry="3.2"/>
+<ellipse transform="matrix(8.971832e-03 -1 1 8.971832e-03 -7.7043 61.0069)" class="st3" cx="26.9" cy="34.4" rx="3.2" ry="2.1"/>
+<ellipse transform="matrix(8.971832e-03 -1 1 8.971832e-03 -13.6344 26.8469)" class="st3" cx="6.7" cy="20.3" rx="3.2" ry="2.1"/>
+<ellipse transform="matrix(8.971899e-03 -1 1 8.971899e-03 -23.3466 36.3012)" class="st3" cx="6.6" cy="29.9" rx="3.2" ry="2.1"/>
+</svg>
