@@ -23,7 +23,7 @@ Should we try a solar geoengineering solution now, or do more research?
 <div data-js-var="js-rand-geoengineering3-low" markdown="1" class="hidden">
 
 - [Let’s do a little more research first.](chapter_stalling.html)
-- {:.random} [Let’s give it a go.](chapter_chapter_geo-engineering-fail.html)
+- {:.random} [Let’s give it a go.](chapter_geo-engineering-fail.html)
 {:.choice-options}
 
 </div>
