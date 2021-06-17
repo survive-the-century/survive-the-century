@@ -84,7 +84,7 @@ function ebDisplayTheIcons() {
 
             // round the value if it's a number
             if (Number(variableValue)) {
-                if (variable == "temperature") {
+                if (variable === "temperature") {
                     variableValue = ebChooseTheTemperatureIcon(variableValue);
                 } else {
                     variableValue = Math.round(Number(variableValue));

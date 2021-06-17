@@ -7,7 +7,11 @@ function ebSetTheDefaultVariables() {
         "fracking": 0,
         "military": "yes",
         "democracy": "no",
-        "termination": "roguestates"
+        "termination": "roguestates",
+        "conflict": 3,
+        "decade": 2020,
+        "economy": "down",
+        "temperature": 1.2
     };
 
     for (var variableName in variableObject) {
