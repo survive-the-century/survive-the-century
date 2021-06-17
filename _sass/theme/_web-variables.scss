@@ -9,7 +9,7 @@ $font-text-secondary: "Lora", "Apple Garamond", "Baskerville", "Cambria", "Droid
 $break-point-default: $max-width-default;
 $break-point-masthead: 58rem;
 $break-point-infobox: 46rem;
-$break-point-footer: 25.25rem;
+$break-point-footer: 0.7 * $max-width-default;
 $break-point-nav: 24rem;
 
 // Type sizes

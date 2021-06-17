@@ -224,11 +224,14 @@ button.copy-to-clipboard {
 
 // Footer
 
-.footer-wrapper {
+.footer {
     padding-top: 1.3rem;
-    a {
+    li {
         @include text-button-small ($white);
-        text-decoration: none;
-        color: $white;
+        list-style-type: none;
+        a {
+            text-decoration: none;
+            color: $white;
+        }
     }
 }

@@ -1,34 +1,37 @@
 .footer-wrapper {
     width: 100%;
     border-top: 1px solid $midnight-60pc;
+    // height: 9rem;
     padding-bottom: 2rem;
 
-    .footer-top {
-        display: flex;
-        justify-content: space-between;
-        padding: 0 1rem;
+    .footer {
+        max-width: $max-width-default;
+        padding: 0;
+        margin: 1.5rem auto;
     }
 
-    .footer-links, .footer-share {
+    ul {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        flex-grow: 1;
-    }
+        margin: 0 auto;
+        max-width: 95%;
 
-    .footer-links {
-        max-width: 14rem;
-        min-width: 10rem;
-        margin-right: 1rem;
-    }
+        li {
+            // reset template css
+            display: list-item;
+            margin: 0;
+            padding: 0;
+            &:after {
+                content: none;
+            }
 
-    .footer-share {
-        max-width: 13rem;
-        min-width: 6rem;
-        margin-left: 1rem;
+            height: fit-content;
+            height: -moz-fit-content;
 
-        img {
-            height: 1.5rem;
+            a {
+                display: block;
+            }
         }
     }
 
@@ -46,35 +49,16 @@
         flex-direction: row;
         flex-wrap: wrap;
 
-        max-width: 29rem;
-        margin: 2rem auto 0 auto;
+        max-width: 0.7 * $max-width-default;
+        margin: auto;
 
-        @media only screen and (min-width: $break-point-masthead) {
-            & {
-                margin-top: -2rem;
-            }
-        }
-
-        // Rearrange logos to have the wide one below on narrow screens
         @media only screen and (max-width: $break-point-footer) {
             & {
                 max-width: 100%;
-                justify-content: center;
-            }
-
-            a {
-                margin-left: 1rem;
-                margin-right: 1rem; 
-            }
-
-            .icrlp-logo {
-                order: 1;
             }
         }
     }
 }
-
-// Newspaper has hidden footer
 
 .newspaper,
 .story {
@@ -85,8 +69,6 @@
         }
     }
 }
-
-// Move up when the masthead is at the bottom
 
 @media only screen and (max-width: $break-point-masthead) {
     .footer-wrapper {
