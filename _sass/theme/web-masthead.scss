@@ -119,7 +119,7 @@
         }
 
         @media only screen and (max-width: $break-point-nav) {
-            li.share {
+            li.home {
                 display: none;
             }
             & {
@@ -160,7 +160,7 @@
 
             @media only screen and (max-width: $break-point-masthead) {
                 & {
-                    transform: translateY(-10.6rem);
+                    transform: translateY(-10.65rem);
                     p {
                         margin-top: 1rem;
                         margin-bottom: 0;
