@@ -9,7 +9,6 @@ temperature:
 
 {% include variables %}
 
-
 Improvements in the space mirror fleet and other adaptation technologies help, but a lot of the outside world is still a hostile, frightening place. 
 {:.leader-sentence}
 
@@ -22,6 +21,6 @@ Some crazy fringe religious groups hate the domes and the decadent lifestyles th
 Should we quash these terrorist groups?
 {:.choice-question}
 
-- [Yes](chapter_quash-terrorists.html){:data-js-var="js-var-democracy-no"}
-- [No](chapter_quash-terrorists.html){:data-js-var="js-var-democracy-yes"}
+- [Yes](chapter_quash-terrorists-no.html)
+- [No](chapter_quash-terrorists-yes.html)
 {:.choice-options}
