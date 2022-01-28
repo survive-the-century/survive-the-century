@@ -6,8 +6,7 @@ function ebSetTheDefaultVariables() {
         "leaning": "slowfade",
         "fracking": 0,
         "military": "yes",
-        "democracy": "no",
-        "termination": "roguestates"
+        "democracy": "no"
     };
 
     for (var variableName in variableObject) {

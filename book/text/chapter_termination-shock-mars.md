@@ -1,5 +1,5 @@
 ---
-title: "Termination shock"
+title: "Termination shock - Mars"
 style: chapter
 conflict: 
 decade: 
@@ -9,24 +9,10 @@ temperature: 2.6
 
 {% include variables %}
 
-
-<div data-js-var="css-var-termination-roguestates" markdown="1" class="hidden">
-
-Yeah… that doesn’t work. 
-{:.leader-sentence}
-
-The rogue states successfully hack the space mirrors and bring down the whole system.
-
-</div>
-
-<div data-js-var="css-var-termination-mars" markdown="1" class="hidden">
-
 The Mars colony is going to cost an eye-melting amount of money. 
 {:.leader-sentence}
 
 Most geoengineering projects are defunded, and many of them have to be stopped suddenly.
-
-</div>
 
 It turns out that we’d become more dependent on geoengineering than we realized. As soon as we stop, the temperature shoots up very suddenly.
 
