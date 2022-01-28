@@ -7,8 +7,8 @@ var dataObject = {
         keywords: ["failure", "success"]
     },
     "luck": {
-        max: 10,
-        values: [1, 10],
+        max: 6,
+        values: [5, 6],
         keywords: ["low", "high"]
     },
     "geoengineering1": {
@@ -22,8 +22,8 @@ var dataObject = {
         keywords: ["low", "med", "medplus", "high"]
     },
     "geoengineering3": {
-        max: 10,
-        values: [1, 10],
+        max: 6,
+        values: [1, 6],
         keywords: ["low", "high"]
     }
 };
