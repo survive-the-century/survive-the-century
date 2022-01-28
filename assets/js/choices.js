@@ -4,7 +4,6 @@ function ebSetTheDefaultVariables() {
     var variableObject = {
         "carboncapture": 0,
         "leaning": "slowfade",
-        "fracking": 0,
         "military": "yes"
     };
 
