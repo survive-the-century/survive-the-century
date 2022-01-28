@@ -1,5 +1,5 @@
 ---
-title: "Slow economic recovery"
+title: "Slow economic recovery - slowfade"
 style: chapter
 conflict: 
 decade: 
@@ -9,8 +9,14 @@ temperature: 1.4
 
 {% include variables %}
 
-By the late 2020s, economies are battered. Countries need bold new economic-recovery plans. Different groups propose different solutions.
+Vaccine rumours are everywhere. 
 {:.leader-sentence}
+
+They’re filled with oestrogen and it’s a plot to feminize men! They contain microchips so that Bill Gates can track our every movement! They cause cancer so that you’re addicted to buying Big Pharma medicines for the rest of your life! Anti-vaxxers hijack vaccine-distribution trucks and destroy millions of doses.
+
+Instead of taking months to roll out the vaccine, it takes four years.
+
+By the late 2020s, economies are battered. Countries need bold new economic-recovery plans. Different groups propose different solutions.
 
 Which economic proposal will your news site give the most time to?
 {:.choice-question}

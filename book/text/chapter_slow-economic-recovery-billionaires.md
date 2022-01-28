@@ -1,5 +1,5 @@
 ---
-title: "Slow economic recovery"
+title: "Slow economic recovery - billionaires"
 style: chapter
 conflict: 
 decade: 
@@ -9,8 +9,14 @@ temperature: 1.4
 
 {% include variables %}
 
-By the late 2020s, economies are battered. Countries need bold new economic-recovery plans. Different groups propose different solutions.
+The richest people in the world band together and donate vaccines to countries that need them.
 {:.leader-sentence}
+
+People erect statues in honour of their billionaire saviours.
+
+The rollout programmes aren’t very effective, though, because they’re optimized for PR rather than public health. Instead of taking months to roll out the vaccine, it takes two years.
+
+By the late 2020s, economies are battered. Countries need bold new economic-recovery plans. Different groups propose different solutions.
 
 Which economic proposal will your news site give the most time to?
 {:.choice-question}
