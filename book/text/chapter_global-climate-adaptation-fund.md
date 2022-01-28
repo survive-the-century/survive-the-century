@@ -12,7 +12,7 @@ temperature: 2
 Thanks entirely to a well-argued, impassioned editorial you wrote, rich countries cave to the pressure.
 {:.leader-sentence}
 
-Although they say they can't reduce their own emissions faster, they do contribute trillions of dollars to a global climate fund.
+Although they say they can't reduce their own emissions faster, they do contribute trillions of dollars to a [global climate fund](#infobox).
 
 This fund is used to research and deploy technology that will help to stabilize the climate, and to help poorer countries adapt to more extreme weather events.
 

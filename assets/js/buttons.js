@@ -59,15 +59,23 @@ function ebNextDecadeButtons() {
         nextDecadeLink.appendChild(arrowElement2);
 
         // This should not show if you are coming from the stories TOC
-        if (document.referrer.includes("stories.html")) {
+        // or if someone has shared a story link
+        if (
+            !document.referrer.includes("newspaper") &&
+            !document.referrer.includes("part-page")
+        ) {
             nextDecadeLink.parentNode.classList.add("hidden");
 
             // Push the footer down to fill the void
-            var footerWrapper = document.querySelector(".footer-wrapper");
-            footerWrapper.classList.add("no-next-decade-link");
+            // var footerWrapper = document.querySelector(".footer-wrapper");
+            // footerWrapper.classList.add("no-next-decade-link");
 
             // hide the dash
             document.body.classList.add("dash-hidden");
+
+            // fix the lower margin on the content
+            var contentDiv = document.querySelector("#content");
+            contentDiv.classList.add("no-next-decade-link");
         }
     }
 }
@@ -91,3 +99,18 @@ function ebActionButtons() {
 }
 
 ebActionButtons();
+
+
+function ebNavShareButton() {
+    // the share button in the nav needs interactivity
+
+    var navShareButton = document.querySelector(".nav .share");
+    var navShareLinks = document.querySelector("div.nav-share-links");
+    if (navShareButton) {
+        navShareButton.addEventListener("click", function () {
+            navShareLinks.classList.toggle("hidden");
+        });
+    }
+}
+
+ebNavShareButton();

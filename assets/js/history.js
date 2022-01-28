@@ -81,11 +81,24 @@ ebTrackPlayHistory();
 
 
 function ebRedirectUsersWhoHaventStarted() {
-    // if a user accesses a URL that is not the home page, and they
-    // haven't played before, redirect them to the home page
+    // if a user accesses a URL that is within the story, and they
+    // are not busy playing, redirect them to the home page
 
-    if (window.location.pathname !== "/" &&
-        !(document.referrer.includes(window.location.origin))) {
+    var nonShareablePages = [
+        "chapter",
+        "ending",
+        "newspaper",
+        "part-page"
+    ];
+
+    if (
+        // user is trying to access a nonShareablePage
+        nonShareablePages.some(function (pageType) {
+            return window.location.pathname.includes(pageType);
+        }) &&
+        // user is not coming from another page on this domain
+        !(document.referrer.includes(window.location.origin))
+    ) {
         window.location.href = "/";
     }
 }

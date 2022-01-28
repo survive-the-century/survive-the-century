@@ -12,7 +12,7 @@ temperature: 2.25
 The effects of climate change are getting more and more severe. 
 {:.leader-sentence}
 
-Some experts argue that it’s time to deploy some form of ambitious solar geoengineering project to buy ourselves time to get the climate back under control.
+Some experts argue that it’s time to deploy some form of ambitious [solar geoengineering project](#infobox) to buy ourselves time to get the climate back under control.
 
 But solar geoengineering technology is still largely untested, and there’s a lot of uncertainty about whether it will work, or how it would be managed. Something could go wrong.
 

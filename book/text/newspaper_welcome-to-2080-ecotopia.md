@@ -4,7 +4,7 @@ style: newspaper
 conflict: 
 decade: 2080
 economy: 
-temperature: 1.25
+temperature: 1.5
 ---
 
 {% include variables %}
@@ -30,5 +30,5 @@ Summer fest in the Arctic as Inuit communities celebrate the progression of sea 
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} REAL SNOW! Historic ski resort in Argentina opens with real snow for the first time in decades
 {:.articles}
 
-[Just one more decade to go.](chapter_the-end-of-nation-states.html)
+[Just a couple more decades to go.](chapter_the-end-of-nation-states.html)
 {:.next-decade-link}

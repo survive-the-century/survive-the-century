@@ -4,7 +4,11 @@ function ebSetTheDefaultVariables() {
     var variableObject = {
         "carboncapture": 0,
         "leaning": "slowfade",
-        "military": "yes"
+        "military": "yes",
+        "conflict": 3,
+        "decade": 2020,
+        "economy": "down",
+        "temperature": 1.2
     };
 
     for (var variableName in variableObject) {

@@ -31,5 +31,5 @@ Millions are left without refuge during the peak heat of the summer
 - {% include thumbnail file="thumbnail_people.png" %} Millions of climate refugees are offered asylum in exchange for work in Antarctic uranium mines
 {:.articles}
 
-[Just one more decade to go.](chapter_death-cults.html)
+[Just a couple more decades to go.](chapter_death-cults.html)
 {:.next-decade-link}

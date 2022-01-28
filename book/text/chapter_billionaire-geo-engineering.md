@@ -16,7 +16,7 @@ Our billionaire playboy overlords start deploying huge, flashy technology projec
 
 Overall, the global temperature does start to drop, but there are some unfortunate side effects. Weather patterns are disrupted, leading to awful droughts in some parts of the world, and floods in others. Mexico City, Cape Town and Tokyo all have to introduce water rationing, while Beijing and New York suffer the worst flooding in their histories.
 
-We also send up the first manned Mars missions, so we’ve got that as a backup.
+We also send up the first manned [Mars missions](#infobox), so we’ve got that as a backup.
 
 - [Woohoo! You made it to 2060.](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2060-billionaire-saviours.html"}
 {:.choice-options}

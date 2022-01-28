@@ -86,3 +86,40 @@ function ebDisplayRandomChoices() {
 }
 
 ebDisplayRandomChoices();
+
+// Animate the dice roll
+
+function ebRollTheDice(linkDest) {
+    setTimeout(function () {
+        window.location = linkDest;
+    }, 1000);
+}
+
+function ebAnimateTheDiceRoll() {
+    // find the random buttons
+    var diceRollChoices = document.querySelectorAll("li.random");
+    if (diceRollChoices.length !== 0) {
+
+        diceRollChoices.forEach(function (choice) {
+            var linkElement = choice.querySelector("a");
+            var linkDest = linkElement.href;
+            linkElement.addEventListener("click", function () {
+                // add a class if the random choice is selected by the user
+                choice.classList.add("rolling");
+                linkElement.href = `javascript:ebRollTheDice('${linkDest}')`;
+            });
+            linkElement.addEventListener("keydown", function (event) {
+                if (event.key === "Enter") {
+                    choice.classList.add("rolling");
+                    linkElement.href = `javascript:ebRollTheDice('${linkDest}')`;
+                }
+            });
+            linkElement.addEventListener("touchstart", function () {
+                choice.classList.add("rolling");
+                linkElement.href = `javascript:ebRollTheDice('${linkDest}')`;
+            });
+        });
+    }
+}
+
+ebAnimateTheDiceRoll();

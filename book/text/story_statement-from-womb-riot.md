@@ -39,7 +39,7 @@ We demand that the tech dynasties and conglomerates acknowledge the anger of the
 
 We demand the immediate release of X-tinction leaders including but not limited to Charne Allais, Kim Ahn and D’Angelo Greenwood, who are being held in inhumane conditions in Jakarta, Medellín, Detroit and beyond.
 
-We demand that the tech dynasties surrender their assets equal to 80&nbsp;per&nbsp;cent of their accumulated wealth and that this money be immediately redistributed for ecological reparations under the guidance of X-tinction and their various NGO partners as per the Accra Papers of 2098.
+We demand that the tech dynasties surrender their assets equal to 80&nbsp;per&nbsp;cent of their accumulated wealth and that this money be immediately redistributed for ecological reparations under the guidance of X-tinction and their various NGO partners as per the Accra Papers of 2088.
 
 We demand that Teslamerica shuts down the A-93 SRM mirror that has been climate-privileging North America.
 

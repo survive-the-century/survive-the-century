@@ -13,7 +13,7 @@ temperature: 3
 All this investment in research starts paying off. 
 {:.leader-sentence}
 
-We’ve developed a technology that we think will allow us to engineer the climate and solve global warming once and for all.
+We’ve developed [a technology](#infobox) that we think will allow us to engineer the climate and solve global warming once and for all.
 
 There is some risk that something will go wrong. We could spend a few more years doing research to improve the chances that it won’t, but we also can’t afford to wait much longer.
 
@@ -23,7 +23,7 @@ Should we try a solar geoengineering solution now, or do more research?
 <div data-js-var="js-rand-geoengineering3-low" markdown="1" class="hidden">
 
 - [Let’s do a little more research first.](chapter_stalling.html)
-- {:.random} [Let’s give it a go.](chapter_chapter_geo-engineering-fail.html)
+- {:.random} [Let’s give it a go.](chapter_geo-engineering-fail.html)
 {:.choice-options}
 
 </div>

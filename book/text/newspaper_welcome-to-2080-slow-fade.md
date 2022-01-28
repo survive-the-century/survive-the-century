@@ -30,5 +30,5 @@ Southern hemisphere agriculture revives for the first time in decades
 - {% include thumbnail file="thumbnail_stormy.png" %} The “year without monsoons” leads to record-breaking meningitis epidemic in Mali
 {:.articles}
 
-[Just one more decade to go.](chapter_red-zones.html)
+[Just a couple more decades to go.](chapter_red-zones.html)
 {:.next-decade-link}

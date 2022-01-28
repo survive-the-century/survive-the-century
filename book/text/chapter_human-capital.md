@@ -9,8 +9,6 @@ temperature: 2.8
 
 {% include variables %}
 
-{% include image file="catwalk.png" class="chapter-image portrait" %}
-
 Migrants are welcomed as “human capital” and resettled in new, high-tech cities all around the world. 
 {:.leader-sentence}
 

@@ -12,7 +12,7 @@ temperature: 1.6
 Phew, is it just me, or is it getting pretty hot in here?
 {:.leader-sentence}
 
-Despite all we’ve done, the world is really starting to feel the effects of climate change. 2041 is a particularly brutal year: so many disasters happen all at once that many of them don’t even make it onto the front page of your news site.
+Despite all we’ve done, the world is really starting to feel [the effects of climate change](#infobox). 2041 is a particularly brutal year: so many disasters happen all at once that many of them don’t even make it onto the front page of your news site.
 
 The disasters displace millions of people. In the US, droughts and hurricanes force people north. Many of them lose their homes and livelihoods. Bangladesh has become largely uninhabitable due to constant flooding. Failing fish stocks in the tropics lead to near-starvation among communities that depend on fishing to survive, and force people into cities. Plans have been made for large parts of Hong Kong, Miami, Lagos and Manhattan to be abandoned to the rising sea water.
 

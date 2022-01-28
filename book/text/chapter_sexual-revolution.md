@@ -25,6 +25,6 @@ There’s a new sexual revolution. Birth rates continue to fall, marriage rates 
 What do you think, bigshot editor? Are you okay with this?
 {:.choice-question}
 
-- [Yes, this is great! Let’s fully embrace this! The nuclear family model never worked for women.](chapter_refugee-crisis-and-designer-world.html)
+- [Yes, this is great!](chapter_refugee-crisis-and-designer-world.html)
 - [This is unnatural! Save our families!](chapter_gender-strongmen.html)
 {:.choice-options}

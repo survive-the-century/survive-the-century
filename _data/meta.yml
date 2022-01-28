@@ -9,7 +9,7 @@ project:
   # A live web address for the organisation
   url: "https://survivethecentury.net"
   # The default contact email address
-  email: "hello@survivethecentury.org"
+  email: "hello@survivethecentury.net"
   # The name of the project of books in this folder.
   name: "Survive the Century"
   # A one-liner about this project. Useful for Open Graph metadata.
@@ -17,7 +17,7 @@ project:
   # The logo of the organisation, saved web-ready in /assets
   logo: "logo.png"
   # An image in /assets/images/web that stands for the project
-  image: "cover.jpg"
+  image: "logo.png"
   # Credit line, by default in the footer, overidden in locales.yml
   credit: "Built with the [Electric Book](https://ebw.co/template)"
   # Primary language code for this project as a whole

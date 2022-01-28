@@ -25,7 +25,7 @@ By Maria Turtschaninoff
 
 Laiti has been showing me around the site for the GIPSS in Rásttigáisá, Sápmi. The site sits at the foot of Mount Rásttigáisá.
 
-“Our founding summit was in Australia,” Laiti says as we sit down in one of the communal teepees, or kotas as they are known in Sápmi. “This time it was thought appropriate to have the summit in the northern hemisphere.” A young woman in what I later learn is the traditional garb of the Anishinaabe people of Canada serves us coffee. During my stay, I have seen people in both Western clothes and traditional garb. But the people from the southern hemisphere tend to either adopt the clothing customs of their northern sisters and brothers or wear Western clothes – their traditional garb usually is too cold.
+“Our founding summit was in Australia,” Laiti says as we sit down in one of the communal teepees, or kotas as they are known in Sámi. “This time it was thought appropriate to have the summit in the northern hemisphere.” A young woman in what I later learn is the traditional garb of the Anishinaabe people of Canada serves us coffee. During my stay, I have seen people in both Western clothes and traditional garb. But the people from the southern hemisphere tend to either adopt the clothing customs of their northern sisters and brothers or wear Western clothes – their traditional garb usually is too cold.
 
 It is June, which means the sun never sets, the mosquitoes are plentiful and the days can be pleasant, but never very hot.
 

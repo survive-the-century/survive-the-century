@@ -41,9 +41,11 @@
 
 .read-more {
     margin-left: auto;
-    @media only screen and (min-width: $break-point-default) {
-        height: 5rem;
-        line-height: 1;
+    line-height: 1;
+    height: 5rem;
+
+    @media only screen and (max-width: $break-point-default) {
+        height: 4rem;
     }
 }
 

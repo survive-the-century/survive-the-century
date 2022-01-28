@@ -14,7 +14,7 @@ A new technological breakthrough means we’ve become aware of huge new oil and 
 
 Thanks to global warming, they’re going to be easier to exploit than ever before!
 
-Greenland is a poor country, so they have no choice but to offer licences to the throngs of companies that flock there looking to make quick money. This entirely reverses any progress that’s been made.
+Greenland is a poor island, so they have no choice but to offer licences to the throngs of companies that flock there looking to make quick money. This entirely reverses any progress that’s been made.
 
 Somehow, despite everything we’ve tried, we’re polluting even more than ever before.
 
