@@ -12,6 +12,8 @@ temperature:
 Cool! 
 {:.leader-sentence}
 
+Award yourself the KUMBAYA badge.
+
 I’m sure this decision won’t be important later.
 
 
