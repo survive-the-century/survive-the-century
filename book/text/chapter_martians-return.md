@@ -17,7 +17,7 @@ Remember all the billionaires who left in the 2060s and went to live on a Mars c
 
 They just invaded Earth. They say they want their planet back.
 
-Oh boy. Do we still have some kind of global military we could call up?
+Oh boy. Do you have that KUMBAYA badge?
 {:.choice-question}
 
 <div data-js-var="css-var-military-no" markdown="1" class="hidden">
