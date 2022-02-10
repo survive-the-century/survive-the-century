@@ -12,6 +12,8 @@ temperature: 2.6
 The Mars colony is going to cost an eye-melting amount of money. 
 {:.leader-sentence}
 
+Award yourself the I WENT TO MARS ALL I GOT WAS THIS LOUSY BADGE badge!
+
 Most geoengineering projects are defunded, and many of them have to be stopped suddenly.
 
 It turns out that we’d become more dependent on geoengineering than we realized. As soon as we stop, the temperature shoots up very suddenly.

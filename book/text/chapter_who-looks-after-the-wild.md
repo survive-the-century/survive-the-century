@@ -15,6 +15,8 @@ There’s all this new wild space in different parts of the world.
 
 Species have more space to adapt to climate change and some are recovering. Nature is beautiful and valuable. People would love to get their hands on it. We could use this for tourism! Or let rich people live there! Or exploit newly discovered resources! Corporations also want to fund (and manage) them because they’re carbon sinks, to offset their activity elsewhere.
 
+Award yourself the I SAVED THE ORANGUTANS badge!
+
 What should we do with all this lovely wild space?
 {:.choice-question}
 

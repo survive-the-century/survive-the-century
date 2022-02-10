@@ -12,6 +12,8 @@ temperature: 1.6
 We tax the rich and invest in public infrastructure and generous grant programmes.
 {:.leader-sentence}
 
+Award yourself the UNIVERSAL BASIC INCOME badge!
+
 We start to see a lot of experiments in new forms of communal and sustainable urban living, as people are freed from constant worry about their next pay cheque.
 
 We start reforming capitalism with new rules like employee representation on boards. The gap between rich and poor closes.

@@ -16,5 +16,7 @@ They dismantle universal basic income programmes.
 
 In an effort to prove their machismo, a lot of them start small-scale wars and beef up their militaries.
 
+Oh no! You lost your UNIVERSAL BASIC INCOME badge.
+
 - [International tensions are heating up.](chapter_global-south-uprising-and-climate-wars.html)
 {:.choice-options}

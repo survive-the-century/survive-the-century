@@ -18,6 +18,8 @@ Without the space mirrors keeping the planet cool, [things heat up FAST](#infobo
 
 Most of the remaining insects die out, including all bees. The Council scrambles to figure out a solution before everyone dies of hunger.
 
+Award yourself the OH, WERE THESE IMPORTANT badge!
+
 Will our magnificent Council figure something out in time?
 {:.choice-question}
 

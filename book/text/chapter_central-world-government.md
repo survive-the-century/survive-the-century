@@ -16,5 +16,7 @@ The leaders of the rogue states that attacked the space fleet are imprisoned and
 
 The Council appoints a Media Fairness Monitor to your newsroom. She won’t tell you her name, and she never smiles. She will review everything you publish from now on.
 
+Award yourself the COUNCIL LOVES ME badge.
+
 - [You made it to 2070!](part-page_2070.html){:js-next-dest="newspaper_welcome-to-2070-designer-planet.html"}
 {:.choice-options}
