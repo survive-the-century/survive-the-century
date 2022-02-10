@@ -25,8 +25,8 @@ What do you propose, oh, powerful editor of the world’s most-read news site?
 How should we get more vaccines to the rest of the world?
 {:.choice-question}
 
-- [Maybe a rich country could donate some vaccines?](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-wars"}
-- [Maybe billionaires could donate some vaccines?](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-billionaires"}
-- [Lets agree that each country should donate one per cent of its GDP to a global vaccine fund.](chapter_fair-vaccine-distribution.html){:data-js-var="js-var-leaning-none"}
-- [Wake up, sheeple! Vaccines are a plot by sinister elites to turn everyone gay!](chapter_slow-economic-recovery.html){:data-js-var="js-var-leaning-slowfade"}
+- [Maybe a rich country could donate some vaccines?](chapter_slow-economic-recovery-wars.html){:data-js-var="js-var-leaning-wars"}
+- [Maybe billionaires could donate some vaccines?](chapter_slow-economic-recovery-billionaires.html){:data-js-var="js-var-leaning-billionaires"}
+- [Let's agree that each country should donate one per cent of its GDP to a global vaccine fund.](chapter_fair-vaccine-distribution.html){:data-js-var="js-var-leaning-none"}
+- [Wake up, sheeple! Vaccines are a plot by sinister elites to turn everyone gay!](chapter_slow-economic-recovery-slowfade.html){:data-js-var="js-var-leaning-slowfade"}
 {:.choice-options}

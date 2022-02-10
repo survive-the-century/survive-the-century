@@ -4,10 +4,7 @@ function ebSetTheDefaultVariables() {
     var variableObject = {
         "carboncapture": 0,
         "leaning": "slowfade",
-        "fracking": 0,
         "military": "yes",
-        "democracy": "no",
-        "termination": "roguestates",
         "conflict": 3,
         "decade": 2020,
         "economy": "down",
