@@ -20,22 +20,14 @@ Most of the remaining insects die out, including all bees. The Council scrambles
 
 Award yourself the OH, WERE THESE IMPORTANT badge!
 
-Will our magnificent Council figure something out in time?
+Will our magnificent Council figure something out in time? Let's sure hope so.
 {:.choice-question}
 
-<div data-js-var="js-rand-insect-failure" markdown="1" class="hidden">
+Roll a dice!
 
-- {:.random} [Let's sure hope so.](chapter_fail-to-invent-insect-drones.html)
+- [If you roll 2 or less, ](chapter_fail-to-invent-insect-drones.html)
+- [If you roll higher than 2, ](chapter_invent-insect-drones.html)
 {:.choice-options}
-
-</div>
-
-<div data-js-var="js-rand-insect-success" markdown="1" class="hidden">
-
-- {:.random} [Let's sure hope so.](chapter_invent-insect-drones.html){:data-js-var="js-var-temperature-2"}
-{:.choice-options}
-
-</div>
 
 > One of the potential risks of blocking some of the sun’s rays to offset global warming is that if we stopped, the temperature could rise very quickly. This would happen if geoengineering was deployed without society also reducing greenhouse gas emissions at the same time. Suddenly stopping geoengineering would cause temperatures to rebound fast. Scientists call this risk "termination shock" and it would be catastrophic for ecosystems globally.
 {:.infobox}
