@@ -18,7 +18,7 @@ Simon Nicholson is Associate Professor of International Relations in the School 
 
 ## Dr Christopher Trisos
 
-
+Christopher Trisos directs the Climate Risk Lab at the African Climate and Development Initiative, University of Cape Town. His research maps climate change risks to people and ecosystems, and combines insights from environmental and social sciences to understand how we can adapt to climate change risks. He is an author for the Intergovernmental Panel on Climate Change. 
 
 # Short fiction by
 
