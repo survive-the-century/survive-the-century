@@ -11,12 +11,7 @@
             You made it!
         </div>
         <p>
-            <a href="js-next-dest-placeholder" class="part-page-button">What will {{ include.year }} bring?</a>
+            <a href="{{ include.link }}" class="part-page-button">What will {{ include.year }} bring?</a>
         </p>
     </div>
 </div>
-
-
-
-
-
