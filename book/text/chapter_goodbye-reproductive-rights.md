@@ -18,5 +18,5 @@ But after decades of greater empowerment, women around the world stand together 
 
 The movement fizzles out.
 
-- [You made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-ecotopia.html"}
+- [You made it to 2080!](part-page_2080-ecotopia.html)
 {:.choice-options}

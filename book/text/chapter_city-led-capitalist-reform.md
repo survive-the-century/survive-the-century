@@ -20,5 +20,5 @@ A lot of the renewable energy projects are run as co-operatives and community-ow
 
 The rich have \#sadfeels about all this. Nobody cares.
 
-- [Congrats! You made it to 2040!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-ecotopia"}
+- [Congrats! You made it to 2040!](part-page_2040-ecotopia.html)
 {:.choice-options}

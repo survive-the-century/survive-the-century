@@ -16,5 +16,5 @@ While they’re hard to live in, they might be of strategic importance down the 
 
 A series of small-scale wars erupt around the world that are really proxy wars about which of the world’s superpowers have more power.
 
-- [You made it to 2050.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-climate-wars.html"}
+- [You made it to 2050.](part-page_2050-climate-wars.html)
 {:.choice-options}

@@ -20,5 +20,5 @@ We’re really starting to see the benefits of having restored wild space. Anima
 
 It’s not over yet, though. Coastal communities are still being hit by extreme weather events and flooding.
 
-- [Woohoo! You made it to 2060.](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2060-ecotopia.html"}
+- [Woohoo! You made it to 2060.](part-page_2060-ecotopia.html)
 {:.choice-options}

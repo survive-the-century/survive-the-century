@@ -16,7 +16,11 @@ It’s important to move slowly when tackling something as important as climate 
 
 By 2028, the world’s economy has rebounded to pre-Covid levels. People feel flush. There’s a boom in luxury consumption, construction, and international travel. Global greenhouse gas emissions haven’t really reduced much, despite the investment in new green infrastructure.
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
 Award yourself the NICE SWEATPANTS badge.
 
-- [You made it to 2030.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-slow-fade.html"}
+{% endif %}
+
+- [You made it to 2030.](part-page_2030-slow-fade.html)
 {:.choice-options}
