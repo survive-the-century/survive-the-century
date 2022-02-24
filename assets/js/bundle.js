@@ -24,7 +24,6 @@ layout: null
     {% include_relative variables.js %}
     {% include_relative choices.js %}
     {% include_relative random.js %}
-    {% include_relative next-destination.js %}
     {% include_relative glow.js %}
     {% include_relative buttons.js %}
 
@@ -38,3 +37,6 @@ layout: null
 
 {% endif %}
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+    {% include_relative page-numbers.js %}
+{% endif %}
