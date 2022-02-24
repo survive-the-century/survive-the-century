@@ -7,6 +7,7 @@ style: frontmatter
 
 - When you read the story, what choices seemed to matter the most?
 - Was your first instinct to try to fix things, or unleash your inner supervillain? Why?
+- What feelings came up for you? Why?
 - In reality, who’s making choices about the world’s response to the climate emergency? Why do you think they’re making the choices they’re making? 
 - How do normal people who care about the world convince powerful people to make different choices?
 - What will climate change look like in your hometown? How might it affect your local economy, environment, politics and communities? 

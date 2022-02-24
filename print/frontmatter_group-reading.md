@@ -11,10 +11,10 @@ Survive the Century has been used in classrooms and conference rooms around the 
 *45-60 minutes*
 1. Divide your group into teams of 3-4.
 2. Direct everyone to survivethecentury.net (or give them a copy of this book) and give them a few minutes to play through the first decade (the 2020s) in their team, stopping when they get to the first newspaper screen. Encourage them to hit the "back" button and try out at least one different choice.
-3. Lead a 5-minute discussion as a whole group, based on the [discussion questions](endmatter_discussion-topics.html).
+3. Lead a 5-minute discussion as a whole group, based on the [discussion questions on page X](endmatter_discussion-topics.html).
 4. Continue like this through the remaining decades.
 
-If pressed for time, you can allow teams to play the whole game through to the end (15 minutes) before leading a 10 minute group discussion.
+If pressed for time, you can allow teams to play the whole game through to the end (15 minutes) before leading a 15 minute group discussion. The game can also be played individually as homework, followed by a 20-30 minute discussion in class.
 
 ## The debate version
 *50-70 minutes*
