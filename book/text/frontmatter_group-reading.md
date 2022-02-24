@@ -14,7 +14,7 @@ Survive the Century has been used in classrooms and conference rooms around the 
 3. Lead a 5-minute discussion as a whole group, based on the [discussion questions](endmatter_discussion-questions.html){:.show-page-number}.
 4. Continue like this through the remaining decades.
 
-If pressed for time, you can allow teams to play the whole game through to the end (15 minutes) before leading a 10 minute group discussion.
+If pressed for time, you can allow teams to play the whole game through to the end (15 minutes) before leading a 15 minute group discussion. The game can also be played individually as homework, followed by a 20-30 minute discussion in class.
 
 ## The debate version
 *50-70 minutes*
