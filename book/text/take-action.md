@@ -30,9 +30,17 @@ Sam, Simon and Chris.
 Now, make a choice in the real world.
 {:.closer-sentence}
 
-- [Turn to page X for some discussion questions.](endmatter_discussion-questions.html)
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+- [For some discussion questions, ](endmatter_discussion-questions.html)
 - [Learn more about the climate emergency.](endmatter_recommended-resources.html)
-- Find a climate justice group near you by visiting 350.org.
+- {:.no-link} Find a climate justice group near you by visiting 350.org.
 - [Read about how we made this book.](endmatter_about.html)
-- [Play again!](chapter_welcome-to-2021)
+- [Play again!](chapter_welcome-to-2021.html)
 {:.choice-options}
+
+{% else %}
+
+{% include action-buttons %}
+
+{% endif %}

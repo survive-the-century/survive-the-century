@@ -11,4 +11,4 @@ Three quick things you need to know before we get started:
 2. Sometimes, one of your choices will be up to chance. Have a six-sided die handy while you read this story (or type “roll dice” into Google).
 3. At the end of this book, you’ll find three trackers. 
 
-[Flip to the back of the book](endmatter_trackers.html) and set up your trackers, then [turn to page X](chapter_welcome-to-2021.html) to make your first choice.
+[Flip to the back of the book](endmatter_trackers.html){:.show-page-number} and set up your trackers, then [turn to page ](chapter_welcome-to-2021.html){:.show-page-number.no-brackets} to make your first choice.

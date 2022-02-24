@@ -7,7 +7,7 @@ style: frontmatter
 
 *Survive the Century* grew out of a workshop convened in 2019 by **Dr. Christopher Trisos** and associate professor **Dr. Simon Nicholson**, climate researchers at the University of Cape Town and American University, respectively. This workshop, under the umbrella of the US-based National Socio-Environmental Synthesis Centre (SESYNC), brought together people from different backgrounds from around the world to think about the climate emergency. **Sam Beckbessinger** was one of those attendees and the game’s co-creator, and is responsible for all of the bad jokes in this story. 
 
-This story is a work of fiction, but it is informed by real science. Over 25 scientists, researchers, policymakers and subject-matter experts were consulted in putting this story together. Sci-fi writers from Finland, India, Qatar and South Africa helped craft the storylines and come up with the hilarious headlines. You can find a full list of their names on [page X](endmatter_credits.html).
+This story is a work of fiction, but it is informed by real science. Over 25 scientists, researchers, policymakers and subject-matter experts were consulted in putting this story together. Sci-fi writers from Finland, India, Qatar and South Africa helped craft the storylines and come up with the hilarious headlines. You can find a full list of their names on page [](endmatter_credits.html){:.show-page-number.no-brackets}.
 
 ## Why write a branching narrative story about climate change?
 
@@ -49,6 +49,5 @@ To take action on climate change, we have to know what science says is likely to
 
 Facts keep us realistic. But to really believe them, we have to be willing to deal in fiction.
 
-[See the full list of credits.](endmatter_credits.html)
-Or
-[Start playing.](frontmatter_how-to-play.html)
+- [See the full list of credits.](endmatter_credits.html){:.show-page-number}
+- [Start playing.](frontmatter_how-to-play.html){:.show-page-number}

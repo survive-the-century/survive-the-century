@@ -17,6 +17,6 @@ There are risks.
 Should we try a last-ditch geoengineering solution?
 {:.choice-question}
 
-- [**Why not?** We have to try something.](chapter_desperate_hack.html)
+- [Why not? We have to try something.](chapter_desperate-hack.html)
 - [It’s too dangerous.](chapter_ignored.html)
 {:.choice-options}

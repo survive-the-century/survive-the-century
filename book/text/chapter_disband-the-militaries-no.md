@@ -1,5 +1,5 @@
 ---
-title: "Disband the militaries"
+title: "Disband the militaries - No"
 style: chapter
 conflict: 
 decade: 2060
@@ -12,10 +12,7 @@ temperature:
 Cool! 
 {:.leader-sentence}
 
-Award yourself the KUMBAYA badge.
-
 I’m sure this decision won’t be important later.
 
-
-- [You made it to 2070!](part-page_2070.html){:js-next-dest="newspaper_welcome-to-2070-ecotopia"}
+- [You made it to 2070!](part-page_2070-ecotopia.html)
 {:.choice-options}

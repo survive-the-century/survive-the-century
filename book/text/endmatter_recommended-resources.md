@@ -1,6 +1,6 @@
 ---
 title: "Recommended Resources"
-style: frontmatter
+style: endmatter
 ---
 
 # Recommended Resources
@@ -9,7 +9,7 @@ Want to learn more about the climate emergency? Here are some of our favourite r
 
 - *How to Save a Planet* (podcast): https://gimletmedia.com/shows/howtosaveaplanet 
 - *All We Can Save* (essay anthology), Ayana Elizabeth Johnson and Katharine K Wilkinson
-- *​​This Changes Everything*, Naomi Klein (nonfiction book)
+- *This Changes Everything*, Naomi Klein (nonfiction book)
 - *Ministry for the Future*, Kim Stanley Robinson (novel)
 - *Braiding Sweetgrass*, Robin Wall Kimmerer (nonfiction book)
 - *The Great Derangement*, Amitav Ghosh (nonfiction book)

@@ -1,6 +1,6 @@
 ---
 title: "Shiny Badges"
-style: badges
+style: endmatter badges
 ---
 
 # Shiny badges

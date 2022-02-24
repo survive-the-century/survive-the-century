@@ -12,7 +12,11 @@ temperature: 1.6
 We tax the rich and invest in public infrastructure and generous grant programmes.
 {:.leader-sentence}
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
 Award yourself the UNIVERSAL BASIC INCOME badge!
+
+{% endif %}
 
 We start to see a lot of experiments in new forms of communal and sustainable urban living, as people are freed from constant worry about their next pay cheque.
 

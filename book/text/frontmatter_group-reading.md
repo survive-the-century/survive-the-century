@@ -11,7 +11,7 @@ Survive the Century has been used in classrooms and conference rooms around the 
 *45-60 minutes*
 1. Divide your group into teams of 3-4.
 2. Direct everyone to survivethecentury.net (or give them a copy of this book) and give them a few minutes to play through the first decade (the 2020s) in their team, stopping when they get to the first newspaper screen. Encourage them to hit the "back" button and try out at least one different choice.
-3. Lead a 5-minute discussion as a whole group, based on the [discussion questions](endmatter_discussion-topics.html).
+3. Lead a 5-minute discussion as a whole group, based on the [discussion questions](endmatter_discussion-questions.html){:.show-page-number}.
 4. Continue like this through the remaining decades.
 
 If pressed for time, you can allow teams to play the whole game through to the end (15 minutes) before leading a 10 minute group discussion.
@@ -42,4 +42,4 @@ If pressed for time, you can allow teams to play the whole game through to the e
 ## Assignment ideas
 - **Individual:** Write a short news article from the future reflecting on how the changing climate might have impacted a specific area of human culture. It can be a straightforward news article, or an unusual format like a travelogue, agony aunt column, quiz, restaurant review, or the transcript of a political speech.
 - **Group:** Write and perform a short news or variety talk-show programme from the future that features celebrity interviews, live-reporting, or advertisement.
-- **Individual (advanced):** As the Survive the Century team, we sense-checked our temperature pathways using a climate modelling tool called En-Roads (available for free here: https://en-roads.climateinteractive.org/). Use this tool to create a dashboard that simulates the world in 2100 at 1.5 degrees C, and at 3 degrees C. Write up a timeline of political and social choices that might have led to that outcome.
+- **Individual (advanced):** As the Survive the Century team, we sense-checked our temperature pathways using a climate modelling tool called En-Roads (available for free here: https://en-roads.climateinteractive.org/). Use this tool to create a dashboard that simulates the world in 2100 at 1.5°C, and at 3°C. Write up a timeline of political and social choices that might have led to that outcome.
