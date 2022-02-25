@@ -35,7 +35,7 @@ Now, make a choice in the real world.
 - [For some discussion questions, ](endmatter_discussion-questions.html)
 - [Learn more about the climate emergency.](endmatter_recommended-resources.html)
 - {:.no-link} Find a climate justice group near you by visiting 350.org.
-- [Read about how we made this book.](endmatter_about.html)
+- [Read about how we made this book.](frontmatter_about.html)
 - [Play again!](chapter_welcome-to-2021.html)
 {:.choice-options}
 
