@@ -20,5 +20,5 @@ And no one has a good explanation for why the protests are happening simultaneou
 
 Everyone is angry. Nothing is done about climate change.
 
-- [Well, you made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-climate-wars.html"}
+- [Well, you made it through the decade!](part-page_2040-climate-wars.html)
 {:.choice-options}

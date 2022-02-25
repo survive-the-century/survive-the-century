@@ -9,10 +9,18 @@
 
 <p>You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.</p>
 
-<a href="{{ include.hyperlink }}">
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+<p>See the data at {{ include.hyperlink }}</p>
+
+{% else %}
+
+<a href="{{ include.hyperlink }}" target="_blank">
     <img src="../../assets/images/web/data.svg" alt="See the data">
     <p>See the data</p>
 </a>
+
+{% endif %}
 
 </div>
 {% endunless %}

@@ -1,0 +1,18 @@
+.choice-options a::after,
+.next-decade-link a::after,
+.part-page a::after,
+a.read-more::after,
+.call-to-action a::after { 
+    content: prince-script(turnToPage, target-counter(attr(href), page));
+}
+
+a.show-page-number {
+    &::after {
+        // use prince-script to only insert this content if we're
+        // not already on the same page as the target reference.
+        content: prince-script(pagereference, counter(page), target-counter(attr(href), page));
+    }
+    &.no-brackets::after {
+        content: prince-script(pagereferencePlain, counter(page), target-counter(attr(href), page));
+    }
+}

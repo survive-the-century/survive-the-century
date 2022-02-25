@@ -18,5 +18,5 @@ They loosen regulations, including environmental laws, which leads to a massive 
 
 Oh, and all of the new public housing, public transport, schools and hospitals we built in the 2020s? We sell them off to private businesses.
 
-- [Well, you made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-slow-fade.html"}
+- [Well, you made it through the decade!](part-page_2040-slow-fade.html)
 {:.choice-options}

@@ -16,7 +16,11 @@ We can consider natural gas a transitional energy source that helps to wean us o
 
 Your paper, as an influential voice, supports this. Right now, it’s more important that we build a more equal economy than worry about pollution.
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
 Award yourself the UNIVERSAL BASIC INCOME badge!
+
+{% endif %}
 
 - [UBI projects are rolled out in most of the world.](chapter_people-get-richer.html)
 {:.choice-options}

@@ -17,7 +17,11 @@ So, even though they’re switching to renewable sources, they’re using much m
 
 This leads to a much fairer society, but delays the transition to renewable energy sources.
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
 Award yourself the UNIVERSAL BASIC INCOME badge!
 
-- [You made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-designer-planet.html"}
+{% endif %}
+
+- [You made it through the decade!](part-page_2040-designer-planet.html)
 {:.choice-options}

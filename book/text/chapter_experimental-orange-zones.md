@@ -15,5 +15,5 @@ Alternative forms of society start to emerge in the hinterlands.
 
 They’re tough landscapes, but these become incubators for alternative economies and value systems.
 
-- [You made it to 2050.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-billionaire-saviours.html"}
+- [You made it to 2050.](part-page_2050-billionaire-saviours.html)
 {:.choice-options}

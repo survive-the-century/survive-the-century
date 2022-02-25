@@ -14,5 +14,5 @@ Your news site writes off the movement as being just a bunch of kids getting the
 
 After months of regular protests, when there is still no response from leaders, the activists eventually give up and the protests die down.
 
-- [Well, you made it through the decade!](part-page_2040.html){:js-next-dest="newspaper_welcome-to-2040-slow-fade.html"}
+- [Well, you made it through the decade!](part-page_2040-slow-fade.html)
 {:.choice-options}

@@ -20,5 +20,5 @@ Are you going to let her publish her letter?
 {:.choice-question}
 
 - [Yes, let’s end it all.](chapter_nukes.html)
-- [No, it’s not over yet.](part-page_2090.html){:js-next-dest="newspaper_welcome-to-2090-climate-wars.html"}
+- [No, it’s not over yet.](part-page_2090-climate-wars.html)
 {:.choice-options}
