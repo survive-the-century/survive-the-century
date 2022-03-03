@@ -310,38 +310,44 @@ $print-page-headers-footers-content: true !default;
   .frontmatter {
     prince-page-group: start;
   }
-  @page frontmatter:first {
-    @top { content: normal; }
-    @top-left { content: normal; }
-    @top-right { content: normal; }
-    @top-left-corner { content: normal; }
-    @top-right-corner { content: normal; }
-    @left { content: normal; }
-    @left-top { content: normal; }
-    @left-bottom { content: normal; }
-    @right { content: normal; }
-    @right-top { content: normal; }
-    @right-bottom { content: normal; }
+
+  $first-page-margin-boxes: blank !default;
+  @if $first-page-margin-boxes == blank {
+    @page frontmatter:first {
+      @top { content: normal; }
+      @top-left { content: normal; }
+      @top-right { content: normal; }
+      @top-left-corner { content: normal; }
+      @top-right-corner { content: normal; }
+      @left { content: normal; }
+      @left-top { content: normal; }
+      @left-bottom { content: normal; }
+      @right { content: normal; }
+      @right-top { content: normal; }
+      @right-bottom { content: normal; }
+    }
   }
 
   // No headers or footers on blank pages of frontmatter
-  @page frontmatter:blank {
-    @top { content: normal; }
-    @top-left { content: normal; }
-    @top-right { content: normal; }
-    @top-left-corner { content: normal; }
-    @top-right-corner { content: normal; }
-    @bottom { content: normal; }
-    @bottom-left { content: normal; }
-    @bottom-right { content: normal; }
-    @bottom-left-corner { content: normal; }
-    @bottom-right-corner { content: normal; }
-    @left { content: normal; }
-    @left-top { content: normal; }
-    @left-bottom { content: normal; }
-    @right { content: normal; }
-    @right-top { content: normal; }
-    @right-bottom { content: normal; }
+  @if $first-page-margin-boxes == blank {
+    @page frontmatter:blank {
+      @top { content: normal; }
+      @top-left { content: normal; }
+      @top-right { content: normal; }
+      @top-left-corner { content: normal; }
+      @top-right-corner { content: normal; }
+      @bottom { content: normal; }
+      @bottom-left { content: normal; }
+      @bottom-right { content: normal; }
+      @bottom-left-corner { content: normal; }
+      @bottom-right-corner { content: normal; }
+      @left { content: normal; }
+      @left-top { content: normal; }
+      @left-bottom { content: normal; }
+      @right { content: normal; }
+      @right-top { content: normal; }
+      @right-bottom { content: normal; }
+    }
   }
 
   // Allow page-n to start page numbering at a given page
