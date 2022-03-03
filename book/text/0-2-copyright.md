@@ -6,16 +6,14 @@ style: copyright-page
 # from this book's YML file in _data
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 {% include metadata %}
 
-# Copyright
+# {{ page.title }}
 {:.non-printing}
 
 *{{ title }}*\\
-Text © {{ creator }}
+Text © the contributors
 
 {% include identifiers scheme="ISBN" %}
 
