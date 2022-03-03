@@ -1,0 +1,21 @@
+h1 {
+    color: $red;
+    margin-bottom: $line-height-default * 2;
+    text-align: left;
+}
+
+h2 {
+    color: $midnight;
+    font-family: $font-text-secondary;
+
+    body.reversed & {
+        color: $white;
+    }
+}
+
+p, ul, ol, dl {
+
+    body.reversed & {
+        color: $white;
+    }
+}

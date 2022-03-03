@@ -4,19 +4,40 @@
   font-family: 'Inter';
   font-style:  normal;
   font-weight: 400;
-  src: url("../../assets/fonts/Inter-Regular.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.otf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: bold;
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Bold.otf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 400;
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Italic.otf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: bold;
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-BoldItalic.otf") format("truetype"),
 }
 
 @font-face {
   font-family: 'Lora';
   font-style:  normal;
   font-weight: 400;
-  src: url("../../assets/fonts/Lora-Regular.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Lora-Regular.ttf") format("truetype"),
 }
 
 @font-face {
   font-family: 'Lora';
   font-style:  italic;
   font-weight: 400;
-  src: url("../../assets/fonts/Lora-Italic.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Lora-Italic.ttf") format("truetype"),
 }

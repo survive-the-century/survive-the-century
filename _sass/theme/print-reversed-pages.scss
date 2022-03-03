@@ -1,0 +1,9 @@
+body.reversed {
+
+    // Name the page for Prince
+    page: reversed;
+}
+
+@page reversed {
+    background-color: $midnight;
+}

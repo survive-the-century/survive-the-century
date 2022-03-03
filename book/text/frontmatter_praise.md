@@ -1,6 +1,6 @@
 ---
 title: "Praise"
-style: frontmatter
+style: reversed
 ---
 
 # Praise for *Survive the Century*

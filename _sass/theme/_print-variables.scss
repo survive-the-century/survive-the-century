@@ -1,5 +1,58 @@
+// Page format
+$page-width: 165mm !default;
+$page-height: 165mm !default;
+$margin-top: 60pt !default; // set in points to align with baseline grid
+$margin-bottom: 60pt !default;
+$margin-outside: 30mm !default;
+$margin-inside: 20mm !default;
+
+// Colors
+$color-accent: $red;
+
 // Font faces
-$font-text-main: "Inter", prince-no-fallback !default;
+$font-text-main: "Lora", prince-no-fallback !default;
 $font-text-secondary: "Lora", prince-no-fallback !default;
 $font-display-main: "Lora", prince-no-fallback !default;
 $font-display-secondary: "Inter", prince-no-fallback !default;
+
+// Typography
+$font-size-default: 9.5pt !default;
+$line-height-default: 15pt !default; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
+$letter-spacing-text: 0.01em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
+$text-align: left !default; // left or right or inside or outside or justify or center
+$orphans: 2 !default; // Minimum number of lines that must be left at the bottom of the first page
+$widows: 2 !default; // Minimum number of lines that must be left at the top of the second page
+
+// Page start
+$start-on: auto !default; // right or auto or left ()
+$start-depth: 0 !default;
+
+// Headers and footers
+
+// - Position
+$left-margin-font: $font-display-secondary !default;
+$right-margin-font: $font-display-secondary !default;
+$left-margin-font-weight: bold !default;
+$right-margin-font-weight: bold !default;
+$left-margin-alignment: middle !default;
+$right-margin-alignment: middle !default;
+$left-margin-text-align: outside !default;
+$right-margin-text-align: outside !default;
+$left-margin-text-color: $midnight !default;
+$right-margin-text-color: $midnight !default;
+
+// - Content
+$first-page-margin-boxes: show !default;
+$frontmatter-reference-style: decimal !default;
+$verso-top: normal !default;
+$verso-bottom: normal !default;
+$verso-left: counter(page) !default;
+$recto-top: normal !default;
+$recto-bottom: normal !default;
+$recto-right: counter(page) !default;
+$verso-top-frontmatter: normal !default;
+$verso-bottom-frontmatter: normal !default;
+$verso-left-frontmatter: counter(page) !default;
+$recto-top-frontmatter: normal !default;
+$recto-bottom-frontmatter: normal !default;
+$recto-right-frontmatter: counter(page) !default;
