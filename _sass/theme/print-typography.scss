@@ -19,3 +19,76 @@ p, ul, ol, dl {
         color: $white;
     }
 }
+
+.leader-sentence {
+    color: $midnight;
+    font-size: 11pt;
+    font-style: italic;
+
+    & + p {
+        margin-top: $line-height-default;
+        text-indent: 0;
+    }
+}
+
+.choices-section {
+    margin-top: $line-height-default;
+    break-inside: avoid;
+}
+
+.choice-question {
+    font-style: italic;
+    margin-bottom: $line-height-default;
+    text-indent: 0;
+}
+
+.choice-options {
+    list-style-type: none;
+
+    li {
+        font-family: $font-display-secondary;
+        font-size: 8.5pt;
+        font-weight: 300;
+        margin: 0 0 ($line-height-default / 4) $paragraph-indent;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+
+        &::before {
+            content: "\2022";
+            content: url("#{$path-to-root-directory}/assets/images/#{$output-format}/donut.svg");
+            width: 0.5em;
+            float: left;
+            margin-left: -1em;
+            margin-top: 5pt; // align SVG
+            font-weight: bold;
+        }
+    }
+}
+
+.infobox {
+    font-family: $font-display-secondary;
+    font-size: 8pt;
+    font-weight: 300;
+    border: $rule-thickness solid $green;
+    padding: ($line-height-default / 2) $paragraph-indent;
+
+    position: relative;
+    &::after {
+        content: "i";
+        color: white;
+        background: $green;
+        display: block;
+        font-family: $font-text-main;
+        font-size: 12pt;
+        font-style: italic;
+        font-weight: bold;
+        left: -12pt;
+        padding: 4pt;
+        position: absolute;
+        text-align: center;
+        top: -($rule-thickness);
+        width: 12pt;
+    }
+}

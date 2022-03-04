@@ -4,7 +4,7 @@
 function ebAddPageNumbers() {
     "use strict";
 
-    if (typeof Prince.addScriptFunc === "function") {
+    if (typeof Prince === "object" && typeof Prince.addScriptFunc === "function") {
 
         Prince.addScriptFunc("turnToPage", function (targetPage) {
             return "\u00A0" + " Turn to page " + targetPage + ".";

@@ -166,18 +166,22 @@ $print-page-headers-footers-content: true !default;
   .chapter {
     prince-page-group: start;
   }
-  @page chapter:first {
-    @top { content: normal; }
-    @top-left { content: normal; }
-    @top-right { content: normal; }
-    @top-left-corner { content: normal; }
-    @top-right-corner { content: normal; }
-    @left { content: normal; }
-    @left-top { content: normal; }
-    @left-bottom { content: normal; }
-    @right { content: normal; }
-    @right-top { content: normal; }
-    @right-bottom { content: normal; }
+
+  $first-page-margin-boxes: blank !default;
+  @if $first-page-margin-boxes == blank {
+    @page chapter:first {
+      @top { content: normal; }
+      @top-left { content: normal; }
+      @top-right { content: normal; }
+      @top-left-corner { content: normal; }
+      @top-right-corner { content: normal; }
+      @left { content: normal; }
+      @left-top { content: normal; }
+      @left-bottom { content: normal; }
+      @right { content: normal; }
+      @right-top { content: normal; }
+      @right-bottom { content: normal; }
+    }
   }
 
   // No headers or footers on blank pages of chapters
@@ -311,7 +315,6 @@ $print-page-headers-footers-content: true !default;
     prince-page-group: start;
   }
 
-  $first-page-margin-boxes: blank !default;
   @if $first-page-margin-boxes == blank {
     @page frontmatter:first {
       @top { content: normal; }

@@ -39,4 +39,5 @@ layout: null
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
     {% include_relative page-numbers.js %}
+    {% include_relative print-sections.js %}
 {% endif %}

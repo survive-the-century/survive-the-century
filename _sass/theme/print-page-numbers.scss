@@ -6,6 +6,12 @@
 a.read-more::after,
 .call-to-action a::after { 
     content: prince-script(turnToPage, target-counter(attr(href), page));
+
+    font-family: $font-display-secondary;
+    font-size: 7pt;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+    color: $red;
 }
 
 a.show-page-number {
@@ -16,5 +22,20 @@ a.show-page-number {
     }
     &.no-brackets::after {
         content: prince-script(pagereferencePlain, counter(page), target-counter(attr(href), page));
+    }
+}
+
+@page {
+    @left {
+        border-top: ($rule-thickness * 2) solid $midnight;
+        margin-top: 4pt; // magic-number adjustment
+        padding-top: $line-height-default / 2;
+        margin-outside: -($bleed);
+    }
+    @right {
+        border-top: ($rule-thickness * 2) solid $midnight;
+        margin-top: 4pt; // magic-number adjustment
+        padding-top: $line-height-default / 2;
+        margin-outside: -($bleed);
     }
 }

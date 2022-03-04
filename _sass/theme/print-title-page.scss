@@ -1,0 +1,47 @@
+.title-page {
+
+    // Move right since margins are not symmetrical
+    margin-right: ($margin-inside - $margin-outside) / 2;
+
+    .title-page-lettering {
+        margin: auto;
+        width: 90mm;
+    }
+    .title-page-subtitle {
+        color: $midnight;
+        font-style: italic;
+        font-size: 12pt;
+        line-height: $line-height-default;
+        margin-bottom: $line-height-default;
+
+        text-transform: uppercase;
+        letter-spacing: 0.075em;
+        font-family: $font-display-secondary;
+        max-width: 15em;
+        margin-left: auto;
+        margin-right: auto;
+        font-style: normal;
+    }
+    .title-page-author {
+        color: $red;
+        font-family: $font-display-secondary;
+        font-size: $font-size-default;
+        line-height: $line-height-default;
+        margin: auto;
+        max-width: 25em;
+        font-size: 7pt;
+        text-transform: uppercase;
+        letter-spacing: 0.075em;
+
+        strong {
+            color: $midnight;
+            display: block;
+            font-family: $font-text-main;
+            font-size: $font-size-default;
+            font-weight: normal;
+            line-height: $line-height-default;
+            text-transform: none;
+            letter-spacing: $letter-spacing-text;
+        }
+    }
+}

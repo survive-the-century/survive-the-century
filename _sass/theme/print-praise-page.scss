@@ -1,0 +1,11 @@
+.praise-page {
+    page-break-before: right;
+
+    p {
+        margin-bottom: $line-height-default / 2;
+
+        & + p {
+            text-indent: 0;
+        }
+    }
+}
