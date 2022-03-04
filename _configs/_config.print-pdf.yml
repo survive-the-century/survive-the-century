@@ -101,9 +101,18 @@ exclude:
   # Files
 
   # - Non-print-book files
+  - about.md
+  - contact.md
+  - credits.md
+  - press.md
+  - privacy.md
+  - terms-of-service.md
   - /book/text/0-3-contact.md
   - /book/text/0-4-privacy.md
   - /book/text/0-5-terms-of-service.md
+
+  # Utility pages
+  - /book/text/link-list.md
   - /book/text/stc.md
 
   # - /book/text/0-0-cover.md
@@ -124,7 +133,8 @@ exclude:
   # - /book/text/chapter_billionaire-geo-engineering.md
   # - /book/text/chapter_billionaires-get-richer.md
   # - /book/text/chapter_birth-rates-plunge.md
-  # - /book/text/chapter_carbon-capture.md
+  # - /book/text/chapter_carbon-capture-0.md
+  # - /book/text/chapter_carbon-capture-1.md
   # - /book/text/chapter_central-world-government.md
   # - /book/text/chapter_city-led-capitalist-reform.md
   # - /book/text/chapter_city-led-decarbonization.md
@@ -138,7 +148,9 @@ exclude:
   # - /book/text/chapter_death-cults.md
   # - /book/text/chapter_democratic-takeover.md
   # - /book/text/chapter_desperation.md
-  # - /book/text/chapter_disband-the-militaries.md
+  # - /book/text/chapter_desperate-hack.md
+  # - /book/text/chapter_disband-the-militaries-no.md
+  # - /book/text/chapter_disband-the-militaries-yes.md
   # - /book/text/chapter_earth-terraforming.md
   # - /book/text/chapter_easier-climate-conference.md
   # - /book/text/chapter_eco-mitigation.md
@@ -156,6 +168,7 @@ exclude:
   # - /book/text/chapter_fracking-funded-ubi.md
   # - /book/text/chapter_gains-reversed.md
   # - /book/text/chapter_gender-strongmen.md
+  # - /book/text/chapter_geo-engineering-attempt.md
   # - /book/text/chapter_geo-engineering-fail.md
   # - /book/text/chapter_ghw.md
   # - /book/text/chapter_global-climate-adaptation-fund.md
@@ -168,6 +181,7 @@ exclude:
   # - /book/text/chapter_grassroots-climate-rebellion.md
   # - /book/text/chapter_grassroots-inequality-rebellion.md
   # - /book/text/chapter_green-is-the-new-gold.md
+  # - /book/text/chapter_green-is-the-new-gold-fracking.md
   # - /book/text/chapter_green-new-deal.md
   # - /book/text/chapter_hackers-attack-space-fleet.md
   # - /book/text/chapter_high-tech-1-5-mitigation.md
@@ -199,7 +213,8 @@ exclude:
   # - /book/text/chapter_people-get-richer.md
   # - /book/text/chapter_permanent-refugee-camps.md
   # - /book/text/chapter_post-war-devastation.md
-  # - /book/text/chapter_quash-terrorists.md
+  # - /book/text/chapter_quash-terrorists-no.md
+  # - /book/text/chapter_quash-terrorists-yes.md
   # - /book/text/chapter_red-zones.md
   # - /book/text/chapter_reform-capitalism.md
   # - /book/text/chapter_refugee-conflict.md
@@ -214,6 +229,9 @@ exclude:
   # - /book/text/chapter_sexual-revolution.md
   # - /book/text/chapter_slow-down.md
   # - /book/text/chapter_slow-economic-recovery.md
+  # - /book/text/chapter_slow-economic-recovery-billionaires.md
+  # - /book/text/chapter_slow-economic-recovery-slowfade.md
+  # - /book/text/chapter_slow-economic-recovery-wars.md
   # - /book/text/chapter_small-scale-conflict.md
   # - /book/text/chapter_small-scale-wars.md
   # - /book/text/chapter_stalling.md
@@ -222,6 +240,8 @@ exclude:
   # - /book/text/chapter_sudden-warming.md
   # - /book/text/chapter_surprising-success-geo-engineering.md
   # - /book/text/chapter_termination-shock.md
+  # - /book/text/chapter_termination-shock-mars.md
+  # - /book/text/chapter_termination-shock-roguestates.md
   # - /book/text/chapter_thats-a-chinese-land-grab.md
   # - /book/text/chapter_the-end-of-nation-states.md
   # - /book/text/chapter_the-wars-begin.md
@@ -234,6 +254,7 @@ exclude:
   # - /book/text/chapter_war-over-orange-zones.md
   # - /book/text/chapter_weak-reforms.md
   # - /book/text/chapter_well-researched-geo-engineering.md
+  # - /book/text/chapter_well-researched-geo-engineering-attempt.md
   # - /book/text/chapter_who-looks-after-the-wild.md
   # - /book/text/chapter_world-trade-is-in-tatters.md
   # - /book/text/chapter_zoonotic-pandemic.md
@@ -281,13 +302,14 @@ exclude:
   # - /book/text/newspaper_welcome-to-2090-ecotopia.md
   # - /book/text/newspaper_welcome-to-2090-slow-fade-conflict.md
   # - /book/text/newspaper_welcome-to-2090-slow-fade-migration.md
-  # - /book/text/part-page_2030.md
-  # - /book/text/part-page_2040.md
-  # - /book/text/part-page_2050.md
-  # - /book/text/part-page_2060.md
-  # - /book/text/part-page_2070.md
-  # - /book/text/part-page_2080.md
-  # - /book/text/part-page_2090.md
+  # - /book/text/part-page_2030*
+  # - /book/text/part-page_2040*
+  # - /book/text/part-page_2050*
+  # - /book/text/part-page_2060*
+  # - /book/text/part-page_2070*
+  # - /book/text/part-page_2080*
+  # - /book/text/part-page_2090*
+  # - /book/text/stories.md
   # - /book/text/story_blue-queen-of-dc.md
   # - /book/text/story_exile-nation.md
   # - /book/text/story_fashion-week.md
@@ -313,6 +335,7 @@ exclude:
   # - /book/text/endmatter_recommended-resources.md
   # - /book/text/endmatter_shiny-badges.md
   # - /book/text/endmatter_trackers.md
+  # - /book/text/take-action.md
 
 # Populate the keep_files list for temporary faster builds
 # or to keep previously generated files for other formats.
