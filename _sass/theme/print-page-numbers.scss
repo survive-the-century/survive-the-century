@@ -1,17 +1,24 @@
 // Show page numbers after links
 
-.choice-options a::after,
-.next-decade-link a::after,
-.part-page a::after,
-a.read-more::after,
-.call-to-action a::after { 
+@mixin turn-to-page($color: $red) {
     content: prince-script(turnToPage, target-counter(attr(href), page));
-
     font-family: $font-display-secondary;
     font-size: 7pt;
     text-transform: uppercase;
     letter-spacing: 0.075em;
-    color: $red;
+    color: $color;
+}
+
+.choice-options a::after,
+.part-page a::after,
+.call-to-action a::after {
+    @include turn-to-page();
+}
+
+.next-decade-link a::after,
+a.read-more::after {
+    @include turn-to-page($white);
+    font-weight: bold;
 }
 
 a.show-page-number {

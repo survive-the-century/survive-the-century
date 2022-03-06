@@ -1,0 +1,197 @@
+.newspaper {
+    margin-top: -($margin-top + $bleed);
+    page: newspaper;
+
+    .newspaper-header-wrapper {
+        background-color: $midnight;
+        padding-top: ($line-height-default * 1.5) + $bleed;
+        padding-bottom: $line-height-default / 2;
+
+        // Extend to page width
+        margin-left: -($page-width);
+        margin-right: -($page-width);
+        padding-left: $page-width;
+        padding-right: $page-width;
+
+        .newspaper-header {
+            position: relative;
+
+            h1 {
+                line-height: $line-height-default;
+                font-size: 20pt;
+                width: 50%;
+                color: $white;
+                margin: 0;
+            }
+
+            // To do: change to more semantic element
+            h2 {
+                color: $red;
+                font-size: 10pt;
+                line-height: $line-height-default;
+                width: 50%;
+                margin: 0;
+            }
+
+            p {
+                color: $white;
+                position: absolute;
+                top: 0;
+                right: 0;
+                width: 50%;
+                line-height: $line-height-default;
+            }
+        }
+    }
+
+    #top-article {
+        border-bottom: $rule-thickness solid $red;
+        font-family: $font-display-secondary;
+        font-weight: normal;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin: $line-height-default 0 ($line-height-default / 2) 0;
+    }
+
+    .headline-image-parent {
+        float: right;
+        margin-bottom: $line-height-default / 2;
+        max-height: $page-height / 2;
+        max-width: 50%;
+        img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    }
+
+    .headline {
+        color: $midnight;
+        text-indent: 0;
+        font-size: 15pt;
+        font-style: italic;
+        line-height: $line-height-default;
+    }
+
+    .subheadline {
+        color: $midnight;
+        font-family: $font-display-secondary;
+        text-indent: 0;
+        font-size: 10pt;
+        line-height: $line-height-default;
+        margin: ($line-height-default / 2) 0;
+    }
+
+    #other-stories-today {
+        font-family: $font-display-secondary;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: $midnight;
+        border-top: $rule-thickness solid $red;
+        border-bottom: $rule-thickness solid $red;
+        font-size: 10pt;
+        line-height: $line-height-default;
+        margin: $line-height-default 0;
+        clear: both;
+    }
+
+    .articles {
+        break-inside: auto;
+        list-style-type: none;
+
+        li {
+            clear: both;
+            display: table-row;
+            font-family: $font-display-secondary;
+            min-height: $line-height-default * 2;
+
+            img {
+                display: table-cell;
+                border: $rule-thickness solid $midnight;
+                margin-right: $paragraph-indent / 2;
+                height: $line-height-default * 2;
+            }
+
+            // JS creates this wrapper
+            .article-text {
+                display: table-cell;            
+                padding-bottom: $line-height-default / 2;
+                vertical-align: top;
+            }
+
+            .read-more {
+                display: inline-block;
+                line-height: 1;
+                background-color: $midnight;
+                color: $white;
+                padding: 3pt;
+                border-radius: $button-border-radius;
+            }
+
+            &:first-of-type {
+                page-break-after: auto;
+            }
+        }
+    }
+
+    .next-decade-link {
+        font-family: $font-display-secondary;
+        display: table;
+        background-color: $red;
+        color: $white;
+        position: absolute;
+        bottom: 0;
+        height: $line-height-default * 2;
+        margin-left: -($page-width / 2);
+        margin-right: -($page-width / 2);
+        padding-left: $page-width / 2;
+        padding-right: $page-width / 2;
+
+        a {
+            display: table-cell;
+            vertical-align: middle;
+        }
+    }
+}
+
+@mixin newspaper-page-number() {
+    color: $white;
+    font-family: $font-display-secondary;
+    font-size: $header-font-size;
+    font-weight: bold;
+    margin-top: $line-height-default;
+    text-align: center;
+    vertical-align: middle;
+}
+
+@page newspaper {
+    margin-inside: ($margin-inside + $margin-outside) / 2;
+    margin-outside: ($margin-inside + $margin-outside) / 2;
+    margin-bottom: 30pt;
+
+    @bottom {
+        content: "";
+        background-color: $midnight;
+    }
+    @bottom-left-corner {
+        content: "";
+        background-color: $midnight;
+    }
+    @bottom-right-corner {
+        content: "";
+        background-color: $midnight;
+    }
+}
+
+@page newspaper:left {
+    @top-left-corner {
+        @include newspaper-page-number();
+        content: $verso-left;
+    }
+}
+
+@page newspaper:right {
+    @top-right-corner {
+        @include newspaper-page-number();
+        content: $recto-right;
+    }
+}
