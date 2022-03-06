@@ -18,10 +18,11 @@ Press release
 
 # US-sponsored non-state actors seeding oceans with banned geoengineering tech?
 
+*(Leaked transcript of video call between US Leader-for-Life and African President of the Free States)*
+{:.subheadline}
+
 By Rajat Chaudhuri
 {:.author}
-
-*(Leaked transcript of video call between US Leader-for-Life and African President of the Free States)*
 
 US President, **William Trump** (A dim tantalum bulb swings slowly above his head, ominously close. Shadows dance on the bare wall. The light goes off repeatedly and every time this happens, a secret-service guy rushes in with a torch.)
 

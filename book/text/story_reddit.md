@@ -17,6 +17,7 @@ Press release
 # Reddit thread: Globohomo vaccine whistle blown
 
 *Online Culture reporter Sophia Al-Maria brings us a sampling of what’s happening on your favourite social networks.*
+{:.subheadline}
 
 By Sophia Al-Maria
 {:.author}

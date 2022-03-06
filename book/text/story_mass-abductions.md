@@ -34,6 +34,7 @@ Opium, which was strictly controlled till the early decades of the century, has 
 A central team has been rushed to the area.
 
 *This article wasn’t written or edited by human editors.*
+{:.story-note}
 
 [Let’s see what the 2050s will bring.](chapter_last-ditch-geo-engineering.html)
 {:.next-decade-link}

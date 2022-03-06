@@ -19,6 +19,7 @@ Press release
 # Trust is stronger than blood: An interview with Babylondon mayor Lena Lenin
 
 *Lena Lenin talks Marie Antoinette, the myth of the nuclear family and the power of exotic stimulants.*
+{:.subheadline}
 
 By Sophia Al-Maria
 {:.author}

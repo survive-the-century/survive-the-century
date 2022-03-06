@@ -1,4 +1,5 @@
-.newspaper {
+.newspaper,
+.story {
     margin-top: -($margin-top + $bleed);
     page: newspaper;
 
@@ -44,7 +45,8 @@
         }
     }
 
-    #top-article {
+    #top-article,
+    .runner {
         border-bottom: $rule-thickness solid $red;
         font-family: $font-display-secondary;
         font-weight: normal;
@@ -56,20 +58,32 @@
     .headline-image-parent {
         float: right;
         margin-bottom: $line-height-default / 2;
-        max-height: $page-height / 2;
         max-width: 50%;
+        text-indent: 0;
+        margin-left: $paragraph-indent / 2;
+
         img {
             max-width: 100%;
-            max-height: 100%;
+        }
+
+        // Wide images, via page refinement
+        &.pdf-headline-image-wide-parent {
+            float: none;
+            max-width: 100%;
+            max-height: none;
+            margin-left: 0;
         }
     }
 
-    .headline {
+    .headline,
+    .newspaper-header-wrapper ~ h1 {
         color: $midnight;
         text-indent: 0;
-        font-size: 15pt;
+        font-size: 14pt;
         font-style: italic;
+        font-weight: normal;
         line-height: $line-height-default;
+        margin: 0;
     }
 
     .subheadline {
@@ -77,8 +91,31 @@
         font-family: $font-display-secondary;
         text-indent: 0;
         font-size: 10pt;
+        font-style: normal;
         line-height: $line-height-default;
         margin: ($line-height-default / 2) 0;
+
+        // Some headlines are marked up as italic
+        em {
+            font-style: normal;
+
+            em {
+                font-style: italic;
+            }
+        }
+    }
+
+    .author {
+        font-family: $font-display-secondary;
+        text-indent: 0;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: $midnight;
+        margin: ($line-height-default / 2) 0;
+
+        & + p {
+            text-indent: 0;
+        }
     }
 
     #other-stories-today {
@@ -139,7 +176,7 @@
         background-color: $red;
         color: $white;
         position: absolute;
-        bottom: 0;
+        bottom: -($line-height-default * 2);
         height: $line-height-default * 2;
         margin-left: -($page-width / 2);
         margin-right: -($page-width / 2);
@@ -151,6 +188,41 @@
             vertical-align: middle;
         }
     }
+}
+
+.quiz-question {
+    font-family: $font-display-secondary;
+    font-weight: bold;
+    text-indent: 0;
+    margin: ($line-height-default / 2) 0;
+    page-break-after: avoid;
+}
+
+.quiz-options {
+    list-style-type: upper-alpha;
+    page-break-before: avoid;
+
+    li {
+        padding-left: $paragraph-indent / 2;
+
+        &::marker {
+            font-family: $font-display-secondary;
+        }
+    }
+}
+
+.quiz-result {
+    text-indent: 0;
+    margin-bottom: $line-height-default;
+
+    strong:first-of-type {
+        font-family: $font-display-secondary;
+    }
+}
+
+.story-note {
+    text-indent: 0;
+    margin-top: $line-height-default;
 }
 
 @mixin newspaper-page-number() {
@@ -166,19 +238,21 @@
 @page newspaper {
     margin-inside: ($margin-inside + $margin-outside) / 2;
     margin-outside: ($margin-inside + $margin-outside) / 2;
-    margin-bottom: 30pt;
 
     @bottom {
         content: "";
         background-color: $midnight;
+        margin-top: $line-height-default * 2;
     }
     @bottom-left-corner {
         content: "";
         background-color: $midnight;
+        margin-top: $line-height-default * 2;
     }
     @bottom-right-corner {
         content: "";
         background-color: $midnight;
+        margin-top: $line-height-default * 2;
     }
 }
 
