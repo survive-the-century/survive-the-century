@@ -50,23 +50,19 @@ Climate Interactive, the FLAIR Fellowship Programme: a partnership between the A
 
 ### Web development and publishing
 
-Electric Book Works
-electricbookworks.com
+Electric Book Works ([electricbookworks.com](https://electricbookworks.com))
 
 ### Illustrations
 
-Annika Brandow
-annikabrandow.com
+Annika Brandow ([annikabrandow.com](https://annikabrandow.com))
 
 ### Design
 
-Karen Lilje
-www.hybridcreative.co.za
+Karen Lilje ([www.hybridcreative.co.za](https://www.hybridcreative.co.za))
 
 ### Copyediting
 
-Louis Greenberg
-louisgreenberg.com
+Louis Greenberg ([louisgreenberg.com](https://louisgreenberg.com))
 
 ### Scientific contributors
 

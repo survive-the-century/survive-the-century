@@ -14,7 +14,7 @@ You publish an editorial encouraging *anyone* to try a last-minute climate hack.
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Roll a dice!
+Roll a die!
 {:.choice-question}
 
 - [If you roll a 1, ](chapter_geo-engineering-fail.html)

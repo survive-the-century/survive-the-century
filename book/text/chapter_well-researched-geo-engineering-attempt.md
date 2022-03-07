@@ -14,7 +14,7 @@ You publish an editorial arguing that we need to try a geo-engineering solution.
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Roll a dice!
+Roll a die!
 {:.choice-question}
 
 - [If you roll a 1, ](chapter_geo-engineering-fail.html)

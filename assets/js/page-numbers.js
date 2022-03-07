@@ -23,7 +23,7 @@ function ebAddPageNumbers() {
             if (currentPage === targetPage) {
                 return "";
             }
-            // otherwise show a space and the page number in parentheses
+            // otherwise show the page number
             return targetPage;
         });
     }

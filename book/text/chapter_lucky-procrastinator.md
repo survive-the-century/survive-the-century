@@ -20,7 +20,7 @@ They warn you there’s a one-in-six chance that they’ll find something.
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Roll a dice and see if we get lucky.
+Roll a die and see if we get lucky.
 {:.choice-question}
 
 - [If you roll 5 or less, ](chapter_no-magic-technology.html)
