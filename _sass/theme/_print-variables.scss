@@ -20,7 +20,7 @@ $font-size-default: 9.5pt !default;
 $line-height-default: 15pt !default; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
 $letter-spacing-text: 0.01em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
 $text-align: left !default; // left or right or inside or outside or justify or center
-$orphans: 2 !default; // Minimum number of lines that must be left at the bottom of the first page
+$orphans: 1 !default; // Minimum number of lines that must be left at the bottom of the first page
 $widows: 2 !default; // Minimum number of lines that must be left at the top of the second page
 
 // Page start
