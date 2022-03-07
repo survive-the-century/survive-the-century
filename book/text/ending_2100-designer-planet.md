@@ -21,7 +21,7 @@ It wasn't an easy ride to get here, though. Many millions of people died or were
 
 # How did you get here?
 
-You focused on adapting to climate change rather than trying to stop it. You got lucky, and your technological fixes mostly worked (for humans, anyway).
+You focused on adapting to climate change rather than trying to stop it. You got lucky, and your technological fixes mostly worked (for humans,&nbsp;anyway).
 
 {% include call-to-action
     hyperlink="https://tinyurl.com/2xtj3hy7"
