@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2080 - Climate Wars"
+title: "Welcome to 2080 – Climate Wars"
 style: part-page
 decade: 2080
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2060 - Ecotopia"
+title: "Welcome to 2060 – Ecotopia"
 style: part-page
 decade: 2060
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2090 - Slow Fade Migration"
+title: "Welcome to 2090 – Slow Fade Migration"
 style: part-page
 decade: 2090
 ---

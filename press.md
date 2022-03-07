@@ -8,7 +8,7 @@ style: frontmatter
 # Press Coverage
 
 - Fix the Planet, [New Scientist’s Fix the Planet newsletter](​​http://view.e.newscientist.com/?qs=984269d22233c4286b2feafebd933b01eaf1bc4464a1aa0911af4fb9e183654efe24601d102afad505145b521cecfdbf14e769babfccffb23cc4c6c8ac6dbdbae375bbea25b2374a5a6bc76a95481e413019af07c4cd791e)
-- In this Choose-Your-Own-Adventure-Game, You Can Help Save the World - Or Watch it Burn, [Grist](https://grist.org/fix/survive-the-century-choose-your-own-adventure-climate-game/)
+- In this Choose-Your-Own-Adventure-Game, You Can Help Save the World – Or Watch it Burn, [Grist](https://grist.org/fix/survive-the-century-choose-your-own-adventure-climate-game/)
 - Climate Save or Climate Disaster? You Decide, [Inside Climate News](https://insideclimatenews.org/news/15052021/warming-trends-climate-game-cave-art-action/)
 - Futuristic “Survive the Century” Hopes to be Tonic for Climate Chance Anxiety, [Times Live](https://www.timeslive.co.za/sunday-times/lifestyle/2021-05-11-futuristic-survive-the-century-hopes-to-be-tonic-for-climate-change-anxiety/)
 - Survive the Future Is a Sneaky-Simple Game That Makes Our Climate Choices Real, [Gizmodo](https://gizmodo.com/survive-the-future-is-a-sneaky-simple-game-that-makes-o-1846849685)

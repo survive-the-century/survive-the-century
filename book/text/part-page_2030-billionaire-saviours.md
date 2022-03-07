@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2030 - Billionaire Saviours"
+title: "Welcome to 2030 – Billionaire Saviours"
 style: part-page
 decade: 2030
 ---

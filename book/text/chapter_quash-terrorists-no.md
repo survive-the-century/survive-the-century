@@ -1,5 +1,5 @@
 ---
-title: "Quash terrorists - no democracy"
+title: "Quash terrorists – no democracy"
 style: chapter
 conflict: 
 decade: 2080

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2030 - Climate Wars"
+title: "Welcome to 2030 – Climate Wars"
 style: part-page
 decade: 2030
 ---

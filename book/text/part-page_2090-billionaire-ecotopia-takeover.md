@@ -1,5 +1,5 @@
 ---
-title: "Welcome to 2090 - Billionaire Ecotopia Takeover"
+title: "Welcome to 2090 – Billionaire Ecotopia Takeover"
 style: part-page
 decade: 2090
 ---

@@ -13,7 +13,7 @@ Want to learn more about the climate emergency? Here are some of our favourite r
 - *Ministry for the Future*, Kim Stanley Robinson (novel)
 - *Braiding Sweetgrass*, Robin Wall Kimmerer (nonfiction book)
 - *The Great Derangement*, Amitav Ghosh (nonfiction book)
-- The Kurzgesagt video series (search YouTube) - “Can YOU Fix Climate Change?”, “Is It Too Late To Stop Climate Change? Well, it’s Complicated.” and “Who is Responsible for Climate Change? - Who Needs to Fix it?”
+- The Kurzgesagt video series (search YouTube) – “Can YOU Fix Climate Change?”, “Is It Too Late To Stop Climate Change? Well, it’s Complicated.” and “Who is Responsible for Climate Change? – Who Needs to Fix it?”
 - *Our Planet*, a Netflix series starring David Attenborough (documentary series)
 - World101 (website): [world101.cfr.org/global-era-issues/climate-change](https://world101.cfr.org/global-era-issues/climate-change)
 - Global Oneness Project (a collection of lesson plans for all ages): [www.globalonenessproject.org](https://www.globalonenessproject.org)

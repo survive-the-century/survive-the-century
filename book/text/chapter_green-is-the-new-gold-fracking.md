@@ -1,5 +1,5 @@
 ---
-title: "Green is the new gold - fracking"
+title: "Green is the new gold – fracking"
 style: chapter
 conflict: 
 decade: 2030

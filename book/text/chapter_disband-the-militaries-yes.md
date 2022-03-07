@@ -1,5 +1,5 @@
 ---
-title: "Disband the militaries - Yes"
+title: "Disband the militaries – Yes"
 style: chapter
 conflict: 
 decade: 2060
