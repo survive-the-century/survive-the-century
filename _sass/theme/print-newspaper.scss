@@ -58,9 +58,9 @@
     .headline-image-parent {
         float: right;
         margin-bottom: $line-height-default / 2;
+        margin-left: $paragraph-indent / 2;
         max-width: 50%;
         text-indent: 0;
-        margin-left: $paragraph-indent / 2;
 
         img {
             max-width: 100%;
@@ -70,8 +70,12 @@
         &.pdf-headline-image-wide-parent {
             float: none;
             max-width: 100%;
-            max-height: none;
             margin-left: 0;
+        }
+
+        // Very tall images, via page refinement
+        &.pdf-headline-image-narrow-parent {
+            max-width: 25%;
         }
     }
 
@@ -349,17 +353,15 @@
 }
 
 @page newspaper:left {
-    @top-left-corner {
+    @bottom-left-corner {
         @include secondary-page-number-style($white);
         content: $verso-left;
-        margin-top: $line-height-default;
     }
 }
 
 @page newspaper:right {
-    @top-right-corner {
+    @bottom-right-corner {
         @include secondary-page-number-style($white);
         content: $recto-right;
-        margin-top: $line-height-default;
     }
 }
