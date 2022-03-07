@@ -23,8 +23,8 @@ They warn you there’s a one-in-six chance that they’ll find something.
 Roll a die and see if we get lucky.
 {:.choice-question}
 
-- [If you roll 5 or less, ](chapter_no-magic-technology.html)
-- [Wow, you rolled a 6? Okay! ](chapter_magic-technology-fix.html)
+- [If you roll 5 or less,](chapter_no-magic-technology.html)
+- [Wow, you rolled a 6? Okay!](chapter_magic-technology-fix.html)
 {:.choice-options}
 
 {% else %}

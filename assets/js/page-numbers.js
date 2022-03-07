@@ -23,8 +23,8 @@ function ebAddPageNumbers() {
             if (currentPage === targetPage) {
                 return "";
             }
-            // otherwise show the page number
-            return targetPage;
+            // otherwise show a space and the page number
+            return "\u00A0" + targetPage;
         });
     }
 }

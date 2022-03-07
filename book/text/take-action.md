@@ -32,7 +32,7 @@ Now, make a choice in the real world.
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-- [For some discussion questions, ](endmatter_discussion-questions.html)
+- [For some discussion questions,](endmatter_discussion-questions.html)
 - [Learn more about the climate emergency.](endmatter_recommended-resources.html)
 - {:.no-link} Find a climate justice group near you by visiting 350.org.
 - [Read about how we made this book.](frontmatter_about.html)

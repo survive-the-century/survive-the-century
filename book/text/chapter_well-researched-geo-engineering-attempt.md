@@ -17,8 +17,8 @@ You publish an editorial arguing that we need to try a geo-engineering solution.
 Roll a die!
 {:.choice-question}
 
-- [If you roll a 1, ](chapter_geo-engineering-fail.html)
-- [If you roll a 2 or higher, ](chapter_global-climate-council.html)
+- [If you roll a 1,](chapter_geo-engineering-fail.html)
+- [If you roll a 2 or higher,](chapter_global-climate-council.html)
 {:.choice-options}
 
 {% else %}

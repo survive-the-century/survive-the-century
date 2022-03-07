@@ -17,10 +17,10 @@ You publish an editorial arguing that we need to try a geo-engineering solution.
 Roll a die!
 {:.choice-quesion}
 
-- [If you roll a 1, ](chapter_geo-engineering-fail.html)
-- [If you roll a 2 or 3, ](chapter_billionaire-geo-engineering.html)
-- [If you roll a 4, ](chapter_unilateral-geo-engineering.html)
-- [If you roll a 5 or 6, ](chapter_surprising-success-geo-engineering.html)
+- [If you roll a 1,](chapter_geo-engineering-fail.html)
+- [If you roll a 2 or 3,](chapter_billionaire-geo-engineering.html)
+- [If you roll a 4,](chapter_unilateral-geo-engineering.html)
+- [If you roll a 5 or 6,](chapter_surprising-success-geo-engineering.html)
 {:.choice-options}
 
 {% else %}

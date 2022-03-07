@@ -31,8 +31,8 @@ Will our magnificent Council figure something out in time? Let's sure hope so.
 
 Roll a die!
 
-- [If you roll 2 or less, ](chapter_fail-to-invent-insect-drones.html)
-- [If you roll higher than 2, ](chapter_invent-insect-drones.html)
+- [If you roll 2 or less,](chapter_fail-to-invent-insect-drones.html)
+- [If you roll higher than 2,](chapter_invent-insect-drones.html)
 {:.choice-options}
 
 {% else %}
