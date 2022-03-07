@@ -13,7 +13,7 @@ temperature: 2.2
 
 ### Top article
 
-{% include image file="tesla-town.png" class="headline-image portrait" %}
+{% include image file="tesla-town.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 The new “dick-tators” 
 {:.headline}

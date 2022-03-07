@@ -13,7 +13,7 @@ temperature: 2.5
 
 ### Top article
 
-{% include image file="sulphur-pipe.png" class="headline-image portrait" %}
+{% include image file="sulphur-pipe.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Anger grows over US sulphur pipe
 {:.headline}

@@ -13,7 +13,7 @@ temperature: 1.6
 
 ### Top article
 
-{% include image file="tribal-leader.png" class="headline-image portrait" %}
+{% include image file="tribal-leader.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Indigenous peoples and local communities (IPLCs) take their seat at the UN
 {:.headline}

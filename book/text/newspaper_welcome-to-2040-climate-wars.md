@@ -13,7 +13,7 @@ temperature: 1.8
 
 ### Top article
 
-{% include image file="wto-flags.png" class="headline-image portrait" %}
+{% include image file="wto-flags.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 World Trade Organization breaks up
 {:.headline}
