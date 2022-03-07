@@ -6,7 +6,11 @@ decade: 2100
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-climate-wars--bg-blue.jpg" %}
+{% else %}
 {% include image file="end-state-climate-wars.png" %}
+{% endif %}
 
 # So, where do we end up by the end of the century?
 

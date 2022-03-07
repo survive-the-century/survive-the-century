@@ -6,7 +6,11 @@ decade: 2100
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-billionaire-saviours--bg-blue.jpg" %}
+{% else %}
 {% include image file="end-state-billionaire-saviours.png" %}
+{% endif %}
 
 # So, where do we end up by the end of the century?
 
@@ -19,7 +23,7 @@ Better hope they never rebel.
 
 # How did you get here?
 
-You allowed capitalists to run rampant and did not ever address inequality.
+You allowed capitalists to run rampant and did not ever address&nbsp;inequality.
 
 {% include call-to-action
     hyperlink="https://tinyurl.com/2p89vdnu"

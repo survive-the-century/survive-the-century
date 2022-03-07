@@ -6,7 +6,11 @@ decade: 2100
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-ecotopia--bg-blue.jpg" %}
+{% else %}
 {% include image file="end-state-ecotopia.png" %}
+{% endif %}
 
 # So, what does the world look like at the end of the century?
 

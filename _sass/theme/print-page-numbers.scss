@@ -11,7 +11,7 @@
 
 .choice-options a::after,
 .part-page a::after,
-.call-to-action a::after {
+a.turn-to-page::after {
     @include turn-to-page();
 }
 

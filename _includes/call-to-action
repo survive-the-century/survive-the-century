@@ -1,19 +1,33 @@
 <div class="call-to-action" markdown="1">
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+[To take action](take-action.html){:.turn-to-page}
+
+{% else %}
+
 [Take action](take-action.html)
 {:.button}
+
+{% endif %}
 
 {% unless page.style contains "dead" %}
 
 <div class="see-the-data">
 
-<p>You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.</p>
-
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-<p>See the data at {{ include.hyperlink }}</p>
+<p>
+    Play with the data behind your decisions at
+
+    <a href="{{ include.hyperlink }}">
+        {{ include.hyperlink | replace: "https://", "" | replace: "http://", "" }}
+    </a>
+</p>
 
 {% else %}
+
+<p>You can play with an interactive dashboard and see which of your decisions drove the biggest impacts on the climate.</p>
 
 <a href="{{ include.hyperlink }}" target="_blank">
     <img src="../../assets/images/web/data.svg" alt="See the data">
@@ -22,6 +36,8 @@
 
 {% endif %}
 
-</div>
+</div><!--see-the-data-->
+
 {% endunless %}
-</div>
+
+</div><!--call-to-action-->

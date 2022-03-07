@@ -1,3 +1,6 @@
+// Mixins first
+@import "print-mixins";
+
 // Page layouts
 @import "print-reversed-pages";
 @import "print-page-numbers";
@@ -10,3 +13,4 @@
 @import "print-title-page";
 @import "print-part-page";
 @import "print-newspaper";
+@import "print-ending";

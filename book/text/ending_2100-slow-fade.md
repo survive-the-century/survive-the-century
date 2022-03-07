@@ -6,7 +6,11 @@ image:
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-slow-fade--bg-blue.jpg" %}
+{% else %}
 {% include image file="end-state-slow-fade.png" %}
+{% endif %}
 
 # So, where do we end up by the end of the century?
 
