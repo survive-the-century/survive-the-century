@@ -1,8 +1,6 @@
 .part-page {
     color: $white;
     margin-top: $line-height-default * 8;
-    margin-left: 5mm; // center on page, unlike text block
-    margin-right: -5mm;
     background-image: url("#{$path-to-root-directory}/assets/images/#{$output-format}/part-page.svg");
     text-align: center;
 
@@ -35,5 +33,11 @@
 
 @page part-page {
     background-color: $midnight;
-}
+    margin-inside: ($margin-inside + $margin-outside) / 2;
+    margin-outside: ($margin-inside + $margin-outside) / 2;
 
+    @bottom {
+        content: counter(page);
+        @include secondary-page-number-style($white)
+    }
+}
