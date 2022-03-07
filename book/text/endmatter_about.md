@@ -50,8 +50,8 @@ To take action on climate change, we have to know what science says is likely to
 Facts keep us realistic. But to really believe them, we have to be willing to deal in fiction.
 
 {% if site.output == "screen-pdf" or site.output == "print-pdf" %}
-- [To see the full list of credits](endmatter_credits.html){:.turn-to-page}.
-- [To start playing](frontmatter_how-to-play.html){:.turn-to-page}.
+- [To see the full list of credits](endmatter_credits.html){:.turn-to-page}
+- [To start playing](frontmatter_how-to-play.html){:.turn-to-page}
 {% else %}
 - [See the full list of credits](endmatter_credits.html).
 - [Start playing](frontmatter_how-to-play.html).
