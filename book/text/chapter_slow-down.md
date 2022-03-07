@@ -18,7 +18,7 @@ By 2028, the world’s economy has rebounded to pre-Covid levels. People feel fl
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the NICE SWEATPANTS badge.
+[Award yourself the NICE SWEATPANTS badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}.
 
 {% endif %}
 

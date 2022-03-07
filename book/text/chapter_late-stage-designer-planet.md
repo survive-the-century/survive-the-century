@@ -20,7 +20,7 @@ Quality of life improves rapidly for most people in the world.
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-If you don't already have one, award yourself the UNIVERSAL BASIC INCOME badge!
+If you don't already have one, [award yourself the UNIVERSAL BASIC INCOME badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 

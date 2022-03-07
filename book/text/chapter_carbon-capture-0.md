@@ -20,7 +20,7 @@ Most of the remaining insects die out, including all bees. The Council scrambles
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the OH, WERE THESE IMPORTANT badge!
+[Award yourself the OH, WERE THESE IMPORTANT badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 

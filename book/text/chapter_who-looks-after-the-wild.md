@@ -17,7 +17,7 @@ Species have more space to adapt to climate change and some are recovering. Natu
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the I SAVED THE ORANGUTANS badge!
+[Award yourself the I SAVED THE ORANGUTANS badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 

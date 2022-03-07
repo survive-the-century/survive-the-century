@@ -14,7 +14,7 @@ We tax the rich and invest in public infrastructure and generous grant programme
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the UNIVERSAL BASIC INCOME badge!
+[Award yourself the UNIVERSAL BASIC INCOME badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 

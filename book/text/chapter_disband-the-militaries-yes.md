@@ -14,7 +14,7 @@ Cool!
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the KUMBAYA badge.
+[Award yourself the KUMBAYA badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}.
 
 {% endif %}
 

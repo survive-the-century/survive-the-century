@@ -21,7 +21,7 @@ The effects are terrible. Millions starve. Billions are displaced by war. This d
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the I SURVIVED THE 70s badge.
+[Award yourself the I SURVIVED THE 70s badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}.
 
 {% endif %}
 

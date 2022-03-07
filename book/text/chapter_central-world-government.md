@@ -18,7 +18,7 @@ The Council appoints a Media Fairness Monitor to your newsroom. She won’t tell
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the COUNCIL LOVES ME badge.
+[Award yourself the COUNCIL LOVES ME badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}.
 
 {% endif %}
 

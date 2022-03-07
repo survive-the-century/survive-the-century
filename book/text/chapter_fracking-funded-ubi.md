@@ -18,7 +18,7 @@ Your paper, as an influential voice, supports this. Right now, it’s more impor
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the UNIVERSAL BASIC INCOME badge!
+[Award yourself the UNIVERSAL BASIC INCOME badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 

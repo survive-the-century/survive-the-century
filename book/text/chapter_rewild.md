@@ -18,7 +18,7 @@ Restoring so much land to its natural state allows for many formerly threatened 
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 
-Award yourself the I SAVED THE ORANGUTANS badge!
+[Award yourself the I SAVED THE ORANGUTANS badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
 
 {% endif %}
 
