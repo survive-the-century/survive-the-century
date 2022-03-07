@@ -16,9 +16,7 @@ Press release
 
 {% include image file="obituaries-for-capitalism.png" class="headline-image portrait" %}
 
-# Obituaries
-
-## Capitalism: 1760–2068
+# **Obituaries** Capitalism: 1760–2068
 
 By Maria Turtschaninoff
 {:.author}

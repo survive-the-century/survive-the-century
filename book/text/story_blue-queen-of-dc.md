@@ -22,6 +22,7 @@ By Rajat Chaudhuri
 {:.author}
 
 *Food reporter*
+{:.story-info-line}
 
 Arriving here is no hassle. An armed Italian usher in a gondola rows up to greet you at the rusting jetty across the submerged Indian Head highway. He offers a round-bottom flask of golden tej. You enjoy sips of the honey wine while the boat heads mid-river to the stilted reincarnation of the old National Harbour, now a fin-de-siècle maelstrom of gene-hackers, doomsday cults and highlife holdouts like the Blue Queen – DC’s last Ethiopian eatery.
 

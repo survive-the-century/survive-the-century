@@ -18,6 +18,14 @@
 
     h1 {
         margin: 1rem 0;
+
+        // Use initial strong span for
+        // standalone numbering or category
+        // e.g. in obituary-for-capitalism
+        strong:first-of-type {
+            display: block;
+            font-family: normal;
+        }
     }
 
     .author {

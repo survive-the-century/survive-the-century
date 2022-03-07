@@ -45,8 +45,11 @@ By Sophia Al-Maria
 > 
 > WAKE UP!!!
 > 
-> 🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠
+> {% if site.output == "web" %}🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠ 🏳️‍🌈⃠{% endif %}
 {:.post}
+
+{% comment %} Above, we can't do the combining-symbols emoji in Prince,
+so we only show this on the web. {% endcomment %} 
 
 > circularimmunity363 
 > {:.username}
