@@ -93,10 +93,16 @@ exclude:
   # - /book/styles
 
   # Page types
+  # - /book/text/0*
+  # - /book/text/frontmatter*
   # - /book/text/chapter*
   # - /book/text/part-page*
   # - /book/text/newspaper*
+  # - /book/text/story*
   # - /book/text/ending*
+  # - /book/text/take-action*
+  # - /book/text/endmatter*
+  # - /book/text/stories*
 
 # Files
 
@@ -122,6 +128,7 @@ exclude:
   # - /book/text/frontmatter_how-to-play.md
   # - /book/text/frontmatter_contents.md
   # - /book/text/chapter_welcome-to-2021.md
+
   # - /book/text/chapter_1-5-degree-shocks.md
   # - /book/text/chapter_2-5-degree-shocks.md
   # - /book/text/chapter_3-degree-shocks.md

@@ -93,10 +93,16 @@ exclude:
   # - /book/styles
 
   # Page types
+  # - /book/text/0*
+  # - /book/text/frontmatter*
   # - /book/text/chapter*
   # - /book/text/part-page*
   # - /book/text/newspaper*
+  # - /book/text/story*
   # - /book/text/ending*
+  # - /book/text/take-action*
+  # - /book/text/stories*
+  # - /book/text/endmatter*
 
   # Files
 
