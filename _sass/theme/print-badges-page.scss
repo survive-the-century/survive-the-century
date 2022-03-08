@@ -1,0 +1,34 @@
+.badges {
+    page: badges;
+
+    // Right-hand page, blank after
+    page-break-before: right;
+    page-break-after: left;
+
+    p {
+        text-align: center;
+
+        &.instructions {
+            float: bottom;
+            max-width: $page-width;
+        }
+    }
+
+    img.badges {
+        max-width: none;
+        position: absolute;
+        
+        // Big as possible, with space for instruction text
+        width: $page-width - 50mm;
+        left: 0;
+        top: 0;
+    }
+}
+
+
+@page badges {
+    margin-top: 15mm;
+    margin-bottom: 15mm;
+    margin-inside: 25mm;
+    margin-outside: 25mm;
+}
