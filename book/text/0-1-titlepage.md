@@ -14,8 +14,8 @@ style: title-page
 {{ subtitle }}
 {:.title-page-subtitle}
 
-Created by {{ creator }}
+{{ creator }}
 {:.title-page-author}
 
-{{ contributor }}
-{:.title-page-contributor}
+{{ publisher }}
+{:.title-page-publisher}
