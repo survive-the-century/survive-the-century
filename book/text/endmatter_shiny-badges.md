@@ -1,6 +1,6 @@
 ---
 title: "Shiny Badges"
-style: endmatter badges
+style: endmatter badges-page
 ---
 
 {% include variables %}

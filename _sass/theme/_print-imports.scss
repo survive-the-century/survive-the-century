@@ -54,3 +54,19 @@
   font-weight: 400;
   src: url("#{$path-to-root-directory}/assets/fonts/Lora-Italic.ttf") format("truetype"),
 }
+
+// Alternative names used in SVGs.
+// This lets Prince load these fonts correctly in PDF.
+
+@font-face {
+  font-family: 'Lora-Italic';
+  font-style:  italic;
+  font-weight: 400;
+  src: url("#{$path-to-root-directory}/assets/fonts/Lora-Italic.ttf") format("truetype"),
+}
+
+@font-face {
+  font-family: 'Inter-Light';
+  font-weight: 300;
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Light.otf") format("truetype"),
+}
