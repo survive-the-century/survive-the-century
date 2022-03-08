@@ -4,6 +4,7 @@ _site/
 .jekyll-cache
 Gemfile.lock
 node_modules
+package-lock.json
 _tests/log*
 _data/secrets*
 _app/platforms
