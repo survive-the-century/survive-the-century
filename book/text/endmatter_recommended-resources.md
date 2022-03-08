@@ -1,6 +1,6 @@
 ---
 title: "Recommended Resources"
-style: endmatter
+style: chapter endmatter
 ---
 
 # Recommended resources

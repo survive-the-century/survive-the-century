@@ -20,6 +20,7 @@
             h1 {
                 line-height: $line-height-default;
                 font-size: 20pt;
+                font-style: normal;
                 width: 50%;
                 color: $white;
                 margin: 0;
@@ -28,10 +29,14 @@
             // To do: change to more semantic element
             h2 {
                 color: $red;
+                font-family: $font-display-main;
                 font-size: 10pt;
+                font-style: normal;
                 line-height: $line-height-default;
                 width: 50%;
                 margin: 0;
+                text-transform: none;
+                letter-spacing: 0;
             }
 
             p {

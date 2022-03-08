@@ -1,6 +1,6 @@
 ---
 title: "Group Reading"
-style: frontmatter
+style: chapter endmatter
 ---
 
 # Playing as a group

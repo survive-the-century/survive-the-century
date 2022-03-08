@@ -25,6 +25,7 @@ By Lauren Beukes
 {:.author}
 
 Paradys is two things: a real-world paradise zone for the rich and famous who are not quite rich and famous enough to get to Mars, and the most popular virtual world where your avatar can rub shoulders with a who’s who of 21st-century celebrities from Beyoncé and Jay-Z for the nostalgiaphiles to breakout VR influencers like Star\*Star and M@keMi. ParadysVR is known for its attention to detail, exactly replicating the beachside mansions and vineyard villas and penthouse apartments of its real-world tenants that you’ve seen on your entertainment network of choice, promising to catapult you into the most ReallyReal™ Rich&nbsp;&&nbsp;Famous experience possible.
+{:.keep-together}
 
 Unfortunately, it’s exactly that high fidelity to life that has allowed an elite gang of criminals to precisely home in on their targets, using the virtual world to map the layout and exploit security weak points.
 

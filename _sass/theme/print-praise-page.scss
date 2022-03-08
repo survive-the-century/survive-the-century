@@ -1,6 +1,10 @@
 .praise-page {
     page-break-before: right;
 
+    h1 {
+        color: $red;
+    }
+
     p {
         margin-bottom: $line-height-default / 2;
 

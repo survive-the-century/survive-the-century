@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-style: endmatter
+style: chapter endmatter
 ---
 
 {% include variables %}
