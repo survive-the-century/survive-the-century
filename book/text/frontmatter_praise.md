@@ -5,7 +5,7 @@ style: reversed praise-page page-1
 
 # Praise for *Survive the Century*
 
-“A sneaky-simple game that makes our climate choices real.” – Brain Kahn, *Gizmodo*
+“A sneaky-simple game that makes our climate choices real.” – Brian Kahn, *Gizmodo*
 
 “A climate fiction game where your choices on what narratives are highlighted will determine how well humanity will survive the 21st century.” – Fridays for Future
 
