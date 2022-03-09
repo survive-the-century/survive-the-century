@@ -14,7 +14,7 @@ style: chapter endmatter
 - Have you already directly experienced one of the effects of climate change?
 - How are you already seeing people in your community adapting to the effects of climate change? What are some adaptations you might expect to see in the future? What are the consequences of those adaptations?
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
-- How old will you be 20 years from now? Go back to the news headlines from 2040 (see page[](newspaper_welcome-to-2040-billionaire-saviours.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-climate-wars.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-designer-planet.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-ecotopia.html){:.show-page-number.no-brackets} and page[](newspaper_welcome-to-2040-slow-fade.html){:.show-page-number}). How do you expect the world to be different when you’re that age?
+- How old will you be 20 years from now? Go back to the news headlines from 2040 (see page[](newspaper_welcome-to-2040-billionaire-saviours.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-climate-wars.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-designer-planet.html){:.show-page-number.no-brackets}, page[](newspaper_welcome-to-2040-ecotopia.html){:.show-page-number.no-brackets} and page[](newspaper_welcome-to-2040-slow-fade.html){:.show-page-number.no-brackets}). How do you expect the world to be different when you’re that age?
 {% endif %}
 - What do you think this story gets wrong? (We’d love to hear your thoughts: hello@survivethecentury.net)
 - Did the fictional articles help make some potential climate choices feel more plausible?
