@@ -13,12 +13,18 @@ project:
   # The name of the project of books in this folder.
   name: "Survive the Century"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "You are the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby influence how the world responds to climate change. 
-  What if you invest in green technology and cut taxes? What if you rewild half of the world’s agricultural land? What if you unleash your inner supervillain and spark WWIII? What if you block out the sun (just a little bit)? 
-  Your choices will determine how well humanity will survive the 21st century. No pressure. 
-  Survive the Century is a branching narrative story about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
-  This is a work of fiction, but it is informed by real science.
-  Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria, as well as illustrations by Annika Brandow."
+  description: |
+    You are the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby influence how the world responds to climate change.
+
+    What if you invest in green technology and cut taxes? What if you rewild half of the world’s agricultural land? What if you unleash your inner supervillain and spark WWIII? What if you block out the sun (just a little bit)?
+
+    Your choices will determine how well humanity will survive the 21st century. No pressure.
+
+    Survive the Century is a branching narrative story about the political, environmental and social choices humans will face between 2021 and 2100 as we adapt to the ravages of climate change.
+
+    This is a work of fiction, but it is informed by real science.
+
+    Featuring short fiction by Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria, as well as illustrations by Annika Brandow.
   # The logo of the organisation, saved web-ready in /assets
   logo: "logo.png"
   # An image in /assets/images/web that stands for the project
@@ -49,12 +55,18 @@ works:
     creator: "Sam Beckbessinger, Christopher Trisos and Simon Nicholson" # E.g. the author
     contributor: "With short fiction by Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria and illustrations by Annika Brandow" # E.g. other contributors
     subject: "Fiction" # E.g. BISAC terms (https://bisg.org/page/BISACEdition) or BIC (https://ns.editeur.org/bic_categories)
-    description: "A funny, hopeful, science-informed interactive story about the future, where you choose how humans respond to the ravages of climate change up to 2100. 
-    “A sneaky-simple game that makes our climate choices real.” - Brain Kahn, Gizmodo
-    Survive the Century is an interactive story that positions you as the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby shift the zeitgeist. What if you invest in green technology and cut taxes? What if you rewild half of the world’s agricultural land? What if you unleash your inner supervillain and spark WWIII? What if you block out the sun (just a little bit)?
-    Along the way, you get to read the headlines of the newspapers of the day that result from your choices, and read news stories from the future written by leading sci-fi writers like Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria. The book also features playful illustrations by Annika Brandow.
-    This story is a work of fiction, but it is informed by real science. Each pathway in the game has been co-developed by fiction writers with natural and social scientists and climate policymakers. The story aims to be whimsical and entertaining while still illustrating the real consequences and choices that are likely to confront us in the coming century. The online version of the story was launched in 2021, has already been read over 20,000 times, and was featured in publications like New Scientist, Gizmodo and Stories for Earth. 
-    It’s designed to be an ideal gift for teens and young adults who are passionate about climate change, a coffee-table conversation starter for older adults looking for more hopeful climate fiction, and an engaging tool for educational contexts." # E.g. the blurb
+    description: |
+      A funny, hopeful, science-informed interactive story about the future, where you choose how humans respond to the ravages of climate change up to 2100.
+
+      “A sneaky-simple game that makes our climate choices real.” – Brain Kahn, Gizmodo
+
+      Survive the Century is an interactive story that positions you as the senior editor of the world’s most popular and trusted news organization. You have the enviable power to set the news agenda, and thereby shift the zeitgeist. What if you invest in green technology and cut taxes? What if you rewild half of the world’s agricultural land? What if you unleash your inner supervillain and spark WWIII? What if you block out the sun (just a little bit)?
+
+      Along the way, you get to read the headlines of the newspapers of the day that result from your choices, and read news stories from the future written by leading sci-fi writers like Lauren Beukes, Rajat Chaudhuri, Maria Turtschaninoff and Sophia Al-Maria. The book also features playful illustrations by Annika Brandow.
+
+      This story is a work of fiction, but it is informed by real science. Each pathway in the game has been co-developed by fiction writers with natural and social scientists and climate policymakers. The story aims to be whimsical and entertaining while still illustrating the real consequences and choices that are likely to confront us in the coming century. The online version of the story was launched in 2021, has already been read over 20,000 times, and was featured in publications like New Scientist, Gizmodo and Stories for Earth.
+
+      It’s designed to be an ideal gift for teens and young adults who are passionate about climate change, a coffee-table conversation starter for older adults looking for more hopeful climate fiction, and an engaging tool for educational contexts.
     publisher: "Three Kids in a Trenchcoat" # E.g. the publisher, imprint or brand name
     publisher-url: "https://www.sambeckbessinger.com/"
     date: "2021-05-06" # YYYY-MM-DD e.g. publication date
