@@ -5,7 +5,7 @@ style: trackers-page
 
 <div class="tracker-instructions" markdown="1">
 
-Track the economy, temperature and conflict with these folding gauges. Cut along the dotted lines. Then, fold up when things get worse. Fold&nbsp;down if they get better.
+Track the economy, temperature and conflict with these folding gauges. Cut along the dashed lines. Then, fold up when things get worse. Fold&nbsp;down if they get better.
 
 </div>
 
