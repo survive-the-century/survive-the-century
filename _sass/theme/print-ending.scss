@@ -50,7 +50,7 @@
         left: 0;
         right: 0;
         height: $line-height-default * 4;
-        padding-top: $line-height-default;
+        padding-top: $line-height-default - 1pt; // 1pt adjustment for visual centering
         margin-top: $line-height-default;
         page-break-before: avoid;
 
@@ -85,7 +85,7 @@
             padding: 0;
 
             p {
-                line-height: $margin-bottom;
+                line-height: ($line-height-default * 4) - 1pt; // 1pt adjustment for visual centering
             }
         }
     }
