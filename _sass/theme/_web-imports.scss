@@ -5,7 +5,8 @@
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.woff") format("woff"),
+       url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.ttf") format("truetype");
 }
 
 @font-face {
