@@ -67,7 +67,8 @@
 }
 
 @page trackers:first {
-    background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
+    // background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
+    background: url('#{$path-to-root-directory}/book/text/trackers.svg');
     background-repeat: no-repeat;
     background-position: -5mm -5mm;
     background-size: $page-width + 10;
