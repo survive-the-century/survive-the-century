@@ -22,8 +22,8 @@ They just invaded Earth. They say they want their planet back.
 Oh boy. Do you have that KUMBAYA badge?
 {:.choice-question}
 
-- [Shoot! No, we disbanded all of the militaries, remember!?](chapter_billionaire-ecotopia-takeover.html)
-- [Yes! We kept some militaries in place, so we can fight them off. Phew.](part-page_2090-ecotopia.html)
+- [Ah. Yes. We disbanded all of the militaries, remember!?](chapter_billionaire-ecotopia-takeover.html)
+- [Nope. We kept some militaries in place, so we can fight them off. Phew.](part-page_2090-ecotopia.html)
 {:.choice-options}
 
 {% else %}
