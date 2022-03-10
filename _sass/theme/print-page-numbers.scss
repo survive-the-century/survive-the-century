@@ -34,16 +34,24 @@ a.show-page-number {
 }
 
 @page {
+
     @left {
         border-top: ($rule-thickness * 2) solid $midnight;
         margin-top: 4pt; // magic-number adjustment
         padding-top: $line-height-default / 2;
         margin-outside: -($bleed);
     }
+
     @right {
         border-top: ($rule-thickness * 2) solid $midnight;
         margin-top: 4pt; // magic-number adjustment
         padding-top: $line-height-default / 2;
         margin-outside: -($bleed);
+    }
+
+    // Not-the-last-page indicator
+    @right-bottom {
+        font-family: $font-display-secondary;
+        color: $red;
     }
 }
