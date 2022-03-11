@@ -361,13 +361,13 @@
 @page newspaper:left {
     @bottom-left-corner {
         @include secondary-page-number-style($white);
-        content: $verso-left;
+        content: counter(page);
     }
 }
 
 @page newspaper:right {
     @bottom-right-corner {
         @include secondary-page-number-style($white);
-        content: $recto-right;
+        content: counter(page);
     }
 }

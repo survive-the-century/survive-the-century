@@ -9,6 +9,21 @@
     color: $color;
 }
 
+// Not-the-last-page indicator
+@mixin turn-the-page-arrow() {
+    @right-bottom {
+        color: $red !important;
+        font-family: $font-display-secondary !important;
+        font-size: 10pt !important;
+        font-weight: normal !important;
+        text-align: right !important;
+        vertical-align: bottom !important;
+        margin: 0 !important;
+        padding: 0 12mm 0 0 !important;
+        border: 0 !important;
+    }
+}
+
 .choice-options a::after,
 .part-page a::after,
 .story-list a::after,
@@ -35,23 +50,26 @@ a.show-page-number {
 
 @page {
 
-    @left {
+    @left-top {
         border-top: ($rule-thickness * 2) solid $midnight;
         margin-top: 4pt; // magic-number adjustment
         padding-top: $line-height-default / 2;
         margin-outside: -($bleed);
     }
 
-    @right {
+    @right-top {
         border-top: ($rule-thickness * 2) solid $midnight;
         margin-top: 4pt; // magic-number adjustment
         padding-top: $line-height-default / 2;
         margin-outside: -($bleed);
     }
 
-    // Not-the-last-page indicator
+    @include turn-the-page-arrow();
+}
+
+// No turn-the-page arrow on blank pages
+@page:blank {
     @right-bottom {
-        font-family: $font-display-secondary;
-        color: $red;
+        content: normal !important;
     }
 }

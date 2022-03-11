@@ -43,6 +43,13 @@ function ebAddPageNumbers() {
 function lastPageCheck() {
     'use strict';
 
+    // Don't do this on some pages
+    if (document.body.classList.contains('praise-page')
+            || document.body.classList.contains('badges-page')
+            || document.body.classList.contains('trackers-page')) {
+        return;
+    }
+
     // Create a target at the end of the doc,
     // which will only appear on its last page.
     // It must be block-level element (not a span)
@@ -62,7 +69,7 @@ function lastPageCheck() {
     // rather than [filename].html#end-content. For more detail see
     // https://www.princexml.com/forum/topic/4353/target-counter-not-working
     var lastPageStyleElement = document.createElement('style');
-    lastPageStyleElement.innerHTML = '@page { @right-bottom { content: prince-script(lastPageCheck, counter(page), target-counter(url("#end-content"), page));} }';
+    lastPageStyleElement.innerHTML = '@page { @right-bottom { content: prince-script(lastPageCheck, counter(page), target-counter(url("#end-content"), page)) !important;} }';
     document.head.appendChild(lastPageStyleElement);
 }
 
