@@ -1,7 +1,15 @@
+.newspaper {
+    page: newspaper;
+}
+
+.story {
+    page: story;
+}
+
+// Common elements
 .newspaper,
 .story {
     margin-top: -($margin-top + $bleed);
-    page: newspaper;
 
     .newspaper-header-wrapper {
         background-color: $midnight;
@@ -39,13 +47,19 @@
                 letter-spacing: 0;
             }
 
-            p {
+            p.newspaper-date {
                 color: $white;
+                font-size: 15pt;
+                line-height: $line-height-default;
+                text-align: right;
                 position: absolute;
-                top: 0;
+                bottom: 13pt; // align with 'The News'
                 right: 0;
                 width: 50%;
-                line-height: $line-height-default;
+
+                strong {
+                    font-weight: normal;
+                }
             }
         }
     }
@@ -141,7 +155,6 @@
         text-transform: uppercase;
         letter-spacing: 0.05em;
         color: $midnight;
-        border-top: $rule-thickness solid $red;
         border-bottom: $rule-thickness solid $red;
         font-size: 10pt;
         line-height: $line-height-default;
@@ -220,6 +233,43 @@
 
         dd {
             margin: 0 0 ($line-height-default / 2) 0
+        }
+    }
+}
+
+// Condensed newspaper front pages
+.newspaper {
+
+    .headline-image-parent {
+        max-height: $line-height-default * 8;
+
+        img {
+            max-height: $line-height-default * 8;
+        }
+    }
+
+    .subheadline {
+        font-size: 9.5pt;
+    }
+
+    #other-stories-today {
+        font-size: 8pt;
+        line-height: $line-height-default;
+        margin: ($line-height-default / 2) 0;
+    }
+
+    ul.articles {
+        columns: 2;
+        column-gap: $paragraph-indent / 2;
+
+        li {
+            column-break-inside: avoid;
+            page-break-inside: avoid; // this is a falback for column-break-inside in Prince
+
+            .article-text {
+                font-size: 7pt;
+                line-height: 10pt;
+            }
         }
     }
 }
@@ -337,10 +387,7 @@
 
 // @page layouts
 
-@page newspaper {
-    margin-inside: ($margin-inside + $margin-outside) / 2;
-    margin-outside: ($margin-inside + $margin-outside) / 2;
-
+@mixin common-news-story-footer() {
     @bottom {
         content: "";
         background-color: $midnight;
@@ -358,6 +405,13 @@
     }
 }
 
+@page newspaper {
+    margin-inside: 15mm;
+    margin-outside: 15mm;
+
+    @include common-news-story-footer();
+}
+
 @page newspaper:left {
     @bottom-left-corner {
         @include secondary-page-number-style($white);
@@ -366,6 +420,27 @@
 }
 
 @page newspaper:right {
+    @bottom-right-corner {
+        @include secondary-page-number-style($white);
+        content: counter(page);
+    }
+}
+
+@page story {
+    margin-inside: ($margin-inside + $margin-outside) / 2;
+    margin-outside: ($margin-inside + $margin-outside) / 2;
+
+    @include common-news-story-footer();
+}
+
+@page story:left {
+    @bottom-left-corner {
+        @include secondary-page-number-style($white);
+        content: counter(page);
+    }
+}
+
+@page story:right {
     @bottom-right-corner {
         @include secondary-page-number-style($white);
         content: counter(page);
