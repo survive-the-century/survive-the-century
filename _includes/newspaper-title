@@ -1,6 +1,6 @@
 {% capture full_date %}{{ include.date }}{% endcapture %}
 {% capture year %}{{ full_date | split: " " | last }}{% endcapture %}
-{% capture new_year %}{{ year | prepend: "<br/>" }}{% endcapture %}
+{% capture new_year %}{{ year | prepend: "<strong>" | append: "</strong>" }}{% endcapture %}
 {% assign new_date = full_date | replace: year, new_year %}
 
 <div class="newspaper-header-wrapper">
@@ -11,7 +11,7 @@
 
     <h2>All the news, all the time.</h2>
 
-    <p>{{ new_date }}</p>
+    <p class="newspaper-date">{{ new_date }}</p>
 
     </div>
 </div>
