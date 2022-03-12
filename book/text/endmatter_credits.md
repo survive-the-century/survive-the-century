@@ -48,7 +48,7 @@ Sophia Al Maria is a Qatari-American artist, writer, and filmmaker. Her work has
 
 Climate Interactive, the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, and the National Socio-Environmental Synthesis Center (SESYNC) under funding received from the National Science Foundation DBI-1639145.
 
-### Web development and publishing
+### Web development, book design, and production
 
 Electric Book Works ([electricbookworks.com](https://electricbookworks.com))
 
@@ -56,7 +56,7 @@ Electric Book Works ([electricbookworks.com](https://electricbookworks.com))
 
 Annika Brandow ([annikabrandow.com](https://annikabrandow.com))
 
-### Design
+### Visual design
 
 Karen Lilje ([www.hybridcreative.co.za](https://www.hybridcreative.co.za))
 
