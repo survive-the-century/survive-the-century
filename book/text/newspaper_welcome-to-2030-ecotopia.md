@@ -23,7 +23,7 @@ Landmark ruling finds executive’s actions were premeditated in first test case
 
 ### Other stories today
 
-- {% include thumbnail file="thumbnail_graph.png" %} “We tackled Covid, now let’s defeat Malaria”: countries agree to keep contributing one per cent of GDP to tackle global health priorities
+- {% include thumbnail file="thumbnail_graph.png" %} “We tackled Covid, now let’s defeat Malaria”: Countries agree to keep contributing one per cent of GDP to tackle global health priorities
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Revitalization of small-town economies and affordable housing: 20-somethings can afford to buy their own homes
 - {% include thumbnail file="thumbnail_water.png" %} Successful test of Great Barrier Reef corals relocated to Tasman Sea
 - {% include thumbnail file="thumbnail_shapes.png" %} California passes ban on selling and trading animal products: Boom in illicit underground meat restaurants [Read more](story_meat-raid.html){:.read-more}
