@@ -287,12 +287,11 @@ $newspaper-page-margin: 15mm;
         position: absolute;
         bottom: -($line-height-default * 2);
         height: $line-height-default * 2;
-        margin-left: -($newspaper-page-margin + $bleed);
-        margin-right: -($newspaper-page-margin + $bleed);
-        padding-left: $newspaper-page-margin + $bleed;
-        padding-right: $newspaper-page-margin + $bleed;
+        margin-left: -($page-width);
+        margin-right: -($page-width);
+        padding-left: $page-width;
+        padding-right: $page-width;
         text-indent: 0;
-        width: $page-width + ($bleed * 2);
 
         a {
             display: table-cell;
@@ -326,6 +325,14 @@ $newspaper-page-margin: 15mm;
         img {
             max-height: $line-height-default * 8;
         }
+    }
+
+    .next-decade-link {
+        margin-left: -($newspaper-page-margin + $bleed);
+        margin-right: -($newspaper-page-margin + $bleed);
+        padding-left: $newspaper-page-margin + $bleed;
+        padding-right: $newspaper-page-margin + $bleed;
+        width: $page-width + ($bleed * 2);
     }
 }
 
