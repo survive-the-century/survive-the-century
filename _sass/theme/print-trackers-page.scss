@@ -23,8 +23,8 @@
     }
 
     .tracker-backing {
-        page: tracker-gradient;
         page-break-before: right;
+        page-break-after: right;
 
         .tracker-backing-instructions {
             font-family: $font-display-secondary;
@@ -67,6 +67,9 @@
 }
 
 @page trackers:first {
+
+    // We need Jekyll to process the SVG to insert colour values,
+    // hence keeping the SVG in the book folder.
     // background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
     background: url('#{$path-to-root-directory}/book/text/trackers.svg');
     background-repeat: no-repeat;
@@ -80,11 +83,6 @@
     margin-outside: ($margin-inside + $margin-outside) / 2;
 }
 
-@page tracker-gradient {
+@page trackers:nth(3) {
     background: url('#{$path-to-root-directory}/book/images/#{$output-format}/tracker-gradient.jpg');
-    background-repeat: no-repeat;
-    background-position: -5mm -5mm;
-    background-size: $page-width + 10;
-    margin-inside: ($margin-inside + $margin-outside) / 2;
-    margin-outside: ($margin-inside + $margin-outside) / 2;
 }
