@@ -1,10 +1,10 @@
 ---
 # This page is for PDF only
 title: "Nope 1"
-style: frontmatter
 ---
 
-Oooh, we’ve got a rebel over here. 
+Oooh, we’ve got a rebel over here.
+{:.leader-sentence}
 
 You COULD try just flipping through this like a normal boring book, but we can’t promise that some of these pages won't be poisoned.
 

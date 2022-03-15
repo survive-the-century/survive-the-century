@@ -45,19 +45,21 @@ $left-margin-space-from-edge: 12mm;
 $right-margin-space-from-edge: 12mm;
 $left-margin-text-color: $midnight !default;
 $right-margin-text-color: $midnight !default;
-
-// - Content
 $first-page-margin-boxes: show !default;
 $frontmatter-reference-style: decimal !default;
+
+// - Content
+$recto-right-top: counter(page) !default;
+$verso-left-top: counter(page) !default;
+$verso-left-top-frontmatter: counter(page) !default;
+$recto-right-top-frontmatter: counter(page) !default;
+
+//   - Off
 $verso-top: normal !default;
 $verso-bottom: normal !default;
-$verso-left-top: counter(page) !default;
 $recto-top: normal !default;
 $recto-bottom: normal !default;
-$recto-right-top: counter(page) !default;
 $verso-top-frontmatter: normal !default;
 $verso-bottom-frontmatter: normal !default;
-$verso-left-frontmatter: counter(page) !default;
 $recto-top-frontmatter: normal !default;
 $recto-bottom-frontmatter: normal !default;
-$recto-right-frontmatter: counter(page) !default;

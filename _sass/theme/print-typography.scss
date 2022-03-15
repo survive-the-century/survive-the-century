@@ -23,13 +23,6 @@ h2 {
     }
 }
 
-p, ul, ol, dl {
-
-    body.reversed & {
-        color: $white;
-    }
-}
-
 // Chapters that start with an image
 .chapter-image-parent {
     float: right;

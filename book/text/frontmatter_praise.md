@@ -1,6 +1,6 @@
 ---
 title: "Praise"
-style: reversed praise-page page-1
+style: praise-page page-1
 ---
 
 # Praise for *Survive the Century*

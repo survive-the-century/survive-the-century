@@ -90,6 +90,10 @@
         p {
             hyphens: none;
             text-align: center;
+
+            & + p {
+                text-indent: 0;
+            }
         }
 
         .call-to-action {

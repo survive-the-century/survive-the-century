@@ -348,6 +348,9 @@ works:
           - "0-2-copyright"
           - "frontmatter_contents"
           - "frontmatter_how-to-play"
+          - "frontmatter_nope-1"
+          - "frontmatter_nope-2"
+          - "frontmatter_nope-3"
           - "chapter_welcome-to-2021"
 
           # Largely random order, but avoiding contiguous
@@ -596,6 +599,9 @@ works:
           - "0-2-copyright"
           - "frontmatter_contents"
           - "frontmatter_how-to-play"
+          - "frontmatter_nope-1"
+          - "frontmatter_nope-2"
+          - "frontmatter_nope-3"
           - "chapter_welcome-to-2021"
 
           # Largely random order, but avoiding contiguous

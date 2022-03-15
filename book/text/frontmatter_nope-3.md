@@ -1,17 +1,19 @@
 ---
 # This page is for PDF only
 title: "Nope 3"
-style: frontmatter
+style: ending dead
 ---
 
 {% include variables %}
 
-{% include image file="end-state-dead-world.png" class="chapter-image landscape" %}
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-dead-world--bg-black.jpg" %}
+{% else %}
+{% include image file="end-state-dead-world.png" %}
+{% endif %}
 
-This page was soaked in poison.
-{:.leader-sentence}
+# This page was soaked in poison.
 
 Well, look. Now you're dead.
-{:.leader-sentence}
 
 [Turn to page](chapter_welcome-to-2021.html){:.show-page-number.no-brackets} to start playing.

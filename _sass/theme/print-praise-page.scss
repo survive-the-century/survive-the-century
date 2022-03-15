@@ -1,5 +1,8 @@
 .praise-page {
+    page: praise;
     page-break-before: right;
+
+    @include page-text-color();
 
     h1 {
         color: $red;
@@ -12,4 +15,8 @@
             text-indent: 0;
         }
     }
+}
+
+@page praise {
+    background-color: $midnight;
 }

@@ -126,6 +126,9 @@ exclude:
   # - /book/text/0-2-copyright.md
   # - /book/text/frontmatter_praise.md
   # - /book/text/frontmatter_how-to-play.md
+  # - /book/text/frontmatter_nope-1.md
+  # - /book/text/frontmatter_nope-2.md
+  # - /book/text/frontmatter_nope-3.md
   # - /book/text/frontmatter_contents.md
   # - /book/text/chapter_welcome-to-2021.md
 
