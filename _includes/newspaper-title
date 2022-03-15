@@ -15,3 +15,45 @@
 
     </div>
 </div>
+
+{% if site.output == "print-pdf" or site.output == "screen-pdf" and page.style contains "newspaper" %}
+
+<div class="newspaper-trackers">
+    <div class="newspaper-trackers-head"><a href="endmatter_trackers.html" class="show-page-number">Update your trackers</a></div>
+
+    <div class="newspaper-trackers-data">
+
+        <div class="newspaper-tracker-data">
+            {% if page.economy-tracker and page.economy-tracker != "" %}
+                <span class="tracker-label">Economy</span>
+                <span class="tracker-value">{{ page.economy-tracker }}</span>
+            {% else %}
+                <span class="tracker-label">Economy</span>
+                <span class="tracker-value">No change</span>
+            {% endif %}
+        </div>
+
+        <div class="newspaper-tracker-data">
+            {% if page.temperature-tracker and page.temperature-tracker != "" %}
+                <span class="tracker-label">Temperature</span>
+                <span class="tracker-value">{{ page.temperature-tracker }}</span>
+            {% else %}
+                <span class="tracker-label">Temperature</span>
+                <span class="tracker-value">No change</span>
+            {% endif %}
+        </div>
+
+        <div class="newspaper-tracker-data">
+            {% if page.conflict-tracker and page.conflict-tracker != "" %}
+                <span class="tracker-label">Conflict</span>
+                <span class="tracker-value">{{ page.conflict-tracker }}</span>
+            {% else %}
+                <span class="tracker-label">Conflict</span>
+                <span class="tracker-value">No change</span>
+            {% endif %}
+        </div>
+
+    </div>
+</div>
+
+{% endif %}

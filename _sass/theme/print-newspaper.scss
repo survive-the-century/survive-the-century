@@ -1,3 +1,5 @@
+$newspaper-page-margin: 15mm;
+
 .newspaper {
     page: newspaper;
 }
@@ -6,7 +8,7 @@
     page: story;
 }
 
-// Common elements
+// Common newspaper and story elements
 .newspaper,
 .story {
     margin-top: -($margin-top + $bleed);
@@ -36,7 +38,7 @@
 
             // To do: change to more semantic element
             h2 {
-                color: $red;
+                color: $white;
                 font-family: $font-display-main;
                 font-size: 10pt;
                 font-style: normal;
@@ -64,10 +66,73 @@
         }
     }
 
-    #top-article,
+    .newspaper-trackers {
+        border-bottom: $rule-thickness solid $black;
+        font-family: $font-display-secondary;
+        font-size: 7pt;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        line-height: $line-height-default / 2;
+        padding-top: $line-height-default / 2;
+        padding-bottom: $line-height-default / 2;
+
+        // Extend to page edge
+        margin-left: -($newspaper-page-margin + $bleed);
+        margin-right: -($newspaper-page-margin + $bleed);
+        padding-left: $newspaper-page-margin + $bleed;
+        padding-right: $newspaper-page-margin + $bleed;
+
+        .newspaper-trackers-head {
+            color: $red;
+            margin-bottom: $line-height-default / 4;
+        }
+
+        .newspaper-trackers-data {
+            display: table;
+            width: 100%;
+
+            .newspaper-tracker-data {
+                display: table-cell;
+
+                &:nth-child(2) {
+                    text-align: center;
+                }
+                &:nth-child(3) {
+                    text-align: right;
+                }
+
+                .tracker-label {
+                    color: $midnight;
+                }
+
+                .tracker-value {
+                    color: $white;
+                    background-color: $midnight;
+                    border-radius: $button-border-radius;
+                    font-weight: bold;
+                    padding: 1pt 2pt;
+                }
+            }
+        }
+
+    }
+
+    // Newspaper 'top article'
+    #top-article {
+        font-family: $font-display-secondary;
+        font-size: 8pt;
+        font-weight: normal;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        line-height: ($line-height-default / 4) * 3;
+        margin-bottom: $line-height-default / 4;
+    }
+
+    // Story runner
     .runner {
         border-bottom: $rule-thickness solid $red;
         font-family: $font-display-secondary;
+        font-size: 10pt;
         font-weight: normal;
         text-transform: uppercase;
         letter-spacing: 0.05em;
@@ -121,7 +186,7 @@
         color: $midnight;
         font-family: $font-display-secondary;
         text-indent: 0;
-        font-size: 10pt;
+        font-size: 9.5pt;
         font-style: normal;
         line-height: $line-height-default;
         margin: ($line-height-default / 2) 0;
@@ -150,20 +215,22 @@
     }
 
     #other-stories-today {
-        font-family: $font-display-secondary;
-        font-weight: normal;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        color: $midnight;
         border-bottom: $rule-thickness solid $red;
-        font-size: 10pt;
-        line-height: $line-height-default;
-        margin: $line-height-default 0;
         clear: both;
+        color: $midnight;
+        font-family: $font-display-secondary;
+        font-size: 8pt;
+        font-weight: normal;
+        letter-spacing: 0.05em;
+        line-height: $line-height-default;
+        margin: ($line-height-default / 2) 0;
+        text-transform: uppercase;
     }
 
     .articles {
         break-inside: auto;
+        columns: 2;
+        column-gap: $paragraph-indent / 2;
         list-style-type: none;
 
         li {
@@ -171,6 +238,14 @@
             display: table-row;
             font-family: $font-display-secondary;
             min-height: $line-height-default * 2;
+            column-break-inside: avoid;
+            page-break-inside: avoid; // this is a falback for column-break-inside in Prince
+
+            // We cna only show 6 articles in print,
+            // hide from 7th article onwards
+            &:nth-child(n+7) {
+                display: none;
+            }
 
             img {
                 display: table-cell;
@@ -182,17 +257,20 @@
             // JS creates this wrapper
             .article-text {
                 display: table-cell;
+                font-size: 7pt;
+                line-height: 10pt;
                 padding-bottom: $line-height-default / 2;
                 vertical-align: top;
             }
 
             .read-more {
-                display: inline-block;
-                line-height: 1;
-                background-color: $midnight;
-                color: $white;
-                padding: 3pt;
+                background-color: $red;
                 border-radius: $button-border-radius;
+                color: $white;
+                display: inline-block;
+                font-weight: bold;
+                line-height: 1;
+                padding: 1pt 2pt;
             }
 
             &:first-of-type {
@@ -209,11 +287,12 @@
         position: absolute;
         bottom: -($line-height-default * 2);
         height: $line-height-default * 2;
-        margin-left: -($page-width / 2);
-        margin-right: -($page-width / 2);
-        padding-left: $page-width / 2;
-        padding-right: $page-width / 2;
+        margin-left: -($newspaper-page-margin + $bleed);
+        margin-right: -($newspaper-page-margin + $bleed);
+        padding-left: $newspaper-page-margin + $bleed;
+        padding-right: $newspaper-page-margin + $bleed;
         text-indent: 0;
+        width: $page-width + ($bleed * 2);
 
         a {
             display: table-cell;
@@ -238,7 +317,7 @@
     }
 }
 
-// Condensed newspaper front pages
+// Non-story newspaper overrides
 .newspaper {
 
     .headline-image-parent {
@@ -246,31 +325,6 @@
 
         img {
             max-height: $line-height-default * 8;
-        }
-    }
-
-    .subheadline {
-        font-size: 9.5pt;
-    }
-
-    #other-stories-today {
-        font-size: 8pt;
-        line-height: $line-height-default;
-        margin: ($line-height-default / 2) 0;
-    }
-
-    ul.articles {
-        columns: 2;
-        column-gap: $paragraph-indent / 2;
-
-        li {
-            column-break-inside: avoid;
-            page-break-inside: avoid; // this is a falback for column-break-inside in Prince
-
-            .article-text {
-                font-size: 7pt;
-                line-height: 10pt;
-            }
         }
     }
 }
@@ -407,8 +461,8 @@
 }
 
 @page newspaper {
-    margin-inside: 15mm;
-    margin-outside: 15mm;
+    margin-inside: $newspaper-page-margin;
+    margin-outside: $newspaper-page-margin;
 
     @include common-news-story-footer();
 }
