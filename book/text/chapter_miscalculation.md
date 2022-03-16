@@ -18,14 +18,14 @@ Your lead climate reporter tells you, in a voice choked with fear, that a sudden
 
 <div data-js-var="css-var-carboncapture-0" markdown="1" class="hidden">
 
-- [Oh heck, did we do that?](chapter_carbon-capture-0.html)
+- [Oh heck, did we do that?](chapter_carbon-capture-1.html)
 {:.choice-options}
 
 </div>
 
 <div data-js-var="css-var-carboncapture-1" markdown="1" class="hidden">
 
-- [Oh heck, did we do that?](chapter_carbon-capture-1.html)
+- [Oh heck, did we do that?](chapter_carbon-capture-0.html)
 {:.choice-options}
 
 </div>
