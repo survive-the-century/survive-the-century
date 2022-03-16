@@ -20,6 +20,16 @@ The council is warned that if the space-mirror project ever fails, there might b
 Should we also invest in the planetary clean-up project?
 {:.choice-question}
 
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
 - [Nah, we trust the space mirrors!](part-page_2060-designer-planet.html){:data-js-var="js-var-carboncapture-0"}
-- [Yes, let’s make sure there’s a plan B.{% if site.output == "print-pdf" or site.output == "screen-pdf" %} [Award yourself the PLAN B badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}, then.{% endif %}](part-page_2060-designer-planet.html){:data-js-var="js-var-carboncapture-1"}
+- [Yes, let’s make sure there’s a plan B. [Award yourself the PLAN B badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}, then.](part-page_2060-designer-planet.html){:data-js-var="js-var-carboncapture-1"}
 {:.choice-options}
+
+{% else %}
+
+- [Nah, we trust the space mirrors!](part-page_2060-designer-planet.html){:data-js-var="js-var-carboncapture-0"}
+- [Yes, let’s make sure there’s a plan B.](part-page_2060-designer-planet.html){:data-js-var="js-var-carboncapture-1"}
+{:.choice-options}
+
+{% endif %}
