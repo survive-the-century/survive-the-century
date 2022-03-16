@@ -6,7 +6,7 @@ decade: 2060
 economy: 
 temperature: 1.6
 temperature-tracker: 1.6
-economy-tracker: So-so
+economy-tracker: This is nice
 conflict-tracker: Friendly
 ---
 
