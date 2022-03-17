@@ -125,6 +125,28 @@ h2 {
     margin-top: $line-height-default;
 }
 
+// Stories page
+
+.story-list {
+
+    li {
+
+        a {
+
+            strong:first-of-type {
+                font-weight: normal;
+
+                &::before {
+                    content: "‘"
+                }
+                &::after {
+                    content: "’ by "
+                }
+            }
+        }
+    }
+}
+
 // Page refinement
 
 .auto-hyphenate {

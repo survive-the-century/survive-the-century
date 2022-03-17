@@ -1,7 +1,7 @@
 
 <div class="masthead masthead-top">
 
-    {% unless page.style contains "home" or page.style contains "frontmatter" or page.style contains "action" or page.style contains "dash-hidden" %}
+    {% unless page.style contains "home" or page.style contains "frontmatter" or page.style contains "endmatter" or page.style contains "action" or page.style contains "dash-hidden" %}
     {% include dash %}
     {% endunless %}
 
@@ -9,7 +9,7 @@
 
 <div class="masthead masthead-bottom">
 
-    {% unless page.style contains "home" or page.style contains "frontmatter" or page.style contains "action"or page.style contains "dash-hidden" %}
+    {% unless page.style contains "home" or page.style contains "frontmatter" or page.style contains "endmatter" or page.style contains "action" or page.style contains "dash-hidden" %}
     {% include logo %}
     {% endunless %}
     
