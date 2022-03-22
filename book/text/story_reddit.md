@@ -33,15 +33,11 @@ By Sophia Al-Maria
 > 
 > Liberals have been trying to push their agendas like LGBTQ “rights” etc. down our throats via the liberal fake news media. Forced diversity and Covid are the \#1 news stories. I have NEVER worn a mask and I am 100&nbsp;per&nbsp;cent healthy and heterosexual.
 > 
-> Given how feminism has demonized males and masculinity and tried to make all men into beta cucks. Now they want to literally VASECTOMIZE and HYSTERECTOMIZE heterosexuals covertly via the vaccine so they can reduce the population size and make it easy to govern us under one unified government aka the NEW WORLD ORDER.
-> 
-> The population is WEAK and DISTRACTED.
+> Given how feminism has demonized males and masculinity and tried to make all men into beta cucks. Now they want to literally VASECTOMIZE and HYSTERECTOMIZE heterosexuals covertly via the vaccine so they can reduce the population size and make it easy to govern us under one unified government aka the NEW WORLD ORDER. The population is WEAK and DISTRACTED.
 > 
 > Now as to the vaccine… think about it. It’s the perfect delivery service. It will be rolled out to BILLIONS of people GLOBALLY. The media industrial complex has filled everyone with fear that if you walk outside without a mask you’re going to kill 100 grannies. This is going to be ENFORCED under the guise of “protecting the world from deadly Coronavirus” when in reality the deep state wants to kill two birds with one stone. The vaccine will cause all who take it to have a SERIOUS and IRREVERSIBLE aversion to heterosexual lifestyles to STOP BREEDING and CONTROL the population.
 > 
-> I have seen some theories floating around on here that the “virus” was lab-designed and strategically released. Even if that were true you would have to be dumb to ignore the fact that it came from China AKA the same country that imposed a one-child policy on their citizens to CURB POPULATION GROWTH. Coincidence? Of course NOT!
-> 
-> They are trying to STERILIZE US!!!
+> I have seen some theories floating around on here that the “virus” was lab-designed and strategically released. Even if that were true you would have to be dumb to ignore the fact that it came from China AKA the same country that imposed a one-child policy on their citizens to CURB POPULATION GROWTH. Coincidence? Of course NOT! They are trying to STERILIZE US!!!
 > 
 > WAKE UP!!!
 > 
@@ -67,12 +63,6 @@ so we only show this on the web. {% endcomment %}
 > {:.username}
 > 
 > The deep state is evil and Satanic. LOOK IT UP IF YOU DON’T KNOW
-{:.comment}
-
-> ClassyHamburger
-> {:.username}
-> 
-> It's like crazy concentrate
 {:.comment}
 
 > ManicallInfiltrator

@@ -5,6 +5,9 @@ conflict:
 decade: 2080
 economy: 
 temperature: 1.5
+temperature-tracker: 1.5
+economy-tracker: Sweet
+conflict-tracker: Peaceful
 ---
 
 {% include variables %}

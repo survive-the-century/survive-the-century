@@ -2,7 +2,7 @@
 @import "print-mixins";
 
 // Page layouts
-@import "print-reversed-pages";
+@import "print-colored-pages";
 @import "print-page-numbers";
 
 // Design
@@ -14,3 +14,6 @@
 @import "print-part-page";
 @import "print-newspaper";
 @import "print-ending";
+@import "print-badges-page";
+@import "print-trackers-page";
+@import "print-end-of-decade";

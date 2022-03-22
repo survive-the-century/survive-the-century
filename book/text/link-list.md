@@ -230,7 +230,7 @@
 - [part-page_2090-ecotopia.md](part-page_2090-ecotopia.html)
 - [part-page_2090-slow-fade-conflict.md](part-page_2090-slow-fade-conflict.html)
 - [part-page_2090-slow-fade-migration.md](part-page_2090-slow-fade-migration.html)
-- [stories.md](stories.html)
+- [endmatter_stories.md](endmatter_stories.html)
 - [story_blue-queen-of-dc.md](story_blue-queen-of-dc.html)
 - [story_exile-nation.md](story_exile-nation.html)
 - [story_fashion-week.md](story_fashion-week.html)

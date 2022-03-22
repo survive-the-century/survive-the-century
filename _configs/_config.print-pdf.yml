@@ -93,10 +93,16 @@ exclude:
   # - /book/styles
 
   # Page types
+  # - /book/text/0*
+  # - /book/text/frontmatter*
   # - /book/text/chapter*
   # - /book/text/part-page*
   # - /book/text/newspaper*
+  # - /book/text/story*
   # - /book/text/ending*
+  # - /book/text/take-action*
+  # - /book/text/stories*
+  # - /book/text/endmatter*
 
   # Files
 
@@ -309,7 +315,6 @@ exclude:
   # - /book/text/part-page_2070*
   # - /book/text/part-page_2080*
   # - /book/text/part-page_2090*
-  # - /book/text/stories.md
   # - /book/text/story_blue-queen-of-dc.md
   # - /book/text/story_exile-nation.md
   # - /book/text/story_fashion-week.md
@@ -333,6 +338,7 @@ exclude:
   # - /book/text/endmatter_discussion-questions.md
   # - /book/text/endmatter_group-reading.md
   # - /book/text/endmatter_recommended-resources.md
+  # - /book/text/endmatter_stories.md
   # - /book/text/endmatter_shiny-badges.md
   # - /book/text/endmatter_trackers.md
   # - /book/text/take-action.md

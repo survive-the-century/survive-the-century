@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-style: endmatter
+style: chapter endmatter
 ---
 
 {% include variables %}
@@ -11,7 +11,7 @@ style: endmatter
 
 ### Sam Beckbessinger
 
-Sam Beckbessinger is the author of a book called *Manage Your Money Like a Fucking Grownup* (Jonathan Ball and Little, Brown), which is sold in six countries and has been on the top 10 South African bestseller list for nearly two years now. She’s also a cartoon scriptwriter, has published three picture books for young children, and wrote for Marvel’s *Jessica Jones: Playing With Fire* on Realm. Her first novel, *Girls of Little Hope* (with Dale Halvorsen), is coming out in 2022. She gets way too excited about gross body fluids and still has a blog even though it’s 2022. She lives in London.
+Sam Beckbessinger is the author of a book called *Manage Your Money Like a Fucking Grownup* (Jonathan Ball and Little, Brown), which is sold in six countries and has been on the top 10 South African bestseller list for nearly two years now. She’s also a cartoon scriptwriter, has published three picture books for young children, and wrote for Marvel’s *Jessica Jones: Playing With Fire* on Realm. Her first novel, *Girls of Little Hope* (with Dale Halvorsen), is coming out in 2023. She gets way too excited about gross body fluids and still has a blog even though it’s 2022. She lives in London.
 sambeckbessinger.com
 
 ### Dr Simon Nicholson
@@ -48,7 +48,7 @@ Sophia Al Maria is a Qatari-American artist, writer, and filmmaker. Her work has
 
 Climate Interactive, the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, and the National Socio-Environmental Synthesis Center (SESYNC) under funding received from the National Science Foundation DBI-1639145.
 
-### Web development and publishing
+### Web development, book design, and production
 
 Electric Book Works ([electricbookworks.com](https://electricbookworks.com))
 
@@ -56,7 +56,7 @@ Electric Book Works ([electricbookworks.com](https://electricbookworks.com))
 
 Annika Brandow ([annikabrandow.com](https://annikabrandow.com))
 
-### Design
+### Visual design
 
 Karen Lilje ([www.hybridcreative.co.za](https://www.hybridcreative.co.za))
 

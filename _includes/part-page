@@ -1,3 +1,9 @@
+{% comment %}
+Note: part pages are not included in PDF.
+The links to part pages are replaced with
+links to the relevant newspaper page by JS.
+{% endcomment %}
+
 <div class="background-image">
     
     <div class="text-wrapper">

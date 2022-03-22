@@ -24,7 +24,7 @@ Most of the remaining insects die out, including all bees. The Council scrambles
 
 {% endif %}
 
-Will our magnificent Council figure something out in time? Let's sure hope so.
+Will our magnificent Council figure something out in time?
 {:.choice-question}
 
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}

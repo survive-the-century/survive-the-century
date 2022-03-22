@@ -21,8 +21,8 @@ Your lead climate reporter tells you, in a voice choked with fear, that a sudden
 Oh heck, did we do that?
 {:.choice-question}
 
-- [If you have the PLAN B badge,](chapter_carbon-capture-0.html)
-- [If you don't,](chapter_carbon-capture-1.html)
+- [If you have the PLAN B badge,](chapter_carbon-capture-1.html)
+- [If you don't,](chapter_carbon-capture-0.html)
 {:.choice-options}
 
 {% else %}

@@ -5,6 +5,9 @@ conflict:
 decade: 2060
 economy: 
 temperature: 2.3
+temperature-tracker: 2.3
+economy-tracker: This is nice
+conflict-tracker: Snippy
 ---
 
 {% include variables %}

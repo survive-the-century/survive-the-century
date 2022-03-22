@@ -1,22 +1,25 @@
 h1 {
-    color: $red;
+    color: $midnight;
+    font-style: italic;
     margin-bottom: $line-height-default * 2;
     text-align: left;
 }
 
 h2 {
     color: $midnight;
-    font-family: $font-text-secondary;
+    font-family: $font-display-secondary;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: $font-size-default;
+    margin: ($line-height-default * 1.5) 0 ($line-height-default / 2) 0;
 
     body.reversed & {
         color: $white;
     }
-}
 
-p, ul, ol, dl {
-
-    body.reversed & {
-        color: $white;
+    & + h3 {
+        margin-top: 0;
     }
 }
 
@@ -120,6 +123,28 @@ p, ul, ol, dl {
 .valediction {
     text-indent: 0;
     margin-top: $line-height-default;
+}
+
+// Stories page
+
+.story-list {
+
+    li {
+
+        a {
+
+            strong:first-of-type {
+                font-weight: normal;
+
+                &::before {
+                    content: "‘"
+                }
+                &::after {
+                    content: "’ by "
+                }
+            }
+        }
+    }
 }
 
 // Page refinement

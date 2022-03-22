@@ -26,10 +26,6 @@ Climate change is made and experienced by people. How the future will play out i
 
 Our choices matter. It's not over. There are many choices still ahead of us.
 
-Love,\\
-Sam, Simon and Chris.
-{:.valediction}
-
 Now, make a choice in the real world.
 {:.closer-sentence}
 
@@ -38,7 +34,7 @@ Now, make a choice in the real world.
 - [For some discussion questions,](endmatter_discussion-questions.html)
 - [Learn more about the climate emergency.](endmatter_recommended-resources.html)
 - {:.no-link} Find a climate justice group near you by visiting 350.org.
-- [Read about how we made this book.](frontmatter_about.html)
+- [Read about how we made this book.](endmatter_about.html)
 - [Play again!](chapter_welcome-to-2021.html)
 {:.choice-options}
 
