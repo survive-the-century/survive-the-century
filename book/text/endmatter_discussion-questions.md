@@ -18,8 +18,8 @@ style: chapter endmatter
 {% endif %}
 - What do you think this story gets wrong? (We’d love to hear your thoughts: hello@survivethecentury.net)
 - Did the fictional articles help make some potential climate choices feel more plausible?
-- What did you learn about how the changing climate might impact society, politics, technology, the economy, and visa versa?
-- What are some positive side-effects that could come out of the world’s response to the climate emergency?
+- What did you learn about how the changing climate might impact society, politics, technology, the economy, and vice versa?
+- What are some positive side effects that could come out of the world’s response to the climate emergency?
 - Let yourself be optimistic about politics for a moment. Imagine that the world makes all the positive changes you hope for and we’re living in the best version of 2100 that you can imagine. What would you love about being part of that future?
 - Will anyone benefit from global warming?
 - What are the reasons to be hopeful about the future?
