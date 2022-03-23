@@ -26,7 +26,7 @@ Christopher Trisos directs the Climate Risk Lab at the African Climate and Devel
 
 ### Lauren Beukes
 
-Lauren Beukes is the award-winning and internationally best-selling South African author of The Shining Girls, Zoo City and Afterland, among other works. Her novels have been published in 24 countries and are being adapted for film and TV. She’s also a comics writer, screenwriter, journalist and documentary maker.
+Lauren Beukes is the award-winning and internationally best-selling South African author of *The Shining Girls*, *Zoo City* and *Afterland*, among other works. Her novels have been published in 24 countries and are being adapted for film and TV. She’s also a comics writer, screenwriter, journalist and documentary maker.
 laurenbeukes.com
 
 ### Maria Turtschaninoff
