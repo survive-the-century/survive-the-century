@@ -33,7 +33,7 @@ First, it’s how humans work. We make sense of our past, present and future by 
 
 Next, fiction can deal with complexity. The future consequences of climate change tend to be imagined around keeping global heating below certain temperature increase targets: 2°C, 3°C, 4°C. Science can give us some sense of the climate consequences of each – but too often, that means that we imagine a binary future where a 1.5°C rise is safe and everything else is hell.
 
-But it’s not that simple, and that’s where fiction comes in. The game allows players to create a world with a stable climate that’s even more unjust as the one we live in now – or a fair world that’s unlivably hot.
+But it’s not that simple, and that’s where fiction comes in. The game allows players to create a world with a stable climate that’s even more unjust than the one we live in now – or a fair world that’s unlivably hot.
 
 One stream takes us down an ultra-capitalist route, where corporate visas control climate-driven migration and dictate global policy, and businesses exploit the fact that they own climate-ready technology. Such a future might end up being good in temperature terms, but raise challenges in terms of global equity. Another illustrates a future where a Global Climate Council becomes an authoritarian government, keeping warming to 1.5°C but crushing freedom in the process. Other choices build a healthier version of the world at that same temperature: where citizens are protected, democracy flourishes, and governments work together. This reminds us that there’s not a single good future and a single bad one: instead, there’s an infinite number of complex futures, and only we can control which we get.
 

@@ -21,5 +21,5 @@ By 2029, the biggest emitters have more than halved how much they’re polluting
 - [Congratulations, you made it to 2030!](part-page_2030-ecotopia.html)
 {:.choice-options}
 
-> The word *ecocide* is an umbrella term for all forms of environmental destruction from deforestation to greenhouse-gas emissions. For over 50&nbsp;years, environmental advocates have championed the idea of creating an international ecocide law that would penalize individuals responsible for destroying the environment. Now in 2021, human-rights lawyers are drafting a definition of the law in the hopes of getting it adopted by the International Criminal Court.
+> The word *ecocide* is an umbrella term for all forms of environmental destruction from deforestation to greenhouse gas emissions. For over 50&nbsp;years, environmental advocates have championed the idea of creating an international ecocide law that would penalize individuals responsible for destroying the environment. Now in 2021, human-rights lawyers are drafting a definition of the law in the hopes of getting it adopted by the International Criminal Court.
 {:.infobox}
