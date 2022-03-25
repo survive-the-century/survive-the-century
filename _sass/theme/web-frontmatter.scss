@@ -32,29 +32,34 @@
 
     // Stories
 
-    &.stories .main-content {
-        h1 {
-            font-size: 2rem;
-            margin-bottom: 0;
+    &.stories {
+        .glow-bottom {
+            display: none;
         }
+        .main-content {
+            h1 {
+                font-size: 2rem;
+                margin-bottom: 0;
+            }
 
-        ul {
-            margin: 0;
-            margin-bottom: 2.5rem;
-        }
+            ul {
+                margin: 0;
+                margin-bottom: 2.5rem;
+            }
 
-        li {
-            list-style-type: none;
-            border-bottom: 1px $red solid;
-            padding: 1.4rem 0 1.4rem 0;
-        }
+            li {
+                list-style-type: none;
+                border-bottom: 1px $red solid;
+                padding: 1.4rem 0 1.4rem 0;
+            }
 
-        li a {
-            display: block;
-            text-decoration: none;
-            color: $midnight;
-            // margin-top: 1rem;
-            // margin-bottom: 0.8rem;
+            li a {
+                display: block;
+                text-decoration: none;
+                color: $midnight;
+                // margin-top: 1rem;
+                // margin-bottom: 0.8rem;
+            }
         }
     }
 }
