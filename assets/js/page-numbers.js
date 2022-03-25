@@ -7,7 +7,7 @@ function ebAddPageNumbers() {
     if (typeof Prince === "object" && typeof Prince.addScriptFunc === "function") {
 
         Prince.addScriptFunc("turnToPage", function (targetPage) {
-            return "\u00A0" + " Turn to page " + targetPage + ".";
+            return "\u00A0" + " Turn to page\u00A0" + targetPage + ".";
         });
 
         Prince.addScriptFunc("pagereference", function (currentPage, targetPage) {
@@ -16,7 +16,7 @@ function ebAddPageNumbers() {
                 return "";
             }
             // otherwise show a space and the page number in parentheses
-            return "\u00A0" + "(page " + targetPage + ")";
+            return "\u00A0" + "(page\u00A0" + targetPage + ")";
         });
         Prince.addScriptFunc("pagereferencePlain", function (currentPage, targetPage) {
             // if the target is on this page, return blank
