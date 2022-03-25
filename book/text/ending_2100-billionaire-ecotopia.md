@@ -17,9 +17,9 @@ decade: 2100
 So close, and yet so far!
 {:.leader-sentence}
 
-We will remember this as the century when we stopped prioritizing growth above everything else, and started valuing the truly valuable things: human welfare and the environment. Nature is thriving and species we thought were extinct recover, while new species have evolved for the new wild places of the earth.
+We will remember this as the century when we stopped prioritizing growth above all else, and started valuing the truly valuable things: human welfare and the environment. Nature is thriving and species we thought were extinct recover, while new species have evolved for the new wild places of the earth.
 
-But then… we lost it all to terrible rich Martians.
+But then we lost it all to rich Martians.
 
 # How did you get here?
 
