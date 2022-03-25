@@ -10,7 +10,7 @@ p, p + p {
 // Masthead
 
 .masthead {
-    p {
+    p, .nav-share-links p a {
         @include text-button-small ($white);
     }
 }
