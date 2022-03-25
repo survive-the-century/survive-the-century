@@ -9,11 +9,17 @@ style: copyright-page
 {% include variables %}
 {% include metadata %}
 
-# {{ page.title }}
+# Copyright
 {:.non-printing}
 
-*{{ title }}*\\
-Text © the contributors
+{% include image file="logo.png" class="copyright-page-stc-logo" %}
+
+*Survive the Century*\\
+[survivethecentury.net](https://survivethecentury.net)
+
+Published by {% include image file="3KT-logo.jpg" class="copyright-page-3kt-logo" %} Three Kids in a Trenchcoat\\
+Text © the contributors\\
+[For all contributors, see the Credits](endmatter_credits.html){:.show-page-number}
 
 {% include identifiers scheme="ISBN" %}
 
