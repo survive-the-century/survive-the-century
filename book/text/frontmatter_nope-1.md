@@ -10,4 +10,4 @@ You COULD try just flipping through this like a normal boring book, but we canâ€
 
 Don't say we didn't warn you.
 
-[Turn to page](chapter_welcome-to-2021.html){:.show-page-number.no-brackets} to start playing.
+[To start playing](chapter_welcome-to-2021.html){:.turn-to-page}
