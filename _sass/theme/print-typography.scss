@@ -137,10 +137,10 @@ h2 {
                 font-weight: normal;
 
                 &::before {
-                    content: "‘"
+                    content: "\2018";
                 }
                 &::after {
-                    content: "’ by "
+                    content: "\2019\0020 by ";
                 }
             }
         }
