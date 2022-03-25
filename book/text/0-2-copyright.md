@@ -12,8 +12,6 @@ style: copyright-page
 # Copyright
 {:.non-printing}
 
-{% include image file="logo.png" class="copyright-page-stc-logo" %}
-
 *Survive the Century*\\
 [survivethecentury.net](https://survivethecentury.net)
 
