@@ -42,6 +42,7 @@ a.show-page-number {
         // use prince-script to only insert this content if we're
         // not already on the same page as the target reference.
         content: prince-script(pagereference, counter(page), target-counter(attr(href), page));
+        display: inline-block; // avoid line break inside
     }
     &.no-brackets::after {
         content: prince-script(pagereferencePlain, counter(page), target-counter(attr(href), page));
