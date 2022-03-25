@@ -9,7 +9,7 @@ style: chapter endmatter
 
 This story is a work of fiction, but it is informed by real science. Over 25 scientists, researchers, policymakers and subject-matter experts were consulted in putting this story together. Sci-fi writers from Finland, India, Qatar and South Africa helped craft the storylines and come up with the hilarious headlines. You can find a full list of their names on [the credits page](endmatter_credits.html){:.show-page-number}.
 
-## Why write a branching narrative story about climate change?
+## Why write a branching story about climate change?
 
 Climate scientists are often pushed to the front of the climate movement. They were among the first to raise the alarm about what’s in store if we don’t slow down climate breakdown. Their cutting-edge predictions – ice melt, species extinctions, extreme drought and wildfires – are the best way to communicate what’s really at stake, so the theory goes.
 
