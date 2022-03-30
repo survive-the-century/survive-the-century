@@ -46,5 +46,20 @@
         a {
             color: $midnight;
         }
+        
+        .buy-the-book {
+            display: flex;
+            align-items: center;
+            max-width: $max-width-default;
+            margin: auto;
+            
+            p:not(.homepage-book-parent) {
+                flex-basis: 66%;
+                margin-left: 0;
+            }
+            .homepage-book-parent {
+                margin: auto;
+            }
+        }
     }
 }

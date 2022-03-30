@@ -18,6 +18,19 @@ Lead the world towards utopia, or unleash your inner villain to see how bad thin
 
 <div class="below-the-fold" markdown="1">
 
+# Buy the book
+
+<div class="buy-the-book" markdown="1">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget feugiat massa. Etiam imperdiet dui ut diam posuere posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer neque dolor, suscipit at nulla faucibus, iaculis porta felis. Pellentesque placerat arcu a lorem tempus porta. Etiam viverra blandit felis vitae semper. Vivamus gravida, magna id molestie gravida, metus libero porta libero, vitae vulputate nunc ligula sed mauris.
+
+{% include image file="test-cover.png" class="homepage-book" path="assets/images/web" %}
+
+</div>
+
+[Buy the book]()
+{:.button.underline}
+
 # Contributors
 
 Created by Sam Beckbessinger, Simon Nicholson and Christopher Trisos.
