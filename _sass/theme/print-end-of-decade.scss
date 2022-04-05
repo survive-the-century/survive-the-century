@@ -1,0 +1,25 @@
+// We may not use this CSS. The idea is that
+// if a page has 'end-of-decade' in style YAML
+// frontmatter (e.g. `style: chapter end-of-decade`)
+// this CSS will add fireworks to the page.
+
+.end-of-decade {
+
+    .choices-section {
+
+        // Fireworks image
+        &::after {
+            content: "";
+            background-image: url("#{$path-to-root-directory}/book/images/#{$output-format}/end-of-decade-fireworks.jpg");
+            background-repeat: no-repeat;
+            background-size: 165mm 55mm;
+            position: absolute;
+            bottom: -($margin-bottom);
+            margin-inside: -($margin-inside);
+            margin-outside: -($margin-outside);
+            width: 165mm;
+            height: 55mm;
+            z-index: -1;
+        }
+    }
+}

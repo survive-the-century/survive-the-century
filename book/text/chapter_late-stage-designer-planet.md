@@ -18,5 +18,11 @@ Most countries that did not already offer a universal basic income (UBI) now int
 
 Quality of life improves rapidly for most people in the world.
 
-- [You made it to 2050.](part-page_2050.html){:js-next-dest="newspaper_welcome-to-2050-designer-planet.html"}
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+If you don't already have one, [award yourself the UNIVERSAL BASIC INCOME badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
+
+{% endif %}
+
+- [You made it to 2050.](part-page_2050-designer-planet.html)
 {:.choice-options}

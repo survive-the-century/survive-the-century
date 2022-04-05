@@ -6,16 +6,18 @@ style: copyright-page
 # from this book's YML file in _data
 ---
 
-<h1>{{ page.title }}</h1>
-
 {% include variables %}
 {% include metadata %}
 
 # Copyright
 {:.non-printing}
 
-*{{ title }}*\\
-Text © {{ creator }}
+*Survive the Century*\\
+[survivethecentury.net](https://survivethecentury.net)
+
+Published by {% include image file="3KT-logo.jpg" class="copyright-page-3kt-logo" %} Three Kids in a Trenchcoat\\
+Text © the contributors\\
+[For all contributors, see the Credits](endmatter_credits.html){:.show-page-number}
 
 {% include identifiers scheme="ISBN" %}
 

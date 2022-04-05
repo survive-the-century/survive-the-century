@@ -5,6 +5,9 @@ conflict:
 decade: 2080
 economy: 
 temperature: 3.1
+temperature-tracker: 3.1
+economy-tracker: Hmmm...
+conflict-tracker: Tense
 ---
 
 {% include variables %}

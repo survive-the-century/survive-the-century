@@ -5,6 +5,9 @@ conflict:
 decade: 2080
 economy: 
 temperature: 2.2
+temperature-tracker: 2.2
+economy-tracker: Sweet
+conflict-tracker: Scary
 ---
 
 {% include variables %}
@@ -13,7 +16,7 @@ temperature: 2.2
 
 ### Top article
 
-{% include image file="tesla-town.png" class="headline-image portrait" %}
+{% include image file="tesla-town.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 The new “dick-tators” 
 {:.headline}

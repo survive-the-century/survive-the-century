@@ -1,0 +1,23 @@
+body.red {
+
+    // Name the page for Prince
+    page: red;
+
+    @include page-text-color();
+}
+
+@page red {
+    background-color: $red;
+}
+
+body.black {
+
+    // Name the page for Prince
+    page: black;
+
+    @include page-text-color();
+}
+
+@page black {
+    background-color: $black;
+}

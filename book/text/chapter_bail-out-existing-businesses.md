@@ -18,5 +18,5 @@ This does prop up the economy… at least, it looks like it does on charts of th
 
 A lot of people are still out of work, though, and struggling.
 
-- [You made it to 2030.](part-page_2030.html){:js-next-dest="newspaper_welcome-to-2030-slow-fade.html"}
+- [You made it to 2030.](part-page_2030-slow-fade.html)
 {:.choice-options}

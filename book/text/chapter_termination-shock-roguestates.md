@@ -1,5 +1,5 @@
 ---
-title: "Termination shock - Rogue States"
+title: "Termination shock – Rogue States"
 style: chapter
 conflict: 
 decade: 

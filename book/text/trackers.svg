@@ -1,0 +1,24 @@
+---
+layout: min
+---
+
+{% comment %}
+
+This SVG is created in Illustrator from trackers.ai
+(which is kept in EBW's project folder on Dropbox), then:
+
+- save as SVG, with style attributes
+- drop the SVG into https://jakearchibald.github.io/svgomg/
+- copy the resulting SVG code there, and paste it below
+- replace #1d1a3c with {{ tracker-svg-color }}
+
+This lets us use the correct color for the output format.
+
+{% endcomment %}
+
+{% capture tracker-svg-color %}#000040{% endcapture %}
+{% if site.output == "print-pdf" %}
+    {% capture tracker-svg-color %}cmyk(98%, 93%, 33%, 58%){% endcapture %}
+{% endif %}
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496.1 496.1" style="enable-background:new 0 0 496.1 496.1" xml:space="preserve"><path style="fill:{{ tracker-svg-color }}" d="M0 0h496.1v496.1H0z"/><path style="fill:none" d="M323.1 127.6h15.8v354.3h-15.8z"/><text transform="rotate(-90 247.1 -83.6)" style="fill:#fff;font-family:'Lora-Italic';font-size:10px">Conflict</text><path style="fill:none" d="M201.3 127.6h17v354.3h-17z"/><text transform="rotate(-90 197.829 -10.98)" style="fill:#fff;font-family:'Lora-Italic';font-size:10px">Temperature</text><path style="fill:none" d="M82.2 127.6h15.6v354.3H82.2z"/><text transform="rotate(-90 129.352 39.597)" style="fill:#fff;font-family:'Lora-Italic';font-size:10px">Economy</text><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M155.8 496.1v-2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M155.8 490.1V131.6"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M155.8 129.6v-2M99.1 127.6v2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M99.1 133.6v358.5"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M99.1 494.1v2M396.8 496.1v-2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M396.8 490.1V131.6"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M396.8 129.6v-2M340.1 127.6v2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M340.1 133.6v358.5"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M340.1 494.1v2M275 496.1v-2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M275 490.1V131.6"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M275 129.6v-2M218.3 127.6v2"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10;stroke-dasharray:4.0055,4.0055" d="M218.3 133.6v358.5"/><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M218.3 494.1v2M99.2 127.6h56.7M218.3 127.6H275M340.2 127.6h56.7"/><path style="fill:none" d="M99.2 430.9h56.7v8.5H99.2z"/><text transform="translate(111.91 437.411)" style="fill:#fff;font-family:'Inter-Light';font-size:9px">Fold up</text><path style="fill:none" d="M218.3 430.9H275v8.5h-56.7z"/><text transform="translate(230.965 437.411)" style="fill:#fff;font-family:'Inter-Light';font-size:9px">Fold up</text><path style="fill:none" d="M340.2 430.9h56.7v8.5h-56.7z"/><text transform="translate(352.855 437.411)" style="fill:#fff;font-family:'Inter-Light';font-size:9px">Fold up</text><g><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M127.6 496.1v-50.5"/><path style="fill:#fff" d="m129.6 447.2-.4.4-1.6-1.8-1.7 1.8-.4-.4 2.1-2.2z"/></g><g><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M246.6 496.1v-50.5"/><path style="fill:#fff" d="m248.6 447.2-.3.4-1.7-1.8-1.7 1.8-.4-.4 2.1-2.2z"/></g><g><path style="fill:none;stroke:#fff;stroke-width:.5;stroke-miterlimit:10" d="M368.6 496.1v-50.5"/><path style="fill:#fff" d="m370.6 447.2-.4.4-1.6-1.8-1.7 1.8-.4-.4 2.1-2.2z"/></g></svg>
