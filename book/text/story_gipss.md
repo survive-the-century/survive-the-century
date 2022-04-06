@@ -31,7 +31,7 @@ It is June, which means the sun never sets, the mosquitoes are plentiful and the
 
 “This was a benefit during the height of the climate change,” tells Aslak Lihtonen, a steward elder from the western region of Sápmi. “We had a lot of climate refugees here then. It was a difficult time.” And he does not mean because of the refugees, I learn. The difficulties lay in the fact that the Sámi people still did not have stewardship of their own land. They had no say in how pipelines were drawn across their ancient reindeer pastures, who could fish in their traditional waters, what mining companies were allowed to do to the land, and where windmill parks were being built. It had been this way for centuries. Even though there had been some improvements in how the Sámi were treated in the early 21st century, it wasn’t until the 2040s that things began to truly change. “And the final change came in 2064, when the IPLCs (indigenous peoples and local communities) took their seat at the UN,” says Lihtonen.
 
-There are almost 5,000 elders gathered here from all over the globe. The logistics have not been easy, Lihtonen tells me. “It has taken two years of planning.” Travel has been done slowly and mindfully of the environment. Food has been brought in the old traditional forms: dried and preserved in different ways. “We could never feed this many people entirely from the land without a serious negative effect on the wildlife,” Laiti explains.
+There are almost 5,000 elders gathered here from all over the globe. The logistics have not been easy, Lihtonen tells me. “It has taken two years of planning.” Travel has been done slowly and mindfully of the environment. Food has been brought in the old traditional forms: dried and preserved in different ways. 
 
 Could the summit not have been successfully done virtually as well, I ask. Most global summits are, after all, conducted that way.
 
@@ -43,15 +43,13 @@ The summit started with three days of rites of thanksgiving to the land, to whic
 
 Is it really that simple? She looks at me sternly. “Why would it need to be more difficult than that? The land has always taught us how to live. For a long time, people just did not listen.”
 
-But now we listen. Since its formation nearly 40&nbsp;years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund, established in 2054. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
+But now we listen. Since its formation nearly 40&nbsp;years ago, the GIPS has successfully rewilded huge areas of Europe and North America. More than 70 previously endangered species of wildlife have reached healthy populations. The rainforest restoration programme in South America has already made enormous headway, and dam restoration in Eurasia is, after some initial difficulties, well under way. The projects have been largely funded by the global climate fund. I ask Laiti and Lihtonen what the next big challenge is. They look at each other.
 
 “We have to make ourselves unnecessary,” Laiti finally says. “We cannot govern the world for everyone. We must teach everyone to care for it themselves.”
 
 “Every human being must re-forge the broken link between themselves and the earth,” Lihtonen says. “That is the only way. We are helping during this time of transition, but it is not our job to be nannies forever.”
 
-The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next 20 years.
-
-“We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120&nbsp;kilometres away. “It has to be.”
+The GIPS has, during this summit, taken the radical decision that its primary goal is to dissolve itself within the next 20 years. “We think the world will be ready by then,” Laiti says as she takes me back on the long trek to the shuttle that will take me to the maglev train station, some 120&nbsp;kilometres away. “It has to be.”
 
 I take one last look at Mount Rásttigáisá, the holy mountain which has been teaching and guiding the Sámi people for centuries. And when camp is broken after midsummer, there will not be a single trace of the summit in a month or so, Laiti assures me. “First there will be dead circles where the tents and teepees and yurts and lavvus have stood. But by the end of summer, the grass will once more be green.”
 

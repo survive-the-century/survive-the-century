@@ -1,0 +1,88 @@
+.trackers-page {
+    color: $white;
+    page: trackers;
+    text-align: center;
+
+    // Right-hand page, blank after
+    page-break-before: right;
+
+    h1 {
+        color: $white;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .tracker-instructions {
+
+        p {
+            font-family: $font-display-secondary;
+            font-size: 9pt;
+        }
+    }
+
+    .tracker-backing {
+        page-break-before: right;
+        page-break-after: right;
+
+        .tracker-backing-instructions {
+            font-family: $font-display-secondary;
+            font-size: 9pt;
+            padding: $line-height-default $paragraph-indent;
+            border: $rule-thickness dashed $white;
+        }
+
+        ol {
+            position: absolute;
+            bottom: -15mm;
+            list-style-type: none;
+            text-align: center;
+            width: 20mm;
+            padding: 0 2mm;
+
+            li {
+                margin: 0 0 $line-height-default 0;
+                padding: 0;
+            }
+
+            &.economy {
+                left: 5mm;
+            }
+
+            &.temperature {
+                font-weight: bold;
+                left: 47.5mm;
+
+                li {
+                    font-size: 12pt;
+                }
+            }
+
+            &.conflict {
+                left: 90mm;
+            }
+        }
+    }
+}
+
+@page trackers:first {
+
+    // We need Jekyll to process the SVG to insert colour values,
+    // hence keeping the SVG in the book folder.
+    // background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
+    background: url('#{$path-to-root-directory}/book/text/trackers.svg');
+    background-repeat: no-repeat;
+    background-position: -5mm -5mm;
+    background-size: $page-width + 10;
+}
+
+@page trackers {
+    background-color: $midnight;
+    margin-inside: ($margin-inside + $margin-outside) / 2;
+    margin-outside: ($margin-inside + $margin-outside) / 2;
+}
+
+@page trackers:nth(3) {
+    background: url('#{$path-to-root-directory}/book/images/#{$output-format}/tracker-gradient.jpg');
+}

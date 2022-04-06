@@ -1,5 +1,5 @@
 ---
-title: "Slow economic recovery - slowfade"
+title: "Slow economic recovery – slowfade"
 style: chapter
 conflict: 
 decade: 

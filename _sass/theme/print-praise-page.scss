@@ -1,0 +1,22 @@
+.praise-page {
+    page: praise;
+    page-break-before: right;
+
+    @include page-text-color();
+
+    h1 {
+        color: $green;
+    }
+
+    p {
+        margin-bottom: $line-height-default / 2;
+
+        & + p {
+            text-indent: 0;
+        }
+    }
+}
+
+@page praise {
+    background-color: $midnight;
+}

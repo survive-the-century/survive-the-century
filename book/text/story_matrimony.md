@@ -17,6 +17,7 @@ Press release
 # Matrimonial advertisement: Indian NRI seeks suitable match
 
 *Thanks to our reporter Rajat Chaudhuri for finding this curious advertisement on a local classifieds site.*
+{:.subheadline}
 
 By Rajat Chaudhuri
 {:.author}

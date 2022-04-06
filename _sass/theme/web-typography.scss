@@ -10,7 +10,7 @@ p, p + p {
 // Masthead
 
 .masthead {
-    p {
+    p, .nav-share-links p a {
         @include text-button-small ($white);
     }
 }
@@ -31,7 +31,8 @@ p, p + p {
 }
 
 // Frontmatter
-.frontmatter .main-content {
+.frontmatter .main-content,
+.endmatter .main-content {
     h1 {
         @include text-very-big ($midnight);
     }
@@ -45,9 +46,12 @@ p, p + p {
     }
 }
 
-.frontmatter.stories .story-list {
-    li a {
+.stories .story-list {
+    li a strong:first-of-type {
         @include text-big ($midnight);
+        display: block;
+        font-weight: normal;
+        margin-bottom: 0.8rem;
         text-transform: none;
     }
 

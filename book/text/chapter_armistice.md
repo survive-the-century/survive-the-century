@@ -22,5 +22,5 @@ The UN launches a number of geoengineering projects, including a fleet of satell
 
 Society has invested billions into their militaries. We decide to retrain and repurpose them for huge new projects to restore the environment and act as an international disaster response team.
 
-- [Over the next few years, things start to look much better for humanity.](part-page_2070.html){:js-next-dest="newspaper_welcome-to-2070-designer-planet.html"}
+- [Over the next few years, things start to look much better for humanity.](part-page_2070-designer-planet.html)
 {:.choice-options}

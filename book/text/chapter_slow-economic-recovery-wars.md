@@ -1,5 +1,5 @@
 ---
-title: "Slow economic recovery - wars"
+title: "Slow economic recovery – wars"
 style: chapter
 conflict: 
 decade: 

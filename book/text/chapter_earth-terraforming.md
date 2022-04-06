@@ -17,5 +17,5 @@ We invest more money into climate-hacking projects, with mixed success but no ci
 
 There’s still a Mars colony, but it’s small, the passion project of a single billionaire.
 
-- [Well, you made it through the 2060s.](part-page_2070.html){:js-next-dest="newspaper_welcome-to-2070-billionaire-saviours.html"}
+- [Well, you made it through the 2060s.](part-page_2070-billionaire-saviours.html)
 {:.choice-options}

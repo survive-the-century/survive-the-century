@@ -5,6 +5,11 @@ conflict:
 decade: 2040
 economy: 
 temperature: 1.8
+temperature-tracker: 1.8
+economy-tracker: Hmmm...
+conflict-tracker: Scary
+
+
 ---
 
 {% include variables %}
@@ -13,7 +18,7 @@ temperature: 1.8
 
 ### Top article
 
-{% include image file="wto-flags.png" class="headline-image portrait" %}
+{% include image file="wto-flags.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 World Trade Organization breaks up
 {:.headline}

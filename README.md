@@ -40,7 +40,7 @@ This is a not-for-profit project, and our goal is to increase public literacy ab
 - Combat hopelessness! Our choices still matter. They will continue to matter. We need to be able to imagine positive futures, not just bleak ones. Every 0.1 of a degree matters.
 - Show that "easy fix' solutions are not easy.
 - Lead players to join climate justice groups.
-- Help players understand how our broad social systems interact with the climate, and visa versa.
+- Help players understand how our broad social systems interact with the climate, and vice versa.
 
 ## The main storylines
 There are five main storylines that act as "highways" through the game, with plenty of back-alleys that branch off and between them.

@@ -1,11 +1,19 @@
-.frontmatter {
+.frontmatter,
+.endmatter {
+
+    // Override .chapter styles
+    margin-top: 0;
+    .glow-top {
+        display: none;
+    }
+
     #content {
         color: $midnight;
         min-height: 80vh;
     }
 
     h1, h2 {
-        border-bottom: 1px solid $red;
+        border-bottom: 1px solid $red;;
     }
     h1 {
         padding-bottom: 1rem;
@@ -14,8 +22,10 @@
         padding-bottom: 0.5rem;
     }
     
-    p a {
-        color: $midnight;
+    p {
+        a {
+            color: $midnight;
+        }
     }
     
     // Book page
@@ -38,33 +48,38 @@
                 height: 100%;
             }
         }
-    }   
-}
-
-
-// Stories
-
-.frontmatter.stories .main-content {
-    h1 {
-        margin-bottom: 0;
-    }
-    
-    ul {
-        margin: 0;
-        margin-bottom: 2.5rem;
     }
 
-    li {
-        list-style-type: none;
-        border-bottom: 1px $red solid;
-        padding: 1.2rem 0 1.7rem 0;
-    }
-    
-    li a {
-        display: block;
-        text-decoration: none;
-        color: $midnight;
-        margin-top: 1rem;
-        margin-bottom: 0.8rem;
+    // Stories
+
+    &.stories {
+        .glow-bottom {
+            display: none;
+        }
+        .main-content {
+            h1 {
+                font-size: 2rem;
+                margin-bottom: 0;
+            }
+
+            ul {
+                margin: 0;
+                margin-bottom: 2.5rem;
+            }
+
+            li {
+                list-style-type: none;
+                border-bottom: 1px $red solid;
+                padding: 1.4rem 0 1.4rem 0;
+            }
+
+            li a {
+                display: block;
+                text-decoration: none;
+                color: $midnight;
+                // margin-top: 1rem;
+                // margin-bottom: 0.8rem;
+            }
+        }
     }
 }

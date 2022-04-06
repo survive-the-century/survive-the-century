@@ -41,7 +41,7 @@ Invaluable scientific contributions (and hilarious headlines) co-ordinated throu
 
 This is a not-for-profit project supported by Climate Interactive, the National Socio-Environmental Synthesis Center (SESYNC), and the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund.
 
-[Read the stories](book/text/stories.html)
+[Read the stories](book/text/endmatter_stories.html)
 {:.button.underline}
 
 # About

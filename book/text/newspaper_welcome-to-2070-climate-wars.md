@@ -5,6 +5,9 @@ conflict:
 decade: 2070
 economy: 
 temperature: 3
+temperature-tracker: 3
+economy-tracker: Yikes
+conflict-tracker: All-out bloodshed
 ---
 
 {% include variables %}

@@ -21,6 +21,21 @@ $midnight-075-opacity: #000040BF;
 @if $output-format == "print-pdf" {
 
     // Theme colours
-    $example-blue: cmyk(80%, 20%, 0%, 20%) !default;
+    $white: white; // white;
+    $green: cmyk(48%, 0%, 97%, 0%); // #74FF57;
+    $midnight: cmyk(98%, 93%, 33%, 58%); // #000040;
+    $black: cmyk(0%, 0%, 0%, 100%);; // #000000;
+    $red: cmyk(0%, 84%, 78%, 0%); // #FF4F3C;
+
+    // Tints and shades
+    $green-60pc: cmyk(25%, 0%, 44%, 0%); // #BDFFAF;
+    $green-10pc: cmyk(2%, 0%, 3%, 0%); // #F8FFF7;
+    $red-60pc: cmyk(0%, 52%, 37%, 0%); // #FF958A;
+    $midnight-90pc: cmyk(100%, 100%, 33%, 30%); // #1A1A58;
+    $midnight-60pc: cmyk(68%, 63%, 26%, 6%); // #636389;
+
+    // RGBA colours for backgrounds
+    // Not included in PDF because these use transparency
+    // and are only used in web elements.
 
 }

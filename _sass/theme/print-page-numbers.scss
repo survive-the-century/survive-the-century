@@ -1,0 +1,76 @@
+// Show page numbers after links
+
+@mixin turn-to-page($color: $red) {
+    content: prince-script(turnToPage, target-counter(attr(href), page));
+    font-family: $font-display-secondary;
+    font-size: 7pt;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+    color: $color;
+}
+
+// Not-the-last-page indicator
+@mixin turn-the-page-arrow() {
+    @right-bottom {
+        color: $red !important;
+        font-family: $font-display-secondary !important;
+        font-size: 10pt !important;
+        font-weight: normal !important;
+        text-align: right !important;
+        vertical-align: bottom !important;
+        margin: 0 !important;
+        padding: 0 12mm 0 0 !important;
+        border: 0 !important;
+    }
+}
+
+.choice-options a::after,
+.part-page a::after,
+.story-list a::after,
+a.turn-to-page::after {
+    @include turn-to-page();
+}
+
+.next-decade-link a::after,
+a.read-more::after {
+    @include turn-to-page($white);
+    font-weight: bold;
+}
+
+a.show-page-number {
+    &::after {
+        // use prince-script to only insert this content if we're
+        // not already on the same page as the target reference.
+        content: prince-script(pagereference, counter(page), target-counter(attr(href), page));
+        // display: inline-block; // this creates big unwanted spaces
+    }
+    &.no-brackets::after {
+        content: prince-script(pagereferencePlain, counter(page), target-counter(attr(href), page));
+    }
+}
+
+@page {
+
+    @left-top {
+        border-top: ($rule-thickness * 2) solid $midnight;
+        margin-top: 4pt; // magic-number adjustment
+        padding-top: $line-height-default / 2;
+        margin-outside: -($bleed);
+    }
+
+    @right-top {
+        border-top: ($rule-thickness * 2) solid $midnight;
+        margin-top: 4pt; // magic-number adjustment
+        padding-top: $line-height-default / 2;
+        margin-outside: -($bleed);
+    }
+
+    @include turn-the-page-arrow();
+}
+
+// No turn-the-page arrow on blank pages
+@page:blank {
+    @right-bottom {
+        content: normal !important;
+    }
+}

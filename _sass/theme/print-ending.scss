@@ -1,0 +1,137 @@
+.ending {
+    page: ending;
+
+    #content {
+        columns: 2;
+    }
+
+    // Main image
+    #content > p:first-of-type {
+        height: $line-height-default * 8;
+        margin: 0 0 $line-height-default 0;
+        text-align: center;
+        column-span: all;
+
+        img {
+            height: $line-height-default * 8;
+        }
+    }
+
+    h1 {
+
+        &:first-of-type {
+            color: $green;
+            font-size: 12pt;
+            font-style: italic;
+            column-span: all;
+            margin-top: 0;
+            margin-bottom: $line-height-default;
+            text-align: center;
+        }
+
+        color: $white;
+        font-style: normal;
+        font-size: $font-size-default;
+        line-height: $line-height-default;
+        margin: $line-height-default 0 0 0;
+    }
+
+    p {
+        color: $white;
+        hyphens: auto;
+
+        &.leader-sentence {
+            font-size: $font-size-default;
+            font-style: normal;
+
+            & + p {
+                margin: 0;
+                text-indent: $paragraph-indent;
+            }
+        }
+    }
+
+    .call-to-action {
+        column-span: all;
+        font-family: $font-display-secondary;
+        margin-top: $line-height-default;
+
+        p {
+            text-align: center;
+        }
+
+        // 'Turn to page' text
+        a:after {
+            color: inherit;
+            font-weight: bold;
+        }
+    }
+
+    &.dead {
+
+        #content {
+            columns: 1;
+            padding: 0 10mm;
+        }
+
+        // Main image
+        #content > p:first-of-type {
+            height: $line-height-default * 12;
+
+            img {
+                height: $line-height-default * 12;
+            }
+        }
+
+        h1 {
+            color: $red;
+        }
+
+        p {
+            hyphens: none;
+            text-align: center;
+
+            & + p {
+                text-indent: 0;
+            }
+        }
+
+        .call-to-action {
+            color: $red;
+            font-weight: bold;
+
+            // 'Turn to page' text
+            a:after {
+                color: $red;
+                font-weight: bold;
+                font-size: 8pt;
+            }
+        }
+    }
+}
+
+.ending.dead {
+    page: dead;
+}
+
+@page dead {
+    background-color: $black;
+    margin-inside: 15mm;
+    margin-outside: 15mm;
+
+    @bottom {
+        @include secondary-page-number-style($white);
+        content: counter(page);
+    }
+}
+
+@page ending {
+    background-color: $midnight;
+    margin-inside: 15mm;
+    margin-outside: 15mm;
+
+    @bottom {
+        @include secondary-page-number-style($white);
+        content: counter(page);
+    }
+}
