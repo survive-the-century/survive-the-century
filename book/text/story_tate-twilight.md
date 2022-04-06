@@ -22,6 +22,7 @@ By Rajat Chaudhuri
 {:.author}
 
 Open daily: 7&nbsp;p.m. to 6&nbsp;a.m.
+{:.story-info-line}
 
 The Geiger-counter-wielding guards scan you through into Delhi’s abandoned central metro station, now the venue of Tate’s newly opened Twilight exhibition space. The main concourse has VR interactive walkthroughs of doomsday scenarios, visualizations of a shutdown of the thermohaline circulation, or you can pose questions to the Buddha delivering his first sermon. It’s also possible to chat with a Mayan soothsayer, marvel at Pieter Bruegel the Elder’s “Triumph of Death” or behold a lifelike Kali, the dark goddess of time with her garland of human heads. More familiar terrain includes spying upon terrorists nuking the Great Gustaff sulphur dioxide tower, rolling on the deck of an Arabian Sea oil rig as a supercyclone hits, or chatting with a mind-uploaded simulation of corporate guru Jack Windows or Greta Thunberg.
 

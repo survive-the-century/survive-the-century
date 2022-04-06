@@ -1,0 +1,45 @@
+// While originally designed, part pages are now
+// not included in the PDF editions.
+.part-page {
+    color: $white;
+    margin-top: $line-height-default * 8;
+    background-image: url("#{$path-to-root-directory}/assets/images/#{$output-format}/part-page.svg");
+    text-align: center;
+
+    // Name @page
+    page: part-page;
+
+    p {
+        text-align: center;
+    }
+
+    .text-words {
+        font-size: 30pt;
+        font-style: italic;
+        line-height: $line-height-default * 2;
+        margin-bottom: $line-height-default * 3;
+    }
+
+    .text-number {
+        color: $green;
+        font-size: 90pt;
+        line-height: $line-height-default * 3;
+        margin-bottom: $line-height-default * 3;
+    }
+
+    .part-page-button {
+        display: block;
+        margin-top: $line-height-default * 3;
+    }
+}
+
+@page part-page {
+    background-color: $midnight;
+    margin-inside: ($margin-inside + $margin-outside) / 2;
+    margin-outside: ($margin-inside + $margin-outside) / 2;
+
+    @bottom {
+        content: counter(page);
+        @include secondary-page-number-style($white)
+    }
+}

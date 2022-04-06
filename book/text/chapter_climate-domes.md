@@ -21,6 +21,6 @@ Some crazy fringe religious groups hate the domes and the decadent lifestyles th
 Should we quash these terrorist groups?
 {:.choice-question}
 
-- [Yes](chapter_quash-terrorists-no.html)
-- [No](chapter_quash-terrorists-yes.html)
+- [Yes.](chapter_quash-terrorists-no.html)
+- [No.](chapter_quash-terrorists-yes.html)
 {:.choice-options}

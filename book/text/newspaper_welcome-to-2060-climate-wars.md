@@ -5,6 +5,9 @@ conflict:
 decade: 2060
 economy: 
 temperature: 2.5
+temperature-tracker: 2.5
+economy-tracker: Oh no...
+conflict-tracker: Run!
 ---
 
 {% include variables %}
@@ -13,7 +16,7 @@ temperature: 2.5
 
 ### Top article
 
-{% include image file="sulphur-pipe.png" class="headline-image portrait" %}
+{% include image file="sulphur-pipe.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Anger grows over US sulphur pipe
 {:.headline}

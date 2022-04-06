@@ -27,13 +27,13 @@ body,
     }
 }
 
-.frontmatter {
+.frontmatter, .endmatter {
     #wrapper, #content {
         background-color: $green-10pc;
     }
 }
 
-.home, .frontmatter {
+.home, .frontmatter, .endmatter {
     .main-content {
         margin-top: $masthead-height + 2rem;
     }

@@ -1,0 +1,65 @@
+// Page format
+$page-width: 165mm !default;
+$page-height: 165mm !default;
+$margin-top: 45pt !default; // set in points to align with baseline grid
+$margin-bottom: 60pt !default;
+$margin-outside: 30mm !default;
+$margin-inside: 20mm !default;
+$page-info-offset: 6mm !default;
+
+// Colors
+$color-accent: $red;
+
+// Font faces
+$font-text-main: "Lora", prince-no-fallback !default;
+$font-text-secondary: "Lora", prince-no-fallback !default;
+$font-display-main: "Lora", prince-no-fallback !default;
+$font-display-secondary: "Inter", prince-no-fallback !default;
+
+// Typography
+$font-size-default: 9.5pt !default;
+$line-height-default: 15pt !default; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
+$letter-spacing-text: 0.01em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
+$text-align: left !default; // left or right or inside or outside or justify or center
+$orphans: 1 !default; // Minimum number of lines that must be left at the bottom of the first page
+$widows: 2 !default; // Minimum number of lines that must be left at the top of the second page
+
+// Page start
+$start-on: auto !default; // right or auto or left ()
+$start-depth: 0 !default;
+
+// Headers and footers
+
+// - Layout
+$left-margin-font: $font-display-secondary !default;
+$right-margin-font: $font-display-secondary !default;
+$left-margin-font-weight: bold !default;
+$right-margin-font-weight: bold !default;
+$left-margin-alignment: top !default;
+$right-margin-alignment: top !default;
+$left-margin-text-align: inside !default;
+$right-margin-text-align: inside !default;
+$left-margin-space-from-text: 10mm;
+$right-margin-space-from-text: 10mm;
+$left-margin-space-from-edge: 12mm;
+$right-margin-space-from-edge: 12mm;
+$left-margin-text-color: $midnight !default;
+$right-margin-text-color: $midnight !default;
+$first-page-margin-boxes: show !default;
+$frontmatter-reference-style: decimal !default;
+
+// - Content
+$recto-right-top: counter(page) !default;
+$verso-left-top: counter(page) !default;
+$verso-left-top-frontmatter: counter(page) !default;
+$recto-right-top-frontmatter: counter(page) !default;
+
+//   - Off
+$verso-top: normal !default;
+$verso-bottom: normal !default;
+$recto-top: normal !default;
+$recto-bottom: normal !default;
+$verso-top-frontmatter: normal !default;
+$verso-bottom-frontmatter: normal !default;
+$recto-top-frontmatter: normal !default;
+$recto-bottom-frontmatter: normal !default;

@@ -5,7 +5,8 @@
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../../assets/fonts/Inter-Regular.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.woff") format("woff"),
+       url("#{$path-to-root-directory}/assets/fonts/Inter-Regular.ttf") format("truetype");
 }
 
 @font-face {
@@ -13,7 +14,7 @@
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../../assets/fonts/Lora-Regular.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Lora-Regular.ttf") format("truetype"),
 }
 
 @font-face {
@@ -21,5 +22,5 @@
   font-style:  italic;
   font-weight: 400;
   font-display: swap;
-  src: url("../../assets/fonts/Lora-Italic.ttf") format("truetype"),
+  src: url("#{$path-to-root-directory}/assets/fonts/Lora-Italic.ttf") format("truetype"),
 }

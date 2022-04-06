@@ -16,5 +16,5 @@ These projects somewhat work, but they are being used at a time when there is al
 
 Overall, the temperature of the planet doesn’t increase as much as it might have, but the disruption to people’s lives is arguably higher.
 
-- [You made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-slow-fade.html"}
+- [You made it to 2080!](part-page_2080-slow-fade.html)
 {:.choice-options}

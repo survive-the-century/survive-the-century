@@ -14,11 +14,9 @@ temperature: 1.5
 Press release
 {:.runner}
 
-{% include image file="obituaries-for-capitalism.png" class="headline-image portrait" %}
+{% include image file="obituaries-for-capitalism.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
-# Obituaries
-
-## Capitalism: 1760–2068
+# **Obituaries** Capitalism: 1760–2068
 
 By Maria Turtschaninoff
 {:.author}

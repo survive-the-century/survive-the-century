@@ -5,6 +5,9 @@ conflict:
 decade: 2030
 economy: 
 temperature: 1.6
+temperature-tracker: 1.6
+economy-tracker: This is nice
+conflict-tracker: Snippy
 ---
 
 {% include variables %}
@@ -13,7 +16,7 @@ temperature: 1.6
 
 ### Top article
 
-{% include image file="bezos.png" class="headline-image portrait" %}
+{% include image file="bezos.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Brazil builds giant statue of Jeff Bezos hoping to win lucrative mining contract
 {:.headline}

@@ -103,6 +103,7 @@
         display: inline-block;
 
         li {
+            cursor: pointer;
             width: 2.75rem;
         }
 
@@ -201,7 +202,7 @@
         border-top: 1px solid $midnight-60pc;
     }
 
-    .home, .frontmatter, .action, .story.dash-hidden {
+    .home, .frontmatter, .endmatter, .action, .story.dash-hidden {
         .masthead-top {
             display: none;
         }
@@ -219,4 +220,3 @@
         display: none;
     }
 }
-
