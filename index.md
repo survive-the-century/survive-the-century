@@ -22,13 +22,13 @@ Lead the world towards utopia, or unleash your inner villain to see how bad thin
 
 <div class="buy-the-book" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget feugiat massa. Etiam imperdiet dui ut diam posuere posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer neque dolor, suscipit at nulla faucibus, iaculis porta felis. Pellentesque placerat arcu a lorem tempus porta. Etiam viverra blandit felis vitae semper. Vivamus gravida, magna id molestie gravida, metus libero porta libero, vitae vulputate nunc ligula sed mauris.
+*Survive the Century* is also a **gorgeous collectible book** that you can hold in your hands, or place conspicuously on your coffee table. You can even leave it to your children, and it will almost certainly be around in 2100. 
 
 {% include image file="test-cover.png" class="homepage-book" path="assets/images/web" %}
 
 </div>
 
-[Buy the book]()
+[Buy the book](book.html)
 {:.button.underline}
 
 # Contributors
