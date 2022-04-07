@@ -7,7 +7,7 @@ image:
 {% include variables %}
 
 {% if site.output == "print-pdf" %}
-{% include image file="end-state-dead-world--bg-black.jpg" %}
+{% include image file="end-state-dead-world--bg-black.tif" %}
 {% else %}
 {% include image file="end-state-dead-world.png" %}
 {% endif %}
