@@ -145,7 +145,123 @@ var paths = {
 };
 
 // Set filetypes to convert, comma separated, no spaces
-var filetypes = 'jpg,jpeg,gif,png';
+var filetypes = 'jpg,jpeg,gif,png,tif,tiff';
+
+// Default color settings
+var defaultColorProfile = 'sRGB_v4_ICC_preference_displayclass.icc';
+var defaultColorSpace = 'rgb';
+var defaultColorProfileGrayscale = 'Grey_Fogra39L.icc';
+var defaultColorSpaceGrayscale = 'gray';
+var defaultOutputFormat = 'web';
+
+// Load image settings if they exist
+var imageSettings = [];
+if (fs.existsSync('_data/images.yml')) {
+    imageSettings = yaml.load(fs.readFileSync('_data/images.yml', 'utf8'));
+
+    // If the file is empty, imageSettings will be null.
+    // So we check for that and, if null, we create an array.
+    if (!imageSettings) {
+        imageSettings = [];
+    }
+}
+
+// Function for checking if an image should be processed
+function modifyImageCheck(filename, format) {
+
+    // Assume true
+    var modifyImage = true;
+
+    if (!format) {
+        format = 'all';
+    }
+
+    if (imageSettings[book]) {
+        imageSettings[book].forEach(function (image) {
+            if (image.file === filename) {
+
+                // User feedback for images not being modified
+                var noModifyFeedback = filename + " not modified for " + format + " format(s), as specified in images.yml";
+
+                // We use the same SVG for all output formats. So:
+                // if this is an SVG, do *any* of the output formats
+                // have 'modify' set to no? If so, do not modify it.
+                if (filename.match(/[^\s]+\.svg$/gi)) {
+                    var outputFormats = ['print-pdf', 'screen-pdf', 'web', 'epub', 'app', 'all'];
+                    outputFormats.forEach(function (format) {
+                        if (image[format] && image[format].modify && image[format].modify === 'no') {
+                            console.log(noModifyFeedback);
+                            modifyImage = false;
+                        }
+                    });
+                }
+
+                // If an image has a 'modify' setting for this or all formats...
+                if (image.modify || (image[format] && image[format].modify)
+                        || (image.all && image.all.modify)) {
+
+                    // ... and it's set to no, do not modify.
+                    if (image.modify === 'no' || (image[format] && image[format].modify === 'no')
+                            || (image.all && image.all.modify === 'no')) {
+                        console.log(noModifyFeedback);
+                        modifyImage = false;
+                    }
+                }
+            }
+        });
+    }
+
+    return modifyImage;
+}
+
+// Function for getting a filename in gulp tap
+function getFilenameFromPath(path) {
+    'use strict';
+    var filename = path.split('\/').pop(); // for unix slashes
+    filename = filename.split('\\').pop(); // for windows backslashes
+    return filename;
+}
+
+// Function for default gulp tap step
+function getFileDetailsFromTap(file, format) {
+    'use strict';
+
+    if (!format) {
+        format = 'all';
+    }
+
+    return {
+        prefix: file.basename.replace('.', '').replace(' ', ''),
+        filename: getFilenameFromPath(file.path),
+        modifyImage: modifyImageCheck(filename, format)
+    };
+}
+
+function lookupColorSettings(gmfile,
+        colorProfile, colorSpace,
+        colorProfileGrayscale, colorSpaceGrayscale,
+        outputFormat) {
+    'use strict';
+
+    var filename = getFilenameFromPath(gmfile.source);
+
+    // Look up image settings
+    if (imageSettings[book]) {
+        imageSettings[book].forEach(function (image) {
+            if (image.file === filename || image.file == "all") {
+                if (image[outputFormat] && image[outputFormat].colorspace === 'gray') {
+                    colorProfile = colorProfileGrayscale;
+                    colorSpace = colorSpaceGrayscale;
+                }
+            }
+        });
+    }
+
+    return {
+        colorSpace: colorSpace,
+        colorProfile: colorProfile
+    }
+}
 
 // Minify and clean SVGs and copy to destinations.
 // For EpubCheck-safe SVGs, we remove data- attributes
@@ -383,42 +499,53 @@ gulp.task('images:printpdf', function (done) {
     'use strict';
 
     // Options
-    var printPDFColorProfile = 'PSOcoated_v3.icc';
-    var printPDFColorSpace = 'cmyk';
-    var printPDFColorProfileGrayscale = 'Grey_Fogra39L.icc';
-    var printPDFColorSpaceGrayscale = 'gray';
+    var outputFormat = 'print-pdf';
+    var colorProfile = 'PSOcoated_v3.icc';
+    var colorSpace = 'cmyk';
+    var colorProfileGrayscale = defaultColorProfileGrayscale;
+    var colorSpaceGrayscale = defaultColorSpaceGrayscale;
 
     console.log('Processing print-PDF images from ' + paths.img.source);
-    if (fileExists.sync('_tools/profiles/' + printPDFColorProfile)) {
+    if (fileExists.sync('_tools/profiles/' + colorProfile)) {
         gulp.src(paths.img.source + '*.{' + filetypes + '}',
                 {ignore: paths.ignore.printpdf})
             .pipe(newer(paths.img.printpdf))
             .pipe(debug({title: 'Creating print-PDF version of '}))
             .pipe(gm(function (gmfile) {
 
-                // Check for grayscale
-                var thisColorProfile = printPDFColorProfile; // set default/fallback
-                var thisColorSpace = printPDFColorSpace; // set default/fallback
-                var thisFilename = gmfile.source.split('\/').pop(); // for unix slashes
-                thisFilename = thisFilename.split('\\').pop(); // for windows backslashes
+                // Get file details
+                var filename = getFilenameFromPath(gmfile.source);
 
-                // Look up image colour settings
-                imageSettings.forEach(function (image) {
-                    if (image.file === thisFilename) {
-                        if (image['print-pdf'].colorspace === 'gray') {
-                            thisColorProfile = printPDFColorProfileGrayscale;
-                            thisColorSpace = printPDFColorSpaceGrayscale;
-                        }
-                    }
-                });
+                // Check if we should modify this image
+                var modifyImage = modifyImageCheck(filename, outputFormat);
 
-                return gmfile.profile('_tools/profiles/' + thisColorProfile).colorspace(thisColorSpace);
+                // Reset defaults (in case previous image in stream
+                // set these values to something else)
+                var thisColorSpace = colorSpace;
+                var thisColorProfile = colorProfile;
+
+                // Override
+                var colorSettings = lookupColorSettings(gmfile, colorProfile, colorSpace,
+                        colorProfileGrayscale, colorSpaceGrayscale, outputFormat);
+                thisColorSpace = colorSettings.colorSpace;
+                thisColorProfile = colorSettings.colorProfile;
+
+                if (modifyImage) {
+                    return gmfile
+                    .profile('_tools/profiles/' + thisColorProfile)
+                    .colorspace(thisColorSpace);
+                } else {
+                    return gmfile
+                    .define('jpeg:preserve-settings')
+                    .compress('None')
+                    .quality(100);
+                }
             }).on('error', function (e) {
                 console.log(e);
             }))
             .pipe(gulp.dest(paths.img.printpdf));
     } else {
-        console.log('Colour profile _tools/profiles/' + printPDFColorProfile + ' not found. Exiting.');
+        console.log('Colour profile _tools/profiles/' + colorProfile + ' not found. Exiting.');
         return;
     }
     done();

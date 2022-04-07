@@ -9,3 +9,24 @@
 #
 # Possible values
 # - print-PDF colorspace: cmyk | gray
+
+# Do not modify these images in _source, which are for print only
+book:
+  - file: "end-state-billionaire-saviours--bg-blue.tif"
+    print-pdf:
+      modify: no
+  - file: "end-state-climate-wars--bg-blue.tif"
+    print-pdf:
+      modify: no
+  - file: "end-state-dead-world--bg-black.tif"
+    print-pdf:
+      modify: no
+  - file: "end-state-designer-planet--bg-blue.tif"
+    print-pdf:
+      modify: no
+  - file: "end-state-ecotopia--bg-blue.tif"
+    print-pdf:
+      modify: no
+  - file: "end-state-slow-fade--bg-blue.tif"
+    print-pdf:
+      modify: no
