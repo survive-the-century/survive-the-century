@@ -7,7 +7,7 @@ decade: 2100
 {% include variables %}
 
 {% if site.output == "print-pdf" %}
-{% include image file="end-state-billionaire-saviours--bg-blue.jpg" %}
+{% include image file="end-state-billionaire-saviours--bg-blue.tif" %}
 {% else %}
 {% include image file="end-state-billionaire-saviours.png" %}
 {% endif %}
