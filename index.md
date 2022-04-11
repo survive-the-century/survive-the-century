@@ -18,6 +18,19 @@ Lead the world towards utopia, or unleash your inner villain to see how bad thin
 
 <div class="below-the-fold" markdown="1">
 
+# Buy the book
+
+<div class="buy-the-book" markdown="1">
+
+*Survive the Century* is also a **gorgeous collectible book** that you can hold in your hands, or place conspicuously on your coffee table. You can even leave it to your children, and it will almost certainly be around in 2100. 
+
+{% include image file="test-cover.png" class="homepage-book" path="assets/images/web" %}
+
+</div>
+
+[Buy the book](book.html)
+{:.button.underline}
+
 # Contributors
 
 Created by Sam Beckbessinger, Simon Nicholson and Christopher Trisos.
