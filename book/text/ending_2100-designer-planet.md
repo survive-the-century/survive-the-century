@@ -7,7 +7,7 @@ decade: 2100
 {% include variables %}
 
 {% if site.output == "print-pdf" %}
-{% include image file="end-state-designer-planet--bg-blue.jpg" %}
+{% include image file="end-state-designer-planet--bg-blue.tif" %}
 {% else %}
 {% include image file="end-state-designer-planet.png" %}
 {% endif %}

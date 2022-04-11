@@ -24,7 +24,7 @@ Lead the world towards utopia, or unleash your inner villain to see how bad thin
 
 *Survive the Century* is also a **gorgeous collectible book** that you can hold in your hands, or place conspicuously on your coffee table. You can even leave it to your children, and it will almost certainly be around in 2100. 
 
-{% include image file="test-cover.png" class="homepage-book" path="assets/images/web" %}
+{% include image file="mockup.png" class="homepage-book" path="assets/images/web" %}
 
 </div>
 
