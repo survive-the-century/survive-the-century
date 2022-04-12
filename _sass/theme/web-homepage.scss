@@ -52,19 +52,21 @@
             grid-template-columns: 66%;
             max-width: $max-width-default;
             margin: auto;
+            margin-bottom: 1rem;
             
             p:not(.homepage-book-parent) {
                 grid-column: 1 / 2;
+                margin: auto;
             }
             
             .homepage-book-parent {
                 grid-column: 2 / 3;
                 height: 100%;
+                margin: 0;
                 img {
-                    margin: 0 auto;
+                    margin: auto;
                     object-fit: contain;
-                    height: 100%;
-                    width: 100%;
+                    width: 90%;
                 }
             }
         }
