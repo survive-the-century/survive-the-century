@@ -7,6 +7,9 @@ $margin-outside: 30mm !default;
 $margin-inside: 20mm !default;
 $page-info-offset: 6mm !default;
 
+// Turn on Ingram mode
+$print-page-setup-lightning-source: true !default;
+
 // Colors
 $color-accent: $red;
 
