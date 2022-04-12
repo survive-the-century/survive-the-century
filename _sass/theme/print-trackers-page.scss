@@ -66,23 +66,26 @@
     }
 }
 
-@page trackers:first {
-
-    // We need Jekyll to process the SVG to insert colour values,
-    // hence keeping the SVG in the book folder.
-    // background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
-    background: url('#{$path-to-root-directory}/book/text/trackers.svg');
-    background-repeat: no-repeat;
-    background-position: -5mm -5mm;
-    background-size: $page-width + 10;
-}
-
 @page trackers {
     background-color: $midnight;
     margin-inside: ($margin-inside + $margin-outside) / 2;
     margin-outside: ($margin-inside + $margin-outside) / 2;
 }
 
+@page trackers:first {
+
+    // We need Jekyll to process the SVG to insert colour values,
+    // hence keeping the SVG in the book folder.
+    // background: url('#{$path-to-root-directory}/book/images/#{$output-format}/trackers.svg');
+    background-image: url('#{$path-to-root-directory}/book/text/trackers.svg');
+    background-repeat: no-repeat;
+    background-position: -5mm -5mm;
+    background-size: $page-width + 10;
+}
+
 @page trackers:nth(3) {
-    background: url('#{$path-to-root-directory}/book/images/#{$output-format}/tracker-gradient.jpg');
+    background-image: url('#{$path-to-root-directory}/book/images/#{$output-format}/tracker-gradient.jpg');
+    background-repeat: no-repeat;
+    background-position: -5mm -5mm;
+    background-size: $page-width + 10;
 }
