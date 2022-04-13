@@ -563,6 +563,7 @@ works:
           - "endmatter_credits"
           - "endmatter_shiny-badges"
           - "endmatter_trackers"
+          - "endmatter_blank"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
           - label: "How to play"
             file: "frontmatter_how-to-play"
@@ -814,3 +815,4 @@ works:
           - "endmatter_credits"
           - "endmatter_shiny-badges"
           - "endmatter_trackers"
+          - "endmatter_blank"
