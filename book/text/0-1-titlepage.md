@@ -11,5 +11,5 @@ style: title-page first
 A cli-fi story of choice and consequences
 {:.title-page-subtitle}
 
-Created by **Sam Beckbessinger, Simon Nicholson and Christopher Trisos**
+Created by **Sam Beckbessinger, Christopher Trisos and Simon Nicholson**
 {:.title-page-author}
