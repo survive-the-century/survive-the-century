@@ -27,7 +27,7 @@ Do you call school strikers heroes or hooligans? As the climate crisis displaces
 
 ## Beyond temperature
 
-We make sense of our past, present and future by telling each other stories. But when the future of the planet is already so extraordinary, why turn to fiction?
+When the future of the planet is already so extraordinary, why turn to fiction?
 
 First, it’s how humans work. We make sense of our past, present and future by telling each other stories: narratives with a beginning and end, and with something important at stake. That fills an emotional gap – engaging heart as well as head – that no amount of research evidence can. Stories allow us to feel ourselves in the future, not just think ourselves there.
 
@@ -42,6 +42,7 @@ One stream takes us down an ultra-capitalist route, where corporate visas contro
 Our game helps players understand that we can shape our future, not just witness it. For many, that feeling of power over climate change has been lost in recent years.
 
 As climate activists saw inaction stall progress, many stopped hedging. They developed clear and unequivocal messages: if we don’t stop climate change right now, there is no future for us on this planet. It got people to understand the scale of the threat. But it also made some people believe there’s nothing they can do: this is the future of the planet and big international climate change meetings, they thought, something bigger than me, and where’s the point in trying to change that?
+{:.tighten-5}
 
 Fiction – and especially a branching narrative style – puts control in the hands of the reader. It reminds them that the important decisions are the ones that lie ahead of us, not behind us.
 
