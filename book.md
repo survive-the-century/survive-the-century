@@ -17,7 +17,7 @@ style: frontmatter
 
 ## Order now
 
-- [Amazon](https://www.amazon.co.uk/Survive-Century-climate-choice-consequences/dp/0620987480/ref=sr_1_3?crid=10IBQBER130EV&keywords=survive+the+century&qid=1652679415&sprefix=survive+the+ce%2Caps%2C478&sr=8-3)
+- [Amazon](https://www.amazon.co.uk/dp/0620987480/)
 
 ## Bulk orders
 
