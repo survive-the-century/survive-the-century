@@ -7,6 +7,11 @@ p, p + p {
     text-indent: 0;
 }
 
+.frontmatter p:last-of-type,
+.story p:nth-last-child(2) {
+    margin-bottom: 1.8em;
+}
+
 // Masthead
 
 .masthead {

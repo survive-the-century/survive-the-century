@@ -21,14 +21,36 @@
     h2 {
         padding-bottom: 0.5rem;
     }
-
+    
     p {
-
         a {
             color: $midnight;
         }
     }
-
+    
+    // Book page
+    .buy-the-book {
+        display: grid;
+        grid-template-columns: 66%;
+        max-width: $max-width-default;
+        margin: auto;
+        
+        p:not(.homepage-book-parent) {
+            grid-column: 1 / 2;
+            margin: auto;
+        }
+        
+        .homepage-book-parent {
+            grid-column: 2 / 3;
+            height: 100%;
+            margin: 0;
+            img {
+                margin: auto;
+                object-fit: contain;
+                width: 90%;
+            }
+        }
+    }
 
     // Stories
 
