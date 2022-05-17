@@ -55,5 +55,11 @@ We hope that this game helps you to feel less hopeless and nihilistic about the 
 [Take action](book/text/take-action.html)
 {:.button.underline}
 
+# For classrooms and conference rooms
+
+*Survive the Century* has been used in classrooms and conference rooms around the world as a tool for learning, debate, discussion, and LOLs.
+
+[Instructions for group sessions](book/text/endmatter_group-reading.html)
+{:.button.underline}
 
 </div>
