@@ -5,6 +5,9 @@ conflict:
 decade: 2030
 economy: 
 temperature: 1.7
+temperature-tracker: 1.7
+economy-tracker: Sweet
+conflict-tracker: Snippy
 ---
 
 {% include variables %}
@@ -13,7 +16,7 @@ temperature: 1.7
 
 ### Top article
 
-{% include image file="stop-talking-protest.png" class="headline-image portrait" %}
+{% include image file="stop-talking-protest.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Millions join protests as unemployment reaches record levels
 {:.headline}

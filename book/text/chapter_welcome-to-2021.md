@@ -9,7 +9,7 @@ temperature: 1.2
 
 {% include variables %}
 
-It’s late 2021.
+It’s the early 2020s.
 {:.leader-sentence}
 
 As an important and informed person, you’re aware that the world is running out of time to address the climate emergency.

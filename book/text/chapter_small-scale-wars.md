@@ -19,5 +19,11 @@ The world erupts in a series of violent local conflicts over suddenly scarce res
 
 The effects are terrible. Millions starve. Billions are displaced by war. This decade is called “the terrible 70s”.
 
-- [When will this decade end?](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-climate-wars.html"}
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+[Award yourself the I SURVIVED THE 70s badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}.
+
+{% endif %}
+
+- [When will this decade end?](part-page_2080-climate-wars.html)
 {:.choice-options}

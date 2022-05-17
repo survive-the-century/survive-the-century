@@ -6,7 +6,11 @@ decade: 2100
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-climate-wars--bg-blue.tif" %}
+{% else %}
 {% include image file="end-state-climate-wars.png" %}
+{% endif %}
 
 # So, where do we end up by the end of the century?
 
@@ -20,5 +24,5 @@ Like the fall of Rome or Europe’s Dark Ages, a reminder that humanity can go b
 You allowed climate change to be a source of conflict between people who saw everything as a zero-sum game.
 
 {% include call-to-action
-    hyperlink="https://en-roads.climateinteractive.org/scenario.html?v=2.7.38&p1=-18&p7=-11&p10=-0.8&p53=0.1&p55=-0.1&p57=1&p63=11.9&p235=0.9"
+    hyperlink="https://tinyurl.com/4xe9jz6d"
 %}

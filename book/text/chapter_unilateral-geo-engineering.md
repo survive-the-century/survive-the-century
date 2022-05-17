@@ -16,5 +16,5 @@ Years of drought and crop failures lead William Trump, America’s newly appoint
 
 This cools America but causes drought across India and southern Africa.
 
-- [What?! It’s 2060 ALREADY??](part-page_2060.html){:js-next-dest="newspaper_welcome-to-2060-climate-wars.html"}
+- [What?! It’s 2060 ALREADY??](part-page_2060-climate-wars.html)
 {:.choice-options}

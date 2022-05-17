@@ -22,5 +22,5 @@ Activists back down and nothing really changes.
 
 Runaway effects of the climate hacks devastate parts of the world, forcing the last remaining free societies into corporate cities, where they hope to “earn” citizenship through work… maybe. One day. The unluckiest are forced into jobs on the nascent Mars colony.
 
-- [You made it to 2080!](part-page_2080.html){:js-next-dest="newspaper_welcome-to-2080-billionaire-saviours.html"}
+- [You made it to 2080!](part-page_2080-billionaire-saviours.html)
 {:.choice-options}

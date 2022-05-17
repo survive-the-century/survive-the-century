@@ -17,6 +17,7 @@ Press release
 # Statement from Womb Riot demanding radical eco-political reforms now
 
 *Thanks to our reporter Lauren Beukes for bringing this to our attention.*
+{:.subheadline}
 
 By Lauren Beukes
 {:.author}

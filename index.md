@@ -18,6 +18,19 @@ Lead the world towards utopia, or unleash your inner villain to see how bad thin
 
 <div class="below-the-fold" markdown="1">
 
+# Buy the book
+
+<div class="buy-the-book" markdown="1">
+
+*Survive the Century* is also a **gorgeous collectible book** that you can hold in your hands, or place conspicuously on your coffee table. You can even leave it to your children, and it will almost certainly be around in 2100. 
+
+{% include image file="mockup.png" class="homepage-book" path="assets/images/web" %}
+
+</div>
+
+[Buy the book](book.html)
+{:.button.underline}
+
 # Contributors
 
 Created by Sam Beckbessinger, Simon Nicholson and Christopher Trisos.
@@ -28,7 +41,7 @@ Invaluable scientific contributions (and hilarious headlines) co-ordinated throu
 
 This is a not-for-profit project supported by Climate Interactive, the National Socio-Environmental Synthesis Center (SESYNC), and the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund.
 
-[Read the stories](book/text/stories.html)
+[Read the stories](book/text/endmatter_stories.html)
 {:.button.underline}
 
 # About

@@ -6,7 +6,11 @@ image:
 
 {% include variables %}
 
+{% if site.output == "print-pdf" %}
+{% include image file="end-state-dead-world--bg-black.tif" %}
+{% else %}
 {% include image file="end-state-dead-world.png" %}
+{% endif %}
 
 # You did not survive the century.
 

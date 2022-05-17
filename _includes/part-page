@@ -1,3 +1,9 @@
+{% comment %}
+Note: part pages are not included in PDF.
+The links to part pages are replaced with
+links to the relevant newspaper page by JS.
+{% endcomment %}
+
 <div class="background-image">
     
     <div class="text-wrapper">
@@ -11,12 +17,7 @@
             You made it!
         </div>
         <p>
-            <a href="js-next-dest-placeholder" class="part-page-button">What will {{ include.year }} bring?</a>
+            <a href="{{ include.link }}" class="part-page-button">What will {{ include.year }} bring?</a>
         </p>
     </div>
 </div>
-
-
-
-
-

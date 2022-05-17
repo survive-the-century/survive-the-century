@@ -1,0 +1,14 @@
+@mixin secondary-page-number-style($color: $midnight) {
+    color: $color;
+    font-family: $font-display-secondary;
+    font-size: $header-font-size;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+@mixin page-text-color($color: $white) {
+    p, ul, ol, dl {
+        color: $color;
+    }
+}

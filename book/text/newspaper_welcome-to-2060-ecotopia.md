@@ -5,6 +5,9 @@ conflict:
 decade: 2060
 economy: 
 temperature: 1.6
+temperature-tracker: 1.6
+economy-tracker: This is nice
+conflict-tracker: Friendly
 ---
 
 {% include variables %}
@@ -13,7 +16,7 @@ temperature: 1.6
 
 ### Top article
 
-{% include image file="tribal-leader.png" class="headline-image portrait" %}
+{% include image file="tribal-leader.png" class="headline-image portrait pdf-headline-image-narrow" %}
 
 Indigenous peoples and local communities (IPLCs) take their seat at the UN
 {:.headline}

@@ -15,19 +15,11 @@ $print-page-setup-lightning-source: false !default;
         prince-bleed: 3mm 0 3mm 3mm !important;
         prince-trim: 0 3mm 0 0 !important;
         marks: none !important;
-        @right {
-            background-color: white;
-            content: " ";
-        }
     }
     @page:right { 
         prince-bleed: 3mm 3mm 3mm 0 !important;
         prince-trim: 0 0 0 3mm !important;
         marks: none !important;
-        @left {
-            background-color: white;
-            content: " ";
-        }
     }
 
 }

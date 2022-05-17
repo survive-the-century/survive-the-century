@@ -1,5 +1,5 @@
 ---
-title: "Termination shock - Mars"
+title: "Termination shock – Mars"
 style: chapter
 conflict: 
 decade: 
@@ -11,6 +11,12 @@ temperature: 2.6
 
 The Mars colony is going to cost an eye-melting amount of money. 
 {:.leader-sentence}
+
+{% if site.output == "print-pdf" or site.output == "screen-pdf" %}
+
+[Award yourself the I WENT TO MARS AND ALL I GOT WAS THIS LOUSY BADGE badge](endmatter_shiny-badges.html){:.show-page-number target="_blank"}!
+
+{% endif %}
 
 Most geoengineering projects are defunded, and many of them have to be stopped suddenly.
 

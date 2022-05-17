@@ -14,7 +14,7 @@ temperature: 1.7
 Press release
 {:.runner}
 
-{% include image file="green-mall.png" class="headline-image landscape" %}
+{% include image file="green-mall.png" class="headline-image landscape pdf-headline-image-wide" %}
 
 # Review of a “Green Mall” by a grumpy Gen X shopaholic
 
@@ -33,8 +33,9 @@ I didn’t get to buy a single item, and that’s another star off this review.
 
 I heard the person who came up with the concept of the repair mall would be rich now, if people still got rich as they did back in my day. Now she’s just a global hero or something. Whatever. The mall had a food court which was almost like the ones in my day, except with no disposable cutlery or plates. The food was quite good, even though it was all locally sourced. They had a blueberry cobbler that tasted like my grandma’s. I wept when I ate it. I don’t like crying in public, which is why I will deduct the last star I was going to give.
 
-Sincerely,
+Sincerely,\\
 A Gen X shopaholic
+{:.valediction}
 
 [Let’s see what the 2050s will bring.](chapter_who-looks-after-the-wild.html)
 {:.next-decade-link}

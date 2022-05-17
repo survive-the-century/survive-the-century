@@ -1,5 +1,5 @@
 ---
-title: "Slow economic recovery - billionaires"
+title: "Slow economic recovery – billionaires"
 style: chapter
 conflict: 
 decade: 

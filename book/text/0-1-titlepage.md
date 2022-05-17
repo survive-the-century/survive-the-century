@@ -1,21 +1,15 @@
 ---
 title: Title page
-style: title-page
+style: title-page first
 ---
 
-<h1>{{ page.title }}</h1>
+{% capture title-page-image-path %}assets/images/{{ site.output }}{% endcapture %}
 
-{% include variables %}
-{% include metadata %}
+{% include image file="logo.png" path=title-page-image-path %}
+{:.title-page-lettering}
 
-{{ title }}
-{:.title-page-title}
-
-{{ subtitle }}
+A cli-fi story of choice and consequences
 {:.title-page-subtitle}
 
-{{ creator }}
+Created by **Sam Beckbessinger, Christopher Trisos and Simon Nicholson**
 {:.title-page-author}
-
-{{ publisher }}
-{:.title-page-publisher}
