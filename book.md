@@ -17,7 +17,7 @@ style: frontmatter
 
 ## Order now
 
-We encourage you to order the book through your local indie bookstore! Failing that, you can buy *Survive the Century* through:
+We encourage you to order the book through your local indie bookstore, or through:
 
 - [Amazon](https://www.amazon.com/gp/product/0620987480/)
 - [Amazon UK](https://www.amazon.co.uk/dp/0620987480/)
