@@ -17,7 +17,12 @@ style: frontmatter
 
 ## Order now
 
-- [Amazon](https://www.amazon.co.uk/dp/0620987480/)
+We encourage you to order the book through your local indie bookstore! Failing that, you can buy *Survive the Century* through:
+
+- [Amazon](https://www.amazon.com/gp/product/0620987480/)
+- [Amazon UK](https://www.amazon.co.uk/dp/0620987480/)
+- [Barnes&Noble](https://www.barnesandnoble.com/w/survive-the-century-sam-beckbessinger/1141467203)
+- [Book Depository](https://www.bookdepository.com/Survive-the-Century-Sam-Beckbessinger-Christopher-Trisos-Simon-Nicholson/9780620987486)
 
 ## Bulk orders
 
