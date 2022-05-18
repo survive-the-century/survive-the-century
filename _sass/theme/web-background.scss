@@ -129,3 +129,10 @@ body,
         background-image: linear-gradient($midnight, $red);
     }
 }
+
+.endmatter,
+.stories {
+    .glow-bottom {
+        display: none;
+    }
+}
