@@ -19,10 +19,21 @@ style: frontmatter
 
 We encourage you to order the book through your local indie bookstore, or through:
 
+Global
 - [Amazon](https://www.amazon.com/gp/product/0620987480/)
-- [Amazon UK](https://www.amazon.co.uk/dp/0620987480/)
-- [Barnes&Noble](https://www.barnesandnoble.com/w/survive-the-century-sam-beckbessinger/1141467203)
 - [Book Depository](https://www.bookdepository.com/Survive-the-Century-Sam-Beckbessinger-Christopher-Trisos-Simon-Nicholson/9780620987486)
+
+United States
+- [Target](https://www.target.com/p/survive-the-century-by-sam-beckbessinger-christopher-trisos-simon-nicholson-paperback/-/A-87099422)
+- [Barnes&Noble](https://www.barnesandnoble.com/w/survive-the-century-sam-beckbessinger/1141467203)
+
+United Kingdom
+- [Amazon UK](https://www.amazon.co.uk/dp/0620987480/)
+
+South Africa
+- [Love Books, Johannesburg](https://lovebooks.co.za/shop/)
+- [The Book Lounge, Cape Town](https://booklounge.co.za/product/survive-the-century-by-sam-beckbessinger/)
+- [Sam Beckbessinger direct](https://shop.sambeckbessinger.com/product/survive-the-century-book/)
 
 ## Bulk orders
 
