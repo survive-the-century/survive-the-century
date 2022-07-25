@@ -28,11 +28,15 @@ United States
 - [Barnes&Noble](https://www.barnesandnoble.com/w/survive-the-century-sam-beckbessinger/1141467203)
 
 United Kingdom
+- [Blackwells](https://blackwells.co.uk/bookshop/product/Survive-the-Century-a-climate-story-of-choice-and-consequences-by-Beckbessinger-Sam/9780620987486)
 - [Amazon UK](https://www.amazon.co.uk/dp/0620987480/)
+- [Waterstones](https://www.waterstones.com/book/survive-the-century/sam-beckbessinger/christopher-trisos/9780620987486)
+- [WHSmith](https://www.whsmith.co.uk/products/survive-the-century-a-climate-story-of-choice-and-consequences/sam-beckbessinger/christopher-trisos/paperback/9780620987486.html)
 
 South Africa
 - [Love Books, Johannesburg](https://lovebooks.co.za/shop/)
 - [The Book Lounge, Cape Town](https://booklounge.co.za/product/survive-the-century-by-sam-beckbessinger/)
+- [Kalk Bay Books, Cape Town](https://kalkbaybooks.co.za/)
 - [Sam Beckbessinger direct](https://shop.sambeckbessinger.com/product/survive-the-century-book/)
 
 ## Bulk orders
