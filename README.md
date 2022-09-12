@@ -55,8 +55,7 @@ Players will be able to hop between different storylines as they play (they migh
 - Created by: Sam Beckbessinger
 - Project leads: Christopher Trisos and Simon Nicholson
 - Short fiction by: Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
-- Primary sponsors: Climate Interactive, the Global Strategic Communications Council Opportunity Fund (the GSCC), the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, the National Socio-Environmental Synthesis Center (SESYNC) under funding received from the National Science Foundation DBI-1639145
-- Web development and publishing: [Electric Book Works](https://electricbookworks.com){:target="_blank"}
+- Web development and publishing: [Electric Book Works](https://electricbookworks.com)
 - Illustrations: Annika Brandow
 - Design: Karen Lilje
 - Copyediting: Louis Greenberg
