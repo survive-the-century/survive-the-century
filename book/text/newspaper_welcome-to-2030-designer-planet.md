@@ -31,7 +31,7 @@ Simultaneous protests in 57 countries over soaring income inequality
 - {% include thumbnail file="thumbnail_people.png" %} Anti-vax conspiracies dominate Reddit [Read more](story_reddit.html){:.read-more}
 - {% include thumbnail file="thumbnail_flow-vertical.png" %} Report finds that the air is “unbreathable” in eight out of ten cities in China
 - {% include thumbnail file="thumbnail_graph.png" %} Environmentalists try to revive remaining polar bear populations after first ice-free Arctic summer
-- {% include thumbnail file="thumbnail_flow-horizontal.png" %} “The reefs are f-cked” admits leading coral reef expert
+- {% include thumbnail file="thumbnail_flow-horizontal.png" %} “It's too late to save the reefs” admits leading coral reef expert
 {:.articles}
 
 [What will this new decade bring?](chapter_grassroots-inequality-rebellion.html)
