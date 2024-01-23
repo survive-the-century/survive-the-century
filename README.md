@@ -29,8 +29,6 @@ The other two project leads are [Simon Nicholson](https://www.american.edu/sis/f
 
 The original idea for the game came out of a workshop Simon and Chris facilitated which brought together SF writers (including myself, Lauren Beukes and Mohale Mashigo) with climate scientists and experts including climate modelers, social scientists and geoengineering specialists, all of whom contributed ideas that are present in the game.
 
-The project is being funded by grants secured from the Global Strategic Communications Council Opportunity Fund (the GSCC) and Climate Interactive. The GSCC is also offering invaluable support in marketing the project, clarifying the messaging, and punching up the design. Our main points of contact there are Mélissa Godin and Katherine Mansell.
-
 [Annika Brandow](http://annikabrandow.com/) and [Karen Lilje](https://www.hybridcreative.co.za/about) are leading the visual identity of the project, and [Electric Book Works](https://electricbookworks.com/) is our web development and publishing partner.
 
 This is a not-for-profit project, and our goal is to increase public literacy about climate change. Survive the Century will be free to play and share.
@@ -57,8 +55,7 @@ Players will be able to hop between different storylines as they play (they migh
 - Created by: Sam Beckbessinger
 - Project leads: Christopher Trisos and Simon Nicholson
 - Short fiction by: Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
-- Primary sponsors: Climate Interactive, the Global Strategic Communications Council Opportunity Fund (the GSCC), the FLAIR Fellowship Programme: a partnership between the African Academy of Sciences and the Royal Society funded by the UK Government’s Global Challenges Research Fund, the National Socio-Environmental Synthesis Center (SESYNC) under funding received from the National Science Foundation DBI-1639145
-- Web development and publishing: [Electric Book Works](https://electricbookworks.com){:target="_blank"}
+- Web development and publishing: [Electric Book Works](https://electricbookworks.com)
 - Illustrations: Annika Brandow
 - Design: Karen Lilje
 - Copyediting: Louis Greenberg
