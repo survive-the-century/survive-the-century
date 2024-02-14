@@ -53,7 +53,7 @@ Xulu
 : Happy to help, but we will be left with no power if—
 
 Trump
-: —You have the crop fields and the elephants. Why do you need power? We can use it here for our all-American ThinAir process. My scientific adviser, Clara, tells me we got loads of the dioxide here… same carbon-fucking-dioxide… and the micro-bees; we only need your sun volts to manufacture our food.
+: —You have the crop fields and the elephants. Why do you need power? We can use it here for our all-American ThinAir process. My scientific adviser, Clara, tells me we got loads of the dioxide here… same carbon-goddang-dioxide… and the micro-bees; we only need your sun volts to manufacture our food.
 
 Xulu
 : Whoa! The bees? Hmm… but Bill, that tube you stuck into the Milky Way – that was what started all this trouble and the wars. My northern regions turned wasteland and the Sahara is still crawling southward…
