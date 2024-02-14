@@ -5,7 +5,13 @@ style: chapter endmatter
 
 # Playing as a group
 
-Survive the Century has been used in classrooms and conference rooms around the world. There are two main approaches we’ve seen work well.
+Survive the Century has been used in classrooms and conference rooms around the world. 
+
+A detailed two part lesson-plan has been developed by the National Socio-Environmental Synthesis Center, aimed at undergraduate and graduate students. It could also be used at the high school level for advanced students. Some background in climate change scenarios and/or environmental policy is helpful but not required.
+- (Part 1: Climate Change Journalists of Tomorrow)[https://www.sesync.org/resources/survive-century-climate-change-journalists-tomorrow]
+- (Part 2: Climate Change Decisions for Your Grandchild)[https://www.sesync.org/resources/survive-century-climate-change-decisions-your-grandchild]
+
+In less formal contexts, there are two main approaches we’ve seen work well.
 
 ## The discussion version
 *45-60 minutes*
