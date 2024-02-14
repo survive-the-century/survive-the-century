@@ -25,7 +25,7 @@ Game co-creator, Sam Beckbessinger, says:  “I created *Survive the Century* be
 
 ## Game creator bios
 
-**Sam Beckbessinger** is the best-selling author of *Manage Your Money Like a Fucking Grownup*, sold in six countries. She writes [horror stories and kids' TV shows](https://sambeckbessinger.com/).
+**Sam Beckbessinger** is the best-selling author of *Manage Your Money Like a F-cking Grownup*, sold in six countries. She writes [horror stories and kids' TV shows](https://sambeckbessinger.com/).
 
 **Christopher Trisos** directs the [Climate Risk Lab](https://climaterisklab.com/) at the [African Climate and Development Initiative](http://www.acdi.uct.ac.za/). Dr Trisos is a co-ordinating lead author on the Intergovernmental Panel on Climate Change 6th Assessment Report. 
 
