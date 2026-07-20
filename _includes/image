@@ -53,7 +53,6 @@ is not available in web output {% endcomment %}
 
         {% if site.output == "web" %}
             {% unless image-file-extension == "svg" %}
-            sizes="auto"
             srcset="{{ images }}/{{ image-without-file-extension }}-320.{{ image-file-extension }} 320w,
             {{ images }}/{{ image-without-file-extension }}-640.{{ image-file-extension }} 640w,
             {{ images }}/{{ image-without-file-extension }}-1024.{{ image-file-extension }} 1024w,
@@ -73,7 +72,6 @@ is not available in web output {% endcomment %}
     {% if site.output == "web" %}
         data-src="{{ images }}/{{ image }}"
         {% unless image-file-extension == "svg" %}
-            sizes="auto"
             data-srcset="{{ images }}/{{ image-without-file-extension }}-320.{{ image-file-extension }} 320w,
             {{ images }}/{{ image-without-file-extension }}-640.{{ image-file-extension }} 640w,
             {{ images }}/{{ image-without-file-extension }}-1024.{{ image-file-extension }} 1024w,
