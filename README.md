@@ -1,12 +1,11 @@
 # Survive the Century
 
-Built with the [Electric Book](http://electricbook.works).
-
 Survive the Century is a branching narrative game about the political, environmental and social choices the human race will face between 2021-2100 as we adapt to the ravages of climate change. 
 
 The point of the game is that our choices matter, it’s not over, and there are still a lot of decisions we can make that will lead to dramatically different futures.
 
 ## Contact
+
 For all queries, please contact [hello@survivethecentury.net](mailto:hello@survivethecentury.net)
 
 ## Game summary
@@ -34,6 +33,7 @@ The original idea for the game came out of a workshop Simon and Chris facilitate
 This is a not-for-profit project, and our goal is to increase public literacy about climate change. Survive the Century will be free to play and share.
 
 ## Project goals
+
 - Improve understanding of how climate change might impact our lives over the coming century, amongst ordinary people.
 - Combat hopelessness! Our choices still matter. They will continue to matter. We need to be able to imagine positive futures, not just bleak ones. Every 0.1 of a degree matters.
 - Show that "easy fix' solutions are not easy.
@@ -41,6 +41,7 @@ This is a not-for-profit project, and our goal is to increase public literacy ab
 - Help players understand how our broad social systems interact with the climate, and vice versa.
 
 ## The main storylines
+
 There are five main storylines that act as "highways" through the game, with plenty of back-alleys that branch off and between them.
 
 1. **Ecosocialist Utopia**: a decolonized hippie vegan socialist utopia.
@@ -51,7 +52,8 @@ There are five main storylines that act as "highways" through the game, with ple
 
 Players will be able to hop between different storylines as they play (they might start off on an Ecosocialist path, but then make TERRIBLE DECISIONS and end up in the Climate Wars timeline; or start out relying on billionaires to save us, but later decide that democracy is better). There will also be opportunities for surprise along particular storylines as disasters occur, societies tip suddenly into new ways of being and understanding, or climate impacts turn out to be better or worse than anticipated. Players can also replay the story as many times as they like.
 
-## CREDITS
+## Credits
+
 - Created by: Sam Beckbessinger
 - Project leads: Christopher Trisos and Simon Nicholson
 - Short fiction by: Lauren Beukes, Maria Turtschaninoff, Rajat Chaudhuri and Sophia Al-Maria
@@ -88,3 +90,29 @@ Players will be able to hop between different storylines as they play (they migh
 - Sara Metcalf
 - Shuchi Talati
 - Valentina Aquila
+
+## How to use this repo
+
+This is an Electric Book Template (EBT) v1 repo, set up to accept the EBT v2 `npm run eb` output commands (through the small wrapper in `_tools-custom/eb`).
+
+Run all commands from this folder (the repo root). In a GitHub Codespace, dependencies are installed for you. On your own computer, install them once with `npm run setup`.
+
+Serve the book as a local website:
+
+```sh
+npm run eb -- output
+```
+
+Make a print-ready PDF (saved to `_output/`):
+
+```sh
+npm run eb -- output -f print-pdf
+```
+
+Make a screen PDF (saved to `_output/`):
+
+```sh
+npm run eb -- output -f screen-pdf
+```
+
+To list every command and option, run `npm run eb` with no arguments.
