@@ -37,7 +37,12 @@ function jekyllBuild ({ overlays = [], extraConfig = '', serve = false, baseurl 
   const configs = ['_config.yml', ...overlays]
   if (extraConfig) configs.push(extraConfig)
   const args = ['exec', 'jekyll', serve ? 'serve' : 'build', `--config=${configs.join(',')}`]
-  if (baseurl) args.push(`--baseurl=/${baseurl}`)
+  // Strip leading/trailing slashes so a value like "/my/base" or "my/base"
+  // both yield a single leading slash, avoiding a broken "//my/base".
+  if (baseurl) {
+    const clean = baseurl.replace(/^\/+|\/+$/g, '')
+    if (clean) args.push(`--baseurl=/${clean}`)
+  }
   return run('bundle', args)
 }
 

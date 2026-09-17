@@ -14,7 +14,8 @@ It is intentionally dependency-free (pure Node, using the built-in
 
 The same tools the shell scripts need, on your PATH: `bundle` (Jekyll),
 `gulp`, `prince` (PDF), `pandoc` (Word), `java` (optional EPUB validation),
-`rsync` (app staging), and `cordova` (optional native app builds).
+and `cordova` (optional native app builds). App staging is done in Node, so
+`rsync` is not required.
 
 ## Usage
 

@@ -80,8 +80,10 @@ async function epub (opts) {
       path.join(site, book, language, 'text'),
       path.join(stage, language, 'text')
     )
-    // Images: prefer the translation's, fall back to the parent's.
-    if (isDir(path.join(site, book, language, 'images'))) {
+    // Images: prefer the translation's, fall back to the parent's. Check
+    // the epub folder itself so a translation without epub images falls
+    // back instead of throwing.
+    if (isDir(path.join(site, book, language, 'images', 'epub'))) {
       copyContents(
         path.join(site, book, language, 'images', 'epub'),
         path.join(stage, language, 'images', 'epub')
@@ -230,7 +232,8 @@ async function epub (opts) {
     if (epubcheck) {
       await run('java', ['-jar', path.join(epubcheck, 'epubcheck.jar'), epubPath])
     } else {
-      await run('npx', ['--yes', 'epubchecker', epubPath])
+      // Pinned so the validator can't change between runs (reproducible).
+      await run('npx', ['--yes', 'epubchecker@5.2.1', epubPath])
     }
     console.log('Epub validation passed.')
   } catch {
