@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cordova": "cordova",
-    "package": "node _tools/package/package.js ./"
+    "package": "node _tools/package/package.js ./",
+    "eb": "node _tools-custom/eb/cli.js",
+    "setup": "node _tools-custom/eb/cli.js setup"
   },
   "repository": {
     "type": "git",
